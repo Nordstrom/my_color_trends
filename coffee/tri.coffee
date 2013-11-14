@@ -557,3 +557,5 @@ $ ->
   d3.select(window)
     .on("resize", resize)
 
+  socialData = {"title":"My Color Trends -  the colors of my Nordstrom wardrobe visualized!", "source":"Nordstrom"}
+  Socialighter.sharing(socialData)

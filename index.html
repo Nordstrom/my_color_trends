@@ -43,8 +43,11 @@
     </div>
     <div id="main" role="main">
       <div id="vis"></div>
-      <div id="share_row">
-        <!-- <p><strong>Share Your Color Trends:</strong> <a href="#">Twitter</a> | <a href="#">Facebook</a> | <a href="#">Pintrest</a></p> -->
+      <div id="share_buttons"  data-title="" data-id="" data-summary="" data-uri="">
+        <p><strong>Share Your Color Trends:</strong> 
+        <a class="share_button" data-action-type="Share via Facebook" data-actions="click" data-button-type="facebook" data-category="Sharing" title="Share on Facebook" href="#">Facebook</a> | 
+        <a class="share_button" href="#" data-action-type="Share via Twitter" data-actions="click" data-button-type="twitter" data-category="Sharing" title="Share on Twitter">Twitter</a> | 
+        <a class="share_button" href="#" data-action-type="Share via Pintrest" data-actions="click" data-button-type="pintrest" data-category="Sharing" title="Share on Pintrest">Pintrest</a></p>
       </div>
     </div>
   </div> <!--! end of #container -->
@@ -61,7 +64,7 @@
   <script src="js/libs/bootstrap.min.js"></script>
   <script src="js/libs/queue.min.js"></script>
   <script src="js/libs/typeahead.js"></script>
-  <script src="js/libs/jquery.tipsy.js"></script>
+  <script src="js/socialighter.js"></script>
   <script type="text/coffeescript" src="coffee/tri.coffee"></script>
   <script type="text/javascript">
     $(document).ready(function() {
