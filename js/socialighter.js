@@ -68,7 +68,7 @@ var BanquoClient = (function () {
       .done(function(response){
         console.log('done');
         console.log(response);
-        MYTRENDS.screenshot = $s3Server + "/" + $response.key
+        MYTRENDS.screenshot = response.path
         // $latlngGrabber.val(window.location.hash.replace('#',''));
         // $galleryDataInput.val(response.timestamp);
         $screenshotContainer.html('<img src="data:image/png;base64,' + response.image_data + '" />');
