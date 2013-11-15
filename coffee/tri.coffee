@@ -564,3 +564,6 @@ $ ->
     BanquoClient.getScreenshot()
     e.preventDefault()
 
+  $('#link').on "click", (e) ->
+    console.log(BanquoClient.screenshotUrl())
+    e.preventDefault()

@@ -1,5 +1,6 @@
 var BanquoClient = (function () {
   $banquoServer = 'http://ec2-54-201-87-66.us-west-2.compute.amazonaws.com:3000'
+  $s3Server = 'https://s3-us-west-2.amazonaws.com'
   $screenshotContainer   = $('#image-container');
   $visSelector = "#vis"
 
@@ -67,6 +68,7 @@ var BanquoClient = (function () {
       .done(function(response){
         console.log('done');
         console.log(response);
+        MYTRENDS.screenshot = $s3Server + "/" + $response.key
         // $latlngGrabber.val(window.location.hash.replace('#',''));
         // $galleryDataInput.val(response.timestamp);
         $screenshotContainer.html('<img src="data:image/png;base64,' + response.image_data + '" />');
@@ -90,6 +92,10 @@ var BanquoClient = (function () {
     if(checkBanquoNew()){
       beginScreenshotProcess();
     }
+  }
+
+  me.screenshotUrl = function() {
+    return MYTRENDS.screenshot;
   }
   return me;
 }());
