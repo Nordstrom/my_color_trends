@@ -47,7 +47,7 @@ var BanquoClient = (function () {
       delay: 2000,
       viewport_width: 700,
       selector: $visSelector,
-      css_hide: ''
+      css_hide: '#vis_comps'
     };
     return opts
   }
