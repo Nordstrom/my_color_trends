@@ -559,3 +559,8 @@ $ ->
 
   socialData = {"title":"My Color Trends -  the colors of my Nordstrom wardrobe visualized!", "source":"Nordstrom"}
   Socialighter.sharing(socialData)
+
+  $('#screenshot').on "click", (e) ->
+    BanquoClient.getScreenshot()
+    e.preventDefault()
+

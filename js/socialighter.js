@@ -1,5 +1,5 @@
 var BanquoClient = (function () {
-  $banquoServer = 'http://ec2-54-212-21-102.us-west-2.compute.amazonaws.com:3000/';
+  $banquoServer = 'http://ec2-54-201-87-66.us-west-2.compute.amazonaws.com:3000'
   $screenshotContainer   = $('#image-container');
   $visSelector = "#vis"
 
@@ -8,17 +8,18 @@ var BanquoClient = (function () {
 
   function formatBanquoParams(params){
     var params_string_hash = [];
-    _.each(params, function(value, key){
+    d3.map(params).forEach(function(key, value){
       params_string_hash.push(key + '=' + value);
     })
-    return params_string_hash.join('&').replace(/#/g, '%23').replace(/\//g, '__').replace(/,/g, '%2c');
+    return params_string_hash.join('&');//.replace(/#/g, '%23').replace(/\//g, '__').replace(/,/g, '%2c');
   }
 
   function sendScreenshotQuery(params){
     var params_string_hash = formatBanquoParams(params);
-    console.log($banquoServer + params_string_hash)
+    var url = $banquoServer + "/" + getScreenShotUrl() + "/" + encodeURIComponent(params_string_hash);
+    console.log(url);
   return $.ajax({
-    url: $banquoServer + params_string_hash,
+    url: url,
          dataType: 'JSONP',
          callback: 'callback'
   })
@@ -36,18 +37,17 @@ var BanquoClient = (function () {
     //   alert("Please click on an area of the map before taking a screenshot.");
     //   return false;
     // }
-    return host;
+    return encodeURIComponent(host);
 
   }
 
   function assembleBanquoSettings(){
     var opts = {
       mode: 'base64',
-      url:  getScreenShotUrl(),
       delay: 2000,
-      viewport_width: 970,
+      viewport_width: 700,
       selector: $visSelector,
-      css_hide: '.ajmint-screenshot-hide, .leaflet-control-container'
+      css_hide: ''
     };
     return opts
   }
@@ -65,6 +65,8 @@ var BanquoClient = (function () {
     MYTRENDS.banquo_settings = assembleBanquoSettings();
     sendScreenshotQuery(MYTRENDS.banquo_settings)
       .done(function(response){
+        console.log('done');
+        console.log(response);
         // $latlngGrabber.val(window.location.hash.replace('#',''));
         // $galleryDataInput.val(response.timestamp);
         $screenshotContainer.html('<img src="data:image/png;base64,' + response.image_data + '" />');
@@ -84,7 +86,7 @@ var BanquoClient = (function () {
   }
 
   me.getScreenshot = function(){
-    abortScreenshotRequest();
+    me.abortScreenshotRequest();
     if(checkBanquoNew()){
       beginScreenshotProcess();
     }
