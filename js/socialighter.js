@@ -135,7 +135,7 @@ var Socialighter = (function () {
         },
         error: function () {
           // el.fadeTo(50, 1);
-          data.img = "http://s3-us-west-2.amazonaws.com/projects.aljazeera.com/2013/syrias-refugees/reader-imgs/1383860342637-image.png"
+          data.img = BanquoClient.screenshotUrl();
           window.Socialighter.send_to_social(data, socialType, shareWindow)
         }
       });
