@@ -130,7 +130,7 @@ var Socialighter = (function () {
         success: function (e) {
           // el.fadeTo(50, 1);
           // var n = e.status_code !== 200 ? s : e.data.url;
-          data.img = "http://s3-us-west-2.amazonaws.com/projects.aljazeera.com/2013/syrias-refugees/reader-imgs/1383860342637-image.png"
+          data.img = BanquoClient.screenshotUrl();
           window.Socialighter.send_to_social(data, socialType, shareWindow);
         },
         error: function () {
