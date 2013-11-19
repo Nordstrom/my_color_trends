@@ -1,6 +1,5 @@
 var BanquoClient = (function () {
   $banquoServer = 'http://ec2-54-201-87-66.us-west-2.compute.amazonaws.com:3000'
-  $s3Server = 'https://s3-us-west-2.amazonaws.com'
   $screenshotContainer   = $('#image-container');
   $visSelector = "#vis"
 
