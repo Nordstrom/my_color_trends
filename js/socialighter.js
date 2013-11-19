@@ -61,9 +61,10 @@ var BanquoClient = (function () {
     }
   }
 
-  function beginScreenshotProcess(){
+  function beginScreenshotProcess(config){
     // $screenshotContainer.html('Processing screenshot <span class="ajmint-icon-arrows-cw"></span>')
     MYTRENDS.banquo_settings = assembleBanquoSettings();
+    MYTRENDS.banquo_settings.key = config.key;
     sendScreenshotQuery(MYTRENDS.banquo_settings)
       .done(function(response){
         console.log('done');
@@ -87,10 +88,10 @@ var BanquoClient = (function () {
     }
   }
 
-  me.getScreenshot = function(){
+  me.getScreenshot = function(config){
     me.abortScreenshotRequest();
     if(checkBanquoNew()){
-      beginScreenshotProcess();
+      beginScreenshotProcess(config);
     }
   }
 
