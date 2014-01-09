@@ -1,4 +1,4 @@
-#g-menu-container {
+.g-menu {
   width: 710px;
   margin: 0 auto;
   display: table;
@@ -64,7 +64,24 @@
   font-size: 10px;
 }
 
-
 #description {
   padding-top:10px;
+}
+
+#rec_section {
+  margin-bottom: 30px;
+}
+
+#rec_content {
+  padding-top: 20px;
+}
+
+.rec {
+  /* float:left; */
+  /* padding-right: 20px; */
+}
+
+.rec img {
+  vertical-align: middle;
+  text-align: center;
 }

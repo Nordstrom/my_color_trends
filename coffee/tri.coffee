@@ -6,106 +6,6 @@ cos30 = 0.5
 sin60 = sin30 * 2
 cos60 = cos30 * 2
 
-# Help with the placement of nodes
-RadialPlacement = () ->
-  # stores the key -> location values
-  values = d3.map()
-  # how much to separate each location by
-  increment = 20
-  # how large to make the layout
-  radius = 200
-  # where the center of the layout should be
-  center = {"x":0, "y":0}
-  # what angle to start at
-  start = -120
-  current = start
-
-  # Given an center point, angle, and radius length,
-  # return a radial position for that angle
-  radialLocation = (center, angle, radius) ->
-    x = (center.x + radius * Math.cos(angle * Math.PI / 180))
-    y = (center.y + radius * Math.sin(angle * Math.PI / 180))
-    {"x":x,"y":y}
-
-  # Main entry point for RadialPlacement
-  # Returns location for a particular key,
-  # creating a new location if necessary.
-  placement = (key) ->
-    value = values.get(key)
-    if !values.has(key)
-      value = place(key)
-    value
-
-  # Gets a new location for input key
-  place = (key) ->
-    value = radialLocation(center, current, radius)
-    values.set(key,value)
-    current += increment
-    value
-
-   # Given a set of keys, perform some 
-  # magic to create a two ringed radial layout.
-  # Expects radius, increment, and center to be set.
-  # If there are a small number of keys, just make
-  # one circle.
-  setKeys = (keys) ->
-    # start with an empty values
-    values = d3.map()
-  
-    # number of keys to go in first circle
-    firstCircleCount = 360 / increment
-
-    # if we don't have enough keys, modify increment
-    # so that they all fit in one circle
-    if keys.length < firstCircleCount
-      increment = 360 / keys.length
-
-    # set locations for inner circle
-    firstCircleKeys = keys.slice(0,firstCircleCount)
-    firstCircleKeys.forEach (k) -> place(k)
-
-    # set locations for outer circle
-    secondCircleKeys = keys.slice(firstCircleCount)
-
-    # setup outer circle
-    radius = radius + radius / 1.8
-    increment = 360 / secondCircleKeys.length
-
-    secondCircleKeys.forEach (k) -> place(k)
-
-  placement.keys = (_) ->
-    if !arguments.length
-      return d3.keys(values)
-    setKeys(_)
-    placement
-
-  placement.center = (_) ->
-    if !arguments.length
-      return center
-    center = _
-    placement
-
-  placement.radius = (_) ->
-    if !arguments.length
-      return radius
-    radius = _
-    placement
-
-  placement.start = (_) ->
-    if !arguments.length
-      return start
-    start = _
-    current = start
-    placement
-
-  placement.increment = (_) ->
-    if !arguments.length
-      return increment
-    increment = _
-    placement
-
-  return placement
-
 Triangles = () ->
   layout = 'top'
   parent = null
@@ -133,6 +33,9 @@ Triangles = () ->
   minRadius = 8
   maxRadius = topR - 20
   rScale = d3.scale.sqrt().range([minRadius, maxRadius])
+
+  currentColor = null
+  currentRecs = "match"
   
 
   tier = (i) ->
@@ -195,7 +98,6 @@ Triangles = () ->
     color_id = d.color_id
     if !color_id
       color_id = d.id
-    console.log(color_id)
     jpegs = []
     [0..3].forEach (i) ->
       jpegs.push("img/style_imgs/#{color_id}_#{i}.jpg")
@@ -254,6 +156,28 @@ Triangles = () ->
     tri
       .attr("stroke-width", 0)
     hideDetails(d)
+
+  updateRecs = (colorId, recType) ->
+    jpegs = []
+    [0..3].forEach (i) ->
+      jpegs.push("img/style_imgs/#{colorId}_#{i}.jpg")
+
+    d3.select("#rec_content").html("")
+
+    rec = d3.select("#rec_content").selectAll(".rec")
+      .data(jpegs).enter()
+      .append("div")
+      .attr("class", "rec col-md-3")
+      .append("img")
+      .attr("class", "center-block")
+      .attr("src", (d) -> d)
+
+  showRecs = (d,i) ->
+    colorId = d.color_id
+    if !colorId
+      colorId = d.id
+    currentColor = colorId
+    updateRecs(currentColor, currentRecs)
 
   getUser = (rawData, userId) ->
     if userId < 0
@@ -353,12 +277,6 @@ Triangles = () ->
         .text("Complementary Colors")
 
 
-
-  # updateCenters = (artists) ->
-  #   groupCenters = RadialPlacement().center({"x":width/2, "y":height / 2 - 100})
-  #     .radius(300).increment(18).keys(artists)
-
-
   updateComps = () ->
     p = comps.selectAll(".triangle")
       .data(compColors, (d) -> d.name)
@@ -370,7 +288,7 @@ Triangles = () ->
       # .attr("transform", (d,i) -> "translate(#{d.coords.x},#{d.coords.y})")
       .on("mouseover", mouseover)
       .on("mouseout", mouseout)
-      .on("click", (d,i) -> console.log(i))
+      .on("click", showRecs)
 
     t = gEnter.append("path")
       .attr("class", "triangle_path")
@@ -379,8 +297,6 @@ Triangles = () ->
 
   update = () ->
     # data = filterData(allData, user_id)
-
-
     updateComps()
 
     p = points.selectAll(".triangle")
@@ -392,6 +308,7 @@ Triangles = () ->
       .attr("transform", (d) -> "translate(#{d.coords.x},#{d.coords.y})")
       .on("mouseover", mouseover)
       .on("mouseout", mouseout)
+      .on("click", showRecs)
 
     t = gEnter.append("path")
       .attr("class", "triangle_path")
@@ -425,6 +342,10 @@ Triangles = () ->
   chart.toggleLayout = (newLayout) ->
     setLayout(newLayout)
     update()
+
+  chart.toggleRecs = (newRec) ->
+    currentRecs = newRec
+    updateRecs(currentColor, currentRecs)
 
   # attempt to make vis responsive in design
   # http://stackoverflow.com/questions/9400615/whats-the-best-way-to-make-a-d3-js-visualisation-layout-responsive
@@ -505,8 +426,8 @@ setupSearch = (all) ->
   $('#search_user').typeahead({local:users, updater:changeUser})
 
 
-activateButton = (id) ->
-  d3.selectAll(".g-menu-button").classed("g-menu-button-selected", false)
+activateButton = (parent, id) ->
+  d3.select(parent).selectAll(".g-menu-button").classed("g-menu-button-selected", false)
   d3.select("##{id}").classed("g-menu-button-selected", true)
 
 $ ->
@@ -523,11 +444,17 @@ $ ->
   plot = Triangles()
   plot.id(user_id)
 
-  d3.selectAll("#g-menu-container .g-menu-button").on "click", (d) ->
+  d3.selectAll("#g-menu-style .g-menu-button").on "click", (d) ->
     id = d3.select(this).attr("id")
-    activateButton(id)
+    activateButton("#g-menu-style", id)
     newLayout = id.split("-")[2]
     plot.toggleLayout(newLayout)
+
+  d3.selectAll("#g-menu-recs .g-menu-button").on "click", (d) ->
+    id = d3.select(this).attr("id")
+    activateButton("#g-menu-recs", id)
+    newRecs = id.split("-")[2]
+    plot.toggleRecs(newRecs)
     
   display = (error, data) ->
     setupSearch(data)
