@@ -148,7 +148,7 @@ Triangles = () ->
       .attr("stroke-width", 3)
       .attr("stroke", (d) -> d3.hsl(tri.attr("fill")).darker(1))
     showDetails(d)
-    showImages(d)
+    # showImages(d)
 
   mouseout = (d,i) ->
     triG = d3.select(this)
@@ -173,6 +173,7 @@ Triangles = () ->
       .attr("src", (d) -> d)
 
   showRecs = (d,i) ->
+    d3.select("#rec_section").classed("hidden", false)
     colorId = d.color_id
     if !colorId
       colorId = d.id
@@ -240,8 +241,8 @@ Triangles = () ->
     selection.each (rawData) ->
 
       allData = rawData
-      rawData = getUser(allData, user_id)
-      compColors = getComps(rawData)
+      # rawData = getUser(allData, user_id)
+      # compColors = getComps(rawData)
       data = filterData(rawData)
       setupData(data)
 
@@ -438,7 +439,7 @@ $ ->
   user_id = decodeURIComponent(location.hash.substring(1)).trim()
 
   if !user_id
-    user_id = '10181881329'
+    user_id = '10064379'
 
 
   plot = Triangles()
@@ -457,13 +458,13 @@ $ ->
     plot.toggleRecs(newRecs)
     
   display = (error, data) ->
-    setupSearch(data)
+    # setupSearch(data)
     plotData("#vis", data, plot)
     plot.start()
 
   queue()
     # .defer(d3.tsv, "data/color_palettes_rgb.txt")
-    .defer(d3.json, "data/user_colors.json")
+    .defer(d3.json, "data/color_data/#{user_id}.json")
     .await(display)
 
   updateActive = (new_id) ->
