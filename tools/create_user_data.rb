@@ -13,20 +13,22 @@ output_dir = "../data/color_data"
 users = {}
 
 def clean_name name
-  name.gsub(/\(.*\)/,"")
+  name.gsub(/\(.*\)/,"").strip()
 end
 
 def pull_out_color csv
   rgb = csv["rgb"].gsub("{","").gsub("}","").split(",").collect {|c| c.to_i}
   rgb_string = "rgb(#{rgb.join(",")})"
   grayscale = csv["grayscale"] == "True"
-  col = {"name" => csv["color_name"], "color_id" => csv["color_id"], "rgb" => rgb, "rgb_string" => rgb_string, "grayscale" => grayscale, "purchases" => []}
+  col = {"name" => clean_name(csv["color_name"]), "color_id" => csv["color_id"], "rgb" => rgb, "rgb_string" => rgb_string, "grayscale" => grayscale, "purchases" => []}
   col
 end
 
 def add_purchase color, csv
   pur = {"sku_key" => csv["sku_idnt"].strip, "rms_sku" => csv["rms_sku_id"].strip, "gender" => csv["gender_x"].strip, "style_id" => csv["web_style_id"].strip,
-         "product_url" => csv["product_url"], "image_url" => csv["image_url"], "purchase_date" => Date.parse(csv["BUS_DT"].strip)}
+         "product_url" => csv["product_url"], "image_url" => csv["image_url"], "purchase_date" => Date.parse(csv["BUS_DT"].strip),
+         "percent_color" => csv["color_percent"].strip.to_f
+  }
   color['purchases'] << pur
 end
 
@@ -36,8 +38,11 @@ end
 
 def process_color color, total_purchases, total_colors
   purchase_count = color['purchases'].length
+  percent_sum = color['purchases'].inject(0) {|sum, col| sum + (col['percent_color'] * weight(color))}
+
   color['count'] = purchase_count
-  color['weighted_count'] = ((purchase_count / total_purchases.to_f) * weight(color)).round(4)
+  color['color_per_purchaes'] = ((purchase_count / total_purchases.to_f)).round(4)
+  color['weighted_count'] = percent_sum
   color['percent'] = ((purchase_count / total_purchases.to_f) * 100.0).round(4)
 
   color
@@ -56,7 +61,7 @@ def process_user user
   user["total_colors"] = total_colors
 
   puts total_user_purchases
-  user['colors'].each do |color_id, color|
+  user['colors'].each do |color_name, color|
     p_color = process_color(color, total_user_purchases, total_colors)
     processed_colors << p_color
   end
@@ -66,14 +71,15 @@ end
 
 
 CSV.foreach(input_filename, { :col_sep => "\t", :headers => true }) do |csv|
+  color_id = clean_name(csv["color_name"])
   if !users[csv["CUST_KEY"]]
     users[csv["CUST_KEY"]] = {"id" => csv["CUST_KEY"], "colors" => {}}
   end
-  if !users[csv["CUST_KEY"]]["colors"][csv["color_id"]]
-    users[csv["CUST_KEY"]]["colors"][csv["color_id"]] = pull_out_color(csv)
+  if !users[csv["CUST_KEY"]]["colors"][color_id]
+    users[csv["CUST_KEY"]]["colors"][color_id] = pull_out_color(csv)
   end
 
-  add_purchase(users[csv["CUST_KEY"]]["colors"][csv["color_id"]], csv)
+  add_purchase(users[csv["CUST_KEY"]]["colors"][color_id], csv)
 end
 
 puts users.keys.size

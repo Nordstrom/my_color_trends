@@ -26,6 +26,8 @@ Timeline = () ->
   data = []
   display = null
 
+  tooltip = CustomTooltip("timeline_tooltip", 260)
+
   parseTime = d3.time.format("%Y-%m-%d").parse
 
   xScale = d3.time.scale().range([0,width])
@@ -43,6 +45,16 @@ Timeline = () ->
     yScale.domain(data.map((d) -> d.color_id))
     console.log(yScale.rangeBand())
     data
+
+  mouseover = (d,i) ->
+    content = "<img src='#{d.image_url}' height='365px' width='240px' />"
+    tooltip.showTooltip(content,d3.event)
+
+  mouseout = (d,i) ->
+    tooltip.hideTooltip()
+
+  click = (d,i) ->
+    window.open(d.product_url)
 
   chart = (selection) ->
     selection.each (rawData) ->
@@ -75,8 +87,6 @@ Timeline = () ->
     xScale.domain([startTime, stopTime])
     xAxisG.call(xAxis)
 
-    console.log(data)
-
     color = display.selectAll(".color")
       .data(data, (d) -> d.color_id)
       .enter().append("g")
@@ -99,9 +109,9 @@ Timeline = () ->
       .attr("width", 4)
       .attr("fill", (d) -> d.color)
       .attr("fill-opacity", 1.0)
-      # .on("mouseover", mouseOver)
-      # .on("mouseout", mouseOut)
-      # .on("click", (d) -> d3.select("#message").html(d.wholeMessage))
+      .on("mouseover", mouseover)
+      .on("mouseout", mouseout)
+      .on("click", click)
 
 
       
