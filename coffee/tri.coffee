@@ -264,7 +264,7 @@ Triangles = () ->
       .attr("fill" ,() -> "black")
       .attr("text-anchor", "end")
       .style("font-size", "10px")
-      .text(Math.round(d.percent) + "%" + " of your wardrobe")
+      .text("in " + Math.round(d.percent) + "%" + " of your wardrobe")
       # .each((d) -> xcord = this.getBBox().x)
 
 
@@ -447,12 +447,12 @@ Triangles = () ->
       .attr("class", "triangle_path")
       .attr("d", (d, i) -> diamondPath(d.coords.r, d.flip))
     t.attr("fill", (d) -> d.rgb_string)
+    root.plotData("#timeline", data, timeline)
 
   update = () ->
     # data = filterData(allData, user_id)
     updateComps()
 
-    root.plotData("#timeline", data, timeline)
 
     p = points.selectAll(".triangle")
       .data(data, (d) -> d.name)
