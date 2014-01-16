@@ -164,6 +164,7 @@ Triangles = () ->
   currentRecs = "match"
 
   timeline = Timeline()
+  allRecs = []
   
 
   tier = (i) ->
@@ -304,9 +305,16 @@ Triangles = () ->
     hideDetails(d)
 
   updateRecs = (colorId, recType) ->
+    recs = []
+    if allRecs.colors[colorId]
+      recs = allRecs.colors[colorId].recs
+      console.log(recs)
+
     jpegs = []
+    links = []
     [0..3].forEach (i) ->
-      jpegs.push("img/style_imgs/#{colorId}_#{i}.jpg")
+      jpegs.push(recs[i].image_url)
+      links.push(recs[i].web_url)
 
     d3.select("#rec_content").html("")
 
@@ -314,11 +322,15 @@ Triangles = () ->
       .data(jpegs).enter()
       .append("div")
       .attr("class", "rec col-md-3")
+      .append("a")
+      .attr("href", (d,i) -> links[i])
+      .attr("target", "_blank")
       .append("img")
       .attr("class", "center-block")
       .attr("src", (d) -> d)
 
   showRecs = (d,i) ->
+    console.log(allRecs)
     d3.select("#rec_section").classed("hidden", false)
     colorId = d.color_id
     if !colorId
@@ -548,6 +560,12 @@ Triangles = () ->
     yValue = _
     chart
 
+  chart.recs = (_) ->
+    if !arguments.length
+      return allRecs
+    allRecs = _
+    chart
+
   return chart
 
 
@@ -607,14 +625,16 @@ $ ->
     newRecs = id.split("-")[2]
     plot.toggleRecs(newRecs)
     
-  display = (error, data) ->
+  display = (error, data, recs) ->
     # setupSearch(data)
+    plot.recs(recs)
     plotData("#vis", data, plot)
     plot.start()
 
   queue()
     # .defer(d3.tsv, "data/color_palettes_rgb.txt")
     .defer(d3.json, "data/color_data/#{user_id}.json")
+    .defer(d3.json, "data/recs_data/32758289.json")
     .await(display)
 
   updateActive = (new_id) ->
