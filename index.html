@@ -52,15 +52,24 @@
       <div id="rec_section" class='hidden'>
         <div id="g-menu-recs" class="g-menu">
           <div class="g-menu-button g-menu-button-selected" id="g-button-match">
-            <div class="g-button-text">Matching Colors</div>
+            <div class="g-button-text">Same Color</div>
           </div>
           <div class="g-menu-button" id="g-button-comp">
             <div class="g-button-text">Complementary Colors</div>
           </div>
         </div>
         <div id="rec_content" class="row"></div>
-
+      </div> <!--! rec_section -->
+      <div id="timeline_section">
+        <div id="g-menu-timeline" class="g-menu">
+          <div class="g-menu-item g-menu-button-selected" id="g-button-timeline">
+            <div class="g-button-text">Timeline</div>
+          </div>
+        </div>
+        <div id="timeline"></div>
       </div>
+    </div> 
+    <div id="footer">
     </div>
   </div> <!--! end of #container -->
 
@@ -77,6 +86,7 @@
   <script src="js/libs/queue.min.js"></script>
   <script src="js/libs/typeahead.js"></script>
   <script src="js/socialighter.js"></script>
+  <script src="js/CustomTooltip.js"></script>
   <script type="text/coffeescript" src="coffee/tri.coffee"></script>
   <script type="text/javascript">
     $(document).ready(function() {

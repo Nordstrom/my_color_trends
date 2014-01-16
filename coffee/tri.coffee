@@ -1,10 +1,126 @@
 root = exports ? this
 
+root.plotData = (selector, data, plot) ->
+  d3.select(selector)
+    .datum(data)
+    .call(plot)
+
 sin30 = Math.pow(3,1/2)/2
 cos30 = 0.5
 
 sin60 = sin30 * 2
 cos60 = cos30 * 2
+
+cleanName = (name) ->
+  name.replace(/\(.*\)/g,"")
+
+Timeline = () ->
+  svg = null
+  xAxisG = null
+  width = 900
+  height = 300
+  margin = {top: 5, right: 10, bottom: 25, left: 160}
+  startTime = 0
+  stopTime = 0
+  allData = []
+  data = []
+  display = null
+
+  parseTime = d3.time.format("%Y-%m-%d").parse
+
+  xScale = d3.time.scale().range([0,width])
+  yScale = d3.scale.ordinal().rangeRoundBands([0,height], 0.1)
+
+  xAxis = d3.svg.axis()
+    .scale(xScale)
+    .orient("bottom")
+
+  prepareData = (data) ->
+    data.forEach (d) ->
+      d.purchases.forEach (p) ->
+        p.date = parseTime(p.purchase_date)
+        p.color = d.rgb_string
+    yScale.domain(data.map((d) -> d.color_id))
+    console.log(yScale.rangeBand())
+    data
+
+  chart = (selection) ->
+    selection.each (rawData) ->
+
+      allData = rawData
+      # rawData = getUser(allData, user_id)
+      # compColors = getComps(rawData)
+      data = prepareData(allData)
+      # setupData(data)
+
+      parent = $(this)
+      svg = d3.select(this).selectAll("svg").data([data])
+      gEnter = svg.enter().append("svg").append("g")
+
+      svg.attr("width", width + margin.left + margin.right )
+      svg.attr("height", height + margin.top + margin.bottom )
+
+      g = svg.select("g")
+        .attr("transform", "translate(#{margin.left},#{margin.top})")
+
+      xAxisG = g.append("g")
+        .attr("class", "x axis")
+        .attr("transform", "translate(0," + height + ")")
+      
+      display = g.append("g").attr("class", "display")
+
+      update()
+
+  update = () ->
+    xScale.domain([startTime, stopTime])
+    xAxisG.call(xAxis)
+
+    console.log(data)
+
+    color = display.selectAll(".color")
+      .data(data, (d) -> d.color_id)
+      .enter().append("g")
+      .attr("transform", (d,i) -> "translate(#{0},#{yScale(d.color_id)})")
+
+    color.append("text")
+      .attr("text-anchor", "end")
+      .attr("dy", 15)
+      .attr("dx", -10)
+      .text((d) -> cleanName(d.name))
+    
+
+    purchase = color.selectAll(".purchase")
+      .data(((d) -> d.purchases), ((e) ->  e.date))
+      .enter().append("g")
+      .attr("class", "purchase")
+      .attr("transform", (d) -> "translate(#{xScale(d.date)})")
+      .append("rect")
+      .attr("height", yScale.rangeBand())
+      .attr("width", 4)
+      .attr("fill", (d) -> d.color)
+      .attr("fill-opacity", 1.0)
+      # .on("mouseover", mouseOver)
+      # .on("mouseout", mouseOut)
+      # .on("click", (d) -> d3.select("#message").html(d.wholeMessage))
+
+
+      
+
+  chart.start = (_) ->
+    if !arguments.length
+      return startTime
+    console.log(_)
+    startTime = parseTime(_)
+    chart
+
+  chart.stop = (_) ->
+    if !arguments.length
+      return stopTime
+    stopTime = parseTime(_)
+    chart
+
+  chart
+  
 
 Triangles = () ->
   layout = 'top'
@@ -36,6 +152,8 @@ Triangles = () ->
 
   currentColor = null
   currentRecs = "match"
+
+  timeline = Timeline()
   
 
   tier = (i) ->
@@ -113,32 +231,50 @@ Triangles = () ->
 
 
   showDetails = (d) ->
-    # xcord = 0
-    # text = details.append("text")
-    #   .attr("class", "detail_text")
-    #   .attr("x", width - 40)
-    #   .attr("y", d.coords.y)
-    #   .attr("dy", 5)
-    #   .attr("opacity", 1e-6)
-    #   .attr("fill" ,() -> d3.hsl(d.rgb_string).darker(1))
-    #   .attr("text-anchor", "end")
-    #   .text(d.name)
-    #   .each((d) -> xcord = this.getBBox().x)
+    xcord = 0
+    text = details.append("text")
+      .attr("class", "detail_text")
+      .attr("x", width - 40)
+      .attr("y", d.coords.y)
+      .attr("dy", 5)
+      .attr("opacity", 1e-6)
+      # .attr("fill" ,() -> d3.hsl(d.rgb_string).darker(1))
+      .attr("fill" ,() -> "black")
+      .attr("text-anchor", "end")
+      .text(cleanName(d.name))
+      .each((d) -> xcord = this.getBBox().x)
 
-    xcord = (width - 40) - 20
+    percent = details.append("text")
+      .attr("class", "percent_text")
+      .attr("x", width - 40)
+      .attr("y", d.coords.y + 14)
+      .attr("dy", 5)
+      .attr("opacity", 1e-6)
+      # .attr("fill" ,() -> d3.hsl(d.rgb_string).darker(1))
+      .attr("fill" ,() -> "black")
+      .attr("text-anchor", "end")
+      .style("font-size", "10px")
+      .text(Math.round(d.percent) + "%" + " of your wardrobe")
+      # .each((d) -> xcord = this.getBBox().x)
+
+
+    # xcord = (width - 40) - 20
     path = details.append("path")
       .attr("d", "M #{d.coords.x} #{d.coords.y} L #{d.coords.x} #{d.coords.y}")
     path.transition().duration(200)
       .attr("d", "M #{d.coords.x} #{d.coords.y} L #{xcord - 10} #{d.coords.y}")
-    # text.transition().duration(200)
-    #   .delay(100)
-    #   .attr("opacity", 1)
+    text.transition().duration(200)
+      .delay(100)
+      .attr("opacity", 1)
+    percent.transition().duration(200)
+      .delay(100)
+      .attr("opacity", 1)
 
 
   hideDetails = (d) ->
     details.select("path").remove()
     images.selectAll(".img").remove()
-    # details.select("text").remove()
+    details.selectAll("text").remove()
 
   mouseover = (d,i) ->
     triG = d3.select(this)
@@ -187,8 +323,11 @@ Triangles = () ->
     data = data[0]
     data
 
+  getUserData = (allData) ->
+    timeline.start(allData.start_date).stop(allData.end_date)
+    
   filterData = (rawData) ->
-    console.log(rawData)
+    # console.log(rawData)
     # data = data.sort (a,b) -> +a.rank - +b.rank
     data = rawData.colors.sort (a,b) -> b.weighted_count - a.weighted_count
     data = data.filter (d,i) -> i < 13
@@ -241,10 +380,12 @@ Triangles = () ->
     selection.each (rawData) ->
 
       allData = rawData
+      getUserData(allData)
       # rawData = getUser(allData, user_id)
       # compColors = getComps(rawData)
       data = filterData(rawData)
       setupData(data)
+
 
       parent = $(this)
       svg = d3.select(this).selectAll("svg").data([data])
@@ -268,14 +409,15 @@ Triangles = () ->
       comps = g.append("g").attr("id", "vis_comps")
       details = g.append("g").attr("id", "vis_details")
       images = g.append("g").attr("id", "vis_images")
-      comps.append("text")
-        .attr("text-anchor", "end")
-        .attr("x", compCord.x - (compCord.r / 2))
-        .attr("y", compCord.y - (compCord.r * 1.5) )
-        # .attr("dy", -20)
-        .attr("dx", 0)
-        .attr("class", "comp_title")
-        .text("Complementary Colors")
+
+      # comps.append("text")
+      #   .attr("text-anchor", "end")
+      #   .attr("x", compCord.x - (compCord.r / 2))
+      #   .attr("y", compCord.y - (compCord.r * 1.5) )
+      #   # .attr("dy", -20)
+      #   .attr("dx", 0)
+      #   .attr("class", "comp_title")
+      #   .text("Complementary Colors")
 
 
   updateComps = () ->
@@ -299,6 +441,8 @@ Triangles = () ->
   update = () ->
     # data = filterData(allData, user_id)
     updateComps()
+
+    root.plotData("#timeline", data, timeline)
 
     p = points.selectAll(".triangle")
       .data(data, (d) -> d.name)
@@ -396,10 +540,6 @@ Triangles = () ->
 
   return chart
 
-root.plotData = (selector, data, plot) ->
-  d3.select(selector)
-    .datum(data)
-    .call(plot)
 
 openSearch = (e) ->
   $('#search_user').show('slide').select()
