@@ -5,7 +5,8 @@ require 'csv'
 
 require 'time'
 
-input_filename = "color_transactions_no_undies.tsv"
+# input_filename = "color_transactions_no_undies.tsv"
+input_filename = "transactions.tsv"
 # input_filename = "test.tsv"
 
 output_dir = "../data/color_data"
@@ -25,8 +26,14 @@ def pull_out_color csv
 end
 
 def add_purchase color, csv
-  pur = {"sku_key" => csv["sku_idnt"].strip, "rms_sku" => csv["rms_sku_id"].strip, "gender" => csv["gender_x"].strip, "style_id" => csv["web_style_id"].strip,
-         "product_url" => csv["product_url"], "image_url" => csv["image_url"], "purchase_date" => Date.parse(csv["BUS_DT"].strip),
+  # puts csv["BUS.DT"].strip
+  # month/day/year
+  date_parts = csv["BUS.DT"].strip.split("/").collect {|s| s.to_i}
+  pur = {"sku_key" => csv["sku_idnt"].strip, "gender" => csv["gender.x"].strip, "style_id" => csv["web_style_id"].strip,
+         "product_url" => csv["product_url"], "image_url" => csv["image_url"], 
+         # "purchase_date" => Date.parse(csv["BUS.DT"].strip),
+         # "purchase_date" => DateTime.strptime(csv["BUS.DT"].strip, '%-m/%-d/%Y'),
+         "purchase_date" => Date.new(date_parts[2], date_parts[0], date_parts[1]),
          "percent_color" => csv["color_percent"].strip.to_f
   }
   color['purchases'] << pur
@@ -73,7 +80,7 @@ end
 CSV.foreach(input_filename, { :col_sep => "\t", :headers => true }) do |csv|
   color_id = clean_name(csv["color_name"])
   if !users[csv["CUST_KEY"]]
-    users[csv["CUST_KEY"]] = {"id" => csv["CUST_KEY"], "colors" => {}}
+    users[csv["CUST_KEY"]] = {"id" => csv["CUST_KEY"], "first_name" => csv["FIRST"], "last_name" =>csv["LAST"],"gender" => csv['sex'],"colors" => {}}
   end
   if !users[csv["CUST_KEY"]]["colors"][color_id]
     users[csv["CUST_KEY"]]["colors"][color_id] = pull_out_color(csv)
@@ -89,7 +96,7 @@ processed = []
 all = []
 users.each do |user_id, user_data|
   p_user = process_user(user_data)
-  all << {"id" => user_id, "first_name" => "Very", "last_name" => "Important"}
+  all << {"id" => user_id, "first_name" => p_user["first_name"], "last_name" => p_user["last_name"]}
   processed << p_user
 end
 

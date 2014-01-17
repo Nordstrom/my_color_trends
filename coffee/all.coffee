@@ -2,6 +2,7 @@
 $ ->
 
   display = (error, data) ->
+    data.sort  (a,b) -> a.last_name.localeCompare(b.last_name)
     data.forEach (d) ->
       d.name = "#{d.first_name} #{d.last_name}"
     all = d3.select("#all")

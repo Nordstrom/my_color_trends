@@ -1,60 +1,22 @@
 {
   "id": "44454018",
+  "first_name": "Tony",
+  "last_name": "Espinosa",
+  "gender": "M",
   "colors": [
     {
       "name": "Black",
-      "color_id": "173",
+      "color_id": "36",
       "rgb": [
-        46,
-        45,
-        50
+        0,
+        0,
+        0
       ],
-      "rgb_string": "rgb(46,45,50)",
+      "rgb_string": "rgb(0,0,0)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "51069649",
-          "rms_sku": "51069649",
-          "gender": "F",
-          "style_id": "3154096",
-          "product_url": "http://shop.nordstrom.com/s/charlie-jade-sleeveless-printed-silk-dress/3154096",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_6348345.jpg",
-          "purchase_date": "2012-06-01",
-          "percent_color": 0.42
-        },
-        {
-          "sku_key": "53804950",
-          "rms_sku": "53804950",
-          "gender": "F",
-          "style_id": "3279277",
-          "product_url": "http://shop.nordstrom.com/s/paige-panama-silk-shorts/3279277",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_6921569.jpg",
-          "purchase_date": "2012-06-01",
-          "percent_color": 0.8
-        },
-        {
-          "sku_key": "53804950",
-          "rms_sku": "53804950",
-          "gender": "F",
-          "style_id": "3279277",
-          "product_url": "http://shop.nordstrom.com/s/paige-panama-silk-shorts/3279277",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_6921569.jpg",
-          "purchase_date": "2012-06-01",
-          "percent_color": 0.21
-        },
-        {
           "sku_key": "52802033",
-          "rms_sku": "52802033",
-          "gender": "M",
-          "style_id": "3234096",
-          "product_url": "http://shop.nordstrom.com/s/diesel-nstarr-service-belt/3234096",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_6703789.jpg",
-          "purchase_date": "2012-07-27",
-          "percent_color": 0.83
-        },
-        {
-          "sku_key": "52802033",
-          "rms_sku": "52802033",
           "gender": "M",
           "style_id": "3234096",
           "product_url": "http://shop.nordstrom.com/s/diesel-nstarr-service-belt/3234096",
@@ -63,8 +25,16 @@
           "percent_color": 0.18
         },
         {
+          "sku_key": "52802033",
+          "gender": "M",
+          "style_id": "3234096",
+          "product_url": "http://shop.nordstrom.com/s/diesel-nstarr-service-belt/3234096",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_6703789.jpg",
+          "purchase_date": "2012-07-27",
+          "percent_color": 0.83
+        },
+        {
           "sku_key": "53239463",
-          "rms_sku": "53239463",
           "gender": "M",
           "style_id": "3254429",
           "product_url": "http://shop.nordstrom.com/s/public-opinion-trim-fit-herringbone-plaid-shirt/3254429",
@@ -73,128 +43,10 @@
           "percent_color": 0.52
         }
       ],
-      "count": 6,
-      "color_per_purchaes": 0.5,
-      "weighted_count": 2.96,
-      "percent": 50.0
-    },
-    {
-      "name": "Gainsboro",
-      "color_id": "75",
-      "rgb": [
-        220,
-        220,
-        220
-      ],
-      "rgb_string": "rgb(220,220,220)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "51069649",
-          "rms_sku": "51069649",
-          "gender": "F",
-          "style_id": "3154096",
-          "product_url": "http://shop.nordstrom.com/s/charlie-jade-sleeveless-printed-silk-dress/3154096",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_6348345.jpg",
-          "purchase_date": "2012-06-01",
-          "percent_color": 0.25
-        },
-        {
-          "sku_key": "52039804",
-          "rms_sku": "52039804",
-          "gender": "F",
-          "style_id": "3194336",
-          "product_url": "http://shop.nordstrom.com/s/bellatrix-tie-front-blouse/3194336",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6556733.jpg",
-          "purchase_date": "2012-06-01",
-          "percent_color": 0.81
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.1667,
-      "weighted_count": 1.06,
-      "percent": 16.6667
-    },
-    {
-      "name": "Light Coral",
-      "color_id": "95",
-      "rgb": [
-        240,
-        128,
-        128
-      ],
-      "rgb_string": "rgb(240,128,128)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "53367161",
-          "rms_sku": "53367161",
-          "gender": "F",
-          "style_id": "3261485",
-          "product_url": "http://shop.nordstrom.com/s/joie-chariot-stripe-silk-drawstring-dress/3261485",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6829637.jpg",
-          "purchase_date": "2012-06-01",
-          "percent_color": 0.54
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0833,
-      "weighted_count": 0.54,
-      "percent": 8.3333
-    },
-    {
-      "name": "Light Gray",
-      "color_id": "98",
-      "rgb": [
-        211,
-        211,
-        211
-      ],
-      "rgb_string": "rgb(211,211,211)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "52039804",
-          "rms_sku": "52039804",
-          "gender": "F",
-          "style_id": "3194336",
-          "product_url": "http://shop.nordstrom.com/s/bellatrix-tie-front-blouse/3194336",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6556733.jpg",
-          "purchase_date": "2012-06-01",
-          "percent_color": 0.16
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0833,
-      "weighted_count": 0.16,
-      "percent": 8.3333
-    },
-    {
-      "name": "Salmon",
-      "color_id": "150",
-      "rgb": [
-        250,
-        128,
-        114
-      ],
-      "rgb_string": "rgb(250,128,114)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "53367161",
-          "rms_sku": "53367161",
-          "gender": "F",
-          "style_id": "3261485",
-          "product_url": "http://shop.nordstrom.com/s/joie-chariot-stripe-silk-drawstring-dress/3261485",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6829637.jpg",
-          "purchase_date": "2012-06-01",
-          "percent_color": 0.3
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0833,
-      "weighted_count": 0.3,
-      "percent": 8.3333
+      "count": 3,
+      "color_per_purchaes": 0.75,
+      "weighted_count": 1.53,
+      "percent": 75.0
     },
     {
       "name": "Dark Slate Gray",
@@ -209,7 +61,6 @@
       "purchases": [
         {
           "sku_key": "53239463",
-          "rms_sku": "53239463",
           "gender": "M",
           "style_id": "3254429",
           "product_url": "http://shop.nordstrom.com/s/public-opinion-trim-fit-herringbone-plaid-shirt/3254429",
@@ -219,13 +70,13 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0833,
+      "color_per_purchaes": 0.25,
       "weighted_count": 0.22,
-      "percent": 8.3333
+      "percent": 25.0
     }
   ],
-  "start_date": "2012-06-01",
+  "start_date": "2012-07-27",
   "end_date": "2012-09-04",
-  "total_purchases": 12,
-  "total_colors": 6
+  "total_purchases": 4,
+  "total_colors": 2
 }

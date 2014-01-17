@@ -1,40 +1,49 @@
 {
   "id": "13108723",
+  "first_name": "Dave",
+  "last_name": "Johansen",
+  "gender": "M",
   "colors": [
     {
       "name": "Black",
-      "color_id": "36",
+      "color_id": "173",
       "rgb": [
-        0,
-        0,
-        0
+        46,
+        45,
+        50
       ],
-      "rgb_string": "rgb(0,0,0)",
+      "rgb_string": "rgb(46,45,50)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "35309747",
-          "rms_sku": "35309747",
-          "gender": "F",
-          "style_id": "3248073",
-          "product_url": "http://shop.nordstrom.com/s/smartwool-best-friend-socks/3248073",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6722300.jpg",
-          "purchase_date": "2010-12-10",
-          "percent_color": 0.66
+          "sku_key": "53829073",
+          "gender": "M",
+          "style_id": "3287820",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-regular-fit-twill-sport-shirt/3287820",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_7195122.jpg",
+          "purchase_date": "2012-11-25",
+          "percent_color": 0.29
         },
         {
-          "sku_key": "35309747",
-          "rms_sku": "35309747",
-          "gender": "F",
-          "style_id": "3248073",
-          "product_url": "http://shop.nordstrom.com/s/smartwool-best-friend-socks/3248073",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6722300.jpg",
-          "purchase_date": "2010-12-10",
-          "percent_color": 0.35
+          "sku_key": "58357974",
+          "gender": "M",
+          "style_id": "3614032",
+          "product_url": "http://shop.nordstrom.com/s/toscano-relaxed-fit-mock-neck-sweater/3614032",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_8453911.jpg",
+          "purchase_date": "2013-11-26",
+          "percent_color": 0.79
         },
         {
           "sku_key": "49221033",
-          "rms_sku": "49221033",
+          "gender": "M",
+          "style_id": "3105078",
+          "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "purchase_date": "2010-12-10",
+          "percent_color": 0.45
+        },
+        {
+          "sku_key": "49221033",
           "gender": "M",
           "style_id": "3105078",
           "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
@@ -43,8 +52,34 @@
           "percent_color": 0.56
         },
         {
+          "sku_key": "49221047",
+          "gender": "M",
+          "style_id": "3105078",
+          "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "purchase_date": "2010-12-10",
+          "percent_color": 0.74
+        },
+        {
           "sku_key": "49221033",
-          "rms_sku": "49221033",
+          "gender": "M",
+          "style_id": "3105078",
+          "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "purchase_date": "2010-12-10",
+          "percent_color": 0.56
+        },
+        {
+          "sku_key": "49221047",
+          "gender": "M",
+          "style_id": "3105078",
+          "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "purchase_date": "2010-12-10",
+          "percent_color": 0.27
+        },
+        {
+          "sku_key": "49221033",
           "gender": "M",
           "style_id": "3105078",
           "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
@@ -54,7 +89,6 @@
         },
         {
           "sku_key": "49221047",
-          "rms_sku": "49221047",
           "gender": "M",
           "style_id": "3105078",
           "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
@@ -64,7 +98,6 @@
         },
         {
           "sku_key": "49221047",
-          "rms_sku": "49221047",
           "gender": "M",
           "style_id": "3105078",
           "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
@@ -73,18 +106,142 @@
           "percent_color": 0.27
         },
         {
-          "sku_key": "52326268",
-          "rms_sku": "52326268",
-          "gender": "F",
-          "style_id": "3208242",
-          "product_url": "http://shop.nordstrom.com/s/amber-sun-hoodie-vest-petite/3208242",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/10/_6663750.jpg",
-          "purchase_date": "2011-11-15",
+          "sku_key": "52558112",
+          "gender": "M",
+          "style_id": "3219328",
+          "product_url": "http://shop.nordstrom.com/s/north-face-diez-summit-series-900-fill-down-jacket/3219328",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_6613659.jpg",
+          "purchase_date": "2011-12-19",
+          "percent_color": 0.71
+        },
+        {
+          "sku_key": "51589018",
+          "gender": "M",
+          "style_id": "3116463",
+          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-cotton-blend-v-neck-sweater/3116463",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6734427.jpg",
+          "purchase_date": "2011-12-27",
           "percent_color": 1.01
         },
         {
+          "sku_key": "51589015",
+          "gender": "M",
+          "style_id": "3116463",
+          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-cotton-blend-v-neck-sweater/3116463",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6734427.jpg",
+          "purchase_date": "2011-12-27",
+          "percent_color": 1.01
+        },
+        {
+          "sku_key": "49221044",
+          "gender": "M",
+          "style_id": "3105078",
+          "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "purchase_date": "2012-12-07",
+          "percent_color": 0.52
+        },
+        {
+          "sku_key": "49221033",
+          "gender": "M",
+          "style_id": "3105078",
+          "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "purchase_date": "2012-12-07",
+          "percent_color": 0.45
+        },
+        {
+          "sku_key": "49221033",
+          "gender": "M",
+          "style_id": "3105078",
+          "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "purchase_date": "2012-12-07",
+          "percent_color": 0.56
+        },
+        {
+          "sku_key": "49221044",
+          "gender": "M",
+          "style_id": "3105078",
+          "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "purchase_date": "2012-12-07",
+          "percent_color": 0.5
+        },
+        {
+          "sku_key": "49221044",
+          "gender": "M",
+          "style_id": "3105078",
+          "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "purchase_date": "2012-12-07",
+          "percent_color": 0.5
+        },
+        {
+          "sku_key": "49221033",
+          "gender": "M",
+          "style_id": "3105078",
+          "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "purchase_date": "2012-12-07",
+          "percent_color": 0.45
+        },
+        {
+          "sku_key": "49221044",
+          "gender": "M",
+          "style_id": "3105078",
+          "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "purchase_date": "2012-12-07",
+          "percent_color": 0.52
+        },
+        {
+          "sku_key": "49221033",
+          "gender": "M",
+          "style_id": "3105078",
+          "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "purchase_date": "2012-12-07",
+          "percent_color": 0.56
+        },
+        {
+          "sku_key": "57403841",
+          "gender": "M",
+          "style_id": "3545189",
+          "product_url": "http://shop.nordstrom.com/s/the-north-face-thunder-water-resistant-down-jacket/3545189",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_8241051.jpg",
+          "purchase_date": "2013-12-07",
+          "percent_color": 0.64
+        },
+        {
+          "sku_key": "57403841",
+          "gender": "M",
+          "style_id": "3545189",
+          "product_url": "http://shop.nordstrom.com/s/the-north-face-thunder-water-resistant-down-jacket/3545189",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_8241051.jpg",
+          "purchase_date": "2013-12-08",
+          "percent_color": 0.64
+        },
+        {
+          "sku_key": "49221033",
+          "gender": "M",
+          "style_id": "3105078",
+          "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "purchase_date": "2011-12-09",
+          "percent_color": 0.56
+        },
+        {
+          "sku_key": "49221033",
+          "gender": "M",
+          "style_id": "3105078",
+          "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "purchase_date": "2011-12-09",
+          "percent_color": 0.45
+        },
+        {
           "sku_key": "49979648",
-          "rms_sku": "49979648",
           "gender": "M",
           "style_id": "3068127",
           "product_url": "http://shop.nordstrom.com/s/ecco-windsor-oxford/3068127",
@@ -94,7 +251,6 @@
         },
         {
           "sku_key": "49979648",
-          "rms_sku": "49979648",
           "gender": "M",
           "style_id": "3068127",
           "product_url": "http://shop.nordstrom.com/s/ecco-windsor-oxford/3068127",
@@ -103,8 +259,43 @@
           "percent_color": 0.15
         },
         {
+          "sku_key": "49221033",
+          "gender": "M",
+          "style_id": "3105078",
+          "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "purchase_date": "2011-12-09",
+          "percent_color": 0.45
+        },
+        {
+          "sku_key": "49221033",
+          "gender": "M",
+          "style_id": "3105078",
+          "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "purchase_date": "2011-12-09",
+          "percent_color": 0.56
+        },
+        {
+          "sku_key": "49979648",
+          "gender": "M",
+          "style_id": "3068127",
+          "product_url": "http://shop.nordstrom.com/s/ecco-windsor-oxford/3068127",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_8197958.jpg",
+          "purchase_date": "2011-12-09",
+          "percent_color": 0.15
+        },
+        {
+          "sku_key": "49979648",
+          "gender": "M",
+          "style_id": "3068127",
+          "product_url": "http://shop.nordstrom.com/s/ecco-windsor-oxford/3068127",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_8197958.jpg",
+          "purchase_date": "2011-12-09",
+          "percent_color": 0.8
+        },
+        {
           "sku_key": "47221277",
-          "rms_sku": "47221277",
           "gender": "M",
           "style_id": "3114110",
           "product_url": "http://shop.nordstrom.com/s/ag-protege-straight-leg-jeans-black-overdye/3114110",
@@ -114,7 +305,6 @@
         },
         {
           "sku_key": "52558112",
-          "rms_sku": "52558112",
           "gender": "M",
           "style_id": "3219328",
           "product_url": "http://shop.nordstrom.com/s/north-face-diez-summit-series-900-fill-down-jacket/3219328",
@@ -123,18 +313,7 @@
           "percent_color": 0.71
         },
         {
-          "sku_key": "51589015",
-          "rms_sku": "51589015",
-          "gender": "M",
-          "style_id": "3116463",
-          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-cotton-blend-v-neck-sweater/3116463",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6734427.jpg",
-          "purchase_date": "2011-12-09",
-          "percent_color": 1.01
-        },
-        {
           "sku_key": "51589018",
-          "rms_sku": "51589018",
           "gender": "M",
           "style_id": "3116463",
           "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-cotton-blend-v-neck-sweater/3116463",
@@ -143,180 +322,161 @@
           "percent_color": 1.01
         },
         {
-          "sku_key": "51744321",
-          "rms_sku": "51744321",
-          "gender": "F",
-          "style_id": "3182115",
-          "product_url": "http://shop.nordstrom.com/s/smartwool-fair-isle-snowflake-socks/3182115",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6670323.jpg",
-          "purchase_date": "2011-12-10",
-          "percent_color": 0.3
-        },
-        {
-          "sku_key": "51744321",
-          "rms_sku": "51744321",
-          "gender": "F",
-          "style_id": "3182115",
-          "product_url": "http://shop.nordstrom.com/s/smartwool-fair-isle-snowflake-socks/3182115",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6670323.jpg",
-          "purchase_date": "2011-12-10",
-          "percent_color": 0.18
-        },
-        {
-          "sku_key": "48635865",
-          "rms_sku": "48635865",
-          "gender": "F",
-          "style_id": "3100452",
-          "product_url": "http://shop.nordstrom.com/s/merrell-encore-nova-slip-on/3100452",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_8214511.jpg",
-          "purchase_date": "2011-12-11",
-          "percent_color": 0.78
-        },
-        {
-          "sku_key": "48635865",
-          "rms_sku": "48635865",
-          "gender": "F",
-          "style_id": "3100452",
-          "product_url": "http://shop.nordstrom.com/s/merrell-encore-nova-slip-on/3100452",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_8214511.jpg",
-          "purchase_date": "2011-12-11",
-          "percent_color": 0.23
-        },
-        {
-          "sku_key": "52399436",
-          "rms_sku": "52399436",
-          "gender": "F",
-          "style_id": "3212035",
-          "product_url": "http://shop.nordstrom.com/s/caslon-knit-blazer-petite/3212035",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6863757.jpg",
-          "purchase_date": "2012-02-08",
-          "percent_color": 0.17
-        },
-        {
-          "sku_key": "53790991",
-          "rms_sku": "53790991",
-          "gender": "F",
-          "style_id": "3278413",
-          "product_url": "http://shop.nordstrom.com/s/brooks-adrenaline-asr-gtx-trail-running-shoe-women/3278413",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7158297.jpg",
-          "purchase_date": "2012-10-31",
-          "percent_color": 0.57
-        },
-        {
-          "sku_key": "53790991",
-          "rms_sku": "53790991",
-          "gender": "F",
-          "style_id": "3278413",
-          "product_url": "http://shop.nordstrom.com/s/brooks-adrenaline-asr-gtx-trail-running-shoe-women/3278413",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7158297.jpg",
-          "purchase_date": "2012-10-31",
-          "percent_color": 0.22
-        },
-        {
-          "sku_key": "53829073",
-          "rms_sku": "53829073",
+          "sku_key": "51589015",
           "gender": "M",
-          "style_id": "3287820",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-regular-fit-twill-sport-shirt/3287820",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_7195122.jpg",
-          "purchase_date": "2012-11-25",
-          "percent_color": 0.29
+          "style_id": "3116463",
+          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-cotton-blend-v-neck-sweater/3116463",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6734427.jpg",
+          "purchase_date": "2011-12-09",
+          "percent_color": 1.01
         },
         {
-          "sku_key": "53788497",
-          "rms_sku": "53788497",
-          "gender": "F",
-          "style_id": "3285927",
-          "product_url": "http://shop.nordstrom.com/s/smartwool-snow-swirl-socks/3285927",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_7179261.jpg",
-          "purchase_date": "2012-12-07",
-          "percent_color": 0.61
-        },
-        {
-          "sku_key": "53788497",
-          "rms_sku": "53788497",
-          "gender": "F",
-          "style_id": "3285927",
-          "product_url": "http://shop.nordstrom.com/s/smartwool-snow-swirl-socks/3285927",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_7179261.jpg",
-          "purchase_date": "2012-12-07",
-          "percent_color": 0.2
-        },
-        {
-          "sku_key": "49221044",
-          "rms_sku": "49221044",
+          "sku_key": "49221033",
           "gender": "M",
           "style_id": "3105078",
           "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
-          "purchase_date": "2012-12-07",
-          "percent_color": 0.52
+          "purchase_date": "2013-07-26",
+          "percent_color": 0.56
         },
         {
-          "sku_key": "49221044",
-          "rms_sku": "49221044",
+          "sku_key": "49221033",
           "gender": "M",
           "style_id": "3105078",
           "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
-          "purchase_date": "2012-12-07",
-          "percent_color": 0.5
-        },
-        {
-          "sku_key": "56613561",
-          "rms_sku": "56613561",
-          "gender": "F",
-          "style_id": "3485958",
-          "product_url": "http://shop.nordstrom.com/s/smartwool-trellis-crew-socks/3485958",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_7929742.jpg",
           "purchase_date": "2013-07-26",
-          "percent_color": 0.88
+          "percent_color": 0.45
         },
         {
-          "sku_key": "56613566",
-          "rms_sku": "56613566",
-          "gender": "F",
-          "style_id": "3485958",
-          "product_url": "http://shop.nordstrom.com/s/smartwool-trellis-crew-socks/3485958",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_7929742.jpg",
+          "sku_key": "49221033",
+          "gender": "M",
+          "style_id": "3105078",
+          "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
           "purchase_date": "2013-07-26",
-          "percent_color": 0.54
+          "percent_color": 0.45
         },
         {
-          "sku_key": "57447209",
-          "rms_sku": "57447209",
-          "gender": "F",
-          "style_id": "3548348",
-          "product_url": "http://shop.nordstrom.com/s/parkhurst-basic-wool-beret/3548348",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_8123965.jpg",
-          "purchase_date": "2013-11-22",
-          "percent_color": 0.99
-        },
-        {
-          "sku_key": "58357974",
-          "rms_sku": "58357974",
+          "sku_key": "49221033",
           "gender": "M",
-          "style_id": "3614032",
-          "product_url": "http://shop.nordstrom.com/s/toscano-relaxed-fit-mock-neck-sweater/3614032",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_8453911.jpg",
-          "purchase_date": "2013-11-26",
-          "percent_color": 0.79
-        },
-        {
-          "sku_key": "57403841",
-          "rms_sku": "57403841",
-          "gender": "M",
-          "style_id": "3545189",
-          "product_url": "http://shop.nordstrom.com/s/the-north-face-thunder-water-resistant-down-jacket/3545189",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_8241051.jpg",
-          "purchase_date": "2013-12-07",
-          "percent_color": 0.64
+          "style_id": "3105078",
+          "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "purchase_date": "2013-07-26",
+          "percent_color": 0.56
         }
       ],
-      "count": 30,
-      "color_per_purchaes": 0.3947,
-      "weighted_count": 17.14,
-      "percent": 39.4737
+      "count": 39,
+      "color_per_purchaes": 0.52,
+      "weighted_count": 22.87,
+      "percent": 52.0
+    },
+    {
+      "name": "Royal Blue",
+      "color_id": "148",
+      "rgb": [
+        65,
+        105,
+        225
+      ],
+      "rgb_string": "rgb(65,105,225)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "51527673",
+          "gender": "M",
+          "style_id": "2878565",
+          "product_url": "http://shop.nordstrom.com/s/the-north-face-venture-jacket/2878565",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_6957152.jpg",
+          "purchase_date": "2012-01-06",
+          "percent_color": 0.34
+        },
+        {
+          "sku_key": "51527673",
+          "gender": "M",
+          "style_id": "2878565",
+          "product_url": "http://shop.nordstrom.com/s/the-north-face-venture-jacket/2878565",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_6957152.jpg",
+          "purchase_date": "2011-12-11",
+          "percent_color": 0.34
+        },
+        {
+          "sku_key": "50344163",
+          "gender": "M",
+          "style_id": "3005595",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
+          "purchase_date": "2011-09-05",
+          "percent_color": 0.72
+        },
+        {
+          "sku_key": "51042973",
+          "gender": "M",
+          "style_id": "3005595",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
+          "purchase_date": "2011-09-06",
+          "percent_color": 0.71
+        }
+      ],
+      "count": 4,
+      "color_per_purchaes": 0.0533,
+      "weighted_count": 2.11,
+      "percent": 5.3333
+    },
+    {
+      "name": "Steel Blue",
+      "color_id": "161",
+      "rgb": [
+        70,
+        130,
+        180
+      ],
+      "rgb_string": "rgb(70,130,180)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "51527673",
+          "gender": "M",
+          "style_id": "2878565",
+          "product_url": "http://shop.nordstrom.com/s/the-north-face-venture-jacket/2878565",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_6957152.jpg",
+          "purchase_date": "2012-01-06",
+          "percent_color": 0.66
+        },
+        {
+          "sku_key": "51527673",
+          "gender": "M",
+          "style_id": "2878565",
+          "product_url": "http://shop.nordstrom.com/s/the-north-face-venture-jacket/2878565",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_6957152.jpg",
+          "purchase_date": "2011-12-11",
+          "percent_color": 0.66
+        },
+        {
+          "sku_key": "50344163",
+          "gender": "M",
+          "style_id": "3005595",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
+          "purchase_date": "2011-09-05",
+          "percent_color": 0.16
+        },
+        {
+          "sku_key": "51042973",
+          "gender": "M",
+          "style_id": "3005595",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
+          "purchase_date": "2011-09-06",
+          "percent_color": 0.17
+        }
+      ],
+      "count": 4,
+      "color_per_purchaes": 0.0533,
+      "weighted_count": 1.65,
+      "percent": 5.3333
     },
     {
       "name": "Dim Gray",
@@ -330,48 +490,7 @@
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "41808549",
-          "rms_sku": "41808549",
-          "gender": "F",
-          "style_id": "3033306",
-          "product_url": "http://shop.nordstrom.com/s/smartwool-adrenaline-socks/3033306",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_5842419.jpg",
-          "purchase_date": "2008-11-21",
-          "percent_color": 0.21
-        },
-        {
-          "sku_key": "49696461",
-          "rms_sku": "49696461",
-          "gender": "M",
-          "style_id": "3005595",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
-          "purchase_date": "2011-09-06",
-          "percent_color": 0.76
-        },
-        {
-          "sku_key": "51744323",
-          "rms_sku": "51744323",
-          "gender": "F",
-          "style_id": "3182115",
-          "product_url": "http://shop.nordstrom.com/s/smartwool-fair-isle-snowflake-socks/3182115",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6670323.jpg",
-          "purchase_date": "2011-12-10",
-          "percent_color": 0.47
-        },
-        {
-          "sku_key": "53790991",
-          "rms_sku": "53790991",
-          "gender": "F",
-          "style_id": "3278413",
-          "product_url": "http://shop.nordstrom.com/s/brooks-adrenaline-asr-gtx-trail-running-shoe-women/3278413",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7158297.jpg",
-          "purchase_date": "2012-10-31",
-          "percent_color": 0.16
-        },
-        {
           "sku_key": "53829073",
-          "rms_sku": "53829073",
           "gender": "M",
           "style_id": "3287820",
           "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-regular-fit-twill-sport-shirt/3287820",
@@ -380,97 +499,81 @@
           "percent_color": 0.35
         },
         {
-          "sku_key": "56613566",
-          "rms_sku": "56613566",
-          "gender": "F",
-          "style_id": "3485958",
-          "product_url": "http://shop.nordstrom.com/s/smartwool-trellis-crew-socks/3485958",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_7929742.jpg",
-          "purchase_date": "2013-07-26",
-          "percent_color": 0.39
-        },
-        {
-          "sku_key": "58316289",
-          "rms_sku": "58316289",
-          "gender": "F",
-          "style_id": "3611787",
-          "product_url": "http://shop.nordstrom.com/s/portolano-mushroom-hat/3611787",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_8478409.jpg",
-          "purchase_date": "2013-11-22",
-          "percent_color": 0.19
-        },
-        {
           "sku_key": "57403841",
-          "rms_sku": "57403841",
           "gender": "M",
           "style_id": "3545189",
           "product_url": "http://shop.nordstrom.com/s/the-north-face-thunder-water-resistant-down-jacket/3545189",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_8241051.jpg",
           "purchase_date": "2013-12-07",
           "percent_color": 0.27
-        }
-      ],
-      "count": 8,
-      "color_per_purchaes": 0.1053,
-      "weighted_count": 2.8,
-      "percent": 10.5263
-    },
-    {
-      "name": "Gray",
-      "color_id": "80",
-      "rgb": [
-        128,
-        128,
-        128
-      ],
-      "rgb_string": "rgb(128,128,128)",
-      "grayscale": false,
-      "purchases": [
+        },
         {
-          "sku_key": "41808549",
-          "rms_sku": "41808549",
-          "gender": "F",
-          "style_id": "3033306",
-          "product_url": "http://shop.nordstrom.com/s/smartwool-adrenaline-socks/3033306",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_5842419.jpg",
-          "purchase_date": "2008-11-21",
-          "percent_color": 0.34
+          "sku_key": "57403841",
+          "gender": "M",
+          "style_id": "3545189",
+          "product_url": "http://shop.nordstrom.com/s/the-north-face-thunder-water-resistant-down-jacket/3545189",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_8241051.jpg",
+          "purchase_date": "2013-12-08",
+          "percent_color": 0.27
         },
         {
           "sku_key": "49696461",
-          "rms_sku": "49696461",
           "gender": "M",
           "style_id": "3005595",
           "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
           "purchase_date": "2011-09-06",
-          "percent_color": 0.25
-        },
-        {
-          "sku_key": "52810919",
-          "rms_sku": "52810919",
-          "gender": "M",
-          "style_id": "3233769",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-traditional-fit-dress-shirt/3233769",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_6969672.jpg",
-          "purchase_date": "2012-05-01",
-          "percent_color": 0.15
-        },
-        {
-          "sku_key": "58316289",
-          "rms_sku": "58316289",
-          "gender": "F",
-          "style_id": "3611787",
-          "product_url": "http://shop.nordstrom.com/s/portolano-mushroom-hat/3611787",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_8478409.jpg",
-          "purchase_date": "2013-11-22",
-          "percent_color": 0.19
+          "percent_color": 0.76
         }
       ],
       "count": 4,
-      "color_per_purchaes": 0.0526,
-      "weighted_count": 0.9300000000000002,
-      "percent": 5.2632
+      "color_per_purchaes": 0.0533,
+      "weighted_count": 1.65,
+      "percent": 5.3333
+    },
+    {
+      "name": "Brown",
+      "color_id": "40",
+      "rgb": [
+        165,
+        42,
+        42
+      ],
+      "rgb_string": "rgb(165,42,42)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "51985172",
+          "gender": "M",
+          "style_id": "3005595",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
+          "purchase_date": "2011-12-11",
+          "percent_color": 0.97
+        },
+        {
+          "sku_key": "51985173",
+          "gender": "M",
+          "style_id": "3005595",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
+          "purchase_date": "2011-12-27",
+          "percent_color": 0.97
+        },
+        {
+          "sku_key": "50344173",
+          "gender": "M",
+          "style_id": "3005595",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
+          "purchase_date": "2011-08-24",
+          "percent_color": 0.98
+        }
+      ],
+      "count": 3,
+      "color_per_purchaes": 0.04,
+      "weighted_count": 2.92,
+      "percent": 4.0
     },
     {
       "name": "White Smoke",
@@ -485,7 +588,6 @@
       "purchases": [
         {
           "sku_key": "42124213",
-          "rms_sku": "42124213",
           "gender": "M",
           "style_id": "2974817",
           "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-kent-tailored-dress-shirt/2974817",
@@ -495,7 +597,6 @@
         },
         {
           "sku_key": "42124212",
-          "rms_sku": "42124212",
           "gender": "M",
           "style_id": "2974817",
           "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-kent-tailored-dress-shirt/2974817",
@@ -504,454 +605,61 @@
           "percent_color": 0.45
         },
         {
-          "sku_key": "52399436",
-          "rms_sku": "52399436",
-          "gender": "F",
-          "style_id": "3212035",
-          "product_url": "http://shop.nordstrom.com/s/caslon-knit-blazer-petite/3212035",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6863757.jpg",
-          "purchase_date": "2012-02-08",
-          "percent_color": 0.53
-        },
-        {
-          "sku_key": "54204538",
-          "rms_sku": "54204538",
-          "gender": "F",
-          "style_id": "3309118",
-          "product_url": "http://shop.nordstrom.com/s/echo-linework-daisy-scarf/3309118",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6978380.jpg",
-          "purchase_date": "2012-05-08",
+          "sku_key": "42124213",
+          "gender": "M",
+          "style_id": "2974817",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-kent-tailored-dress-shirt/2974817",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_5652613.jpg",
+          "purchase_date": "2008-06-06",
           "percent_color": 0.45
         }
       ],
-      "count": 4,
-      "color_per_purchaes": 0.0526,
-      "weighted_count": 1.8800000000000001,
-      "percent": 5.2632
-    },
-    {
-      "name": "Royal Blue",
-      "color_id": "148",
-      "rgb": [
-        65,
-        105,
-        225
-      ],
-      "rgb_string": "rgb(65,105,225)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "50344163",
-          "rms_sku": "50344163",
-          "gender": "M",
-          "style_id": "3005595",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
-          "purchase_date": "2011-09-05",
-          "percent_color": 0.72
-        },
-        {
-          "sku_key": "51042973",
-          "rms_sku": "51042973",
-          "gender": "M",
-          "style_id": "3005595",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
-          "purchase_date": "2011-09-06",
-          "percent_color": 0.71
-        },
-        {
-          "sku_key": "51527673",
-          "rms_sku": "51527673",
-          "gender": "M",
-          "style_id": "2878565",
-          "product_url": "http://shop.nordstrom.com/s/the-north-face-venture-jacket/2878565",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_6957152.jpg",
-          "purchase_date": "2011-12-11",
-          "percent_color": 0.34
-        }
-      ],
       "count": 3,
-      "color_per_purchaes": 0.0395,
-      "weighted_count": 1.77,
-      "percent": 3.9474
+      "color_per_purchaes": 0.04,
+      "weighted_count": 1.35,
+      "percent": 4.0
     },
     {
-      "name": "Brown",
-      "color_id": "40",
+      "name": "NA",
+      "color_id": "NA",
       "rgb": [
-        165,
-        42,
-        42
-      ],
-      "rgb_string": "rgb(165,42,42)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "50344173",
-          "rms_sku": "50344173",
-          "gender": "M",
-          "style_id": "3005595",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
-          "purchase_date": "2011-08-24",
-          "percent_color": 0.98
-        },
-        {
-          "sku_key": "51985172",
-          "rms_sku": "51985172",
-          "gender": "M",
-          "style_id": "3005595",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
-          "purchase_date": "2011-12-11",
-          "percent_color": 0.97
-        },
-        {
-          "sku_key": "51985173",
-          "rms_sku": "51985173",
-          "gender": "M",
-          "style_id": "3005595",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
-          "purchase_date": "2011-12-27",
-          "percent_color": 0.97
-        }
-      ],
-      "count": 3,
-      "color_per_purchaes": 0.0395,
-      "weighted_count": 2.92,
-      "percent": 3.9474
-    },
-    {
-      "name": "Steel Blue",
-      "color_id": "161",
-      "rgb": [
-        70,
-        130,
-        180
-      ],
-      "rgb_string": "rgb(70,130,180)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "50344163",
-          "rms_sku": "50344163",
-          "gender": "M",
-          "style_id": "3005595",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
-          "purchase_date": "2011-09-05",
-          "percent_color": 0.16
-        },
-        {
-          "sku_key": "51042973",
-          "rms_sku": "51042973",
-          "gender": "M",
-          "style_id": "3005595",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
-          "purchase_date": "2011-09-06",
-          "percent_color": 0.17
-        },
-        {
-          "sku_key": "51527673",
-          "rms_sku": "51527673",
-          "gender": "M",
-          "style_id": "2878565",
-          "product_url": "http://shop.nordstrom.com/s/the-north-face-venture-jacket/2878565",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_6957152.jpg",
-          "purchase_date": "2011-12-11",
-          "percent_color": 0.66
-        }
-      ],
-      "count": 3,
-      "color_per_purchaes": 0.0395,
-      "weighted_count": 0.99,
-      "percent": 3.9474
-    },
-    {
-      "name": "Rosy Brown",
-      "color_id": "147",
-      "rgb": [
-        188,
-        143,
-        143
-      ],
-      "rgb_string": "rgb(188,143,143)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "51988093",
-          "rms_sku": "51988093",
-          "gender": "F",
-          "style_id": "3192232",
-          "product_url": "http://shop.nordstrom.com/s/eileen-fisher-foil-flecked-scarf/3192232",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/10/_6551310.jpg",
-          "purchase_date": "2011-12-09",
-          "percent_color": 1.01
-        },
-        {
-          "sku_key": "58316289",
-          "rms_sku": "58316289",
-          "gender": "F",
-          "style_id": "3611787",
-          "product_url": "http://shop.nordstrom.com/s/portolano-mushroom-hat/3611787",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_8478409.jpg",
-          "purchase_date": "2013-11-22",
-          "percent_color": 0.35
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0263,
-      "weighted_count": 1.3599999999999999,
-      "percent": 2.6316
-    },
-    {
-      "name": "Khaki",
-      "color_id": "89",
-      "rgb": [
-        240,
-        230,
-        140
-      ],
-      "rgb_string": "rgb(240,230,140)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "51042995",
-          "rms_sku": "51042995",
-          "gender": "M",
-          "style_id": "3005595",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
-          "purchase_date": "2011-08-01",
-          "percent_color": 0.78
-        },
-        {
-          "sku_key": "51042993",
-          "rms_sku": "51042993",
-          "gender": "M",
-          "style_id": "3005595",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
-          "purchase_date": "2011-08-24",
-          "percent_color": 0.78
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0263,
-      "weighted_count": 1.56,
-      "percent": 2.6316
-    },
-    {
-      "name": "Maroon",
-      "color_id": "112",
-      "rgb": [
-        127,
-        0,
         0
       ],
-      "rgb_string": "rgb(127,0,0)",
+      "rgb_string": "rgb(0)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "51744321",
-          "rms_sku": "51744321",
-          "gender": "F",
-          "style_id": "3182115",
-          "product_url": "http://shop.nordstrom.com/s/smartwool-fair-isle-snowflake-socks/3182115",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6670323.jpg",
-          "purchase_date": "2011-12-10",
-          "percent_color": 0.23
+          "sku_key": "51993985",
+          "gender": "M",
+          "style_id": "3192601",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-woven-twill-sport-shirt/3192601",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_6632188.jpg",
+          "purchase_date": "2011-12-13",
+          "percent_color": 0.0
         },
         {
-          "sku_key": "57447211",
-          "rms_sku": "57447211",
-          "gender": "F",
-          "style_id": "3548348",
-          "product_url": "http://shop.nordstrom.com/s/parkhurst-basic-wool-beret/3548348",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_8123965.jpg",
+          "sku_key": "56780584",
+          "gender": "M",
+          "style_id": "3500519",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-trim-fit-plaid-sport-shirt/3500519",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_8605532.jpg",
           "purchase_date": "2013-12-07",
-          "percent_color": 0.86
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0263,
-      "weighted_count": 1.09,
-      "percent": 2.6316
-    },
-    {
-      "name": "Tan",
-      "color_id": "162",
-      "rgb": [
-        210,
-        180,
-        140
-      ],
-      "rgb_string": "rgb(210,180,140)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "41808549",
-          "rms_sku": "41808549",
-          "gender": "F",
-          "style_id": "3033306",
-          "product_url": "http://shop.nordstrom.com/s/smartwool-adrenaline-socks/3033306",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_5842419.jpg",
-          "purchase_date": "2008-11-21",
-          "percent_color": 0.27
+          "percent_color": 0.0
         },
         {
-          "sku_key": "58316289",
-          "rms_sku": "58316289",
-          "gender": "F",
-          "style_id": "3611787",
-          "product_url": "http://shop.nordstrom.com/s/portolano-mushroom-hat/3611787",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_8478409.jpg",
-          "purchase_date": "2013-11-22",
-          "percent_color": 0.16
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0263,
-      "weighted_count": 0.43000000000000005,
-      "percent": 2.6316
-    },
-    {
-      "name": "Slate Gray",
-      "color_id": "158",
-      "rgb": [
-        112,
-        128,
-        144
-      ],
-      "rgb_string": "rgb(112,128,144)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "49696471",
-          "rms_sku": "49696471",
+          "sku_key": "56780568",
           "gender": "M",
-          "style_id": "3005595",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
-          "purchase_date": "2011-09-06",
-          "percent_color": 0.65
+          "style_id": "3500519",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-trim-fit-plaid-sport-shirt/3500519",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_8605532.jpg",
+          "purchase_date": "2013-12-07",
+          "percent_color": 0.0
         }
       ],
-      "count": 1,
-      "color_per_purchaes": 0.0132,
-      "weighted_count": 0.65,
-      "percent": 1.3158
-    },
-    {
-      "name": "Alice Blue",
-      "color_id": "29",
-      "rgb": [
-        240,
-        248,
-        255
-      ],
-      "rgb_string": "rgb(240,248,255)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "51225237",
-          "rms_sku": "51225237",
-          "gender": "M",
-          "style_id": "3160945",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-trim-fit-dress-shirt/3160945",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6679436.jpg",
-          "purchase_date": "2011-06-06",
-          "percent_color": 0.18
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0132,
-      "weighted_count": 0.18,
-      "percent": 1.3158
-    },
-    {
-      "name": "Dark Slate Blue",
-      "color_id": "63",
-      "rgb": [
-        72,
-        61,
-        139
-      ],
-      "rgb_string": "rgb(72,61,139)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "49696471",
-          "rms_sku": "49696471",
-          "gender": "M",
-          "style_id": "3005595",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
-          "purchase_date": "2011-09-06",
-          "percent_color": 0.22
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0132,
-      "weighted_count": 0.22,
-      "percent": 1.3158
-    },
-    {
-      "name": "Peru",
-      "color_id": "140",
-      "rgb": [
-        205,
-        133,
-        63
-      ],
-      "rgb_string": "rgb(205,133,63)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "50344168",
-          "rms_sku": "50344168",
-          "gender": "M",
-          "style_id": "3005595",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
-          "purchase_date": "2011-09-06",
-          "percent_color": 0.88
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0132,
-      "weighted_count": 0.88,
-      "percent": 1.3158
-    },
-    {
-      "name": "White",
-      "color_id": "169",
-      "rgb": [
-        255,
-        255,
-        255
-      ],
-      "rgb_string": "rgb(255,255,255)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "51225237",
-          "rms_sku": "51225237",
-          "gender": "M",
-          "style_id": "3160945",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-trim-fit-dress-shirt/3160945",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6679436.jpg",
-          "purchase_date": "2011-06-06",
-          "percent_color": 0.21
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0132,
-      "weighted_count": 0.21,
-      "percent": 1.3158
+      "count": 3,
+      "color_per_purchaes": 0.04,
+      "weighted_count": 0.0,
+      "percent": 4.0
     },
     {
       "name": "Old Lace",
@@ -966,7 +674,15 @@
       "purchases": [
         {
           "sku_key": "43976426",
-          "rms_sku": "43976426",
+          "gender": "M",
+          "style_id": "2946999",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-traditional-fit-herringbone-dress-shirt/2946999",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_8114848.jpg",
+          "purchase_date": "2009-01-13",
+          "percent_color": 0.93
+        },
+        {
+          "sku_key": "43976426",
           "gender": "M",
           "style_id": "2946999",
           "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-traditional-fit-herringbone-dress-shirt/2946999",
@@ -975,64 +691,80 @@
           "percent_color": 0.93
         }
       ],
-      "count": 1,
-      "color_per_purchaes": 0.0132,
-      "weighted_count": 0.93,
-      "percent": 1.3158
+      "count": 2,
+      "color_per_purchaes": 0.0267,
+      "weighted_count": 1.86,
+      "percent": 2.6667
     },
     {
-      "name": "Indian Red",
-      "color_id": "86",
+      "name": "Khaki",
+      "color_id": "89",
       "rgb": [
-        205,
-        92,
-        92
+        240,
+        230,
+        140
       ],
-      "rgb_string": "rgb(205,92,92)",
+      "rgb_string": "rgb(240,230,140)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "51985178",
-          "rms_sku": "51985178",
+          "sku_key": "51042995",
           "gender": "M",
           "style_id": "3005595",
           "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
-          "purchase_date": "2011-12-27",
-          "percent_color": 0.86
+          "purchase_date": "2011-08-01",
+          "percent_color": 0.78
+        },
+        {
+          "sku_key": "51042993",
+          "gender": "M",
+          "style_id": "3005595",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
+          "purchase_date": "2011-08-24",
+          "percent_color": 0.78
         }
       ],
-      "count": 1,
-      "color_per_purchaes": 0.0132,
-      "weighted_count": 0.86,
-      "percent": 1.3158
+      "count": 2,
+      "color_per_purchaes": 0.0267,
+      "weighted_count": 1.56,
+      "percent": 2.6667
     },
     {
-      "name": "Dark Gray",
-      "color_id": "53",
+      "name": "Gray",
+      "color_id": "79",
       "rgb": [
-        169,
-        169,
-        169
+        190,
+        190,
+        190
       ],
-      "rgb_string": "rgb(169,169,169)",
+      "rgb_string": "rgb(190,190,190)",
       "grayscale": false,
       "purchases": [
         {
           "sku_key": "52810919",
-          "rms_sku": "52810919",
           "gender": "M",
           "style_id": "3233769",
           "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-traditional-fit-dress-shirt/3233769",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_6969672.jpg",
           "purchase_date": "2012-05-01",
-          "percent_color": 0.29
+          "percent_color": 0.15
+        },
+        {
+          "sku_key": "49696461",
+          "gender": "M",
+          "style_id": "3005595",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
+          "purchase_date": "2011-09-06",
+          "percent_color": 0.25
         }
       ],
-      "count": 1,
-      "color_per_purchaes": 0.0132,
-      "weighted_count": 0.29,
-      "percent": 1.3158
+      "count": 2,
+      "color_per_purchaes": 0.0267,
+      "weighted_count": 0.4,
+      "percent": 2.6667
     },
     {
       "name": "Light Gray",
@@ -1047,7 +779,6 @@
       "purchases": [
         {
           "sku_key": "52810919",
-          "rms_sku": "52810919",
           "gender": "M",
           "style_id": "3233769",
           "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-traditional-fit-dress-shirt/3233769",
@@ -1057,9 +788,35 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0132,
+      "color_per_purchaes": 0.0133,
       "weighted_count": 0.19,
-      "percent": 1.3158
+      "percent": 1.3333
+    },
+    {
+      "name": "Dark Gray",
+      "color_id": "53",
+      "rgb": [
+        169,
+        169,
+        169
+      ],
+      "rgb_string": "rgb(169,169,169)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "52810919",
+          "gender": "M",
+          "style_id": "3233769",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-traditional-fit-dress-shirt/3233769",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_6969672.jpg",
+          "purchase_date": "2012-05-01",
+          "percent_color": 0.29
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0133,
+      "weighted_count": 0.29,
+      "percent": 1.3333
     },
     {
       "name": "Silver",
@@ -1074,7 +831,6 @@
       "purchases": [
         {
           "sku_key": "52810919",
-          "rms_sku": "52810919",
           "gender": "M",
           "style_id": "3233769",
           "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-traditional-fit-dress-shirt/3233769",
@@ -1084,94 +840,169 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0132,
+      "color_per_purchaes": 0.0133,
       "weighted_count": 0.15,
-      "percent": 1.3158
+      "percent": 1.3333
     },
     {
-      "name": "Gainsboro",
-      "color_id": "75",
+      "name": "White",
+      "color_id": "169",
       "rgb": [
-        220,
-        220,
-        220
+        255,
+        255,
+        255
       ],
-      "rgb_string": "rgb(220,220,220)",
+      "rgb_string": "rgb(255,255,255)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "54204538",
-          "rms_sku": "54204538",
-          "gender": "F",
-          "style_id": "3309118",
-          "product_url": "http://shop.nordstrom.com/s/echo-linework-daisy-scarf/3309118",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6978380.jpg",
-          "purchase_date": "2012-05-08",
-          "percent_color": 0.25
+          "sku_key": "51225237",
+          "gender": "M",
+          "style_id": "3160945",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-trim-fit-dress-shirt/3160945",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6679436.jpg",
+          "purchase_date": "2011-06-06",
+          "percent_color": 0.21
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0132,
-      "weighted_count": 0.25,
-      "percent": 1.3158
+      "color_per_purchaes": 0.0133,
+      "weighted_count": 0.21,
+      "percent": 1.3333
     },
     {
-      "name": "Lavender",
-      "color_id": "90",
+      "name": "Alice Blue",
+      "color_id": "29",
       "rgb": [
-        230,
-        230,
-        250
-      ],
-      "rgb_string": "rgb(230,230,250)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "53036504",
-          "rms_sku": "53036504",
-          "gender": "F",
-          "style_id": "3244219",
-          "product_url": "http://shop.nordstrom.com/s/caslon-v-neck-elbow-sleeve-cardigan-petite/3244219",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_7050629.jpg",
-          "purchase_date": "2012-05-23",
-          "percent_color": 0.34
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0132,
-      "weighted_count": 0.34,
-      "percent": 1.3158
-    },
-    {
-      "name": "Ghost White",
-      "color_id": "76",
-      "rgb": [
-        248,
+        240,
         248,
         255
       ],
-      "rgb_string": "rgb(248,248,255)",
+      "rgb_string": "rgb(240,248,255)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "53036504",
-          "rms_sku": "53036504",
-          "gender": "F",
-          "style_id": "3244219",
-          "product_url": "http://shop.nordstrom.com/s/caslon-v-neck-elbow-sleeve-cardigan-petite/3244219",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_7050629.jpg",
-          "purchase_date": "2012-05-23",
-          "percent_color": 0.16
+          "sku_key": "51225237",
+          "gender": "M",
+          "style_id": "3160945",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-trim-fit-dress-shirt/3160945",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6679436.jpg",
+          "purchase_date": "2011-06-06",
+          "percent_color": 0.18
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0132,
-      "weighted_count": 0.16,
-      "percent": 1.3158
+      "color_per_purchaes": 0.0133,
+      "weighted_count": 0.18,
+      "percent": 1.3333
+    },
+    {
+      "name": "Indian Red",
+      "color_id": "86",
+      "rgb": [
+        205,
+        92,
+        92
+      ],
+      "rgb_string": "rgb(205,92,92)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "51985178",
+          "gender": "M",
+          "style_id": "3005595",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
+          "purchase_date": "2011-12-27",
+          "percent_color": 0.86
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0133,
+      "weighted_count": 0.86,
+      "percent": 1.3333
+    },
+    {
+      "name": "Peru",
+      "color_id": "140",
+      "rgb": [
+        205,
+        133,
+        63
+      ],
+      "rgb_string": "rgb(205,133,63)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "50344168",
+          "gender": "M",
+          "style_id": "3005595",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
+          "purchase_date": "2011-09-06",
+          "percent_color": 0.88
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0133,
+      "weighted_count": 0.88,
+      "percent": 1.3333
+    },
+    {
+      "name": "Slate Gray",
+      "color_id": "158",
+      "rgb": [
+        112,
+        128,
+        144
+      ],
+      "rgb_string": "rgb(112,128,144)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "49696471",
+          "gender": "M",
+          "style_id": "3005595",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
+          "purchase_date": "2011-09-06",
+          "percent_color": 0.65
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0133,
+      "weighted_count": 0.65,
+      "percent": 1.3333
+    },
+    {
+      "name": "Dark Slate Blue",
+      "color_id": "63",
+      "rgb": [
+        72,
+        61,
+        139
+      ],
+      "rgb_string": "rgb(72,61,139)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "49696471",
+          "gender": "M",
+          "style_id": "3005595",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
+          "purchase_date": "2011-09-06",
+          "percent_color": 0.22
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0133,
+      "weighted_count": 0.22,
+      "percent": 1.3333
     }
   ],
   "start_date": "2008-06-06",
-  "end_date": "2013-12-07",
-  "total_purchases": 76,
-  "total_colors": 24
+  "end_date": "2013-12-08",
+  "total_purchases": 75,
+  "total_colors": 19
 }
