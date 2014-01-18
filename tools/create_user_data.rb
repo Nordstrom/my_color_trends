@@ -13,6 +13,8 @@ output_dir = "../data/color_data"
 
 users = {}
 
+BAD = ["Bra"]
+
 def clean_name name
   name.gsub(/\(.*\)/,"").strip()
 end
@@ -31,12 +33,18 @@ def add_purchase color, csv
   date_parts = csv["BUS.DT"].strip.split("/").collect {|s| s.to_i}
   pur = {"sku_key" => csv["sku_idnt"].strip, "gender" => csv["gender.x"].strip, "style_id" => csv["web_style_id"].strip,
          "product_url" => csv["product_url"], "image_url" => csv["image_url"], 
+         "description" => csv["description"].strip,
+         "subclass_id" => csv["subclassifier_id"],
+         "class_id" => csv["classifier_id"],
+         "age_group" => csv["age_group"],
          # "purchase_date" => Date.parse(csv["BUS.DT"].strip),
          # "purchase_date" => DateTime.strptime(csv["BUS.DT"].strip, '%-m/%-d/%Y'),
          "purchase_date" => Date.new(date_parts[2], date_parts[0], date_parts[1]),
          "percent_color" => csv["color_percent"].strip.to_f
   }
-  color['purchases'] << pur
+  # if !BAD.include?(pur["description"])
+    color['purchases'] << pur
+  # end
 end
 
 def weight color

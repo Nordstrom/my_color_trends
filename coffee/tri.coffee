@@ -49,6 +49,7 @@ Timeline = () ->
   mouseover = (d,i) ->
     content = "<img src='#{d.image_url}' height='365px' width='240px' />"
     tooltip.showTooltip(content,d3.event)
+    console.log(d)
 
   mouseout = (d,i) ->
     tooltip.hideTooltip()
@@ -100,7 +101,7 @@ Timeline = () ->
     
 
     purchase = color.selectAll(".purchase")
-      .data(((d) -> d.purchases), ((e) ->  e.date))
+      .data(((d) -> d.purchases.filter (dd) -> dd.description != "Bra"), ((e) ->  e.date))
       .enter().append("g")
       .attr("class", "purchase")
       .attr("transform", (d) -> "translate(#{xScale(d.date)})")
@@ -655,12 +656,12 @@ $ ->
   d3.select(window)
     .on("resize", resize)
 
-  socialData = {"title":"My Color Trends -  the colors of my Nordstrom wardrobe visualized!", "source":"Nordstrom"}
-  Socialighter.sharing(socialData)
+  # socialData = {"title":"My Color Trends -  the colors of my Nordstrom wardrobe visualized!", "source":"Nordstrom"}
+  # Socialighter.sharing(socialData)
 
   # trigger screenshot now
-  config = {'key':user_id}
-  BanquoClient.getScreenshot(config)
+  # config = {'key':user_id}
+  # BanquoClient.getScreenshot(config)
 
   $('#link').on "click", (e) ->
     console.log(BanquoClient.screenshotUrl())

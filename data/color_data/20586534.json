@@ -6,39 +6,25 @@
   "colors": [
     {
       "name": "Black",
-      "color_id": "173",
+      "color_id": "36",
       "rgb": [
-        46,
-        45,
-        50
+        0,
+        0,
+        0
       ],
-      "rgb_string": "rgb(46,45,50)",
+      "rgb_string": "rgb(0,0,0)",
       "grayscale": false,
       "purchases": [
-        {
-          "sku_key": "55111261",
-          "gender": "M",
-          "style_id": "3371345",
-          "product_url": "http://shop.nordstrom.com/s/peek-sullivan-corduroy-jeans-toddler-little-boys-big-boys/3371345",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_7338868.jpg",
-          "purchase_date": "2012-10-10",
-          "percent_color": 0.34
-        },
-        {
-          "sku_key": "55111261",
-          "gender": "M",
-          "style_id": "3371345",
-          "product_url": "http://shop.nordstrom.com/s/peek-sullivan-corduroy-jeans-toddler-little-boys-big-boys/3371345",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_7338868.jpg",
-          "purchase_date": "2012-10-10",
-          "percent_color": 0.67
-        },
         {
           "sku_key": "49221041",
           "gender": "M",
           "style_id": "3105078",
           "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
+          "age_group": "A",
           "purchase_date": "2013-10-10",
           "percent_color": 0.5
         },
@@ -48,6 +34,10 @@
           "style_id": "3105078",
           "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
+          "age_group": "A",
           "purchase_date": "2013-10-10",
           "percent_color": 0.45
         },
@@ -57,6 +47,10 @@
           "style_id": "3105078",
           "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
+          "age_group": "A",
           "purchase_date": "2013-10-10",
           "percent_color": 0.52
         },
@@ -66,6 +60,10 @@
           "style_id": "3250641",
           "product_url": "http://shop.nordstrom.com/s/smartwool-nailhead-grid-socks-men/3250641",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6994083.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
+          "age_group": "A",
           "purchase_date": "2013-10-10",
           "percent_color": 0.49
         },
@@ -75,6 +73,10 @@
           "style_id": "3250641",
           "product_url": "http://shop.nordstrom.com/s/smartwool-nailhead-grid-socks-men/3250641",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6994083.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
+          "age_group": "A",
           "purchase_date": "2013-10-10",
           "percent_color": 0.52
         },
@@ -84,6 +86,10 @@
           "style_id": "3105078",
           "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
+          "age_group": "A",
           "purchase_date": "2013-10-10",
           "percent_color": 0.56
         },
@@ -93,6 +99,10 @@
           "style_id": "3105078",
           "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
+          "age_group": "A",
           "purchase_date": "2013-10-10",
           "percent_color": 0.5
         },
@@ -102,6 +112,10 @@
           "style_id": "3105078",
           "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
+          "age_group": "A",
           "purchase_date": "2013-10-10",
           "percent_color": 0.52
         },
@@ -111,6 +125,10 @@
           "style_id": "3105078",
           "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
+          "age_group": "A",
           "purchase_date": "2013-10-10",
           "percent_color": 0.45
         },
@@ -120,71 +138,12 @@
           "style_id": "3105078",
           "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
+          "age_group": "A",
           "purchase_date": "2013-10-10",
           "percent_color": 0.56
-        },
-        {
-          "sku_key": "57306528",
-          "gender": "M",
-          "style_id": "3537393",
-          "product_url": "http://shop.nordstrom.com/s/peek-ellis-straight-leg-jeans-toddler-boys-little-boys-big-boys/3537393",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_8134842.jpg",
-          "purchase_date": "2013-10-17",
-          "percent_color": 0.44
-        },
-        {
-          "sku_key": "57306528",
-          "gender": "M",
-          "style_id": "3537393",
-          "product_url": "http://shop.nordstrom.com/s/peek-ellis-straight-leg-jeans-toddler-boys-little-boys-big-boys/3537393",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_8134842.jpg",
-          "purchase_date": "2013-10-17",
-          "percent_color": 0.54
-        },
-        {
-          "sku_key": "57303007",
-          "gender": "M",
-          "style_id": "3537128",
-          "product_url": "http://shop.nordstrom.com/s/peek-ellis-slim-corduroy-pants-toddler-boys-little-boys-big-boys/3537128",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_8272666.jpg",
-          "purchase_date": "2013-10-17",
-          "percent_color": 0.31
-        },
-        {
-          "sku_key": "57303007",
-          "gender": "M",
-          "style_id": "3537128",
-          "product_url": "http://shop.nordstrom.com/s/peek-ellis-slim-corduroy-pants-toddler-boys-little-boys-big-boys/3537128",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_8272666.jpg",
-          "purchase_date": "2013-10-17",
-          "percent_color": 0.7
-        },
-        {
-          "sku_key": "52221359",
-          "gender": "M",
-          "style_id": "3202925",
-          "product_url": "http://shop.nordstrom.com/s/peek-wesley-cargo-pants-toddler-little-boys-big-boys/3202925",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6588794.jpg",
-          "purchase_date": "2011-12-13",
-          "percent_color": 0.23
-        },
-        {
-          "sku_key": "52221359",
-          "gender": "M",
-          "style_id": "3202925",
-          "product_url": "http://shop.nordstrom.com/s/peek-wesley-cargo-pants-toddler-little-boys-big-boys/3202925",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6588794.jpg",
-          "purchase_date": "2011-12-28",
-          "percent_color": 0.23
-        },
-        {
-          "sku_key": "51268068",
-          "gender": "M",
-          "style_id": "3162617",
-          "product_url": "http://shop.nordstrom.com/s/the-north-face-glacier-pants-little-boys/3162617",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_8212906.jpg",
-          "purchase_date": "2011-12-28",
-          "percent_color": 1.01
         },
         {
           "sku_key": "49746106",
@@ -192,6 +151,10 @@
           "style_id": "3064161",
           "product_url": "http://shop.nordstrom.com/s/the-rail-trim-fit-v-neck-t-shirt-2-for-30/3064161",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_6597984.jpg",
+          "description": "T-shirt/Tee",
+          "subclass_id": "205",
+          "class_id": "12",
+          "age_group": "A",
           "purchase_date": "2010-12-07",
           "percent_color": 0.96
         },
@@ -201,6 +164,10 @@
           "style_id": "3154327",
           "product_url": "http://shop.nordstrom.com/s/john-w-nordstrom-woven-silk-tie/3154327",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_6367975.jpg",
+          "description": "Tie",
+          "subclass_id": "306",
+          "class_id": "20",
+          "age_group": "A",
           "purchase_date": "2011-02-03",
           "percent_color": 0.5
         },
@@ -210,6 +177,10 @@
           "style_id": "3205367",
           "product_url": "http://shop.nordstrom.com/s/robert-barakett-monterey-v-neck-t-shirt/3205367",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_6995484.jpg",
+          "description": "T-shirt/Tee",
+          "subclass_id": "205",
+          "class_id": "12",
+          "age_group": "A",
           "purchase_date": "2012-05-10",
           "percent_color": 1.01
         },
@@ -219,6 +190,10 @@
           "style_id": "3105078",
           "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
+          "age_group": "A",
           "purchase_date": "2012-05-28",
           "percent_color": 0.56
         },
@@ -228,6 +203,10 @@
           "style_id": "3105078",
           "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
+          "age_group": "A",
           "purchase_date": "2012-05-28",
           "percent_color": 0.45
         },
@@ -237,6 +216,10 @@
           "style_id": "3105078",
           "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
+          "age_group": "A",
           "purchase_date": "2012-05-28",
           "percent_color": 0.45
         },
@@ -246,44 +229,12 @@
           "style_id": "3105078",
           "product_url": "http://shop.nordstrom.com/s/smartwool-new-classic-ribbed-socks-men/3105078",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6098077.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
+          "age_group": "A",
           "purchase_date": "2012-05-28",
           "percent_color": 0.56
-        },
-        {
-          "sku_key": "56519788",
-          "gender": "M",
-          "style_id": "3266870",
-          "product_url": "http://shop.nordstrom.com/s/tucker-tate-flannel-pajama-pants-little-boys-big-boys/3266870",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_7610315.jpg",
-          "purchase_date": "2013-07-20",
-          "percent_color": 0.26
-        },
-        {
-          "sku_key": "56011901",
-          "gender": "M",
-          "style_id": "3440867",
-          "product_url": "http://shop.nordstrom.com/s/tucker-tate-townsend-straight-leg-jeans-little-boys/3440867",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_8011034.jpg",
-          "purchase_date": "2013-07-20",
-          "percent_color": 0.92
-        },
-        {
-          "sku_key": "49665403",
-          "gender": "M",
-          "style_id": "3112967",
-          "product_url": "http://shop.nordstrom.com/s/joseph-abboud-flat-front-dress-pants-little-boys-big-boys/3112967",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_6159109.jpg",
-          "purchase_date": "2013-07-20",
-          "percent_color": 1.01
-        },
-        {
-          "sku_key": "56519794",
-          "gender": "M",
-          "style_id": "3266870",
-          "product_url": "http://shop.nordstrom.com/s/tucker-tate-flannel-pajama-pants-little-boys-big-boys/3266870",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_7610315.jpg",
-          "purchase_date": "2013-07-20",
-          "percent_color": 0.27
         },
         {
           "sku_key": "52816149",
@@ -291,6 +242,10 @@
           "style_id": "3233387",
           "product_url": "http://shop.nordstrom.com/s/citizens-of-humanity-perfect-casual-fit-straight-leg-jeans-baron/3233387",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_8141858.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
           "purchase_date": "2013-07-20",
           "percent_color": 0.88
         },
@@ -300,6 +255,10 @@
           "style_id": "3201771",
           "product_url": "http://shop.nordstrom.com/s/fidelity-denim-5011-straight-leg-jeans-sabbath-rinse/3201771",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7093397.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
           "purchase_date": "2013-07-20",
           "percent_color": 0.41
         },
@@ -309,6 +268,10 @@
           "style_id": "3201771",
           "product_url": "http://shop.nordstrom.com/s/fidelity-denim-5011-straight-leg-jeans-sabbath-rinse/3201771",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7093397.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
           "purchase_date": "2013-07-20",
           "percent_color": 0.61
         },
@@ -318,6 +281,10 @@
           "style_id": "3114110",
           "product_url": "http://shop.nordstrom.com/s/ag-protege-straight-leg-jeans-black-overdye/3114110",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_8319047.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
           "purchase_date": "2013-07-20",
           "percent_color": 1.01
         },
@@ -327,6 +294,10 @@
           "style_id": "3569287",
           "product_url": "http://shop.nordstrom.com/s/citizens-of-humanity-sid-straight-leg-jeans-midnight-black/3569287",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_8166268.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
           "purchase_date": "2013-07-20",
           "percent_color": 0.28
         },
@@ -336,6 +307,10 @@
           "style_id": "3569287",
           "product_url": "http://shop.nordstrom.com/s/citizens-of-humanity-sid-straight-leg-jeans-midnight-black/3569287",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_8166268.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
           "purchase_date": "2013-07-20",
           "percent_color": 0.73
         },
@@ -345,6 +320,10 @@
           "style_id": "3124525",
           "product_url": "http://shop.nordstrom.com/s/asics-gel-kayano-17-running-shoe-men/3124525",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6348254.jpg",
+          "description": "Athletic",
+          "subclass_id": "224",
+          "class_id": "4",
+          "age_group": "A",
           "purchase_date": "2011-07-25",
           "percent_color": 0.19
         },
@@ -354,41 +333,18 @@
           "style_id": "3124525",
           "product_url": "http://shop.nordstrom.com/s/asics-gel-kayano-17-running-shoe-men/3124525",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6348254.jpg",
+          "description": "Athletic",
+          "subclass_id": "224",
+          "class_id": "4",
+          "age_group": "A",
           "purchase_date": "2011-07-25",
           "percent_color": 0.19
-        },
-        {
-          "sku_key": "56011901",
-          "gender": "M",
-          "style_id": "3440867",
-          "product_url": "http://shop.nordstrom.com/s/tucker-tate-townsend-straight-leg-jeans-little-boys/3440867",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_8011034.jpg",
-          "purchase_date": "2013-07-26",
-          "percent_color": 0.92
-        },
-        {
-          "sku_key": "49665403",
-          "gender": "M",
-          "style_id": "3112967",
-          "product_url": "http://shop.nordstrom.com/s/joseph-abboud-flat-front-dress-pants-little-boys-big-boys/3112967",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_6159109.jpg",
-          "purchase_date": "2013-07-26",
-          "percent_color": 1.01
-        },
-        {
-          "sku_key": "45638003",
-          "gender": "M",
-          "style_id": "3026337",
-          "product_url": "http://shop.nordstrom.com/s/columbia-reversible-nylon-jacket-little-boys/3026337",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_5939457.jpg",
-          "purchase_date": "2009-08-05",
-          "percent_color": 0.99
         }
       ],
-      "count": 41,
-      "color_per_purchaes": 0.4556,
-      "weighted_count": 23.710000000000004,
-      "percent": 45.5556
+      "count": 25,
+      "color_per_purchaes": 0.431,
+      "weighted_count": 13.859999999999998,
+      "percent": 43.1034
     },
     {
       "name": "Light Steel Blue",
@@ -407,6 +363,10 @@
           "style_id": "3135708",
           "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-trim-fit-solid-pinpoint-dress-shirt/3135708",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/10/_8501910.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
           "purchase_date": "2011-02-03",
           "percent_color": 0.59
         },
@@ -416,6 +376,10 @@
           "style_id": "3252554",
           "product_url": "http://shop.nordstrom.com/s/thomas-dean-stripe-sport-shirt/3252554",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_6833048.jpg",
+          "description": "Sportshirt",
+          "subclass_id": "41",
+          "class_id": "12",
+          "age_group": "A",
           "purchase_date": "2012-05-10",
           "percent_color": 0.18
         },
@@ -425,6 +389,10 @@
           "style_id": "3282169",
           "product_url": "http://shop.nordstrom.com/s/ezekiel-randy-woven-shirt/3282169",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6934887.jpg",
+          "description": "Shirt",
+          "subclass_id": "227",
+          "class_id": "12",
+          "age_group": "A",
           "purchase_date": "2012-05-10",
           "percent_color": 0.44
         },
@@ -434,6 +402,10 @@
           "style_id": "3282169",
           "product_url": "http://shop.nordstrom.com/s/ezekiel-randy-woven-shirt/3282169",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6934887.jpg",
+          "description": "Shirt",
+          "subclass_id": "227",
+          "class_id": "12",
+          "age_group": "A",
           "purchase_date": "2012-05-28",
           "percent_color": 0.44
         },
@@ -443,17 +415,12 @@
           "style_id": "3252554",
           "product_url": "http://shop.nordstrom.com/s/thomas-dean-stripe-sport-shirt/3252554",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_6833048.jpg",
+          "description": "Sportshirt",
+          "subclass_id": "41",
+          "class_id": "12",
+          "age_group": "A",
           "purchase_date": "2012-05-28",
           "percent_color": 0.18
-        },
-        {
-          "sku_key": "55623754",
-          "gender": "M",
-          "style_id": "3214529",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-dress-shirt-little-boys-big-boys/3214529",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7134477.jpg",
-          "purchase_date": "2013-07-20",
-          "percent_color": 1.01
         },
         {
           "sku_key": "56398707",
@@ -461,17 +428,12 @@
           "style_id": "3469629",
           "product_url": "http://shop.nordstrom.com/s/canali-regular-fit-sport-shirt/3469629",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_8008039.jpg",
+          "description": "Sportshirt",
+          "subclass_id": "41",
+          "class_id": "12",
+          "age_group": "A",
           "purchase_date": "2013-07-20",
           "percent_color": 0.35
-        },
-        {
-          "sku_key": "51045021",
-          "gender": "M",
-          "style_id": "3153578",
-          "product_url": "http://shop.nordstrom.com/s/did-too-wheeler-thermal-t-shirt-little-boys/3153578",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6490540.jpg",
-          "purchase_date": "2011-07-21",
-          "percent_color": 0.88
         },
         {
           "sku_key": "42087542",
@@ -479,145 +441,18 @@
           "style_id": "2974830",
           "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-tailored-fit-dress-shirt/2974830",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_5823354.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
           "purchase_date": "2008-07-23",
           "percent_color": 0.54
-        },
-        {
-          "sku_key": "55623754",
-          "gender": "M",
-          "style_id": "3214529",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-dress-shirt-little-boys-big-boys/3214529",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7134477.jpg",
-          "purchase_date": "2013-07-26",
-          "percent_color": 1.01
         }
       ],
-      "count": 10,
-      "color_per_purchaes": 0.1111,
-      "weighted_count": 5.62,
-      "percent": 11.1111
-    },
-    {
-      "name": "Maroon",
-      "color_id": "112",
-      "rgb": [
-        127,
-        0,
-        0
-      ],
-      "rgb_string": "rgb(127,0,0)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "50510793",
-          "gender": "M",
-          "style_id": "3133975",
-          "product_url": "http://shop.nordstrom.com/s/josef-seibel-lawson-clog-sandal/3133975",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_6344029.jpg",
-          "purchase_date": "2012-05-10",
-          "percent_color": 0.57
-        },
-        {
-          "sku_key": "50510793",
-          "gender": "M",
-          "style_id": "3133975",
-          "product_url": "http://shop.nordstrom.com/s/josef-seibel-lawson-clog-sandal/3133975",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_6344029.jpg",
-          "purchase_date": "2012-05-28",
-          "percent_color": 0.57
-        },
-        {
-          "sku_key": "56519794",
-          "gender": "M",
-          "style_id": "3266870",
-          "product_url": "http://shop.nordstrom.com/s/tucker-tate-flannel-pajama-pants-little-boys-big-boys/3266870",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_7610315.jpg",
-          "purchase_date": "2013-07-20",
-          "percent_color": 0.26
-        },
-        {
-          "sku_key": "50305366",
-          "gender": "M",
-          "style_id": "3130864",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-stripe-zipper-tie-little-boys/3130864",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6237667.jpg",
-          "purchase_date": "2010-09-19",
-          "percent_color": 0.49
-        },
-        {
-          "sku_key": "50305366",
-          "gender": "M",
-          "style_id": "3130864",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-stripe-zipper-tie-little-boys/3130864",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6237667.jpg",
-          "purchase_date": "2010-09-19",
-          "percent_color": 0.23
-        }
-      ],
-      "count": 5,
-      "color_per_purchaes": 0.0556,
-      "weighted_count": 2.12,
-      "percent": 5.5556
-    },
-    {
-      "name": "NA",
-      "color_id": "NA",
-      "rgb": [
-        0
-      ],
-      "rgb_string": "rgb(0)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "54021112",
-          "gender": "M",
-          "style_id": "3297771",
-          "product_url": "http://shop.nordstrom.com/s//3297771",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_6974184.jpg",
-          "purchase_date": "2012-04-29",
-          "percent_color": 0.0
-        },
-        {
-          "sku_key": "54021118",
-          "gender": "M",
-          "style_id": "3297771",
-          "product_url": "http://shop.nordstrom.com/s//3297771",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_6974184.jpg",
-          "purchase_date": "2012-04-29",
-          "percent_color": 0.0
-        },
-        {
-          "sku_key": "53145557",
-          "gender": "M",
-          "style_id": "3249813",
-          "product_url": "http://shop.nordstrom.com/s/michael-kors-jake-check-woven-shirt/3249813",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6936574.jpg",
-          "purchase_date": "2012-05-10",
-          "percent_color": 0.0
-        },
-        {
-          "sku_key": "53145557",
-          "gender": "M",
-          "style_id": "3249813",
-          "product_url": "http://shop.nordstrom.com/s/michael-kors-jake-check-woven-shirt/3249813",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6936574.jpg",
-          "purchase_date": "2012-05-28",
-          "percent_color": 0.0
-        },
-        {
-          "sku_key": "49770009",
-          "gender": "M",
-          "style_id": "3121734",
-          "product_url": "http://shop.nordstrom.com/s/joseph-abboud-flat-front-dress-pants-little-boys/3121734",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_6783159.jpg",
-          "purchase_date": "2010-09-19",
-          "percent_color": 0.0
-        }
-      ],
-      "count": 5,
-      "color_per_purchaes": 0.0556,
-      "weighted_count": 0.0,
-      "percent": 5.5556
+      "count": 7,
+      "color_per_purchaes": 0.1207,
+      "weighted_count": 2.7199999999999998,
+      "percent": 12.069
     },
     {
       "name": "Ghost White",
@@ -636,6 +471,10 @@
           "style_id": "3252609",
           "product_url": "http://shop.nordstrom.com/s/thomas-dean-pattern-sport-shirt/3252609",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6850307.jpg",
+          "description": "Sportshirt",
+          "subclass_id": "41",
+          "class_id": "12",
+          "age_group": "A",
           "purchase_date": "2012-05-10",
           "percent_color": 0.6
         },
@@ -645,6 +484,10 @@
           "style_id": "3252609",
           "product_url": "http://shop.nordstrom.com/s/thomas-dean-pattern-sport-shirt/3252609",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6850307.jpg",
+          "description": "Sportshirt",
+          "subclass_id": "41",
+          "class_id": "12",
+          "age_group": "A",
           "purchase_date": "2012-05-28",
           "percent_color": 0.6
         },
@@ -654,137 +497,59 @@
           "style_id": "3469622",
           "product_url": "http://shop.nordstrom.com/s/canali-regular-fit-sport-shirt/3469622",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/10/_7921810.jpg",
+          "description": "Sportshirt",
+          "subclass_id": "41",
+          "class_id": "12",
+          "age_group": "A",
           "purchase_date": "2013-07-20",
           "percent_color": 0.16
         }
       ],
       "count": 3,
-      "color_per_purchaes": 0.0333,
+      "color_per_purchaes": 0.0517,
       "weighted_count": 1.3599999999999999,
-      "percent": 3.3333
+      "percent": 5.1724
     },
     {
-      "name": "Dim Gray",
-      "color_id": "69",
+      "name": "NA",
+      "color_id": "NA",
       "rgb": [
-        105,
-        105,
-        105
+        0
       ],
-      "rgb_string": "rgb(105,105,105)",
+      "rgb_string": "rgb(0)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "53169793",
+          "sku_key": "53145557",
           "gender": "M",
-          "style_id": "3250641",
-          "product_url": "http://shop.nordstrom.com/s/smartwool-nailhead-grid-socks-men/3250641",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6994083.jpg",
-          "purchase_date": "2013-10-10",
-          "percent_color": 0.32
-        },
-        {
-          "sku_key": "52221359",
-          "gender": "M",
-          "style_id": "3202925",
-          "product_url": "http://shop.nordstrom.com/s/peek-wesley-cargo-pants-toddler-little-boys-big-boys/3202925",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6588794.jpg",
-          "purchase_date": "2011-12-13",
-          "percent_color": 0.77
-        },
-        {
-          "sku_key": "52221359",
-          "gender": "M",
-          "style_id": "3202925",
-          "product_url": "http://shop.nordstrom.com/s/peek-wesley-cargo-pants-toddler-little-boys-big-boys/3202925",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6588794.jpg",
-          "purchase_date": "2011-12-28",
-          "percent_color": 0.77
-        }
-      ],
-      "count": 3,
-      "color_per_purchaes": 0.0333,
-      "weighted_count": 1.86,
-      "percent": 3.3333
-    },
-    {
-      "name": "Light Gray",
-      "color_id": "98",
-      "rgb": [
-        211,
-        211,
-        211
-      ],
-      "rgb_string": "rgb(211,211,211)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "51054413",
-          "gender": "M",
-          "style_id": "3153579",
-          "product_url": "http://shop.nordstrom.com/s/did-too-summit-cargo-pants-little-boys/3153579",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_6471368.jpg",
-          "purchase_date": "2011-12-28",
-          "percent_color": 0.91
-        },
-        {
-          "sku_key": "53686662",
-          "gender": "M",
-          "style_id": "3282169",
-          "product_url": "http://shop.nordstrom.com/s/ezekiel-randy-woven-shirt/3282169",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6934887.jpg",
+          "style_id": "3249813",
+          "product_url": "http://shop.nordstrom.com/s/michael-kors-jake-check-woven-shirt/3249813",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6936574.jpg",
+          "description": "Sportshirt",
+          "subclass_id": "41",
+          "class_id": "12",
+          "age_group": "A",
           "purchase_date": "2012-05-10",
-          "percent_color": 0.19
+          "percent_color": 0.0
         },
         {
-          "sku_key": "53686662",
+          "sku_key": "53145557",
           "gender": "M",
-          "style_id": "3282169",
-          "product_url": "http://shop.nordstrom.com/s/ezekiel-randy-woven-shirt/3282169",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6934887.jpg",
+          "style_id": "3249813",
+          "product_url": "http://shop.nordstrom.com/s/michael-kors-jake-check-woven-shirt/3249813",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6936574.jpg",
+          "description": "Sportshirt",
+          "subclass_id": "41",
+          "class_id": "12",
+          "age_group": "A",
           "purchase_date": "2012-05-28",
-          "percent_color": 0.19
-        }
-      ],
-      "count": 3,
-      "color_per_purchaes": 0.0333,
-      "weighted_count": 1.29,
-      "percent": 3.3333
-    },
-    {
-      "name": "Lavender",
-      "color_id": "90",
-      "rgb": [
-        230,
-        230,
-        250
-      ],
-      "rgb_string": "rgb(230,230,250)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "50394702",
-          "gender": "M",
-          "style_id": "3135708",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-trim-fit-solid-pinpoint-dress-shirt/3135708",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/10/_8501910.jpg",
-          "purchase_date": "2011-02-03",
-          "percent_color": 0.42
-        },
-        {
-          "sku_key": "56398707",
-          "gender": "M",
-          "style_id": "3469629",
-          "product_url": "http://shop.nordstrom.com/s/canali-regular-fit-sport-shirt/3469629",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_8008039.jpg",
-          "purchase_date": "2013-07-20",
-          "percent_color": 0.38
+          "percent_color": 0.0
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0222,
-      "weighted_count": 0.8,
-      "percent": 2.2222
+      "color_per_purchaes": 0.0345,
+      "weighted_count": 0.0,
+      "percent": 3.4483
     },
     {
       "name": "Dark Slate Blue",
@@ -803,6 +568,10 @@
           "style_id": "3297616",
           "product_url": "http://shop.nordstrom.com/s/worn-jeans-octane-straight-leg-jeans-clean-dark/3297616",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_6921179.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
           "purchase_date": "2008-12-17",
           "percent_color": 0.4
         },
@@ -812,49 +581,61 @@
           "style_id": "3469625",
           "product_url": "http://shop.nordstrom.com/s/canali-regular-fit-sport-shirt/3469625",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_7921908.jpg",
+          "description": "Sportshirt",
+          "subclass_id": "41",
+          "class_id": "12",
+          "age_group": "A",
           "purchase_date": "2013-07-20",
           "percent_color": 0.2
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0222,
+      "color_per_purchaes": 0.0345,
       "weighted_count": 0.6000000000000001,
-      "percent": 2.2222
+      "percent": 3.4483
     },
     {
-      "name": "Cornflower",
-      "color_id": "46",
+      "name": "Light Gray",
+      "color_id": "98",
       "rgb": [
-        100,
-        149,
-        237
+        211,
+        211,
+        211
       ],
-      "rgb_string": "rgb(100,149,237)",
+      "rgb_string": "rgb(211,211,211)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "49623553",
+          "sku_key": "53686662",
           "gender": "M",
-          "style_id": "3115524",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-trim-fit-dress-shirt/3115524",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6289236.jpg",
-          "purchase_date": "2011-02-03",
-          "percent_color": 0.84
+          "style_id": "3282169",
+          "product_url": "http://shop.nordstrom.com/s/ezekiel-randy-woven-shirt/3282169",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6934887.jpg",
+          "description": "Shirt",
+          "subclass_id": "227",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2012-05-10",
+          "percent_color": 0.19
         },
         {
-          "sku_key": "48618411",
+          "sku_key": "53686662",
           "gender": "M",
-          "style_id": "3100964",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-dress-shirt-little-boys/3100964",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_6347702.jpg",
-          "purchase_date": "2010-09-19",
-          "percent_color": 0.49
+          "style_id": "3282169",
+          "product_url": "http://shop.nordstrom.com/s/ezekiel-randy-woven-shirt/3282169",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6934887.jpg",
+          "description": "Shirt",
+          "subclass_id": "227",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2012-05-28",
+          "percent_color": 0.19
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0222,
-      "weighted_count": 1.33,
-      "percent": 2.2222
+      "color_per_purchaes": 0.0345,
+      "weighted_count": 0.38,
+      "percent": 3.4483
     },
     {
       "name": "Alice Blue",
@@ -873,6 +654,10 @@
           "style_id": "3469629",
           "product_url": "http://shop.nordstrom.com/s/canali-regular-fit-sport-shirt/3469629",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_8008039.jpg",
+          "description": "Sportshirt",
+          "subclass_id": "41",
+          "class_id": "12",
+          "age_group": "A",
           "purchase_date": "2013-07-20",
           "percent_color": 0.2
         },
@@ -882,14 +667,104 @@
           "style_id": "3469578",
           "product_url": "http://shop.nordstrom.com/s/canali-regular-fit-sport-shirt/3469578",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_7921702.jpg",
+          "description": "Sportshirt",
+          "subclass_id": "41",
+          "class_id": "12",
+          "age_group": "A",
           "purchase_date": "2013-07-20",
           "percent_color": 0.24
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0222,
+      "color_per_purchaes": 0.0345,
       "weighted_count": 0.44,
-      "percent": 2.2222
+      "percent": 3.4483
+    },
+    {
+      "name": "Lavender",
+      "color_id": "90",
+      "rgb": [
+        230,
+        230,
+        250
+      ],
+      "rgb_string": "rgb(230,230,250)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "50394702",
+          "gender": "M",
+          "style_id": "3135708",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-trim-fit-solid-pinpoint-dress-shirt/3135708",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/10/_8501910.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2011-02-03",
+          "percent_color": 0.42
+        },
+        {
+          "sku_key": "56398707",
+          "gender": "M",
+          "style_id": "3469629",
+          "product_url": "http://shop.nordstrom.com/s/canali-regular-fit-sport-shirt/3469629",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_8008039.jpg",
+          "description": "Sportshirt",
+          "subclass_id": "41",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-07-20",
+          "percent_color": 0.38
+        }
+      ],
+      "count": 2,
+      "color_per_purchaes": 0.0345,
+      "weighted_count": 0.8,
+      "percent": 3.4483
+    },
+    {
+      "name": "Maroon",
+      "color_id": "112",
+      "rgb": [
+        127,
+        0,
+        0
+      ],
+      "rgb_string": "rgb(127,0,0)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "50510793",
+          "gender": "M",
+          "style_id": "3133975",
+          "product_url": "http://shop.nordstrom.com/s/josef-seibel-lawson-clog-sandal/3133975",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_6344029.jpg",
+          "description": "Sandals/Slides",
+          "subclass_id": "299",
+          "class_id": "4",
+          "age_group": "A",
+          "purchase_date": "2012-05-10",
+          "percent_color": 0.57
+        },
+        {
+          "sku_key": "50510793",
+          "gender": "M",
+          "style_id": "3133975",
+          "product_url": "http://shop.nordstrom.com/s/josef-seibel-lawson-clog-sandal/3133975",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_6344029.jpg",
+          "description": "Sandals/Slides",
+          "subclass_id": "299",
+          "class_id": "4",
+          "age_group": "A",
+          "purchase_date": "2012-05-28",
+          "percent_color": 0.57
+        }
+      ],
+      "count": 2,
+      "color_per_purchaes": 0.0345,
+      "weighted_count": 1.14,
+      "percent": 3.4483
     },
     {
       "name": "Saddle Brown",
@@ -908,6 +783,10 @@
           "style_id": "3133975",
           "product_url": "http://shop.nordstrom.com/s/josef-seibel-lawson-clog-sandal/3133975",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_6344029.jpg",
+          "description": "Sandals/Slides",
+          "subclass_id": "299",
+          "class_id": "4",
+          "age_group": "A",
           "purchase_date": "2012-05-10",
           "percent_color": 0.26
         },
@@ -917,14 +796,48 @@
           "style_id": "3133975",
           "product_url": "http://shop.nordstrom.com/s/josef-seibel-lawson-clog-sandal/3133975",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_6344029.jpg",
+          "description": "Sandals/Slides",
+          "subclass_id": "299",
+          "class_id": "4",
+          "age_group": "A",
           "purchase_date": "2012-05-28",
           "percent_color": 0.26
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0222,
+      "color_per_purchaes": 0.0345,
       "weighted_count": 0.52,
-      "percent": 2.2222
+      "percent": 3.4483
+    },
+    {
+      "name": "Cornflower",
+      "color_id": "46",
+      "rgb": [
+        100,
+        149,
+        237
+      ],
+      "rgb_string": "rgb(100,149,237)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "49623553",
+          "gender": "M",
+          "style_id": "3115524",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-trim-fit-dress-shirt/3115524",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6289236.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2011-02-03",
+          "percent_color": 0.84
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0172,
+      "weighted_count": 0.84,
+      "percent": 1.7241
     },
     {
       "name": "Royal Blue",
@@ -943,75 +856,18 @@
           "style_id": "3297616",
           "product_url": "http://shop.nordstrom.com/s/worn-jeans-octane-straight-leg-jeans-clean-dark/3297616",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_6921179.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
           "purchase_date": "2008-12-17",
           "percent_color": 0.2
-        },
-        {
-          "sku_key": "48618411",
-          "gender": "M",
-          "style_id": "3100964",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-dress-shirt-little-boys/3100964",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_6347702.jpg",
-          "purchase_date": "2010-09-19",
-          "percent_color": 0.2
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0222,
-      "weighted_count": 0.4,
-      "percent": 2.2222
-    },
-    {
-      "name": "Gray",
-      "color_id": "80",
-      "rgb": [
-        128,
-        128,
-        128
-      ],
-      "rgb_string": "rgb(128,128,128)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "53169793",
-          "gender": "M",
-          "style_id": "3250641",
-          "product_url": "http://shop.nordstrom.com/s/smartwool-nailhead-grid-socks-men/3250641",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6994083.jpg",
-          "purchase_date": "2013-10-10",
-          "percent_color": 0.21
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0111,
-      "weighted_count": 0.21,
-      "percent": 1.1111
-    },
-    {
-      "name": "White Smoke",
-      "color_id": "170",
-      "rgb": [
-        245,
-        245,
-        245
-      ],
-      "rgb_string": "rgb(245,245,245)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "45946213",
-          "gender": "M",
-          "style_id": "3031224",
-          "product_url": "http://shop.nordstrom.com/s/geox-tornado-sneaker-toddler-little-kid-big-kid/3031224",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_6103578.jpg",
-          "purchase_date": "2010-05-15",
-          "percent_color": 0.6
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0111,
-      "weighted_count": 0.6,
-      "percent": 1.1111
+      "color_per_purchaes": 0.0172,
+      "weighted_count": 0.2,
+      "percent": 1.7241
     },
     {
       "name": "Slate Gray",
@@ -1030,14 +886,78 @@
           "style_id": "3297616",
           "product_url": "http://shop.nordstrom.com/s/worn-jeans-octane-straight-leg-jeans-clean-dark/3297616",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_6921179.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
           "purchase_date": "2008-12-17",
           "percent_color": 0.16
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0111,
+      "color_per_purchaes": 0.0172,
       "weighted_count": 0.16,
-      "percent": 1.1111
+      "percent": 1.7241
+    },
+    {
+      "name": "Dim Gray",
+      "color_id": "69",
+      "rgb": [
+        105,
+        105,
+        105
+      ],
+      "rgb_string": "rgb(105,105,105)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "53169793",
+          "gender": "M",
+          "style_id": "3250641",
+          "product_url": "http://shop.nordstrom.com/s/smartwool-nailhead-grid-socks-men/3250641",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6994083.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
+          "age_group": "A",
+          "purchase_date": "2013-10-10",
+          "percent_color": 0.32
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0172,
+      "weighted_count": 0.32,
+      "percent": 1.7241
+    },
+    {
+      "name": "Gray",
+      "color_id": "80",
+      "rgb": [
+        128,
+        128,
+        128
+      ],
+      "rgb_string": "rgb(128,128,128)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "53169793",
+          "gender": "M",
+          "style_id": "3250641",
+          "product_url": "http://shop.nordstrom.com/s/smartwool-nailhead-grid-socks-men/3250641",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6994083.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
+          "age_group": "A",
+          "purchase_date": "2013-10-10",
+          "percent_color": 0.21
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0172,
+      "weighted_count": 0.21,
+      "percent": 1.7241
     },
     {
       "name": "Light Slate Gray",
@@ -1056,14 +976,18 @@
           "style_id": "3469625",
           "product_url": "http://shop.nordstrom.com/s/canali-regular-fit-sport-shirt/3469625",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_7921908.jpg",
+          "description": "Sportshirt",
+          "subclass_id": "41",
+          "class_id": "12",
+          "age_group": "A",
           "purchase_date": "2013-07-20",
           "percent_color": 0.19
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0111,
+      "color_per_purchaes": 0.0172,
       "weighted_count": 0.19,
-      "percent": 1.1111
+      "percent": 1.7241
     },
     {
       "name": "Thistle",
@@ -1082,14 +1006,18 @@
           "style_id": "3469625",
           "product_url": "http://shop.nordstrom.com/s/canali-regular-fit-sport-shirt/3469625",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_7921908.jpg",
+          "description": "Sportshirt",
+          "subclass_id": "41",
+          "class_id": "12",
+          "age_group": "A",
           "purchase_date": "2013-07-20",
           "percent_color": 0.24
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0111,
+      "color_per_purchaes": 0.0172,
       "weighted_count": 0.24,
-      "percent": 1.1111
+      "percent": 1.7241
     },
     {
       "name": "Dark Gray",
@@ -1108,14 +1036,18 @@
           "style_id": "3469578",
           "product_url": "http://shop.nordstrom.com/s/canali-regular-fit-sport-shirt/3469578",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_7921702.jpg",
+          "description": "Sportshirt",
+          "subclass_id": "41",
+          "class_id": "12",
+          "age_group": "A",
           "purchase_date": "2013-07-20",
           "percent_color": 0.18
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0111,
+      "color_per_purchaes": 0.0172,
       "weighted_count": 0.18,
-      "percent": 1.1111
+      "percent": 1.7241
     },
     {
       "name": "Gainsboro",
@@ -1134,44 +1066,22 @@
           "style_id": "2974830",
           "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-tailored-fit-dress-shirt/2974830",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_5823354.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
           "purchase_date": "2008-07-23",
           "percent_color": 0.17
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0111,
+      "color_per_purchaes": 0.0172,
       "weighted_count": 0.17,
-      "percent": 1.1111
-    },
-    {
-      "name": "Steel Blue",
-      "color_id": "161",
-      "rgb": [
-        70,
-        130,
-        180
-      ],
-      "rgb_string": "rgb(70,130,180)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "48618411",
-          "gender": "M",
-          "style_id": "3100964",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-dress-shirt-little-boys/3100964",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_6347702.jpg",
-          "purchase_date": "2010-09-19",
-          "percent_color": 0.33
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0111,
-      "weighted_count": 0.33,
-      "percent": 1.1111
+      "percent": 1.7241
     }
   ],
   "start_date": "2008-07-23",
-  "end_date": "2013-10-17",
-  "total_purchases": 90,
-  "total_colors": 21
+  "end_date": "2013-10-10",
+  "total_purchases": 58,
+  "total_colors": 19
 }
