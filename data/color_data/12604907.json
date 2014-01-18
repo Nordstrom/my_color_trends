@@ -48,14 +48,14 @@
       "percent": 20.0
     },
     {
-      "name": "Pink",
-      "color_id": "141",
+      "name": "Rosy Brown",
+      "color_id": "147",
       "rgb": [
-        255,
-        192,
-        203
+        188,
+        143,
+        143
       ],
-      "rgb_string": "rgb(255,192,203)",
+      "rgb_string": "rgb(188,143,143)",
       "grayscale": false,
       "purchases": [
         {
@@ -69,42 +69,12 @@
           "class_id": "12",
           "age_group": "A",
           "purchase_date": "2013-06-17",
-          "percent_color": 0.24
+          "percent_color": 0.3
         }
       ],
       "count": 1,
       "color_per_purchaes": 0.1,
-      "weighted_count": 0.24,
-      "percent": 10.0
-    },
-    {
-      "name": "Medium Purple",
-      "color_id": "116",
-      "rgb": [
-        147,
-        112,
-        219
-      ],
-      "rgb_string": "rgb(147,112,219)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "55750552",
-          "gender": "M",
-          "style_id": "2909847",
-          "product_url": "http://shop.nordstrom.com/s/lacoste-l1212-pique-polo/2909847",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_8676137.jpg",
-          "description": "Polo",
-          "subclass_id": "332",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-06-17",
-          "percent_color": 0.52
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.1,
-      "weighted_count": 0.52,
+      "weighted_count": 0.3,
       "percent": 10.0
     },
     {
@@ -138,6 +108,36 @@
       "percent": 10.0
     },
     {
+      "name": "Medium Purple",
+      "color_id": "116",
+      "rgb": [
+        147,
+        112,
+        219
+      ],
+      "rgb_string": "rgb(147,112,219)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "55750552",
+          "gender": "M",
+          "style_id": "2909847",
+          "product_url": "http://shop.nordstrom.com/s/lacoste-l1212-pique-polo/2909847",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_8676137.jpg",
+          "description": "Polo",
+          "subclass_id": "332",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-06-17",
+          "percent_color": 0.52
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.1,
+      "weighted_count": 0.52,
+      "percent": 10.0
+    },
+    {
       "name": "Dark Slate Blue",
       "color_id": "63",
       "rgb": [
@@ -165,6 +165,36 @@
       "count": 1,
       "color_per_purchaes": 0.1,
       "weighted_count": 0.26,
+      "percent": 10.0
+    },
+    {
+      "name": "Pink",
+      "color_id": "141",
+      "rgb": [
+        255,
+        192,
+        203
+      ],
+      "rgb_string": "rgb(255,192,203)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "55976786",
+          "gender": "M",
+          "style_id": "3437116",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-oxford-pique-polo/3437116",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_8606693.jpg",
+          "description": "Polo",
+          "subclass_id": "332",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-06-17",
+          "percent_color": 0.24
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.1,
+      "weighted_count": 0.24,
       "percent": 10.0
     },
     {
@@ -198,33 +228,33 @@
       "percent": 10.0
     },
     {
-      "name": "Rosy Brown",
-      "color_id": "147",
+      "name": "Firebrick",
+      "color_id": "71",
       "rgb": [
-        188,
-        143,
-        143
+        178,
+        34,
+        34
       ],
-      "rgb_string": "rgb(188,143,143)",
+      "rgb_string": "rgb(178,34,34)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "55976786",
+          "sku_key": "50934580",
           "gender": "M",
-          "style_id": "3437116",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-oxford-pique-polo/3437116",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_8606693.jpg",
+          "style_id": "2909382",
+          "product_url": "http://shop.nordstrom.com/s/lacoste-long-sleeve-pique-polo/2909382",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_8289158.jpg",
           "description": "Polo",
           "subclass_id": "332",
           "class_id": "12",
           "age_group": "A",
-          "purchase_date": "2013-06-17",
-          "percent_color": 0.3
+          "purchase_date": "2013-06-18",
+          "percent_color": 0.35
         }
       ],
       "count": 1,
       "color_per_purchaes": 0.1,
-      "weighted_count": 0.3,
+      "weighted_count": 0.35,
       "percent": 10.0
     },
     {
@@ -255,36 +285,6 @@
       "count": 1,
       "color_per_purchaes": 0.1,
       "weighted_count": 0.66,
-      "percent": 10.0
-    },
-    {
-      "name": "Firebrick",
-      "color_id": "71",
-      "rgb": [
-        178,
-        34,
-        34
-      ],
-      "rgb_string": "rgb(178,34,34)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "50934580",
-          "gender": "M",
-          "style_id": "2909382",
-          "product_url": "http://shop.nordstrom.com/s/lacoste-long-sleeve-pique-polo/2909382",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_8289158.jpg",
-          "description": "Polo",
-          "subclass_id": "332",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-06-18",
-          "percent_color": 0.35
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.1,
-      "weighted_count": 0.35,
       "percent": 10.0
     }
   ],

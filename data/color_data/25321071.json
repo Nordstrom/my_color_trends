@@ -6,13 +6,13 @@
   "colors": [
     {
       "name": "Black",
-      "color_id": "173",
+      "color_id": "36",
       "rgb": [
-        46,
-        45,
-        50
+        0,
+        0,
+        0
       ],
-      "rgb_string": "rgb(46,45,50)",
+      "rgb_string": "rgb(0,0,0)",
       "grayscale": false,
       "purchases": [
         {
@@ -21,12 +21,12 @@
           "style_id": "3549476",
           "product_url": "http://shop.nordstrom.com/s/the-north-face-denali-wind-pro-jacket/3549476",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_8316351.jpg",
-          "description": "Short Jacket/Coat",
+          "description": "ShortJacket/Coat",
           "subclass_id": "283",
           "class_id": "3",
           "age_group": "A",
           "purchase_date": "2014-01-15",
-          "percent_color": 0.82
+          "percent_color": 0.19
         },
         {
           "sku_key": "57462584",
@@ -34,12 +34,25 @@
           "style_id": "3549476",
           "product_url": "http://shop.nordstrom.com/s/the-north-face-denali-wind-pro-jacket/3549476",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_8316351.jpg",
-          "description": "Short Jacket/Coat",
+          "description": "ShortJacket/Coat",
           "subclass_id": "283",
           "class_id": "3",
           "age_group": "A",
           "purchase_date": "2014-01-15",
-          "percent_color": 0.19
+          "percent_color": 0.82
+        },
+        {
+          "sku_key": "56614994",
+          "gender": "M",
+          "style_id": "3178914",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-pajamas/3178914",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_8518659.jpg",
+          "description": "Pajamaset",
+          "subclass_id": "203",
+          "class_id": "39",
+          "age_group": "A",
+          "purchase_date": "2014-01-16",
+          "percent_color": 0.31
         },
         {
           "sku_key": "51284940",
@@ -81,12 +94,25 @@
           "percent_color": 0.87
         },
         {
+          "sku_key": "56614988",
+          "gender": "M",
+          "style_id": "3178914",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-pajamas/3178914",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_8518659.jpg",
+          "description": "Pajamaset",
+          "subclass_id": "203",
+          "class_id": "39",
+          "age_group": "A",
+          "purchase_date": "2013-12-08",
+          "percent_color": 0.59
+        },
+        {
           "sku_key": "46048355",
           "gender": "M",
           "style_id": "3023542",
           "product_url": "http://shop.nordstrom.com/s/boss-hugo-boss-james-sharp-trim-fit-grey-virgin-wool-suit/3023542",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_7786263.jpg",
-          "description": "2 Piece Sets",
+          "description": "2PieceSets",
           "subclass_id": "266",
           "class_id": "265",
           "age_group": "A",
@@ -120,10 +146,10 @@
           "percent_color": 1.01
         }
       ],
-      "count": 8,
-      "color_per_purchaes": 0.2667,
-      "weighted_count": 5.369999999999999,
-      "percent": 26.6667
+      "count": 10,
+      "color_per_purchaes": 0.2857,
+      "weighted_count": 6.27,
+      "percent": 28.5714
     },
     {
       "name": "Light Steel Blue",
@@ -136,6 +162,19 @@
       "rgb_string": "rgb(176,196,222)",
       "grayscale": false,
       "purchases": [
+        {
+          "sku_key": "48808235",
+          "gender": "M",
+          "style_id": "3097453",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-check-pajamas/3097453",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6648774.jpg",
+          "description": "Pajamaset",
+          "subclass_id": "203",
+          "class_id": "39",
+          "age_group": "A",
+          "purchase_date": "2011-06-27",
+          "percent_color": 0.68
+        },
         {
           "sku_key": "48102117",
           "gender": "M",
@@ -202,10 +241,10 @@
           "percent_color": 0.36
         }
       ],
-      "count": 5,
-      "color_per_purchaes": 0.1667,
-      "weighted_count": 2.6999999999999997,
-      "percent": 16.6667
+      "count": 6,
+      "color_per_purchaes": 0.1714,
+      "weighted_count": 3.38,
+      "percent": 17.1429
     },
     {
       "name": "Cornflower",
@@ -259,9 +298,9 @@
         }
       ],
       "count": 3,
-      "color_per_purchaes": 0.1,
+      "color_per_purchaes": 0.0857,
       "weighted_count": 0.51,
-      "percent": 10.0
+      "percent": 8.5714
     },
     {
       "name": "NA",
@@ -313,52 +352,65 @@
         }
       ],
       "count": 3,
-      "color_per_purchaes": 0.1,
+      "color_per_purchaes": 0.0857,
       "weighted_count": 0.0,
-      "percent": 10.0
+      "percent": 8.5714
     },
     {
-      "name": "Royal Blue",
-      "color_id": "148",
+      "name": "Lavender",
+      "color_id": "90",
       "rgb": [
-        65,
-        105,
-        225
+        230,
+        230,
+        250
       ],
-      "rgb_string": "rgb(65,105,225)",
+      "rgb_string": "rgb(230,230,250)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "50297789",
+          "sku_key": "48808235",
           "gender": "M",
-          "style_id": "3088207",
-          "product_url": "http://shop.nordstrom.com/s/daniel-buchler-peruvian-pima-cotton-shorts/3088207",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7578757.jpg",
-          "description": "Bottom",
-          "subclass_id": "290",
+          "style_id": "3097453",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-check-pajamas/3097453",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6648774.jpg",
+          "description": "Pajamaset",
+          "subclass_id": "203",
           "class_id": "39",
           "age_group": "A",
-          "purchase_date": "2012-01-03",
-          "percent_color": 0.36
+          "purchase_date": "2011-06-27",
+          "percent_color": 0.17
         },
         {
-          "sku_key": "50297789",
+          "sku_key": "53301105",
           "gender": "M",
-          "style_id": "3088207",
-          "product_url": "http://shop.nordstrom.com/s/daniel-buchler-peruvian-pima-cotton-shorts/3088207",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7578757.jpg",
-          "description": "Bottom",
-          "subclass_id": "290",
-          "class_id": "39",
+          "style_id": "3257320",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-trim-fit-dress-shirt/3257320",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7087537.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
           "age_group": "A",
-          "purchase_date": "2012-01-03",
+          "purchase_date": "2012-07-25",
+          "percent_color": 0.2
+        },
+        {
+          "sku_key": "45196262",
+          "gender": "M",
+          "style_id": "3018459",
+          "product_url": "http://shop.nordstrom.com/s/faconnable-classic-fit-plaid-shirt/3018459",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_5878089.jpg",
+          "description": "Sportshirt",
+          "subclass_id": "41",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2009-08-14",
           "percent_color": 0.36
         }
       ],
-      "count": 2,
-      "color_per_purchaes": 0.0667,
-      "weighted_count": 0.72,
-      "percent": 6.6667
+      "count": 3,
+      "color_per_purchaes": 0.0857,
+      "weighted_count": 0.73,
+      "percent": 8.5714
     },
     {
       "name": "White Smoke",
@@ -399,52 +451,52 @@
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0667,
+      "color_per_purchaes": 0.0571,
       "weighted_count": 1.34,
-      "percent": 6.6667
+      "percent": 5.7143
     },
     {
-      "name": "Lavender",
-      "color_id": "90",
+      "name": "Royal Blue",
+      "color_id": "148",
       "rgb": [
-        230,
-        230,
-        250
+        65,
+        105,
+        225
       ],
-      "rgb_string": "rgb(230,230,250)",
+      "rgb_string": "rgb(65,105,225)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "53301105",
+          "sku_key": "50297789",
           "gender": "M",
-          "style_id": "3257320",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-trim-fit-dress-shirt/3257320",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7087537.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
+          "style_id": "3088207",
+          "product_url": "http://shop.nordstrom.com/s/daniel-buchler-peruvian-pima-cotton-shorts/3088207",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7578757.jpg",
+          "description": "Bottom",
+          "subclass_id": "290",
+          "class_id": "39",
           "age_group": "A",
-          "purchase_date": "2012-07-25",
-          "percent_color": 0.2
+          "purchase_date": "2012-01-03",
+          "percent_color": 0.36
         },
         {
-          "sku_key": "45196262",
+          "sku_key": "50297789",
           "gender": "M",
-          "style_id": "3018459",
-          "product_url": "http://shop.nordstrom.com/s/faconnable-classic-fit-plaid-shirt/3018459",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_5878089.jpg",
-          "description": "Sportshirt",
-          "subclass_id": "41",
-          "class_id": "12",
+          "style_id": "3088207",
+          "product_url": "http://shop.nordstrom.com/s/daniel-buchler-peruvian-pima-cotton-shorts/3088207",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7578757.jpg",
+          "description": "Bottom",
+          "subclass_id": "290",
+          "class_id": "39",
           "age_group": "A",
-          "purchase_date": "2009-08-14",
+          "purchase_date": "2012-01-03",
           "percent_color": 0.36
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0667,
-      "weighted_count": 0.56,
-      "percent": 6.6667
+      "color_per_purchaes": 0.0571,
+      "weighted_count": 0.72,
+      "percent": 5.7143
     },
     {
       "name": "Dark Slate Blue",
@@ -485,39 +537,9 @@
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0667,
+      "color_per_purchaes": 0.0571,
       "weighted_count": 1.22,
-      "percent": 6.6667
-    },
-    {
-      "name": "Ghost White",
-      "color_id": "76",
-      "rgb": [
-        248,
-        248,
-        255
-      ],
-      "rgb_string": "rgb(248,248,255)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "53263007",
-          "gender": "M",
-          "style_id": "3255440",
-          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-dress-shirt/3255440",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_6991172.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2012-07-25",
-          "percent_color": 0.17
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0333,
-      "weighted_count": 0.17,
-      "percent": 3.3333
+      "percent": 5.7143
     },
     {
       "name": "Sea Green",
@@ -545,9 +567,69 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0333,
+      "color_per_purchaes": 0.0286,
       "weighted_count": 0.93,
-      "percent": 3.3333
+      "percent": 2.8571
+    },
+    {
+      "name": "Dim Gray",
+      "color_id": "69",
+      "rgb": [
+        105,
+        105,
+        105
+      ],
+      "rgb_string": "rgb(105,105,105)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "56614994",
+          "gender": "M",
+          "style_id": "3178914",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-pajamas/3178914",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_8518659.jpg",
+          "description": "Pajamaset",
+          "subclass_id": "203",
+          "class_id": "39",
+          "age_group": "A",
+          "purchase_date": "2014-01-16",
+          "percent_color": 0.17
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0286,
+      "weighted_count": 0.17,
+      "percent": 2.8571
+    },
+    {
+      "name": "Ghost White",
+      "color_id": "76",
+      "rgb": [
+        248,
+        248,
+        255
+      ],
+      "rgb_string": "rgb(248,248,255)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "53263007",
+          "gender": "M",
+          "style_id": "3255440",
+          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-dress-shirt/3255440",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_6991172.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2012-07-25",
+          "percent_color": 0.17
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0286,
+      "weighted_count": 0.17,
+      "percent": 2.8571
     },
     {
       "name": "Gainsboro",
@@ -575,13 +657,13 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0333,
+      "color_per_purchaes": 0.0286,
       "weighted_count": 0.24,
-      "percent": 3.3333
+      "percent": 2.8571
     }
   ],
   "start_date": "2009-08-14",
-  "end_date": "2014-01-15",
-  "total_purchases": 30,
-  "total_colors": 11
+  "end_date": "2014-01-16",
+  "total_purchases": 35,
+  "total_colors": 12
 }

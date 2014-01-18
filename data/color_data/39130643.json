@@ -6,53 +6,27 @@
   "colors": [
     {
       "name": "Black",
-      "color_id": "173",
+      "color_id": "36",
       "rgb": [
-        46,
-        45,
-        50
+        0,
+        0,
+        0
       ],
-      "rgb_string": "rgb(46,45,50)",
+      "rgb_string": "rgb(0,0,0)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "55161358",
+          "sku_key": "55189266",
           "gender": "F",
-          "style_id": "3375005",
-          "product_url": "http://shop.nordstrom.com/s/trina-turk-miss-taro-dot-print-silk-dress/3375005",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7351997.jpg",
-          "description": "Dress",
-          "subclass_id": "40",
-          "class_id": "1",
+          "style_id": "3379139",
+          "product_url": "http://shop.nordstrom.com/s/theory-dantey-ankle-pants/3379139",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_7359543.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
           "age_group": "A",
           "purchase_date": "2013-01-12",
-          "percent_color": 0.3
-        },
-        {
-          "sku_key": "55747444",
-          "gender": "F",
-          "style_id": "3418938",
-          "product_url": "http://shop.nordstrom.com/s/nicole-miller-stripe-jersey-sheath-dress/3418938",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_7542827.jpg",
-          "description": "Dress",
-          "subclass_id": "40",
-          "class_id": "1",
-          "age_group": "A",
-          "purchase_date": "2013-01-12",
-          "percent_color": 0.45
-        },
-        {
-          "sku_key": "55497668",
-          "gender": "F",
-          "style_id": "3401317",
-          "product_url": "http://shop.nordstrom.com/s/tory-burch-natalie-merino-wool-cardigan/3401317",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_7391239.jpg",
-          "description": "Sweater",
-          "subclass_id": "194",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-01-12",
-          "percent_color": 0.88
+          "percent_color": 0.25
         },
         {
           "sku_key": "55189266",
@@ -68,17 +42,56 @@
           "percent_color": 0.76
         },
         {
-          "sku_key": "55189266",
+          "sku_key": "55807467",
           "gender": "F",
-          "style_id": "3379139",
-          "product_url": "http://shop.nordstrom.com/s/theory-dantey-ankle-pants/3379139",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_7359543.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
+          "style_id": "3424197",
+          "product_url": "http://shop.nordstrom.com/s/haute-hippie-print-silk-shirtdress/3424197",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_7605996.jpg",
+          "description": "Dress",
+          "subclass_id": "40",
+          "class_id": "1",
           "age_group": "A",
           "purchase_date": "2013-01-12",
-          "percent_color": 0.25
+          "percent_color": 0.46
+        },
+        {
+          "sku_key": "55161358",
+          "gender": "F",
+          "style_id": "3375005",
+          "product_url": "http://shop.nordstrom.com/s/trina-turk-miss-taro-dot-print-silk-dress/3375005",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7351997.jpg",
+          "description": "Dress",
+          "subclass_id": "40",
+          "class_id": "1",
+          "age_group": "A",
+          "purchase_date": "2013-01-12",
+          "percent_color": 0.3
+        },
+        {
+          "sku_key": "55497668",
+          "gender": "F",
+          "style_id": "3401317",
+          "product_url": "http://shop.nordstrom.com/s/tory-burch-natalie-merino-wool-cardigan/3401317",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_7391239.jpg",
+          "description": "Sweater",
+          "subclass_id": "194",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-01-12",
+          "percent_color": 0.88
+        },
+        {
+          "sku_key": "55747444",
+          "gender": "F",
+          "style_id": "3418938",
+          "product_url": "http://shop.nordstrom.com/s/nicole-miller-stripe-jersey-sheath-dress/3418938",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_7542827.jpg",
+          "description": "Dress",
+          "subclass_id": "40",
+          "class_id": "1",
+          "age_group": "A",
+          "purchase_date": "2013-01-12",
+          "percent_color": 0.45
         },
         {
           "sku_key": "55807467",
@@ -94,17 +107,17 @@
           "percent_color": 0.17
         },
         {
-          "sku_key": "55807467",
+          "sku_key": "54172601",
           "gender": "F",
-          "style_id": "3424197",
-          "product_url": "http://shop.nordstrom.com/s/haute-hippie-print-silk-shirtdress/3424197",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_7605996.jpg",
-          "description": "Dress",
-          "subclass_id": "40",
-          "class_id": "1",
+          "style_id": "3053456",
+          "product_url": "http://shop.nordstrom.com/s/stuart-weitzman-platswoon-pump/3053456",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_7876583.jpg",
+          "description": "Pumps",
+          "subclass_id": "223",
+          "class_id": "4",
           "age_group": "A",
           "purchase_date": "2013-01-12",
-          "percent_color": 0.46
+          "percent_color": 0.89
         },
         {
           "sku_key": "55347082",
@@ -131,19 +144,6 @@
           "age_group": "A",
           "purchase_date": "2013-01-12",
           "percent_color": 0.65
-        },
-        {
-          "sku_key": "54172601",
-          "gender": "F",
-          "style_id": "3053456",
-          "product_url": "http://shop.nordstrom.com/s/stuart-weitzman-platswoon-pump/3053456",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_7876583.jpg",
-          "description": "Pumps",
-          "subclass_id": "223",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2013-01-12",
-          "percent_color": 0.89
         },
         {
           "sku_key": "52788973",
@@ -198,17 +198,17 @@
           "percent_color": 0.87
         },
         {
-          "sku_key": "55183354",
+          "sku_key": "55807467",
           "gender": "F",
-          "style_id": "3382627",
-          "product_url": "http://shop.nordstrom.com/s/marc-by-marc-jacobs-smith-stripe-jersey-dress/3382627",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_7594048.jpg",
+          "style_id": "3424197",
+          "product_url": "http://shop.nordstrom.com/s/haute-hippie-print-silk-shirtdress/3424197",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_7605996.jpg",
           "description": "Dress",
           "subclass_id": "40",
           "class_id": "1",
           "age_group": "A",
           "purchase_date": "2013-01-09",
-          "percent_color": 0.21
+          "percent_color": 0.46
         },
         {
           "sku_key": "55183354",
@@ -224,17 +224,17 @@
           "percent_color": 0.66
         },
         {
-          "sku_key": "55807467",
+          "sku_key": "55183354",
           "gender": "F",
-          "style_id": "3424197",
-          "product_url": "http://shop.nordstrom.com/s/haute-hippie-print-silk-shirtdress/3424197",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_7605996.jpg",
+          "style_id": "3382627",
+          "product_url": "http://shop.nordstrom.com/s/marc-by-marc-jacobs-smith-stripe-jersey-dress/3382627",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_7594048.jpg",
           "description": "Dress",
           "subclass_id": "40",
           "class_id": "1",
           "age_group": "A",
           "purchase_date": "2013-01-09",
-          "percent_color": 0.46
+          "percent_color": 0.21
         },
         {
           "sku_key": "55807467",
@@ -248,19 +248,6 @@
           "age_group": "A",
           "purchase_date": "2013-01-09",
           "percent_color": 0.17
-        },
-        {
-          "sku_key": "55008150",
-          "gender": "F",
-          "style_id": "3363234",
-          "product_url": "http://shop.nordstrom.com/s/brooks-trance-12-running-shoe-womenregular-retail-price-149-95/3363234",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_7975491.jpg",
-          "description": "Athletic",
-          "subclass_id": "224",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2013-10-01",
-          "percent_color": 0.31
         },
         {
           "sku_key": "48333514",
@@ -287,6 +274,19 @@
           "age_group": "A",
           "purchase_date": "2013-10-01",
           "percent_color": 0.5
+        },
+        {
+          "sku_key": "55008150",
+          "gender": "F",
+          "style_id": "3363234",
+          "product_url": "http://shop.nordstrom.com/s/brooks-trance-12-running-shoe-womenregular-retail-price-149-95/3363234",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_7975491.jpg",
+          "description": "Athletic",
+          "subclass_id": "224",
+          "class_id": "4",
+          "age_group": "A",
+          "purchase_date": "2013-10-01",
+          "percent_color": 0.31
         },
         {
           "sku_key": "48660216",
@@ -403,7 +403,7 @@
           "class_id": "9",
           "age_group": "A",
           "purchase_date": "2012-12-22",
-          "percent_color": 0.4
+          "percent_color": 0.55
         },
         {
           "sku_key": "55453013",
@@ -416,7 +416,7 @@
           "class_id": "9",
           "age_group": "A",
           "purchase_date": "2012-12-22",
-          "percent_color": 0.55
+          "percent_color": 0.4
         },
         {
           "sku_key": "52788973",
@@ -468,7 +468,7 @@
           "class_id": "12",
           "age_group": "A",
           "purchase_date": "2012-12-07",
-          "percent_color": 0.29
+          "percent_color": 0.26
         },
         {
           "sku_key": "55259127",
@@ -481,7 +481,7 @@
           "class_id": "12",
           "age_group": "A",
           "purchase_date": "2012-12-07",
-          "percent_color": 0.26
+          "percent_color": 0.29
         },
         {
           "sku_key": "55229158",
@@ -546,7 +546,7 @@
           "class_id": "4",
           "age_group": "A",
           "purchase_date": "2011-03-29",
-          "percent_color": 0.5
+          "percent_color": 0.46
         },
         {
           "sku_key": "49223656",
@@ -559,7 +559,20 @@
           "class_id": "4",
           "age_group": "A",
           "purchase_date": "2011-03-29",
-          "percent_color": 0.46
+          "percent_color": 0.5
+        },
+        {
+          "sku_key": "69496",
+          "gender": "F",
+          "style_id": "3489912",
+          "product_url": "http://shop.nordstrom.com/s/dkny-opaque-microfiber-knee-highs-2-for-15/3489912",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_7949678.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
+          "age_group": "A",
+          "purchase_date": "2009-03-08",
+          "percent_color": 1.01
         },
         {
           "sku_key": "69496",
@@ -589,19 +602,6 @@
         },
         {
           "sku_key": "69497",
-          "gender": "F",
-          "style_id": "3489912",
-          "product_url": "http://shop.nordstrom.com/s/dkny-opaque-microfiber-knee-highs-2-for-15/3489912",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_7949678.jpg",
-          "description": "Socks",
-          "subclass_id": "254",
-          "class_id": "8",
-          "age_group": "A",
-          "purchase_date": "2009-03-08",
-          "percent_color": 1.01
-        },
-        {
-          "sku_key": "69496",
           "gender": "F",
           "style_id": "3489912",
           "product_url": "http://shop.nordstrom.com/s/dkny-opaque-microfiber-knee-highs-2-for-15/3489912",
@@ -658,7 +658,7 @@
           "style_id": "3299555",
           "product_url": "http://shop.nordstrom.com/s/burberry-brit-balmoral-packable-trench/3299555",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_7932548.jpg",
-          "description": "3/4 or Long Coat",
+          "description": "3/4orLongCoat",
           "subclass_id": "284",
           "class_id": "3",
           "age_group": "A",
@@ -679,19 +679,6 @@
           "percent_color": 0.42
         },
         {
-          "sku_key": "53266839",
-          "gender": "F",
-          "style_id": "3255768",
-          "product_url": "http://shop.nordstrom.com/s/diane-von-furstenberg-kinaya-print-wrap-dress/3255768",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6774777.jpg",
-          "description": "Dress",
-          "subclass_id": "40",
-          "class_id": "1",
-          "age_group": "A",
-          "purchase_date": "2012-06-17",
-          "percent_color": 0.42
-        },
-        {
           "sku_key": "53431683",
           "gender": "F",
           "style_id": "3265841",
@@ -703,6 +690,19 @@
           "age_group": "A",
           "purchase_date": "2012-06-17",
           "percent_color": 0.22
+        },
+        {
+          "sku_key": "53266839",
+          "gender": "F",
+          "style_id": "3255768",
+          "product_url": "http://shop.nordstrom.com/s/diane-von-furstenberg-kinaya-print-wrap-dress/3255768",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6774777.jpg",
+          "description": "Dress",
+          "subclass_id": "40",
+          "class_id": "1",
+          "age_group": "A",
+          "purchase_date": "2012-06-17",
+          "percent_color": 0.42
         },
         {
           "sku_key": "50262458",
@@ -749,25 +749,12 @@
           "style_id": "3187177",
           "product_url": "http://shop.nordstrom.com/s/kate-spade-new-york-willa-reading-glasses/3187177",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_7065968.jpg",
-          "description": "Reading glasses",
+          "description": "Readingglasses",
           "subclass_id": "57",
           "class_id": "11",
           "age_group": "A",
           "purchase_date": "2012-06-08",
           "percent_color": 0.24
-        },
-        {
-          "sku_key": "56941410",
-          "gender": "F",
-          "style_id": "3510681",
-          "product_url": "http://shop.nordstrom.com/s/diane-von-furstenberg-bahar-silk-blouson-dress/3510681",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_7919178.jpg",
-          "description": "Dress",
-          "subclass_id": "40",
-          "class_id": "1",
-          "age_group": "A",
-          "purchase_date": "2013-07-14",
-          "percent_color": 0.29
         },
         {
           "sku_key": "55669520",
@@ -781,6 +768,19 @@
           "age_group": "A",
           "purchase_date": "2013-07-14",
           "percent_color": 1.01
+        },
+        {
+          "sku_key": "56941410",
+          "gender": "F",
+          "style_id": "3510681",
+          "product_url": "http://shop.nordstrom.com/s/diane-von-furstenberg-bahar-silk-blouson-dress/3510681",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_7919178.jpg",
+          "description": "Dress",
+          "subclass_id": "40",
+          "class_id": "1",
+          "age_group": "A",
+          "purchase_date": "2013-07-14",
+          "percent_color": 0.29
         },
         {
           "sku_key": "51998328",
@@ -810,9 +810,9 @@
         }
       ],
       "count": 61,
-      "color_per_purchaes": 0.3765,
-      "weighted_count": 36.2,
-      "percent": 37.6543
+      "color_per_purchaes": 0.3742,
+      "weighted_count": 36.20000000000001,
+      "percent": 37.4233
     },
     {
       "name": "White Smoke",
@@ -826,19 +826,6 @@
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "52891929",
-          "gender": "F",
-          "style_id": "3189887",
-          "product_url": "http://shop.nordstrom.com/s/tory-burch-simone-merino-cardigan/3189887",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_7430548.jpg",
-          "description": "Sweater",
-          "subclass_id": "194",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-01-12",
-          "percent_color": 0.83
-        },
-        {
           "sku_key": "55747444",
           "gender": "F",
           "style_id": "3418938",
@@ -850,6 +837,19 @@
           "age_group": "A",
           "purchase_date": "2013-01-12",
           "percent_color": 0.25
+        },
+        {
+          "sku_key": "52891929",
+          "gender": "F",
+          "style_id": "3189887",
+          "product_url": "http://shop.nordstrom.com/s/tory-burch-simone-merino-cardigan/3189887",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_7430548.jpg",
+          "description": "Sweater",
+          "subclass_id": "194",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-01-12",
+          "percent_color": 0.83
         },
         {
           "sku_key": "52382670",
@@ -1039,7 +1039,7 @@
           "style_id": "3576666",
           "product_url": "http://shop.nordstrom.com/s/i-line-eyewear-50mm-reading-glasses/3576666",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_8291222.jpg",
-          "description": "Reading glasses",
+          "description": "Readingglasses",
           "subclass_id": "57",
           "class_id": "11",
           "age_group": "A",
@@ -1104,7 +1104,7 @@
           "style_id": "3187177",
           "product_url": "http://shop.nordstrom.com/s/kate-spade-new-york-willa-reading-glasses/3187177",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_7065968.jpg",
-          "description": "Reading glasses",
+          "description": "Readingglasses",
           "subclass_id": "57",
           "class_id": "11",
           "age_group": "A",
@@ -1117,7 +1117,7 @@
           "style_id": "3187177",
           "product_url": "http://shop.nordstrom.com/s/kate-spade-new-york-willa-reading-glasses/3187177",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_7065968.jpg",
-          "description": "Reading glasses",
+          "description": "Readingglasses",
           "subclass_id": "57",
           "class_id": "11",
           "age_group": "A",
@@ -1156,7 +1156,7 @@
           "style_id": "3187177",
           "product_url": "http://shop.nordstrom.com/s/kate-spade-new-york-willa-reading-glasses/3187177",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_7065968.jpg",
-          "description": "Reading glasses",
+          "description": "Readingglasses",
           "subclass_id": "57",
           "class_id": "11",
           "age_group": "A",
@@ -1165,9 +1165,9 @@
         }
       ],
       "count": 26,
-      "color_per_purchaes": 0.1605,
+      "color_per_purchaes": 0.1595,
       "weighted_count": 13.52,
-      "percent": 16.0494
+      "percent": 15.9509
     },
     {
       "name": "Gainsboro",
@@ -1285,19 +1285,6 @@
           "percent_color": 0.16
         },
         {
-          "sku_key": "56748550",
-          "gender": "F",
-          "style_id": "3500357",
-          "product_url": "http://shop.nordstrom.com/s/free-people-sheer-print-blouse/3500357",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/10/_8249110.jpg",
-          "description": "Shirt",
-          "subclass_id": "227",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-05-27",
-          "percent_color": 0.18
-        },
-        {
           "sku_key": "56253053",
           "gender": "F",
           "style_id": "3458602",
@@ -1309,6 +1296,19 @@
           "age_group": "A",
           "purchase_date": "2013-05-27",
           "percent_color": 0.62
+        },
+        {
+          "sku_key": "56748550",
+          "gender": "F",
+          "style_id": "3500357",
+          "product_url": "http://shop.nordstrom.com/s/free-people-sheer-print-blouse/3500357",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/10/_8249110.jpg",
+          "description": "Shirt",
+          "subclass_id": "227",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-05-27",
+          "percent_color": 0.18
         },
         {
           "sku_key": "55909720",
@@ -1364,9 +1364,9 @@
         }
       ],
       "count": 14,
-      "color_per_purchaes": 0.0864,
+      "color_per_purchaes": 0.0859,
       "weighted_count": 4.1899999999999995,
-      "percent": 8.642
+      "percent": 8.589
     },
     {
       "name": "Dark Slate Blue",
@@ -1456,81 +1456,25 @@
           "age_group": "A",
           "purchase_date": "2011-09-18",
           "percent_color": 0.16
+        },
+        {
+          "sku_key": "51668426",
+          "gender": "F",
+          "style_id": "3179114",
+          "product_url": "http://shop.nordstrom.com/s/miraclesuit-sandra-d-one-piece/3179114",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6476217.jpg",
+          "description": "Swimsuit(complete)",
+          "subclass_id": "295",
+          "class_id": "38",
+          "age_group": "A",
+          "purchase_date": "2011-09-19",
+          "percent_color": 0.9
         }
       ],
-      "count": 6,
-      "color_per_purchaes": 0.037,
-      "weighted_count": 2.6300000000000003,
-      "percent": 3.7037
-    },
-    {
-      "name": "Antique White",
-      "color_id": "30",
-      "rgb": [
-        250,
-        235,
-        215
-      ],
-      "rgb_string": "rgb(250,235,215)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "48620303",
-          "gender": "F",
-          "style_id": "3093250",
-          "product_url": "http://shop.nordstrom.com/s/ugg-australia-cozy-knit-slipper-women/3093250",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_8310417.jpg",
-          "description": "Slippers",
-          "subclass_id": "220",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2012-11-17",
-          "percent_color": 0.31
-        },
-        {
-          "sku_key": "41447542",
-          "gender": "F",
-          "style_id": "3211917",
-          "product_url": "http://shop.nordstrom.com/s/wacoal-a-rose-is-a-rose-contour-underwire-bra/3211917",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_7135799.jpg",
-          "description": "Bra",
-          "subclass_id": "288",
-          "class_id": "37",
-          "age_group": "A",
-          "purchase_date": "2011-05-31",
-          "percent_color": 0.28
-        },
-        {
-          "sku_key": "51171135",
-          "gender": "F",
-          "style_id": "3158229",
-          "product_url": "http://shop.nordstrom.com/s/elie-tahari-exclusive-for-nordstrom-sloane-crop-pants/3158229",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6399087.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2011-06-12",
-          "percent_color": 0.26
-        },
-        {
-          "sku_key": "50612314",
-          "gender": "F",
-          "style_id": "3139362",
-          "product_url": "http://shop.nordstrom.com/s/jimmy-choo-vamp-sandal/3139362",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6808757.jpg",
-          "description": "Sandals/Slides",
-          "subclass_id": "299",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2011-06-26",
-          "percent_color": 0.17
-        }
-      ],
-      "count": 4,
-      "color_per_purchaes": 0.0247,
-      "weighted_count": 1.02,
-      "percent": 2.4691
+      "count": 7,
+      "color_per_purchaes": 0.0429,
+      "weighted_count": 3.5300000000000002,
+      "percent": 4.2945
     },
     {
       "name": "Linen",
@@ -1597,9 +1541,121 @@
         }
       ],
       "count": 4,
-      "color_per_purchaes": 0.0247,
+      "color_per_purchaes": 0.0245,
       "weighted_count": 1.7300000000000002,
-      "percent": 2.4691
+      "percent": 2.454
+    },
+    {
+      "name": "Antique White",
+      "color_id": "30",
+      "rgb": [
+        250,
+        235,
+        215
+      ],
+      "rgb_string": "rgb(250,235,215)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "48620303",
+          "gender": "F",
+          "style_id": "3093250",
+          "product_url": "http://shop.nordstrom.com/s/ugg-australia-cozy-knit-slipper-women/3093250",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_8310417.jpg",
+          "description": "Slippers",
+          "subclass_id": "220",
+          "class_id": "4",
+          "age_group": "A",
+          "purchase_date": "2012-11-17",
+          "percent_color": 0.31
+        },
+        {
+          "sku_key": "51171135",
+          "gender": "F",
+          "style_id": "3158229",
+          "product_url": "http://shop.nordstrom.com/s/elie-tahari-exclusive-for-nordstrom-sloane-crop-pants/3158229",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6399087.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2011-06-12",
+          "percent_color": 0.26
+        },
+        {
+          "sku_key": "50612314",
+          "gender": "F",
+          "style_id": "3139362",
+          "product_url": "http://shop.nordstrom.com/s/jimmy-choo-vamp-sandal/3139362",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6808757.jpg",
+          "description": "Sandals/Slides",
+          "subclass_id": "299",
+          "class_id": "4",
+          "age_group": "A",
+          "purchase_date": "2011-06-26",
+          "percent_color": 0.17
+        }
+      ],
+      "count": 3,
+      "color_per_purchaes": 0.0184,
+      "weighted_count": 0.7400000000000001,
+      "percent": 1.8405
+    },
+    {
+      "name": "Ghost White",
+      "color_id": "76",
+      "rgb": [
+        248,
+        248,
+        255
+      ],
+      "rgb_string": "rgb(248,248,255)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "53527912",
+          "gender": "F",
+          "style_id": "3323891",
+          "product_url": "http://shop.nordstrom.com/s/donna-ricco-three-quarter-sleeve-knit-cardigan-regular-petite/3323891",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_7859740.jpg",
+          "description": "Sweater",
+          "subclass_id": "194",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2012-05-28",
+          "percent_color": 0.37
+        },
+        {
+          "sku_key": "55995173",
+          "gender": "F",
+          "style_id": "3407715",
+          "product_url": "http://shop.nordstrom.com/s/prana-angie-mesh-hoodie/3407715",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_7574824.jpg",
+          "description": "Sweatshirt",
+          "subclass_id": "249",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-06-30",
+          "percent_color": 0.69
+        },
+        {
+          "sku_key": "56980253",
+          "gender": "F",
+          "style_id": "3513858",
+          "product_url": "http://shop.nordstrom.com/s/pink-lotus-del-mar-burnout-hooded-jacket/3513858",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_7967649.jpg",
+          "description": "Sweatshirt/Hoody/Zipfront",
+          "subclass_id": "268",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-06-30",
+          "percent_color": 0.47
+        }
+      ],
+      "count": 3,
+      "color_per_purchaes": 0.0184,
+      "weighted_count": 1.53,
+      "percent": 1.8405
     },
     {
       "name": "Peach Puff",
@@ -1639,19 +1695,6 @@
           "percent_color": 0.19
         },
         {
-          "sku_key": "41447542",
-          "gender": "F",
-          "style_id": "3211917",
-          "product_url": "http://shop.nordstrom.com/s/wacoal-a-rose-is-a-rose-contour-underwire-bra/3211917",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_7135799.jpg",
-          "description": "Bra",
-          "subclass_id": "288",
-          "class_id": "37",
-          "age_group": "A",
-          "purchase_date": "2011-05-31",
-          "percent_color": 0.67
-        },
-        {
           "sku_key": "50612314",
           "gender": "F",
           "style_id": "3139362",
@@ -1665,122 +1708,64 @@
           "percent_color": 0.29
         }
       ],
-      "count": 4,
-      "color_per_purchaes": 0.0247,
-      "weighted_count": 2.0300000000000002,
-      "percent": 2.4691
+      "count": 3,
+      "color_per_purchaes": 0.0184,
+      "weighted_count": 1.36,
+      "percent": 1.8405
     },
     {
-      "name": "Ghost White",
-      "color_id": "76",
+      "name": "NA",
+      "color_id": "NA",
       "rgb": [
-        248,
-        248,
-        255
+        0
       ],
-      "rgb_string": "rgb(248,248,255)",
+      "rgb_string": "rgb(0)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "53527912",
+          "sku_key": "57229853",
           "gender": "F",
-          "style_id": "3323891",
-          "product_url": "http://shop.nordstrom.com/s/donna-ricco-three-quarter-sleeve-knit-cardigan-regular-petite/3323891",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_7859740.jpg",
-          "description": "Sweater",
-          "subclass_id": "194",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2012-05-28",
-          "percent_color": 0.37
-        },
-        {
-          "sku_key": "56980253",
-          "gender": "F",
-          "style_id": "3513858",
-          "product_url": "http://shop.nordstrom.com/s/pink-lotus-del-mar-burnout-hooded-jacket/3513858",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_7967649.jpg",
+          "style_id": "3530343",
+          "product_url": "http://shop.nordstrom.com/s/stem-ribbed-trim-hoodie/3530343",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_8580358.jpg",
           "description": "Sweatshirt/Hoody/Zipfront",
           "subclass_id": "268",
           "class_id": "12",
           "age_group": "A",
-          "purchase_date": "2013-06-30",
-          "percent_color": 0.47
+          "purchase_date": "2013-12-14",
+          "percent_color": 0.0
         },
         {
-          "sku_key": "55995173",
+          "sku_key": "54986413",
           "gender": "F",
-          "style_id": "3407715",
-          "product_url": "http://shop.nordstrom.com/s/prana-angie-mesh-hoodie/3407715",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_7574824.jpg",
-          "description": "Sweatshirt",
-          "subclass_id": "249",
-          "class_id": "12",
+          "style_id": "3361482",
+          "product_url": "http://shop.nordstrom.com/s/bareminerals-precision-face-brush/3361482",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_7167005.jpg",
+          "description": "Makeupapplication",
+          "subclass_id": "122",
+          "class_id": "28",
           "age_group": "A",
-          "purchase_date": "2013-06-30",
-          "percent_color": 0.69
+          "purchase_date": "2013-02-07",
+          "percent_color": 0.0
+        },
+        {
+          "sku_key": "57523392",
+          "gender": "F",
+          "style_id": "3555806",
+          "product_url": "http://shop.nordstrom.com/s/adrianna-papell-print-faux-wrap-sheath-dress/3555806",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_8104026.jpg",
+          "description": "Dress",
+          "subclass_id": "40",
+          "class_id": "1",
+          "age_group": "A",
+          "purchase_date": "2013-07-14",
+          "percent_color": 0.0
         }
       ],
       "count": 3,
-      "color_per_purchaes": 0.0185,
-      "weighted_count": 1.5299999999999998,
-      "percent": 1.8519
-    },
-    {
-      "name": "Dark Gray",
-      "color_id": "53",
-      "rgb": [
-        169,
-        169,
-        169
-      ],
-      "rgb_string": "rgb(169,169,169)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "56018489",
-          "gender": "F",
-          "style_id": "3442426",
-          "product_url": "http://shop.nordstrom.com/s/lmk-metallic-mesh-sweater/3442426",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_7542340.jpg",
-          "description": "Sweater",
-          "subclass_id": "194",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-01-09",
-          "percent_color": 0.29
-        },
-        {
-          "sku_key": "51801006",
-          "gender": "F",
-          "style_id": "3184277",
-          "product_url": "http://shop.nordstrom.com/s/trouve-slim-knit-turtleneck/3184277",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_6566159.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2011-12-26",
-          "percent_color": 0.88
-        },
-        {
-          "sku_key": "51747360",
-          "gender": "F",
-          "style_id": "3182234",
-          "product_url": "http://shop.nordstrom.com/s/rebecca-taylor-ruffled-blouse/3182234",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6455174.jpg",
-          "description": "Blouse/Top",
-          "subclass_id": "216",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2011-09-18",
-          "percent_color": 0.22
-        }
-      ],
-      "count": 3,
-      "color_per_purchaes": 0.0185,
-      "weighted_count": 1.39,
-      "percent": 1.8519
+      "color_per_purchaes": 0.0184,
+      "weighted_count": 0.0,
+      "percent": 1.8405
     },
     {
       "name": "Rosy Brown",
@@ -1834,52 +1819,108 @@
         }
       ],
       "count": 3,
-      "color_per_purchaes": 0.0185,
+      "color_per_purchaes": 0.0184,
       "weighted_count": 1.05,
-      "percent": 1.8519
+      "percent": 1.8405
     },
     {
-      "name": "Light Gray",
-      "color_id": "98",
+      "name": "Dark Gray",
+      "color_id": "53",
       "rgb": [
-        211,
-        211,
-        211
+        169,
+        169,
+        169
       ],
-      "rgb_string": "rgb(211,211,211)",
+      "rgb_string": "rgb(169,169,169)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "56253053",
+          "sku_key": "56018489",
           "gender": "F",
-          "style_id": "3458602",
-          "product_url": "http://shop.nordstrom.com/s/lanston-high-low-tunic-tee/3458602",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_7720615.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
+          "style_id": "3442426",
+          "product_url": "http://shop.nordstrom.com/s/lmk-metallic-mesh-sweater/3442426",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_7542340.jpg",
+          "description": "Sweater",
+          "subclass_id": "194",
           "class_id": "12",
           "age_group": "A",
-          "purchase_date": "2013-05-27",
-          "percent_color": 0.23
+          "purchase_date": "2013-01-09",
+          "percent_color": 0.29
         },
         {
-          "sku_key": "55909720",
+          "sku_key": "51801006",
           "gender": "F",
-          "style_id": "3431821",
-          "product_url": "http://shop.nordstrom.com/s/hinge-peplum-tee/3431821",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_7673425.jpg",
+          "style_id": "3184277",
+          "product_url": "http://shop.nordstrom.com/s/trouve-slim-knit-turtleneck/3184277",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_6566159.jpg",
           "description": "T-shirt/Tee",
           "subclass_id": "205",
           "class_id": "12",
           "age_group": "A",
-          "purchase_date": "2013-05-27",
-          "percent_color": 0.38
+          "purchase_date": "2011-12-26",
+          "percent_color": 0.88
+        },
+        {
+          "sku_key": "51747360",
+          "gender": "F",
+          "style_id": "3182234",
+          "product_url": "http://shop.nordstrom.com/s/rebecca-taylor-ruffled-blouse/3182234",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6455174.jpg",
+          "description": "Blouse/Top",
+          "subclass_id": "216",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2011-09-18",
+          "percent_color": 0.22
+        }
+      ],
+      "count": 3,
+      "color_per_purchaes": 0.0184,
+      "weighted_count": 1.39,
+      "percent": 1.8405
+    },
+    {
+      "name": "Alice Blue",
+      "color_id": "29",
+      "rgb": [
+        240,
+        248,
+        255
+      ],
+      "rgb_string": "rgb(240,248,255)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "53880099",
+          "gender": "F",
+          "style_id": "3290548",
+          "product_url": "http://shop.nordstrom.com/s/alberto-makali-python-print-tunic/3290548",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7018557.jpg",
+          "description": "Tunic",
+          "subclass_id": "270",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2012-05-28",
+          "percent_color": 0.39
+        },
+        {
+          "sku_key": "51153818",
+          "gender": "F",
+          "style_id": "3157414",
+          "product_url": "http://shop.nordstrom.com/s/tommy-bahama-windsor-paisley-bandeau-swimsuit/3157414",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_6409284.jpg",
+          "description": "Swimsuit(complete)",
+          "subclass_id": "295",
+          "class_id": "38",
+          "age_group": "A",
+          "purchase_date": "2011-09-19",
+          "percent_color": 0.19
         }
       ],
       "count": 2,
       "color_per_purchaes": 0.0123,
-      "weighted_count": 0.61,
-      "percent": 1.2346
+      "weighted_count": 0.5800000000000001,
+      "percent": 1.227
     },
     {
       "name": "Gray",
@@ -1922,93 +1963,50 @@
       "count": 2,
       "color_per_purchaes": 0.0123,
       "weighted_count": 0.35,
-      "percent": 1.2346
+      "percent": 1.227
     },
     {
-      "name": "Tan",
-      "color_id": "162",
+      "name": "Light Gray",
+      "color_id": "98",
       "rgb": [
-        210,
-        180,
-        140
+        211,
+        211,
+        211
       ],
-      "rgb_string": "rgb(210,180,140)",
+      "rgb_string": "rgb(211,211,211)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "52609583",
+          "sku_key": "56253053",
           "gender": "F",
-          "style_id": "3222058",
-          "product_url": "http://shop.nordstrom.com/s/jimmy-choo-abel-patent-leather-pump/3222058",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_8414319.jpg",
-          "description": "Pumps",
-          "subclass_id": "223",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2013-01-12",
-          "percent_color": 0.18
-        },
-        {
-          "sku_key": "50612314",
-          "gender": "F",
-          "style_id": "3139362",
-          "product_url": "http://shop.nordstrom.com/s/jimmy-choo-vamp-sandal/3139362",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6808757.jpg",
-          "description": "Sandals/Slides",
-          "subclass_id": "299",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2011-06-26",
-          "percent_color": 0.3
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0123,
-      "weighted_count": 0.48,
-      "percent": 1.2346
-    },
-    {
-      "name": "Seashell",
-      "color_id": "153",
-      "rgb": [
-        255,
-        245,
-        238
-      ],
-      "rgb_string": "rgb(255,245,238)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "51263017",
-          "gender": "F",
-          "style_id": "3162418",
-          "product_url": "http://shop.nordstrom.com/s/joie-silk-blouse/3162418",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_6371765.jpg",
-          "description": "Blouse/Top",
-          "subclass_id": "216",
+          "style_id": "3458602",
+          "product_url": "http://shop.nordstrom.com/s/lanston-high-low-tunic-tee/3458602",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_7720615.jpg",
+          "description": "T-shirt/Tee",
+          "subclass_id": "205",
           "class_id": "12",
           "age_group": "A",
-          "purchase_date": "2011-04-28",
-          "percent_color": 0.29
+          "purchase_date": "2013-05-27",
+          "percent_color": 0.23
         },
         {
-          "sku_key": "53093138",
+          "sku_key": "55909720",
           "gender": "F",
-          "style_id": "3246495",
-          "product_url": "http://shop.nordstrom.com/s/classiques-entier-n-neck-twist-knot-dress/3246495",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6829887.jpg",
-          "description": "Dress",
-          "subclass_id": "40",
-          "class_id": "1",
+          "style_id": "3431821",
+          "product_url": "http://shop.nordstrom.com/s/hinge-peplum-tee/3431821",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_7673425.jpg",
+          "description": "T-shirt/Tee",
+          "subclass_id": "205",
+          "class_id": "12",
           "age_group": "A",
-          "purchase_date": "2012-07-08",
-          "percent_color": 0.18
+          "purchase_date": "2013-05-27",
+          "percent_color": 0.38
         }
       ],
       "count": 2,
       "color_per_purchaes": 0.0123,
-      "weighted_count": 0.47,
-      "percent": 1.2346
+      "weighted_count": 0.61,
+      "percent": 1.227
     },
     {
       "name": "Dim Gray",
@@ -2051,48 +2049,93 @@
       "count": 2,
       "color_per_purchaes": 0.0123,
       "weighted_count": 1.16,
-      "percent": 1.2346
+      "percent": 1.227
     },
     {
-      "name": "NA",
-      "color_id": "NA",
+      "name": "Tan",
+      "color_id": "162",
       "rgb": [
-        0
+        210,
+        180,
+        140
       ],
-      "rgb_string": "rgb(0)",
+      "rgb_string": "rgb(210,180,140)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "57229853",
+          "sku_key": "52609583",
           "gender": "F",
-          "style_id": "3530343",
-          "product_url": "http://shop.nordstrom.com/s/stem-ribbed-trim-hoodie/3530343",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_8580358.jpg",
-          "description": "Sweatshirt/Hoody/Zipfront",
-          "subclass_id": "268",
-          "class_id": "12",
+          "style_id": "3222058",
+          "product_url": "http://shop.nordstrom.com/s/jimmy-choo-abel-patent-leather-pump/3222058",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_8414319.jpg",
+          "description": "Pumps",
+          "subclass_id": "223",
+          "class_id": "4",
           "age_group": "A",
-          "purchase_date": "2013-12-14",
-          "percent_color": 0.0
+          "purchase_date": "2013-01-12",
+          "percent_color": 0.18
         },
         {
-          "sku_key": "57523392",
+          "sku_key": "50612314",
           "gender": "F",
-          "style_id": "3555806",
-          "product_url": "http://shop.nordstrom.com/s/adrianna-papell-print-faux-wrap-sheath-dress/3555806",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_8104026.jpg",
-          "description": "Dress",
-          "subclass_id": "40",
-          "class_id": "1",
+          "style_id": "3139362",
+          "product_url": "http://shop.nordstrom.com/s/jimmy-choo-vamp-sandal/3139362",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6808757.jpg",
+          "description": "Sandals/Slides",
+          "subclass_id": "299",
+          "class_id": "4",
           "age_group": "A",
-          "purchase_date": "2013-07-14",
-          "percent_color": 0.0
+          "purchase_date": "2011-06-26",
+          "percent_color": 0.3
         }
       ],
       "count": 2,
       "color_per_purchaes": 0.0123,
-      "weighted_count": 0.0,
-      "percent": 1.2346
+      "weighted_count": 0.48,
+      "percent": 1.227
+    },
+    {
+      "name": "Seashell",
+      "color_id": "153",
+      "rgb": [
+        255,
+        245,
+        238
+      ],
+      "rgb_string": "rgb(255,245,238)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "51263017",
+          "gender": "F",
+          "style_id": "3162418",
+          "product_url": "http://shop.nordstrom.com/s/joie-silk-blouse/3162418",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_6371765.jpg",
+          "description": "Blouse/Top",
+          "subclass_id": "216",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2011-04-28",
+          "percent_color": 0.29
+        },
+        {
+          "sku_key": "53093138",
+          "gender": "F",
+          "style_id": "3246495",
+          "product_url": "http://shop.nordstrom.com/s/classiques-entier-n-neck-twist-knot-dress/3246495",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6829887.jpg",
+          "description": "Dress",
+          "subclass_id": "40",
+          "class_id": "1",
+          "age_group": "A",
+          "purchase_date": "2012-07-08",
+          "percent_color": 0.18
+        }
+      ],
+      "count": 2,
+      "color_per_purchaes": 0.0123,
+      "weighted_count": 0.47,
+      "percent": 1.227
     },
     {
       "name": "Maroon",
@@ -2135,7 +2178,7 @@
       "count": 2,
       "color_per_purchaes": 0.0123,
       "weighted_count": 0.99,
-      "percent": 1.2346
+      "percent": 1.227
     },
     {
       "name": "Deep Pink",
@@ -2163,39 +2206,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0062,
+      "color_per_purchaes": 0.0061,
       "weighted_count": 0.22,
-      "percent": 0.6173
-    },
-    {
-      "name": "Hot Pink",
-      "color_id": "85",
-      "rgb": [
-        255,
-        105,
-        180
-      ],
-      "rgb_string": "rgb(255,105,180)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "52263409",
-          "gender": "F",
-          "style_id": "3205242",
-          "product_url": "http://shop.nordstrom.com/s/trouve-loose-knit-colorblock-cardigan/3205242",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6712101.jpg",
-          "description": "Sweater",
-          "subclass_id": "194",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2011-12-26",
-          "percent_color": 0.47
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0062,
-      "weighted_count": 0.47,
-      "percent": 0.6173
+      "percent": 0.6135
     },
     {
       "name": "Pale Violet Red",
@@ -2223,9 +2236,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0062,
+      "color_per_purchaes": 0.0061,
       "weighted_count": 0.19,
-      "percent": 0.6173
+      "percent": 0.6135
     },
     {
       "name": "Cornflower",
@@ -2253,9 +2266,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0062,
+      "color_per_purchaes": 0.0061,
       "weighted_count": 0.4,
-      "percent": 0.6173
+      "percent": 0.6135
     },
     {
       "name": "Pale Goldenrod",
@@ -2283,9 +2296,39 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0062,
+      "color_per_purchaes": 0.0061,
       "weighted_count": 0.19,
-      "percent": 0.6173
+      "percent": 0.6135
+    },
+    {
+      "name": "Hot Pink",
+      "color_id": "85",
+      "rgb": [
+        255,
+        105,
+        180
+      ],
+      "rgb_string": "rgb(255,105,180)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "52263409",
+          "gender": "F",
+          "style_id": "3205242",
+          "product_url": "http://shop.nordstrom.com/s/trouve-loose-knit-colorblock-cardigan/3205242",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6712101.jpg",
+          "description": "Sweater",
+          "subclass_id": "194",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2011-12-26",
+          "percent_color": 0.47
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0061,
+      "weighted_count": 0.47,
+      "percent": 0.6135
     },
     {
       "name": "Slate Blue",
@@ -2313,9 +2356,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0062,
+      "color_per_purchaes": 0.0061,
       "weighted_count": 0.15,
-      "percent": 0.6173
+      "percent": 0.6135
     },
     {
       "name": "Floral White",
@@ -2343,39 +2386,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0062,
+      "color_per_purchaes": 0.0061,
       "weighted_count": 0.36,
-      "percent": 0.6173
-    },
-    {
-      "name": "Alice Blue",
-      "color_id": "29",
-      "rgb": [
-        240,
-        248,
-        255
-      ],
-      "rgb_string": "rgb(240,248,255)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "53880099",
-          "gender": "F",
-          "style_id": "3290548",
-          "product_url": "http://shop.nordstrom.com/s/alberto-makali-python-print-tunic/3290548",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7018557.jpg",
-          "description": "Tunic",
-          "subclass_id": "270",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2012-05-28",
-          "percent_color": 0.39
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0062,
-      "weighted_count": 0.39,
-      "percent": 0.6173
+      "percent": 0.6135
     },
     {
       "name": "Light Blue",
@@ -2403,39 +2416,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0062,
+      "color_per_purchaes": 0.0061,
       "weighted_count": 1.01,
-      "percent": 0.6173
-    },
-    {
-      "name": "Light Slate Gray",
-      "color_id": "104",
-      "rgb": [
-        119,
-        136,
-        153
-      ],
-      "rgb_string": "rgb(119,136,153)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "48886674",
-          "gender": "F",
-          "style_id": "3109925",
-          "product_url": "http://shop.nordstrom.com/s/only-mine-ribbed-trim-cardigan/3109925",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_6126286.jpg",
-          "description": "Sweater",
-          "subclass_id": "194",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2010-05-31",
-          "percent_color": 0.17
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0062,
-      "weighted_count": 0.17,
-      "percent": 0.6173
+      "percent": 0.6135
     },
     {
       "name": "Royal Blue",
@@ -2463,9 +2446,39 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0062,
+      "color_per_purchaes": 0.0061,
       "weighted_count": 0.62,
-      "percent": 0.6173
+      "percent": 0.6135
+    },
+    {
+      "name": "Light Slate Gray",
+      "color_id": "104",
+      "rgb": [
+        119,
+        136,
+        153
+      ],
+      "rgb_string": "rgb(119,136,153)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "48886674",
+          "gender": "F",
+          "style_id": "3109925",
+          "product_url": "http://shop.nordstrom.com/s/only-mine-ribbed-trim-cardigan/3109925",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_6126286.jpg",
+          "description": "Sweater",
+          "subclass_id": "194",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2010-05-31",
+          "percent_color": 0.17
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0061,
+      "weighted_count": 0.17,
+      "percent": 0.6135
     },
     {
       "name": "Misty Rose",
@@ -2493,39 +2506,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0062,
+      "color_per_purchaes": 0.0061,
       "weighted_count": 0.47,
-      "percent": 0.6173
-    },
-    {
-      "name": "Silver",
-      "color_id": "155",
-      "rgb": [
-        192,
-        192,
-        192
-      ],
-      "rgb_string": "rgb(192,192,192)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "53586669",
-          "gender": "F",
-          "style_id": "3275113",
-          "product_url": "http://shop.nordstrom.com/s/diane-von-furstenberg-julieta-print-silk-shirtdress/3275113",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6987200.jpg",
-          "description": "Dress",
-          "subclass_id": "40",
-          "class_id": "1",
-          "age_group": "A",
-          "purchase_date": "2012-06-17",
-          "percent_color": 0.19
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0062,
-      "weighted_count": 0.19,
-      "percent": 0.6173
+      "percent": 0.6135
     },
     {
       "name": "Light Cyan",
@@ -2553,9 +2536,39 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0062,
+      "color_per_purchaes": 0.0061,
       "weighted_count": 0.51,
-      "percent": 0.6173
+      "percent": 0.6135
+    },
+    {
+      "name": "Silver",
+      "color_id": "155",
+      "rgb": [
+        192,
+        192,
+        192
+      ],
+      "rgb_string": "rgb(192,192,192)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "53586669",
+          "gender": "F",
+          "style_id": "3275113",
+          "product_url": "http://shop.nordstrom.com/s/diane-von-furstenberg-julieta-print-silk-shirtdress/3275113",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6987200.jpg",
+          "description": "Dress",
+          "subclass_id": "40",
+          "class_id": "1",
+          "age_group": "A",
+          "purchase_date": "2012-06-17",
+          "percent_color": 0.19
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0061,
+      "weighted_count": 0.19,
+      "percent": 0.6135
     },
     {
       "name": "Lavender Blush",
@@ -2583,9 +2596,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0062,
+      "color_per_purchaes": 0.0061,
       "weighted_count": 0.29,
-      "percent": 0.6173
+      "percent": 0.6135
     },
     {
       "name": "Snow",
@@ -2613,39 +2626,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0062,
+      "color_per_purchaes": 0.0061,
       "weighted_count": 0.37,
-      "percent": 0.6173
-    },
-    {
-      "name": "White",
-      "color_id": "169",
-      "rgb": [
-        255,
-        255,
-        255
-      ],
-      "rgb_string": "rgb(255,255,255)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "56980253",
-          "gender": "F",
-          "style_id": "3513858",
-          "product_url": "http://shop.nordstrom.com/s/pink-lotus-del-mar-burnout-hooded-jacket/3513858",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_7967649.jpg",
-          "description": "Sweatshirt/Hoody/Zipfront",
-          "subclass_id": "268",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-06-30",
-          "percent_color": 0.2
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0062,
-      "weighted_count": 0.2,
-      "percent": 0.6173
+      "percent": 0.6135
     },
     {
       "name": "Sky Blue",
@@ -2673,9 +2656,39 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0062,
+      "color_per_purchaes": 0.0061,
       "weighted_count": 1.0,
-      "percent": 0.6173
+      "percent": 0.6135
+    },
+    {
+      "name": "White",
+      "color_id": "169",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "rgb_string": "rgb(255,255,255)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "56980253",
+          "gender": "F",
+          "style_id": "3513858",
+          "product_url": "http://shop.nordstrom.com/s/pink-lotus-del-mar-burnout-hooded-jacket/3513858",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_7967649.jpg",
+          "description": "Sweatshirt/Hoody/Zipfront",
+          "subclass_id": "268",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-06-30",
+          "percent_color": 0.2
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0061,
+      "weighted_count": 0.2,
+      "percent": 0.6135
     },
     {
       "name": "Burlywood",
@@ -2703,9 +2716,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0062,
+      "color_per_purchaes": 0.0061,
       "weighted_count": 0.78,
-      "percent": 0.6173
+      "percent": 0.6135
     },
     {
       "name": "Brown",
@@ -2733,13 +2746,13 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0062,
+      "color_per_purchaes": 0.0061,
       "weighted_count": 0.46,
-      "percent": 0.6173
+      "percent": 0.6135
     }
   ],
   "start_date": "2009-03-08",
   "end_date": "2013-12-14",
-  "total_purchases": 162,
+  "total_purchases": 163,
   "total_colors": 37
 }

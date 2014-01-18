@@ -156,7 +156,7 @@
           "class_id": "23",
           "age_group": "A",
           "purchase_date": "2013-04-25",
-          "percent_color": 0.2
+          "percent_color": 0.81
         },
         {
           "sku_key": "50200698",
@@ -169,7 +169,7 @@
           "class_id": "23",
           "age_group": "A",
           "purchase_date": "2013-04-25",
-          "percent_color": 0.81
+          "percent_color": 0.2
         },
         {
           "sku_key": "56227646",
@@ -238,9 +238,156 @@
         }
       ],
       "count": 17,
-      "color_per_purchaes": 0.2361,
-      "weighted_count": 11.45,
-      "percent": 23.6111
+      "color_per_purchaes": 0.2208,
+      "weighted_count": 11.450000000000001,
+      "percent": 22.0779
+    },
+    {
+      "name": "White Smoke",
+      "color_id": "170",
+      "rgb": [
+        245,
+        245,
+        245
+      ],
+      "rgb_string": "rgb(245,245,245)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "50776368",
+          "gender": "F",
+          "style_id": "2826973",
+          "product_url": "http://shop.nordstrom.com/s/chanel-le-vernis-nail-colour/2826973",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_8644954.jpg",
+          "description": "NailColor",
+          "subclass_id": "337",
+          "class_id": "24",
+          "age_group": "A",
+          "purchase_date": "2011-03-18",
+          "percent_color": 0.48
+        },
+        {
+          "sku_key": "50776368",
+          "gender": "F",
+          "style_id": "2826973",
+          "product_url": "http://shop.nordstrom.com/s/chanel-le-vernis-nail-colour/2826973",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_8644954.jpg",
+          "description": "NailColor",
+          "subclass_id": "337",
+          "class_id": "24",
+          "age_group": "A",
+          "purchase_date": "2011-03-18",
+          "percent_color": 0.48
+        },
+        {
+          "sku_key": "50776479",
+          "gender": "F",
+          "style_id": "2826973",
+          "product_url": "http://shop.nordstrom.com/s/chanel-le-vernis-nail-colour/2826973",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_8644954.jpg",
+          "description": "NailColor",
+          "subclass_id": "337",
+          "class_id": "24",
+          "age_group": "A",
+          "purchase_date": "2011-03-18",
+          "percent_color": 0.57
+        },
+        {
+          "sku_key": "50776479",
+          "gender": "F",
+          "style_id": "2826973",
+          "product_url": "http://shop.nordstrom.com/s/chanel-le-vernis-nail-colour/2826973",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_8644954.jpg",
+          "description": "NailColor",
+          "subclass_id": "337",
+          "class_id": "24",
+          "age_group": "A",
+          "purchase_date": "2011-03-18",
+          "percent_color": 0.57
+        },
+        {
+          "sku_key": "50315944",
+          "gender": "F",
+          "style_id": "3131154",
+          "product_url": "http://shop.nordstrom.com/s/bp-veda-sandal/3131154",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6389417.jpg",
+          "description": "Sandals/Slides",
+          "subclass_id": "299",
+          "class_id": "4",
+          "age_group": "A",
+          "purchase_date": "2011-03-22",
+          "percent_color": 0.47
+        },
+        {
+          "sku_key": "50179947",
+          "gender": "F",
+          "style_id": "3136636",
+          "product_url": "http://shop.nordstrom.com/s/reef-in-the-mood-2-flip-flop/3136636",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_6397448.jpg",
+          "description": "Sandals/Slides",
+          "subclass_id": "299",
+          "class_id": "4",
+          "age_group": "A",
+          "purchase_date": "2011-03-22",
+          "percent_color": 0.63
+        },
+        {
+          "sku_key": "50490143",
+          "gender": "F",
+          "style_id": "3138548",
+          "product_url": "http://shop.nordstrom.com/s/jessica-simpson-jungle-espadrille-sandal/3138548",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6327423.jpg",
+          "description": "Sandals/Slides",
+          "subclass_id": "299",
+          "class_id": "4",
+          "age_group": "A",
+          "purchase_date": "2011-03-22",
+          "percent_color": 0.71
+        },
+        {
+          "sku_key": "49366291",
+          "gender": "F",
+          "style_id": "3112594",
+          "product_url": "http://shop.nordstrom.com/s/kate-spade-new-york-guest-slingback-pump/3112594",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_6346271.jpg",
+          "description": "Pumps",
+          "subclass_id": "223",
+          "class_id": "4",
+          "age_group": "A",
+          "purchase_date": "2011-03-08",
+          "percent_color": 0.76
+        },
+        {
+          "sku_key": "52656911",
+          "gender": "F",
+          "style_id": "3224517",
+          "product_url": "http://shop.nordstrom.com/s/classiques-entier-battersea-crepe-jacket/3224517",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_6716032.jpg",
+          "description": "Jacket",
+          "subclass_id": "293",
+          "class_id": "272",
+          "age_group": "A",
+          "purchase_date": "2013-04-19",
+          "percent_color": 0.79
+        },
+        {
+          "sku_key": "48680940",
+          "gender": "F",
+          "style_id": "3025870",
+          "product_url": "http://shop.nordstrom.com/s/ugg-australia-bailey-button-boot-women/3025870",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_7830574.jpg",
+          "description": "Boots",
+          "subclass_id": "219",
+          "class_id": "4",
+          "age_group": "A",
+          "purchase_date": "2011-04-05",
+          "percent_color": 0.75
+        }
+      ],
+      "count": 10,
+      "color_per_purchaes": 0.1299,
+      "weighted_count": 6.209999999999999,
+      "percent": 12.987
     },
     {
       "name": "Tan",
@@ -298,24 +445,11 @@
           "style_id": "3352997",
           "product_url": "http://shop.nordstrom.com/s/vince-snap-front-leather-jacket/3352997",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_7209380.jpg",
-          "description": "Short Jacket/Coat",
+          "description": "ShortJacket/Coat",
           "subclass_id": "283",
           "class_id": "3",
           "age_group": "A",
           "purchase_date": "2013-04-19",
-          "percent_color": 0.21
-        },
-        {
-          "sku_key": "50372479",
-          "gender": "F",
-          "style_id": "3132894",
-          "product_url": "http://shop.nordstrom.com/s/halogen-taylor-cotton-sheen-pants/3132894",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_6363055.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2011-06-01",
           "percent_color": 0.21
         },
         {
@@ -341,122 +475,27 @@
           "subclass_id": "63",
           "class_id": "23",
           "age_group": "A",
-          "purchase_date": "2011-06-06",
+          "purchase_date": "2011-06-01",
           "percent_color": 0.21
         },
         {
-          "sku_key": "42569937",
+          "sku_key": "50372479",
           "gender": "F",
-          "style_id": "3442270",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-push-up-cups/3442270",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_7714307.jpg",
-          "description": "Bra",
-          "subclass_id": "288",
-          "class_id": "37",
+          "style_id": "3132894",
+          "product_url": "http://shop.nordstrom.com/s/halogen-taylor-cotton-sheen-pants/3132894",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_6363055.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
           "age_group": "A",
-          "purchase_date": "2011-08-12",
-          "percent_color": 0.29
+          "purchase_date": "2011-06-06",
+          "percent_color": 0.21
         }
       ],
-      "count": 8,
-      "color_per_purchaes": 0.1111,
-      "weighted_count": 2.76,
-      "percent": 11.1111
-    },
-    {
-      "name": "White Smoke",
-      "color_id": "170",
-      "rgb": [
-        245,
-        245,
-        245
-      ],
-      "rgb_string": "rgb(245,245,245)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "50490143",
-          "gender": "F",
-          "style_id": "3138548",
-          "product_url": "http://shop.nordstrom.com/s/jessica-simpson-jungle-espadrille-sandal/3138548",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6327423.jpg",
-          "description": "Sandals/Slides",
-          "subclass_id": "299",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2011-03-22",
-          "percent_color": 0.71
-        },
-        {
-          "sku_key": "50315944",
-          "gender": "F",
-          "style_id": "3131154",
-          "product_url": "http://shop.nordstrom.com/s/bp-veda-sandal/3131154",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6389417.jpg",
-          "description": "Sandals/Slides",
-          "subclass_id": "299",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2011-03-22",
-          "percent_color": 0.47
-        },
-        {
-          "sku_key": "50179947",
-          "gender": "F",
-          "style_id": "3136636",
-          "product_url": "http://shop.nordstrom.com/s/reef-in-the-mood-2-flip-flop/3136636",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_6397448.jpg",
-          "description": "Sandals/Slides",
-          "subclass_id": "299",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2011-03-22",
-          "percent_color": 0.63
-        },
-        {
-          "sku_key": "49366291",
-          "gender": "F",
-          "style_id": "3112594",
-          "product_url": "http://shop.nordstrom.com/s/kate-spade-new-york-guest-slingback-pump/3112594",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_6346271.jpg",
-          "description": "Pumps",
-          "subclass_id": "223",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2011-03-08",
-          "percent_color": 0.76
-        },
-        {
-          "sku_key": "52656911",
-          "gender": "F",
-          "style_id": "3224517",
-          "product_url": "http://shop.nordstrom.com/s/classiques-entier-battersea-crepe-jacket/3224517",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_6716032.jpg",
-          "description": "Jacket",
-          "subclass_id": "293",
-          "class_id": "272",
-          "age_group": "A",
-          "purchase_date": "2013-04-19",
-          "percent_color": 0.79
-        },
-        {
-          "sku_key": "48680940",
-          "gender": "F",
-          "style_id": "3025870",
-          "product_url": "http://shop.nordstrom.com/s/ugg-australia-bailey-button-boot-women/3025870",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_7830574.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2011-04-05",
-          "percent_color": 0.75
-        }
-      ],
-      "count": 6,
-      "color_per_purchaes": 0.0833,
-      "weighted_count": 4.11,
-      "percent": 8.3333
+      "count": 7,
+      "color_per_purchaes": 0.0909,
+      "weighted_count": 2.4699999999999998,
+      "percent": 9.0909
     },
     {
       "name": "Silver",
@@ -523,9 +562,9 @@
         }
       ],
       "count": 4,
-      "color_per_purchaes": 0.0556,
+      "color_per_purchaes": 0.0519,
       "weighted_count": 0.95,
-      "percent": 5.5556
+      "percent": 5.1948
     },
     {
       "name": "Light Gray",
@@ -579,52 +618,121 @@
         }
       ],
       "count": 3,
-      "color_per_purchaes": 0.0417,
+      "color_per_purchaes": 0.039,
       "weighted_count": 1.4300000000000002,
-      "percent": 4.1667
+      "percent": 3.8961
     },
     {
-      "name": "Bisque",
-      "color_id": "35",
+      "name": "Peach Puff",
+      "color_id": "139",
       "rgb": [
         255,
-        228,
-        196
+        218,
+        185
       ],
-      "rgb_string": "rgb(255,228,196)",
+      "rgb_string": "rgb(255,218,185)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "50372479",
+          "sku_key": "50776479",
           "gender": "F",
-          "style_id": "3132894",
-          "product_url": "http://shop.nordstrom.com/s/halogen-taylor-cotton-sheen-pants/3132894",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_6363055.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
+          "style_id": "2826973",
+          "product_url": "http://shop.nordstrom.com/s/chanel-le-vernis-nail-colour/2826973",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_8644954.jpg",
+          "description": "NailColor",
+          "subclass_id": "337",
+          "class_id": "24",
           "age_group": "A",
-          "purchase_date": "2011-06-01",
-          "percent_color": 0.2
+          "purchase_date": "2011-03-18",
+          "percent_color": 0.34
         },
         {
-          "sku_key": "50372479",
+          "sku_key": "50776479",
           "gender": "F",
-          "style_id": "3132894",
-          "product_url": "http://shop.nordstrom.com/s/halogen-taylor-cotton-sheen-pants/3132894",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_6363055.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
+          "style_id": "2826973",
+          "product_url": "http://shop.nordstrom.com/s/chanel-le-vernis-nail-colour/2826973",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_8644954.jpg",
+          "description": "NailColor",
+          "subclass_id": "337",
+          "class_id": "24",
           "age_group": "A",
-          "purchase_date": "2011-06-06",
-          "percent_color": 0.2
+          "purchase_date": "2011-03-18",
+          "percent_color": 0.34
+        },
+        {
+          "sku_key": "50730488",
+          "gender": "F",
+          "style_id": "3136187",
+          "product_url": "http://shop.nordstrom.com/s/trouve-long-sleeve-silk-shirt/3136187",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_6374606.jpg",
+          "description": "Shirt",
+          "subclass_id": "227",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2011-03-23",
+          "percent_color": 1.0
         }
       ],
-      "count": 2,
-      "color_per_purchaes": 0.0278,
-      "weighted_count": 0.4,
-      "percent": 2.7778
+      "count": 3,
+      "color_per_purchaes": 0.039,
+      "weighted_count": 1.6800000000000002,
+      "percent": 3.8961
+    },
+    {
+      "name": "Dark Slate Gray",
+      "color_id": "64",
+      "rgb": [
+        47,
+        79,
+        79
+      ],
+      "rgb_string": "rgb(47,79,79)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "50776368",
+          "gender": "F",
+          "style_id": "2826973",
+          "product_url": "http://shop.nordstrom.com/s/chanel-le-vernis-nail-colour/2826973",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_8644954.jpg",
+          "description": "NailColor",
+          "subclass_id": "337",
+          "class_id": "24",
+          "age_group": "A",
+          "purchase_date": "2011-03-18",
+          "percent_color": 0.3
+        },
+        {
+          "sku_key": "50776368",
+          "gender": "F",
+          "style_id": "2826973",
+          "product_url": "http://shop.nordstrom.com/s/chanel-le-vernis-nail-colour/2826973",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_8644954.jpg",
+          "description": "NailColor",
+          "subclass_id": "337",
+          "class_id": "24",
+          "age_group": "A",
+          "purchase_date": "2011-03-18",
+          "percent_color": 0.3
+        },
+        {
+          "sku_key": "48680940",
+          "gender": "F",
+          "style_id": "3025870",
+          "product_url": "http://shop.nordstrom.com/s/ugg-australia-bailey-button-boot-women/3025870",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_7830574.jpg",
+          "description": "Boots",
+          "subclass_id": "219",
+          "class_id": "4",
+          "age_group": "A",
+          "purchase_date": "2011-04-05",
+          "percent_color": 0.16
+        }
+      ],
+      "count": 3,
+      "color_per_purchaes": 0.039,
+      "weighted_count": 0.76,
+      "percent": 3.8961
     },
     {
       "name": "Gainsboro",
@@ -665,9 +773,52 @@
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0278,
+      "color_per_purchaes": 0.026,
       "weighted_count": 1.3699999999999999,
-      "percent": 2.7778
+      "percent": 2.5974
+    },
+    {
+      "name": "Bisque",
+      "color_id": "35",
+      "rgb": [
+        255,
+        228,
+        196
+      ],
+      "rgb_string": "rgb(255,228,196)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "50372479",
+          "gender": "F",
+          "style_id": "3132894",
+          "product_url": "http://shop.nordstrom.com/s/halogen-taylor-cotton-sheen-pants/3132894",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_6363055.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2011-06-01",
+          "percent_color": 0.2
+        },
+        {
+          "sku_key": "50372479",
+          "gender": "F",
+          "style_id": "3132894",
+          "product_url": "http://shop.nordstrom.com/s/halogen-taylor-cotton-sheen-pants/3132894",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_6363055.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2011-06-06",
+          "percent_color": 0.2
+        }
+      ],
+      "count": 2,
+      "color_per_purchaes": 0.026,
+      "weighted_count": 0.4,
+      "percent": 2.5974
     },
     {
       "name": "Blanched Almond",
@@ -708,52 +859,9 @@
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0278,
+      "color_per_purchaes": 0.026,
       "weighted_count": 0.66,
-      "percent": 2.7778
-    },
-    {
-      "name": "Gray",
-      "color_id": "80",
-      "rgb": [
-        128,
-        128,
-        128
-      ],
-      "rgb_string": "rgb(128,128,128)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "51170700",
-          "gender": "F",
-          "style_id": "3158209",
-          "product_url": "http://shop.nordstrom.com/s/donna-morgan-belted-sleeveless-chambray-shirtdress/3158209",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6340176.jpg",
-          "description": "Dress",
-          "subclass_id": "40",
-          "class_id": "1",
-          "age_group": "A",
-          "purchase_date": "2011-03-23",
-          "percent_color": 0.45
-        },
-        {
-          "sku_key": "50959449",
-          "gender": "F",
-          "style_id": "3133151",
-          "product_url": "http://shop.nordstrom.com/s/halogen-crewneck-cardigan/3133151",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6368473.jpg",
-          "description": "Sweater",
-          "subclass_id": "194",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2011-06-01",
-          "percent_color": 0.19
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0278,
-      "weighted_count": 0.64,
-      "percent": 2.7778
+      "percent": 2.5974
     },
     {
       "name": "Dim Gray",
@@ -794,9 +902,52 @@
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0278,
+      "color_per_purchaes": 0.026,
       "weighted_count": 1.1600000000000001,
-      "percent": 2.7778
+      "percent": 2.5974
+    },
+    {
+      "name": "Gray",
+      "color_id": "80",
+      "rgb": [
+        128,
+        128,
+        128
+      ],
+      "rgb_string": "rgb(128,128,128)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "51170700",
+          "gender": "F",
+          "style_id": "3158209",
+          "product_url": "http://shop.nordstrom.com/s/donna-morgan-belted-sleeveless-chambray-shirtdress/3158209",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6340176.jpg",
+          "description": "Dress",
+          "subclass_id": "40",
+          "class_id": "1",
+          "age_group": "A",
+          "purchase_date": "2011-03-23",
+          "percent_color": 0.45
+        },
+        {
+          "sku_key": "50959449",
+          "gender": "F",
+          "style_id": "3133151",
+          "product_url": "http://shop.nordstrom.com/s/halogen-crewneck-cardigan/3133151",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6368473.jpg",
+          "description": "Sweater",
+          "subclass_id": "194",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2011-06-01",
+          "percent_color": 0.19
+        }
+      ],
+      "count": 2,
+      "color_per_purchaes": 0.026,
+      "weighted_count": 0.64,
+      "percent": 2.5974
     },
     {
       "name": "Rosy Brown",
@@ -837,52 +988,9 @@
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0278,
+      "color_per_purchaes": 0.026,
       "weighted_count": 1.92,
-      "percent": 2.7778
-    },
-    {
-      "name": "Peach Puff",
-      "color_id": "139",
-      "rgb": [
-        255,
-        218,
-        185
-      ],
-      "rgb_string": "rgb(255,218,185)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "50730488",
-          "gender": "F",
-          "style_id": "3136187",
-          "product_url": "http://shop.nordstrom.com/s/trouve-long-sleeve-silk-shirt/3136187",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_6374606.jpg",
-          "description": "Shirt",
-          "subclass_id": "227",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2011-03-23",
-          "percent_color": 1.0
-        },
-        {
-          "sku_key": "42569937",
-          "gender": "F",
-          "style_id": "3442270",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-push-up-cups/3442270",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_7714307.jpg",
-          "description": "Bra",
-          "subclass_id": "288",
-          "class_id": "37",
-          "age_group": "A",
-          "purchase_date": "2011-08-12",
-          "percent_color": 0.17
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0278,
-      "weighted_count": 1.17,
-      "percent": 2.7778
+      "percent": 2.5974
     },
     {
       "name": "NA",
@@ -921,129 +1029,9 @@
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0278,
+      "color_per_purchaes": 0.026,
       "weighted_count": 0.0,
-      "percent": 2.7778
-    },
-    {
-      "name": "Medium Aquamarine",
-      "color_id": "113",
-      "rgb": [
-        102,
-        205,
-        170
-      ],
-      "rgb_string": "rgb(102,205,170)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "54430501",
-          "gender": "F",
-          "style_id": "3324030",
-          "product_url": "http://shop.nordstrom.com/s/diane-von-furstenberg-atira-silk-shirtdress/3324030",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_7227491.jpg",
-          "description": "Dress",
-          "subclass_id": "40",
-          "class_id": "1",
-          "age_group": "A",
-          "purchase_date": "2013-04-19",
-          "percent_color": 1.01
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0139,
-      "weighted_count": 1.01,
-      "percent": 1.3889
-    },
-    {
-      "name": "Deep Pink",
-      "color_id": "67",
-      "rgb": [
-        255,
-        20,
-        147
-      ],
-      "rgb_string": "rgb(255,20,147)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "54800450",
-          "gender": "F",
-          "style_id": "3348744",
-          "product_url": "http://shop.nordstrom.com/s/lafayette-148-new-york-jacinta-matte-silk-blouse/3348744",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_7186786.jpg",
-          "description": "Blouse/Top",
-          "subclass_id": "216",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-04-19",
-          "percent_color": 0.92
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0139,
-      "weighted_count": 0.92,
-      "percent": 1.3889
-    },
-    {
-      "name": "Dark Sea Green",
-      "color_id": "62",
-      "rgb": [
-        143,
-        188,
-        143
-      ],
-      "rgb_string": "rgb(143,188,143)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "53153540",
-          "gender": "F",
-          "style_id": "3250052",
-          "product_url": "http://shop.nordstrom.com/s/classiques-entier-atelier-graphic-print-silk-blouse/3250052",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_7003153.jpg",
-          "description": "Blouse/Top",
-          "subclass_id": "216",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-04-19",
-          "percent_color": 0.34
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0139,
-      "weighted_count": 0.34,
-      "percent": 1.3889
-    },
-    {
-      "name": "Orchid",
-      "color_id": "133",
-      "rgb": [
-        218,
-        112,
-        214
-      ],
-      "rgb_string": "rgb(218,112,214)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "54136862",
-          "gender": "F",
-          "style_id": "3304905",
-          "product_url": "http://shop.nordstrom.com/s/lafayette-148-new-york-refined-charm-reversible-silk-tank/3304905",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_8278056.jpg",
-          "description": "Tank/Cami/Shell",
-          "subclass_id": "269",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-04-19",
-          "percent_color": 0.41
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0139,
-      "weighted_count": 0.41,
-      "percent": 1.3889
+      "percent": 2.5974
     },
     {
       "name": "White",
@@ -1071,69 +1059,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0139,
+      "color_per_purchaes": 0.013,
       "weighted_count": 0.19,
-      "percent": 1.3889
-    },
-    {
-      "name": "Light Cyan",
-      "color_id": "96",
-      "rgb": [
-        224,
-        255,
-        255
-      ],
-      "rgb_string": "rgb(224,255,255)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "53153540",
-          "gender": "F",
-          "style_id": "3250052",
-          "product_url": "http://shop.nordstrom.com/s/classiques-entier-atelier-graphic-print-silk-blouse/3250052",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_7003153.jpg",
-          "description": "Blouse/Top",
-          "subclass_id": "216",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-04-19",
-          "percent_color": 0.33
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0139,
-      "weighted_count": 0.33,
-      "percent": 1.3889
-    },
-    {
-      "name": "Purple",
-      "color_id": "145",
-      "rgb": [
-        127,
-        0,
-        127
-      ],
-      "rgb_string": "rgb(127,0,127)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "54136862",
-          "gender": "F",
-          "style_id": "3304905",
-          "product_url": "http://shop.nordstrom.com/s/lafayette-148-new-york-refined-charm-reversible-silk-tank/3304905",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_8278056.jpg",
-          "description": "Tank/Cami/Shell",
-          "subclass_id": "269",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-04-19",
-          "percent_color": 0.47
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0139,
-      "weighted_count": 0.47,
-      "percent": 1.3889
+      "percent": 1.2987
     },
     {
       "name": "Steel Blue",
@@ -1161,39 +1089,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0139,
+      "color_per_purchaes": 0.013,
       "weighted_count": 0.95,
-      "percent": 1.3889
-    },
-    {
-      "name": "Peru",
-      "color_id": "140",
-      "rgb": [
-        205,
-        133,
-        63
-      ],
-      "rgb_string": "rgb(205,133,63)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "54854902",
-          "gender": "F",
-          "style_id": "3352997",
-          "product_url": "http://shop.nordstrom.com/s/vince-snap-front-leather-jacket/3352997",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_7209380.jpg",
-          "description": "Short Jacket/Coat",
-          "subclass_id": "283",
-          "class_id": "3",
-          "age_group": "A",
-          "purchase_date": "2013-04-19",
-          "percent_color": 0.56
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0139,
-      "weighted_count": 0.56,
-      "percent": 1.3889
+      "percent": 1.2987
     },
     {
       "name": "Dark Olive Green",
@@ -1221,9 +1119,99 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0139,
+      "color_per_purchaes": 0.013,
       "weighted_count": 1.01,
-      "percent": 1.3889
+      "percent": 1.2987
+    },
+    {
+      "name": "Peru",
+      "color_id": "140",
+      "rgb": [
+        205,
+        133,
+        63
+      ],
+      "rgb_string": "rgb(205,133,63)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "54854902",
+          "gender": "F",
+          "style_id": "3352997",
+          "product_url": "http://shop.nordstrom.com/s/vince-snap-front-leather-jacket/3352997",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_7209380.jpg",
+          "description": "ShortJacket/Coat",
+          "subclass_id": "283",
+          "class_id": "3",
+          "age_group": "A",
+          "purchase_date": "2013-04-19",
+          "percent_color": 0.56
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.013,
+      "weighted_count": 0.56,
+      "percent": 1.2987
+    },
+    {
+      "name": "Light Cyan",
+      "color_id": "96",
+      "rgb": [
+        224,
+        255,
+        255
+      ],
+      "rgb_string": "rgb(224,255,255)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "53153540",
+          "gender": "F",
+          "style_id": "3250052",
+          "product_url": "http://shop.nordstrom.com/s/classiques-entier-atelier-graphic-print-silk-blouse/3250052",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_7003153.jpg",
+          "description": "Blouse/Top",
+          "subclass_id": "216",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-04-19",
+          "percent_color": 0.33
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.013,
+      "weighted_count": 0.33,
+      "percent": 1.2987
+    },
+    {
+      "name": "Dark Sea Green",
+      "color_id": "62",
+      "rgb": [
+        143,
+        188,
+        143
+      ],
+      "rgb_string": "rgb(143,188,143)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "53153540",
+          "gender": "F",
+          "style_id": "3250052",
+          "product_url": "http://shop.nordstrom.com/s/classiques-entier-atelier-graphic-print-silk-blouse/3250052",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_7003153.jpg",
+          "description": "Blouse/Top",
+          "subclass_id": "216",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-04-19",
+          "percent_color": 0.34
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.013,
+      "weighted_count": 0.34,
+      "percent": 1.2987
     },
     {
       "name": "Khaki",
@@ -1251,39 +1239,129 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0139,
+      "color_per_purchaes": 0.013,
       "weighted_count": 0.25,
-      "percent": 1.3889
+      "percent": 1.2987
     },
     {
-      "name": "Dark Slate Gray",
-      "color_id": "64",
+      "name": "Purple",
+      "color_id": "145",
       "rgb": [
-        47,
-        79,
-        79
+        127,
+        0,
+        127
       ],
-      "rgb_string": "rgb(47,79,79)",
+      "rgb_string": "rgb(127,0,127)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "48680940",
+          "sku_key": "54136862",
           "gender": "F",
-          "style_id": "3025870",
-          "product_url": "http://shop.nordstrom.com/s/ugg-australia-bailey-button-boot-women/3025870",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_7830574.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
+          "style_id": "3304905",
+          "product_url": "http://shop.nordstrom.com/s/lafayette-148-new-york-refined-charm-reversible-silk-tank/3304905",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_8278056.jpg",
+          "description": "Tank/Cami/Shell",
+          "subclass_id": "269",
+          "class_id": "12",
           "age_group": "A",
-          "purchase_date": "2011-04-05",
-          "percent_color": 0.16
+          "purchase_date": "2013-04-19",
+          "percent_color": 0.47
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0139,
-      "weighted_count": 0.16,
-      "percent": 1.3889
+      "color_per_purchaes": 0.013,
+      "weighted_count": 0.47,
+      "percent": 1.2987
+    },
+    {
+      "name": "Medium Aquamarine",
+      "color_id": "113",
+      "rgb": [
+        102,
+        205,
+        170
+      ],
+      "rgb_string": "rgb(102,205,170)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "54430501",
+          "gender": "F",
+          "style_id": "3324030",
+          "product_url": "http://shop.nordstrom.com/s/diane-von-furstenberg-atira-silk-shirtdress/3324030",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_7227491.jpg",
+          "description": "Dress",
+          "subclass_id": "40",
+          "class_id": "1",
+          "age_group": "A",
+          "purchase_date": "2013-04-19",
+          "percent_color": 1.01
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.013,
+      "weighted_count": 1.01,
+      "percent": 1.2987
+    },
+    {
+      "name": "Orchid",
+      "color_id": "133",
+      "rgb": [
+        218,
+        112,
+        214
+      ],
+      "rgb_string": "rgb(218,112,214)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "54136862",
+          "gender": "F",
+          "style_id": "3304905",
+          "product_url": "http://shop.nordstrom.com/s/lafayette-148-new-york-refined-charm-reversible-silk-tank/3304905",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_8278056.jpg",
+          "description": "Tank/Cami/Shell",
+          "subclass_id": "269",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-04-19",
+          "percent_color": 0.41
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.013,
+      "weighted_count": 0.41,
+      "percent": 1.2987
+    },
+    {
+      "name": "Deep Pink",
+      "color_id": "67",
+      "rgb": [
+        255,
+        20,
+        147
+      ],
+      "rgb_string": "rgb(255,20,147)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "54800450",
+          "gender": "F",
+          "style_id": "3348744",
+          "product_url": "http://shop.nordstrom.com/s/lafayette-148-new-york-jacinta-matte-silk-blouse/3348744",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_7186786.jpg",
+          "description": "Blouse/Top",
+          "subclass_id": "216",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-04-19",
+          "percent_color": 0.92
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.013,
+      "weighted_count": 0.92,
+      "percent": 1.2987
     },
     {
       "name": "Antique White",
@@ -1311,99 +1389,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0139,
+      "color_per_purchaes": 0.013,
       "weighted_count": 0.45,
-      "percent": 1.3889
-    },
-    {
-      "name": "Sienna",
-      "color_id": "154",
-      "rgb": [
-        160,
-        82,
-        45
-      ],
-      "rgb_string": "rgb(160,82,45)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "50179947",
-          "gender": "F",
-          "style_id": "3136636",
-          "product_url": "http://shop.nordstrom.com/s/reef-in-the-mood-2-flip-flop/3136636",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_6397448.jpg",
-          "description": "Sandals/Slides",
-          "subclass_id": "299",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2011-03-22",
-          "percent_color": 0.19
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0139,
-      "weighted_count": 0.19,
-      "percent": 1.3889
-    },
-    {
-      "name": "Wheat",
-      "color_id": "168",
-      "rgb": [
-        245,
-        222,
-        179
-      ],
-      "rgb_string": "rgb(245,222,179)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "49330135",
-          "gender": "F",
-          "style_id": "3122891",
-          "product_url": "http://shop.nordstrom.com/s/guess-hondo-3-platform-pump/3122891",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_6235898.jpg",
-          "description": "Pumps",
-          "subclass_id": "223",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2011-03-22",
-          "percent_color": 0.15
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0139,
-      "weighted_count": 0.15,
-      "percent": 1.3889
-    },
-    {
-      "name": "Light Coral",
-      "color_id": "95",
-      "rgb": [
-        240,
-        128,
-        128
-      ],
-      "rgb_string": "rgb(240,128,128)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "50661656",
-          "gender": "F",
-          "style_id": "3140854",
-          "product_url": "http://shop.nordstrom.com/s/halogen-ruffled-blouse/3140854",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_6450065.jpg",
-          "description": "Blouse/Top",
-          "subclass_id": "216",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2011-06-01",
-          "percent_color": 1.0
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0139,
-      "weighted_count": 1.0,
-      "percent": 1.3889
+      "percent": 1.2987
     },
     {
       "name": "Dark Salmon",
@@ -1431,43 +1419,103 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0139,
+      "color_per_purchaes": 0.013,
       "weighted_count": 1.01,
-      "percent": 1.3889
+      "percent": 1.2987
     },
     {
-      "name": "Misty Rose",
-      "color_id": "124",
+      "name": "Wheat",
+      "color_id": "168",
       "rgb": [
-        255,
-        228,
-        225
+        245,
+        222,
+        179
       ],
-      "rgb_string": "rgb(255,228,225)",
+      "rgb_string": "rgb(245,222,179)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "42569937",
+          "sku_key": "49330135",
           "gender": "F",
-          "style_id": "3442270",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-push-up-cups/3442270",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_7714307.jpg",
-          "description": "Bra",
-          "subclass_id": "288",
-          "class_id": "37",
+          "style_id": "3122891",
+          "product_url": "http://shop.nordstrom.com/s/guess-hondo-3-platform-pump/3122891",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_6235898.jpg",
+          "description": "Pumps",
+          "subclass_id": "223",
+          "class_id": "4",
           "age_group": "A",
-          "purchase_date": "2011-08-12",
-          "percent_color": 0.49
+          "purchase_date": "2011-03-22",
+          "percent_color": 0.15
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0139,
-      "weighted_count": 0.49,
-      "percent": 1.3889
+      "color_per_purchaes": 0.013,
+      "weighted_count": 0.15,
+      "percent": 1.2987
+    },
+    {
+      "name": "Sienna",
+      "color_id": "154",
+      "rgb": [
+        160,
+        82,
+        45
+      ],
+      "rgb_string": "rgb(160,82,45)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "50179947",
+          "gender": "F",
+          "style_id": "3136636",
+          "product_url": "http://shop.nordstrom.com/s/reef-in-the-mood-2-flip-flop/3136636",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_6397448.jpg",
+          "description": "Sandals/Slides",
+          "subclass_id": "299",
+          "class_id": "4",
+          "age_group": "A",
+          "purchase_date": "2011-03-22",
+          "percent_color": 0.19
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.013,
+      "weighted_count": 0.19,
+      "percent": 1.2987
+    },
+    {
+      "name": "Light Coral",
+      "color_id": "95",
+      "rgb": [
+        240,
+        128,
+        128
+      ],
+      "rgb_string": "rgb(240,128,128)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "50661656",
+          "gender": "F",
+          "style_id": "3140854",
+          "product_url": "http://shop.nordstrom.com/s/halogen-ruffled-blouse/3140854",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_6450065.jpg",
+          "description": "Blouse/Top",
+          "subclass_id": "216",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2011-06-01",
+          "percent_color": 1.0
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.013,
+      "weighted_count": 1.0,
+      "percent": 1.2987
     }
   ],
   "start_date": "2011-01-28",
   "end_date": "2013-09-13",
-  "total_purchases": 72,
-  "total_colors": 31
+  "total_purchases": 77,
+  "total_colors": 30
 }

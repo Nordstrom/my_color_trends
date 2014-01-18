@@ -47,7 +47,7 @@
           "style_id": "3530832",
           "product_url": "http://shop.nordstrom.com/s/barbour-sapper-jacket/3530832",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_8280760.jpg",
-          "description": "Short Jacket/Coat",
+          "description": "ShortJacket/Coat",
           "subclass_id": "283",
           "class_id": "3",
           "age_group": "A",
@@ -90,25 +90,12 @@
           "style_id": "3530832",
           "product_url": "http://shop.nordstrom.com/s/barbour-sapper-jacket/3530832",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_8280760.jpg",
-          "description": "Short Jacket/Coat",
+          "description": "ShortJacket/Coat",
           "subclass_id": "283",
           "class_id": "3",
           "age_group": "A",
           "purchase_date": "2013-12-08",
           "percent_color": 0.21
-        },
-        {
-          "sku_key": "54961860",
-          "gender": "M",
-          "style_id": "3132260",
-          "product_url": "http://shop.nordstrom.com/s/cole-haan-air-colton-saddle-oxford/3132260",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_7580194.jpg",
-          "description": "Oxfords",
-          "subclass_id": "217",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2013-06-16",
-          "percent_color": 0.18
         },
         {
           "sku_key": "55387052",
@@ -122,12 +109,68 @@
           "age_group": "A",
           "purchase_date": "2013-06-16",
           "percent_color": 0.34
+        },
+        {
+          "sku_key": "54961860",
+          "gender": "M",
+          "style_id": "3132260",
+          "product_url": "http://shop.nordstrom.com/s/cole-haan-air-colton-saddle-oxford/3132260",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_7580194.jpg",
+          "description": "Oxfords",
+          "subclass_id": "217",
+          "class_id": "4",
+          "age_group": "A",
+          "purchase_date": "2013-06-16",
+          "percent_color": 0.18
         }
       ],
       "count": 3,
       "color_per_purchaes": 0.1579,
       "weighted_count": 0.73,
       "percent": 15.7895
+    },
+    {
+      "name": "Light Gray",
+      "color_id": "98",
+      "rgb": [
+        211,
+        211,
+        211
+      ],
+      "rgb_string": "rgb(211,211,211)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "56008175",
+          "gender": "M",
+          "style_id": "3433675",
+          "product_url": "http://shop.nordstrom.com/s/michael-kors-nylon-front-jacket/3433675",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_7723394.jpg",
+          "description": "ShortJacket/Coat",
+          "subclass_id": "283",
+          "class_id": "3",
+          "age_group": "A",
+          "purchase_date": "2013-06-16",
+          "percent_color": 1.0
+        },
+        {
+          "sku_key": "55487299",
+          "gender": "M",
+          "style_id": "3399705",
+          "product_url": "http://shop.nordstrom.com/s/ag-jeans-harbour-slim-fit-trousers/3399705",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_7814372.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2013-06-16",
+          "percent_color": 0.16
+        }
+      ],
+      "count": 2,
+      "color_per_purchaes": 0.1053,
+      "weighted_count": 1.16,
+      "percent": 10.5263
     },
     {
       "name": "Gray",
@@ -173,47 +216,34 @@
       "percent": 10.5263
     },
     {
-      "name": "Light Gray",
-      "color_id": "98",
+      "name": "Saddle Brown",
+      "color_id": "149",
       "rgb": [
-        211,
-        211,
-        211
+        139,
+        69,
+        19
       ],
-      "rgb_string": "rgb(211,211,211)",
+      "rgb_string": "rgb(139,69,19)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "56008175",
+          "sku_key": "54961860",
           "gender": "M",
-          "style_id": "3433675",
-          "product_url": "http://shop.nordstrom.com/s/michael-kors-nylon-front-jacket/3433675",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_7723394.jpg",
-          "description": "Short Jacket/Coat",
-          "subclass_id": "283",
-          "class_id": "3",
+          "style_id": "3132260",
+          "product_url": "http://shop.nordstrom.com/s/cole-haan-air-colton-saddle-oxford/3132260",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_7580194.jpg",
+          "description": "Oxfords",
+          "subclass_id": "217",
+          "class_id": "4",
           "age_group": "A",
           "purchase_date": "2013-06-16",
-          "percent_color": 1.0
-        },
-        {
-          "sku_key": "55487299",
-          "gender": "M",
-          "style_id": "3399705",
-          "product_url": "http://shop.nordstrom.com/s/ag-jeans-harbour-slim-fit-trousers/3399705",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_7814372.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-06-16",
-          "percent_color": 0.16
+          "percent_color": 0.74
         }
       ],
-      "count": 2,
-      "color_per_purchaes": 0.1053,
-      "weighted_count": 1.16,
-      "percent": 10.5263
+      "count": 1,
+      "color_per_purchaes": 0.0526,
+      "weighted_count": 0.74,
+      "percent": 5.2632
     },
     {
       "name": "Royal Blue",
@@ -243,36 +273,6 @@
       "count": 1,
       "color_per_purchaes": 0.0526,
       "weighted_count": 0.22,
-      "percent": 5.2632
-    },
-    {
-      "name": "Saddle Brown",
-      "color_id": "149",
-      "rgb": [
-        139,
-        69,
-        19
-      ],
-      "rgb_string": "rgb(139,69,19)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "54961860",
-          "gender": "M",
-          "style_id": "3132260",
-          "product_url": "http://shop.nordstrom.com/s/cole-haan-air-colton-saddle-oxford/3132260",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_7580194.jpg",
-          "description": "Oxfords",
-          "subclass_id": "217",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2013-06-16",
-          "percent_color": 0.74
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0526,
-      "weighted_count": 0.74,
       "percent": 5.2632
     },
     {
@@ -366,36 +366,6 @@
       "percent": 5.2632
     },
     {
-      "name": "Tan",
-      "color_id": "162",
-      "rgb": [
-        210,
-        180,
-        140
-      ],
-      "rgb_string": "rgb(210,180,140)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "54400576",
-          "gender": "M",
-          "style_id": "3252195",
-          "product_url": "http://shop.nordstrom.com/s/paige-denim-normandie-slim-straight-leg-pants/3252195",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6775774.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-06-16",
-          "percent_color": 0.91
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0526,
-      "weighted_count": 0.91,
-      "percent": 5.2632
-    },
-    {
       "name": "Dark Gray",
       "color_id": "53",
       "rgb": [
@@ -423,6 +393,36 @@
       "count": 1,
       "color_per_purchaes": 0.0526,
       "weighted_count": 0.22,
+      "percent": 5.2632
+    },
+    {
+      "name": "Tan",
+      "color_id": "162",
+      "rgb": [
+        210,
+        180,
+        140
+      ],
+      "rgb_string": "rgb(210,180,140)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "54400576",
+          "gender": "M",
+          "style_id": "3252195",
+          "product_url": "http://shop.nordstrom.com/s/paige-denim-normandie-slim-straight-leg-pants/3252195",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6775774.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2013-06-16",
+          "percent_color": 0.91
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0526,
+      "weighted_count": 0.91,
       "percent": 5.2632
     },
     {

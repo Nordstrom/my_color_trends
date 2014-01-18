@@ -34,7 +34,7 @@
           "style_id": "3578404",
           "product_url": "http://shop.nordstrom.com/s/the-north-face-mcmurdo-waterproof-down-parka/3578404",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_8444814.jpg",
-          "description": "Short Jacket/Coat",
+          "description": "ShortJacket/Coat",
           "subclass_id": "283",
           "class_id": "3",
           "age_group": "A",
@@ -53,6 +53,19 @@
           "age_group": "A",
           "purchase_date": "2013-11-27",
           "percent_color": 0.22
+        },
+        {
+          "sku_key": "54649760",
+          "gender": "M",
+          "style_id": "3338877",
+          "product_url": "http://shop.nordstrom.com/s/dolcegabbana-pleated-cotton-trousers/3338877",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_7072333.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2012-12-02",
+          "percent_color": 1.01
         },
         {
           "sku_key": "54620527",
@@ -81,19 +94,6 @@
           "percent_color": 0.41
         },
         {
-          "sku_key": "54649760",
-          "gender": "M",
-          "style_id": "3338877",
-          "product_url": "http://shop.nordstrom.com/s/dolcegabbana-pleated-cotton-trousers/3338877",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_7072333.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2012-12-02",
-          "percent_color": 1.01
-        },
-        {
           "sku_key": "52839714",
           "gender": "M",
           "style_id": "3234585",
@@ -107,6 +107,19 @@
           "percent_color": 0.77
         },
         {
+          "sku_key": "53833830",
+          "gender": "M",
+          "style_id": "3287871",
+          "product_url": "http://shop.nordstrom.com/s/cole-haan-air-stratton-casual-loafer/3287871",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_7052884.jpg",
+          "description": "Slipon",
+          "subclass_id": "301",
+          "class_id": "4",
+          "age_group": "A",
+          "purchase_date": "2012-12-03",
+          "percent_color": 0.72
+        },
+        {
           "sku_key": "52839714",
           "gender": "M",
           "style_id": "3234585",
@@ -118,19 +131,6 @@
           "age_group": "A",
           "purchase_date": "2012-12-03",
           "percent_color": 0.21
-        },
-        {
-          "sku_key": "53833830",
-          "gender": "M",
-          "style_id": "3287871",
-          "product_url": "http://shop.nordstrom.com/s/cole-haan-air-stratton-casual-loafer/3287871",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_7052884.jpg",
-          "description": "Slip on",
-          "subclass_id": "301",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2012-12-03",
-          "percent_color": 0.72
         },
         {
           "sku_key": "54849643",
@@ -242,20 +242,7 @@
           "style_id": "3368312",
           "product_url": "http://shop.nordstrom.com/s/z-zegna-trim-fit-wool-suit-free-next-day-shipping/3368312",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_7248625.jpg",
-          "description": "2 Piece Sets",
-          "subclass_id": "266",
-          "class_id": "265",
-          "age_group": "A",
-          "purchase_date": "2013-07-20",
-          "percent_color": 0.7
-        },
-        {
-          "sku_key": "37911253",
-          "gender": "M",
-          "style_id": "3368312",
-          "product_url": "http://shop.nordstrom.com/s/z-zegna-trim-fit-wool-suit-free-next-day-shipping/3368312",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_7248625.jpg",
-          "description": "2 Piece Sets",
+          "description": "2PieceSets",
           "subclass_id": "266",
           "class_id": "265",
           "age_group": "A",
@@ -274,6 +261,19 @@
           "age_group": "A",
           "purchase_date": "2013-07-20",
           "percent_color": 0.19
+        },
+        {
+          "sku_key": "37911253",
+          "gender": "M",
+          "style_id": "3368312",
+          "product_url": "http://shop.nordstrom.com/s/z-zegna-trim-fit-wool-suit-free-next-day-shipping/3368312",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_7248625.jpg",
+          "description": "2PieceSets",
+          "subclass_id": "266",
+          "class_id": "265",
+          "age_group": "A",
+          "purchase_date": "2013-07-20",
+          "percent_color": 0.7
         },
         {
           "sku_key": "54553551",
@@ -304,7 +304,7 @@
       ],
       "count": 22,
       "color_per_purchaes": 0.44,
-      "weighted_count": 15.159999999999998,
+      "weighted_count": 15.159999999999997,
       "percent": 44.0
     },
     {
@@ -324,7 +324,7 @@
           "style_id": "2986747",
           "product_url": "http://shop.nordstrom.com/s/david-donahue-sterling-silver-tie-clip/2986747",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6315280.jpg",
-          "description": "Tie Clip",
+          "description": "TieClip",
           "subclass_id": "246",
           "class_id": "6",
           "age_group": "A",
@@ -337,7 +337,7 @@
           "style_id": "2986747",
           "product_url": "http://shop.nordstrom.com/s/david-donahue-sterling-silver-tie-clip/2986747",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6315280.jpg",
-          "description": "Tie Clip",
+          "description": "TieClip",
           "subclass_id": "246",
           "class_id": "6",
           "age_group": "A",
@@ -364,46 +364,46 @@
       "percent": 6.0
     },
     {
-      "name": "Dark Slate Blue",
-      "color_id": "63",
+      "name": "Light Steel Blue",
+      "color_id": "105",
       "rgb": [
-        72,
-        61,
-        139
+        176,
+        196,
+        222
       ],
-      "rgb_string": "rgb(72,61,139)",
+      "rgb_string": "rgb(176,196,222)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "55679321",
+          "sku_key": "55288911",
           "gender": "M",
-          "style_id": "3414160",
-          "product_url": "http://shop.nordstrom.com/s/michael-kors-trim-fit-linen-sportcoat/3414160",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_7744587.jpg",
-          "description": "Sportcoat",
-          "subclass_id": "344",
-          "class_id": "272",
+          "style_id": "3385022",
+          "product_url": "http://shop.nordstrom.com/s/ermenegildo-zegna-regular-fit-dress-shirt/3385022",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_7971601.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
           "age_group": "A",
-          "purchase_date": "2013-04-29",
-          "percent_color": 0.35
+          "purchase_date": "2013-10-03",
+          "percent_color": 0.5
         },
         {
-          "sku_key": "55679321",
+          "sku_key": "55301232",
           "gender": "M",
-          "style_id": "3414160",
-          "product_url": "http://shop.nordstrom.com/s/michael-kors-trim-fit-linen-sportcoat/3414160",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_7744587.jpg",
-          "description": "Sportcoat",
-          "subclass_id": "344",
-          "class_id": "272",
+          "style_id": "3386122",
+          "product_url": "http://shop.nordstrom.com/s/thomas-pink-slim-fit-dress-shirt/3386122",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_7526832.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
           "age_group": "A",
-          "purchase_date": "2013-05-12",
-          "percent_color": 0.35
+          "purchase_date": "2013-08-28",
+          "percent_color": 0.62
         }
       ],
       "count": 2,
       "color_per_purchaes": 0.04,
-      "weighted_count": 0.7,
+      "weighted_count": 1.12,
       "percent": 4.0
     },
     {
@@ -493,6 +493,92 @@
       "percent": 4.0
     },
     {
+      "name": "Silver",
+      "color_id": "155",
+      "rgb": [
+        192,
+        192,
+        192
+      ],
+      "rgb_string": "rgb(192,192,192)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "10911134",
+          "gender": "M",
+          "style_id": "2986747",
+          "product_url": "http://shop.nordstrom.com/s/david-donahue-sterling-silver-tie-clip/2986747",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6315280.jpg",
+          "description": "TieClip",
+          "subclass_id": "246",
+          "class_id": "6",
+          "age_group": "A",
+          "purchase_date": "2013-11-27",
+          "percent_color": 0.23
+        },
+        {
+          "sku_key": "10911134",
+          "gender": "M",
+          "style_id": "2986747",
+          "product_url": "http://shop.nordstrom.com/s/david-donahue-sterling-silver-tie-clip/2986747",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6315280.jpg",
+          "description": "TieClip",
+          "subclass_id": "246",
+          "class_id": "6",
+          "age_group": "A",
+          "purchase_date": "2013-11-27",
+          "percent_color": 0.23
+        }
+      ],
+      "count": 2,
+      "color_per_purchaes": 0.04,
+      "weighted_count": 0.46,
+      "percent": 4.0
+    },
+    {
+      "name": "Light Gray",
+      "color_id": "98",
+      "rgb": [
+        211,
+        211,
+        211
+      ],
+      "rgb_string": "rgb(211,211,211)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "10911134",
+          "gender": "M",
+          "style_id": "2986747",
+          "product_url": "http://shop.nordstrom.com/s/david-donahue-sterling-silver-tie-clip/2986747",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6315280.jpg",
+          "description": "TieClip",
+          "subclass_id": "246",
+          "class_id": "6",
+          "age_group": "A",
+          "purchase_date": "2013-11-27",
+          "percent_color": 0.16
+        },
+        {
+          "sku_key": "10911134",
+          "gender": "M",
+          "style_id": "2986747",
+          "product_url": "http://shop.nordstrom.com/s/david-donahue-sterling-silver-tie-clip/2986747",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6315280.jpg",
+          "description": "TieClip",
+          "subclass_id": "246",
+          "class_id": "6",
+          "age_group": "A",
+          "purchase_date": "2013-11-27",
+          "percent_color": 0.16
+        }
+      ],
+      "count": 2,
+      "color_per_purchaes": 0.04,
+      "weighted_count": 0.32,
+      "percent": 4.0
+    },
+    {
       "name": "Saddle Brown",
       "color_id": "149",
       "rgb": [
@@ -536,132 +622,46 @@
       "percent": 4.0
     },
     {
-      "name": "Light Steel Blue",
-      "color_id": "105",
+      "name": "Dark Slate Blue",
+      "color_id": "63",
       "rgb": [
-        176,
-        196,
-        222
+        72,
+        61,
+        139
       ],
-      "rgb_string": "rgb(176,196,222)",
+      "rgb_string": "rgb(72,61,139)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "55288911",
+          "sku_key": "55679321",
           "gender": "M",
-          "style_id": "3385022",
-          "product_url": "http://shop.nordstrom.com/s/ermenegildo-zegna-regular-fit-dress-shirt/3385022",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_7971601.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
+          "style_id": "3414160",
+          "product_url": "http://shop.nordstrom.com/s/michael-kors-trim-fit-linen-sportcoat/3414160",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_7744587.jpg",
+          "description": "Sportcoat",
+          "subclass_id": "344",
+          "class_id": "272",
           "age_group": "A",
-          "purchase_date": "2013-10-03",
-          "percent_color": 0.5
+          "purchase_date": "2013-04-29",
+          "percent_color": 0.35
         },
         {
-          "sku_key": "55301232",
+          "sku_key": "55679321",
           "gender": "M",
-          "style_id": "3386122",
-          "product_url": "http://shop.nordstrom.com/s/thomas-pink-slim-fit-dress-shirt/3386122",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_7526832.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
+          "style_id": "3414160",
+          "product_url": "http://shop.nordstrom.com/s/michael-kors-trim-fit-linen-sportcoat/3414160",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_7744587.jpg",
+          "description": "Sportcoat",
+          "subclass_id": "344",
+          "class_id": "272",
           "age_group": "A",
-          "purchase_date": "2013-08-28",
-          "percent_color": 0.62
+          "purchase_date": "2013-05-12",
+          "percent_color": 0.35
         }
       ],
       "count": 2,
       "color_per_purchaes": 0.04,
-      "weighted_count": 1.12,
-      "percent": 4.0
-    },
-    {
-      "name": "Light Gray",
-      "color_id": "98",
-      "rgb": [
-        211,
-        211,
-        211
-      ],
-      "rgb_string": "rgb(211,211,211)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "10911134",
-          "gender": "M",
-          "style_id": "2986747",
-          "product_url": "http://shop.nordstrom.com/s/david-donahue-sterling-silver-tie-clip/2986747",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6315280.jpg",
-          "description": "Tie Clip",
-          "subclass_id": "246",
-          "class_id": "6",
-          "age_group": "A",
-          "purchase_date": "2013-11-27",
-          "percent_color": 0.16
-        },
-        {
-          "sku_key": "10911134",
-          "gender": "M",
-          "style_id": "2986747",
-          "product_url": "http://shop.nordstrom.com/s/david-donahue-sterling-silver-tie-clip/2986747",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6315280.jpg",
-          "description": "Tie Clip",
-          "subclass_id": "246",
-          "class_id": "6",
-          "age_group": "A",
-          "purchase_date": "2013-11-27",
-          "percent_color": 0.16
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.04,
-      "weighted_count": 0.32,
-      "percent": 4.0
-    },
-    {
-      "name": "Silver",
-      "color_id": "155",
-      "rgb": [
-        192,
-        192,
-        192
-      ],
-      "rgb_string": "rgb(192,192,192)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "10911134",
-          "gender": "M",
-          "style_id": "2986747",
-          "product_url": "http://shop.nordstrom.com/s/david-donahue-sterling-silver-tie-clip/2986747",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6315280.jpg",
-          "description": "Tie Clip",
-          "subclass_id": "246",
-          "class_id": "6",
-          "age_group": "A",
-          "purchase_date": "2013-11-27",
-          "percent_color": 0.23
-        },
-        {
-          "sku_key": "10911134",
-          "gender": "M",
-          "style_id": "2986747",
-          "product_url": "http://shop.nordstrom.com/s/david-donahue-sterling-silver-tie-clip/2986747",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6315280.jpg",
-          "description": "Tie Clip",
-          "subclass_id": "246",
-          "class_id": "6",
-          "age_group": "A",
-          "purchase_date": "2013-11-27",
-          "percent_color": 0.23
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.04,
-      "weighted_count": 0.46,
+      "weighted_count": 0.7,
       "percent": 4.0
     },
     {
@@ -736,36 +736,6 @@
       "percent": 2.0
     },
     {
-      "name": "Firebrick",
-      "color_id": "71",
-      "rgb": [
-        178,
-        34,
-        34
-      ],
-      "rgb_string": "rgb(178,34,34)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "54849684",
-          "gender": "M",
-          "style_id": "3352033",
-          "product_url": "http://shop.nordstrom.com/s/michael-kors-half-zip-jersey-shirt/3352033",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_7281843.jpg",
-          "description": "Sweatshirt/Hoody/Zipfront",
-          "subclass_id": "268",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2012-12-05",
-          "percent_color": 0.39
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.02,
-      "weighted_count": 0.39,
-      "percent": 2.0
-    },
-    {
       "name": "Crimson",
       "color_id": "48",
       "rgb": [
@@ -796,63 +766,33 @@
       "percent": 2.0
     },
     {
-      "name": "Dark Gray",
-      "color_id": "53",
+      "name": "Firebrick",
+      "color_id": "71",
       "rgb": [
-        169,
-        169,
-        169
+        178,
+        34,
+        34
       ],
-      "rgb_string": "rgb(169,169,169)",
+      "rgb_string": "rgb(178,34,34)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "56962185",
+          "sku_key": "54849684",
           "gender": "M",
-          "style_id": "3512417",
-          "product_url": "http://shop.nordstrom.com/s/lanvin-slim-fit-dress-shirt/3512417",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_8093221.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
+          "style_id": "3352033",
+          "product_url": "http://shop.nordstrom.com/s/michael-kors-half-zip-jersey-shirt/3352033",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_7281843.jpg",
+          "description": "Sweatshirt/Hoody/Zipfront",
+          "subclass_id": "268",
           "class_id": "12",
           "age_group": "A",
-          "purchase_date": "2013-11-27",
-          "percent_color": 0.7
+          "purchase_date": "2012-12-05",
+          "percent_color": 0.39
         }
       ],
       "count": 1,
       "color_per_purchaes": 0.02,
-      "weighted_count": 0.7,
-      "percent": 2.0
-    },
-    {
-      "name": "Brown",
-      "color_id": "40",
-      "rgb": [
-        165,
-        42,
-        42
-      ],
-      "rgb_string": "rgb(165,42,42)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "55560062",
-          "gender": "M",
-          "style_id": "3404747",
-          "product_url": "http://shop.nordstrom.com/s/cufflinks-inc-union-jack-cuff-links/3404747",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_7355216.jpg",
-          "description": "Cufflink",
-          "subclass_id": "247",
-          "class_id": "6",
-          "age_group": "A",
-          "purchase_date": "2013-05-28",
-          "percent_color": 0.17
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.02,
-      "weighted_count": 0.17,
+      "weighted_count": 0.39,
       "percent": 2.0
     },
     {
@@ -886,6 +826,66 @@
       "percent": 2.0
     },
     {
+      "name": "Brown",
+      "color_id": "40",
+      "rgb": [
+        165,
+        42,
+        42
+      ],
+      "rgb_string": "rgb(165,42,42)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "55560062",
+          "gender": "M",
+          "style_id": "3404747",
+          "product_url": "http://shop.nordstrom.com/s/cufflinks-inc-union-jack-cuff-links/3404747",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_7355216.jpg",
+          "description": "Cufflink",
+          "subclass_id": "247",
+          "class_id": "6",
+          "age_group": "A",
+          "purchase_date": "2013-05-28",
+          "percent_color": 0.17
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.02,
+      "weighted_count": 0.17,
+      "percent": 2.0
+    },
+    {
+      "name": "Dark Gray",
+      "color_id": "53",
+      "rgb": [
+        169,
+        169,
+        169
+      ],
+      "rgb_string": "rgb(169,169,169)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "56962185",
+          "gender": "M",
+          "style_id": "3512417",
+          "product_url": "http://shop.nordstrom.com/s/lanvin-slim-fit-dress-shirt/3512417",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_8093221.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-11-27",
+          "percent_color": 0.7
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.02,
+      "weighted_count": 0.7,
+      "percent": 2.0
+    },
+    {
       "name": "Ghost White",
       "color_id": "76",
       "rgb": [
@@ -916,36 +916,6 @@
       "percent": 2.0
     },
     {
-      "name": "Dim Gray",
-      "color_id": "69",
-      "rgb": [
-        105,
-        105,
-        105
-      ],
-      "rgb_string": "rgb(105,105,105)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "56432120",
-          "gender": "M",
-          "style_id": "3471579",
-          "product_url": "http://shop.nordstrom.com/s/boss-hugo-boss-como-regular-fit-polo/3471579",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_8100931.jpg",
-          "description": "Polo",
-          "subclass_id": "332",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-09-09",
-          "percent_color": 0.24
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.02,
-      "weighted_count": 0.24,
-      "percent": 2.0
-    },
-    {
       "name": "Slate Gray",
       "color_id": "158",
       "rgb": [
@@ -973,6 +943,36 @@
       "count": 1,
       "color_per_purchaes": 0.02,
       "weighted_count": 0.64,
+      "percent": 2.0
+    },
+    {
+      "name": "Dim Gray",
+      "color_id": "69",
+      "rgb": [
+        105,
+        105,
+        105
+      ],
+      "rgb_string": "rgb(105,105,105)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "56432120",
+          "gender": "M",
+          "style_id": "3471579",
+          "product_url": "http://shop.nordstrom.com/s/boss-hugo-boss-como-regular-fit-polo/3471579",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_8100931.jpg",
+          "description": "Polo",
+          "subclass_id": "332",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-09-09",
+          "percent_color": 0.24
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.02,
+      "weighted_count": 0.24,
       "percent": 2.0
     }
   ],

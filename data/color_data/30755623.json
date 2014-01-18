@@ -16,12 +16,25 @@
       "grayscale": false,
       "purchases": [
         {
+          "sku_key": "52748755",
+          "gender": "M",
+          "style_id": "3230550",
+          "product_url": "http://shop.nordstrom.com/s/ermenegildo-zegna-woven-silk-tie/3230550",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6749023.jpg",
+          "description": "Tie",
+          "subclass_id": "306",
+          "class_id": "20",
+          "age_group": "A",
+          "purchase_date": "2012-01-12",
+          "percent_color": 0.16
+        },
+        {
           "sku_key": "52460568",
           "gender": "M",
           "style_id": "3247784",
           "product_url": "http://shop.nordstrom.com/s/burberry-london-milbury-grey-wool-suit/3247784",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_6740738.jpg",
-          "description": "2 Piece Sets",
+          "description": "2PieceSets",
           "subclass_id": "266",
           "class_id": "265",
           "age_group": "A",
@@ -53,19 +66,6 @@
           "age_group": "A",
           "purchase_date": "2012-01-12",
           "percent_color": 0.41
-        },
-        {
-          "sku_key": "52748755",
-          "gender": "M",
-          "style_id": "3230550",
-          "product_url": "http://shop.nordstrom.com/s/ermenegildo-zegna-woven-silk-tie/3230550",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6749023.jpg",
-          "description": "Tie",
-          "subclass_id": "306",
-          "class_id": "20",
-          "age_group": "A",
-          "purchase_date": "2012-01-12",
-          "percent_color": 0.16
         },
         {
           "sku_key": "55590951",
@@ -185,19 +185,6 @@
           "percent_color": 0.28
         },
         {
-          "sku_key": "51786448",
-          "gender": "M",
-          "style_id": "3183882",
-          "product_url": "http://shop.nordstrom.com/s/boss-orange-spaced-stripe-cotton-blend-socks/3183882",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6651816.jpg",
-          "description": "Socks",
-          "subclass_id": "254",
-          "class_id": "8",
-          "age_group": "A",
-          "purchase_date": "2011-10-12",
-          "percent_color": 0.43
-        },
-        {
           "sku_key": "51785264",
           "gender": "M",
           "style_id": "3183700",
@@ -237,56 +224,30 @@
           "percent_color": 0.43
         },
         {
-          "sku_key": "53850856",
+          "sku_key": "51786448",
           "gender": "M",
-          "style_id": "3289171",
-          "product_url": "http://shop.nordstrom.com/s/ermenegildo-zegna-woven-silk-tie/3289171",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_7317115.jpg",
-          "description": "Tie",
-          "subclass_id": "306",
-          "class_id": "20",
+          "style_id": "3183882",
+          "product_url": "http://shop.nordstrom.com/s/boss-orange-spaced-stripe-cotton-blend-socks/3183882",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6651816.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
           "age_group": "A",
-          "purchase_date": "2012-10-15",
-          "percent_color": 0.23
+          "purchase_date": "2011-10-12",
+          "percent_color": 0.43
         },
         {
-          "sku_key": "54098564",
+          "sku_key": "54098542",
           "gender": "M",
-          "style_id": "3302726",
-          "product_url": "http://shop.nordstrom.com/s/boss-selection-strakes-trim-fit-blazer/3302726",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_7264676.jpg",
-          "description": "Sportcoat",
-          "subclass_id": "344",
-          "class_id": "272",
+          "style_id": "3302725",
+          "product_url": "http://shop.nordstrom.com/s/boss-selection-howard-court-trim-fit-plaid-suit/3302725",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/10/_7263790.jpg",
+          "description": "2PieceSets",
+          "subclass_id": "266",
+          "class_id": "265",
           "age_group": "A",
           "purchase_date": "2012-10-15",
-          "percent_color": 0.96
-        },
-        {
-          "sku_key": "55050785",
-          "gender": "M",
-          "style_id": "3367715",
-          "product_url": "http://shop.nordstrom.com/s/eton-woven-silk-tie/3367715",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_7375858.jpg",
-          "description": "Tie",
-          "subclass_id": "306",
-          "class_id": "20",
-          "age_group": "A",
-          "purchase_date": "2012-10-15",
-          "percent_color": 0.5
-        },
-        {
-          "sku_key": "54102966",
-          "gender": "M",
-          "style_id": "3303600",
-          "product_url": "http://shop.nordstrom.com/s/thomas-pink-woven-silk-tie/3303600",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_7010735.jpg",
-          "description": "Tie",
-          "subclass_id": "306",
-          "class_id": "20",
-          "age_group": "A",
-          "purchase_date": "2012-10-15",
-          "percent_color": 0.53
+          "percent_color": 0.87
         },
         {
           "sku_key": "52633310",
@@ -302,17 +263,30 @@
           "percent_color": 0.18
         },
         {
-          "sku_key": "54098542",
+          "sku_key": "54102966",
           "gender": "M",
-          "style_id": "3302725",
-          "product_url": "http://shop.nordstrom.com/s/boss-selection-howard-court-trim-fit-plaid-suit/3302725",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/10/_7263790.jpg",
-          "description": "2 Piece Sets",
-          "subclass_id": "266",
-          "class_id": "265",
+          "style_id": "3303600",
+          "product_url": "http://shop.nordstrom.com/s/thomas-pink-woven-silk-tie/3303600",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_7010735.jpg",
+          "description": "Tie",
+          "subclass_id": "306",
+          "class_id": "20",
           "age_group": "A",
           "purchase_date": "2012-10-15",
-          "percent_color": 0.87
+          "percent_color": 0.53
+        },
+        {
+          "sku_key": "55050785",
+          "gender": "M",
+          "style_id": "3367715",
+          "product_url": "http://shop.nordstrom.com/s/eton-woven-silk-tie/3367715",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_7375858.jpg",
+          "description": "Tie",
+          "subclass_id": "306",
+          "class_id": "20",
+          "age_group": "A",
+          "purchase_date": "2012-10-15",
+          "percent_color": 0.5
         },
         {
           "sku_key": "53851423",
@@ -326,6 +300,32 @@
           "age_group": "A",
           "purchase_date": "2012-10-15",
           "percent_color": 0.25
+        },
+        {
+          "sku_key": "54098564",
+          "gender": "M",
+          "style_id": "3302726",
+          "product_url": "http://shop.nordstrom.com/s/boss-selection-strakes-trim-fit-blazer/3302726",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_7264676.jpg",
+          "description": "Sportcoat",
+          "subclass_id": "344",
+          "class_id": "272",
+          "age_group": "A",
+          "purchase_date": "2012-10-15",
+          "percent_color": 0.96
+        },
+        {
+          "sku_key": "53850856",
+          "gender": "M",
+          "style_id": "3289171",
+          "product_url": "http://shop.nordstrom.com/s/ermenegildo-zegna-woven-silk-tie/3289171",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_7317115.jpg",
+          "description": "Tie",
+          "subclass_id": "306",
+          "class_id": "20",
+          "age_group": "A",
+          "purchase_date": "2012-10-15",
+          "percent_color": 0.23
         },
         {
           "sku_key": "54882061",
@@ -346,7 +346,7 @@
           "style_id": "3570941",
           "product_url": "http://shop.nordstrom.com/s/the-north-face-gilmore-triclimate-waterproof-3-in-1-ski-jacket/3570941",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_8444798.jpg",
-          "description": "Short Jacket/Coat",
+          "description": "ShortJacket/Coat",
           "subclass_id": "283",
           "class_id": "3",
           "age_group": "A",
@@ -432,17 +432,17 @@
           "percent_color": 0.25
         },
         {
-          "sku_key": "56994824",
+          "sku_key": "56182273",
           "gender": "M",
-          "style_id": "3514165",
-          "product_url": "http://shop.nordstrom.com/s/burberry-london-brown-wool-suit/3514165",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_8428901.jpg",
-          "description": "Tailored Suit",
-          "subclass_id": "304",
-          "class_id": "265",
+          "style_id": "3341058",
+          "product_url": "http://shop.nordstrom.com/s/7-for-all-mankind-austyn-relaxed-straight-leg-jeans-chester-lane/3341058",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_7088364.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
           "age_group": "A",
           "purchase_date": "2013-12-22",
-          "percent_color": 0.97
+          "percent_color": 1.01
         },
         {
           "sku_key": "58634662",
@@ -484,17 +484,17 @@
           "percent_color": 0.9
         },
         {
-          "sku_key": "56182273",
+          "sku_key": "56994824",
           "gender": "M",
-          "style_id": "3341058",
-          "product_url": "http://shop.nordstrom.com/s/7-for-all-mankind-austyn-relaxed-straight-leg-jeans-chester-lane/3341058",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_7088364.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
+          "style_id": "3514165",
+          "product_url": "http://shop.nordstrom.com/s/burberry-london-brown-wool-suit/3514165",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_8428901.jpg",
+          "description": "TailoredSuit",
+          "subclass_id": "304",
+          "class_id": "265",
           "age_group": "A",
           "purchase_date": "2013-12-22",
-          "percent_color": 1.01
+          "percent_color": 0.97
         },
         {
           "sku_key": "51891742",
@@ -588,17 +588,17 @@
           "percent_color": 1.0
         },
         {
-          "sku_key": "56625732",
+          "sku_key": "51836719",
           "gender": "M",
-          "style_id": "3486512",
-          "product_url": "http://shop.nordstrom.com/s/1901-textured-shawl-collar-sweater/3486512",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_8320432.jpg",
-          "description": "Sweater",
-          "subclass_id": "194",
+          "style_id": "3064161",
+          "product_url": "http://shop.nordstrom.com/s/the-rail-trim-fit-v-neck-t-shirt-2-for-30/3064161",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_6597984.jpg",
+          "description": "T-shirt/Tee",
+          "subclass_id": "205",
           "class_id": "12",
           "age_group": "A",
           "purchase_date": "2013-12-31",
-          "percent_color": 0.15
+          "percent_color": 0.95
         },
         {
           "sku_key": "56625732",
@@ -614,30 +614,17 @@
           "percent_color": 0.59
         },
         {
-          "sku_key": "51836719",
+          "sku_key": "56625732",
           "gender": "M",
-          "style_id": "3064161",
-          "product_url": "http://shop.nordstrom.com/s/the-rail-trim-fit-v-neck-t-shirt-2-for-30/3064161",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_6597984.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
+          "style_id": "3486512",
+          "product_url": "http://shop.nordstrom.com/s/1901-textured-shawl-collar-sweater/3486512",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_8320432.jpg",
+          "description": "Sweater",
+          "subclass_id": "194",
           "class_id": "12",
           "age_group": "A",
           "purchase_date": "2013-12-31",
-          "percent_color": 0.95
-        },
-        {
-          "sku_key": "47197846",
-          "gender": "M",
-          "style_id": "3098524",
-          "product_url": "http://shop.nordstrom.com/s/ecco-street-premiere-golf-shoe-men/3098524",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6517374.jpg",
-          "description": "Athletic",
-          "subclass_id": "224",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2010-12-05",
-          "percent_color": 0.37
+          "percent_color": 0.15
         },
         {
           "sku_key": "47659697",
@@ -651,6 +638,19 @@
           "age_group": "A",
           "purchase_date": "2010-12-05",
           "percent_color": 1.01
+        },
+        {
+          "sku_key": "47197846",
+          "gender": "M",
+          "style_id": "3098524",
+          "product_url": "http://shop.nordstrom.com/s/ecco-street-premiere-golf-shoe-men/3098524",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6517374.jpg",
+          "description": "Athletic",
+          "subclass_id": "224",
+          "class_id": "4",
+          "age_group": "A",
+          "purchase_date": "2010-12-05",
+          "percent_color": 0.37
         },
         {
           "sku_key": "47197846",
@@ -731,6 +731,19 @@
           "percent_color": 0.68
         },
         {
+          "sku_key": "51180362",
+          "gender": "M",
+          "style_id": "3140341",
+          "product_url": "http://shop.nordstrom.com/s/marc-new-york-by-andrew-marc-accessories-leather-travel-bag/3140341",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_6267711.jpg",
+          "description": "Suitcase(carry-on)",
+          "subclass_id": "46",
+          "class_id": "9",
+          "age_group": "A",
+          "purchase_date": "2013-02-21",
+          "percent_color": 0.25
+        },
+        {
           "sku_key": "49440858",
           "gender": "M",
           "style_id": "3115891",
@@ -744,17 +757,17 @@
           "percent_color": 0.9
         },
         {
-          "sku_key": "53682379",
+          "sku_key": "52597663",
           "gender": "M",
-          "style_id": "3281787",
-          "product_url": "http://shop.nordstrom.com/s/ted-baker-london-woven-silk-tie/3281787",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_6851724.jpg",
+          "style_id": "3221554",
+          "product_url": "http://shop.nordstrom.com/s/michael-kors-woven-silk-tie/3221554",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_6865469.jpg",
           "description": "Tie",
           "subclass_id": "306",
           "class_id": "20",
           "age_group": "A",
           "purchase_date": "2012-02-09",
-          "percent_color": 0.26
+          "percent_color": 0.34
         },
         {
           "sku_key": "52748745",
@@ -770,17 +783,17 @@
           "percent_color": 0.18
         },
         {
-          "sku_key": "52597663",
+          "sku_key": "53682379",
           "gender": "M",
-          "style_id": "3221554",
-          "product_url": "http://shop.nordstrom.com/s/michael-kors-woven-silk-tie/3221554",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_6865469.jpg",
+          "style_id": "3281787",
+          "product_url": "http://shop.nordstrom.com/s/ted-baker-london-woven-silk-tie/3281787",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_6851724.jpg",
           "description": "Tie",
           "subclass_id": "306",
           "class_id": "20",
           "age_group": "A",
           "purchase_date": "2012-02-09",
-          "percent_color": 0.34
+          "percent_color": 0.26
         },
         {
           "sku_key": "53588136",
@@ -879,7 +892,7 @@
           "style_id": "3295890",
           "product_url": "http://shop.nordstrom.com/s/z-zegna-trim-fit-wool-suit/3295890",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_6945958.jpg",
-          "description": "2 Piece Sets",
+          "description": "2PieceSets",
           "subclass_id": "266",
           "class_id": "265",
           "age_group": "A",
@@ -897,7 +910,7 @@
           "class_id": "12",
           "age_group": "A",
           "purchase_date": "2011-05-11",
-          "percent_color": 0.72
+          "percent_color": 0.29
         },
         {
           "sku_key": "42656436",
@@ -910,7 +923,7 @@
           "class_id": "12",
           "age_group": "A",
           "purchase_date": "2011-05-11",
-          "percent_color": 0.29
+          "percent_color": 0.72
         },
         {
           "sku_key": "51318561",
@@ -939,6 +952,19 @@
           "percent_color": 0.66
         },
         {
+          "sku_key": "51514844",
+          "gender": "M",
+          "style_id": "3172465",
+          "product_url": "http://shop.nordstrom.com/s/oneill-sportswear-assembly-board-shorts-men/3172465",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6520573.jpg",
+          "description": "Swimtrunk",
+          "subclass_id": "198",
+          "class_id": "38",
+          "age_group": "A",
+          "purchase_date": "2011-06-11",
+          "percent_color": 0.57
+        },
+        {
           "sku_key": "51485713",
           "gender": "M",
           "style_id": "3171601",
@@ -950,6 +976,19 @@
           "age_group": "A",
           "purchase_date": "2011-06-11",
           "percent_color": 0.84
+        },
+        {
+          "sku_key": "51514844",
+          "gender": "M",
+          "style_id": "3172465",
+          "product_url": "http://shop.nordstrom.com/s/oneill-sportswear-assembly-board-shorts-men/3172465",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6520573.jpg",
+          "description": "Swimtrunk",
+          "subclass_id": "198",
+          "class_id": "38",
+          "age_group": "A",
+          "purchase_date": "2011-06-11",
+          "percent_color": 0.17
         },
         {
           "sku_key": "57145861",
@@ -965,17 +1004,17 @@
           "percent_color": 0.99
         },
         {
-          "sku_key": "50918033",
+          "sku_key": "50276280",
           "gender": "M",
-          "style_id": "3158199",
-          "product_url": "http://shop.nordstrom.com/s/hawkeye-supply-co-thin-stripe-socks-buy-save/3158199",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_6347259.jpg",
-          "description": "Socks",
-          "subclass_id": "254",
-          "class_id": "8",
+          "style_id": "3133437",
+          "product_url": "http://shop.nordstrom.com/s/calibrate-woven-silk-tie/3133437",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6369521.jpg",
+          "description": "Tie",
+          "subclass_id": "306",
+          "class_id": "20",
           "age_group": "A",
           "purchase_date": "2011-06-17",
-          "percent_color": 0.86
+          "percent_color": 0.5
         },
         {
           "sku_key": "51251307",
@@ -1017,30 +1056,30 @@
           "percent_color": 0.48
         },
         {
-          "sku_key": "50276280",
+          "sku_key": "51749282",
           "gender": "M",
-          "style_id": "3133437",
-          "product_url": "http://shop.nordstrom.com/s/calibrate-woven-silk-tie/3133437",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6369521.jpg",
+          "style_id": "3182379",
+          "product_url": "http://shop.nordstrom.com/s/armani-collezioni-woven-silk-tie/3182379",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6625696.jpg",
           "description": "Tie",
           "subclass_id": "306",
           "class_id": "20",
           "age_group": "A",
           "purchase_date": "2011-06-17",
-          "percent_color": 0.5
+          "percent_color": 0.39
         },
         {
-          "sku_key": "51577999",
+          "sku_key": "50918033",
           "gender": "M",
-          "style_id": "3181867",
-          "product_url": "http://shop.nordstrom.com/s/ermenegildo-zegna-woven-silk-tie/3181867",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6428460.jpg",
-          "description": "Tie",
-          "subclass_id": "306",
-          "class_id": "20",
+          "style_id": "3158199",
+          "product_url": "http://shop.nordstrom.com/s/hawkeye-supply-co-thin-stripe-socks-buy-save/3158199",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_6347259.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
           "age_group": "A",
           "purchase_date": "2011-06-17",
-          "percent_color": 0.21
+          "percent_color": 0.86
         },
         {
           "sku_key": "51251736",
@@ -1056,17 +1095,17 @@
           "percent_color": 0.25
         },
         {
-          "sku_key": "51749282",
+          "sku_key": "51577999",
           "gender": "M",
-          "style_id": "3182379",
-          "product_url": "http://shop.nordstrom.com/s/armani-collezioni-woven-silk-tie/3182379",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6625696.jpg",
+          "style_id": "3181867",
+          "product_url": "http://shop.nordstrom.com/s/ermenegildo-zegna-woven-silk-tie/3181867",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6428460.jpg",
           "description": "Tie",
           "subclass_id": "306",
           "class_id": "20",
           "age_group": "A",
           "purchase_date": "2011-06-17",
-          "percent_color": 0.39
+          "percent_color": 0.21
         },
         {
           "sku_key": "53813484",
@@ -1080,6 +1119,32 @@
           "age_group": "A",
           "purchase_date": "2013-06-19",
           "percent_color": 1.01
+        },
+        {
+          "sku_key": "51514844",
+          "gender": "M",
+          "style_id": "3172465",
+          "product_url": "http://shop.nordstrom.com/s/oneill-sportswear-assembly-board-shorts-men/3172465",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6520573.jpg",
+          "description": "Swimtrunk",
+          "subclass_id": "198",
+          "class_id": "38",
+          "age_group": "A",
+          "purchase_date": "2011-06-22",
+          "percent_color": 0.57
+        },
+        {
+          "sku_key": "51514844",
+          "gender": "M",
+          "style_id": "3172465",
+          "product_url": "http://shop.nordstrom.com/s/oneill-sportswear-assembly-board-shorts-men/3172465",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6520573.jpg",
+          "description": "Swimtrunk",
+          "subclass_id": "198",
+          "class_id": "38",
+          "age_group": "A",
+          "purchase_date": "2011-06-22",
+          "percent_color": 0.17
         },
         {
           "sku_key": "43717642",
@@ -1173,19 +1238,6 @@
           "percent_color": 0.51
         },
         {
-          "sku_key": "54040416",
-          "gender": "M",
-          "style_id": "3299319",
-          "product_url": "http://shop.nordstrom.com/s/ted-baker-london-stripe-socks/3299319",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_6994686.jpg",
-          "description": "Socks",
-          "subclass_id": "254",
-          "class_id": "8",
-          "age_group": "A",
-          "purchase_date": "2012-07-21",
-          "percent_color": 0.25
-        },
-        {
           "sku_key": "54018105",
           "gender": "M",
           "style_id": "3299090",
@@ -1197,6 +1249,19 @@
           "age_group": "A",
           "purchase_date": "2012-07-21",
           "percent_color": 0.49
+        },
+        {
+          "sku_key": "54040416",
+          "gender": "M",
+          "style_id": "3299319",
+          "product_url": "http://shop.nordstrom.com/s/ted-baker-london-stripe-socks/3299319",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_6994686.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
+          "age_group": "A",
+          "purchase_date": "2012-07-21",
+          "percent_color": 0.25
         },
         {
           "sku_key": "54018120",
@@ -1212,19 +1277,6 @@
           "percent_color": 0.69
         },
         {
-          "sku_key": "54193640",
-          "gender": "M",
-          "style_id": "3308511",
-          "product_url": "http://shop.nordstrom.com/s/mezlan-vaqueta-leather-belt/3308511",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_6993886.jpg",
-          "description": "Belts",
-          "subclass_id": "82",
-          "class_id": "19",
-          "age_group": "A",
-          "purchase_date": "2012-07-22",
-          "percent_color": 0.71
-        },
-        {
           "sku_key": "54397316",
           "gender": "M",
           "style_id": "3323238",
@@ -1236,6 +1288,19 @@
           "age_group": "A",
           "purchase_date": "2012-07-22",
           "percent_color": 0.53
+        },
+        {
+          "sku_key": "54193640",
+          "gender": "M",
+          "style_id": "3308511",
+          "product_url": "http://shop.nordstrom.com/s/mezlan-vaqueta-leather-belt/3308511",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_6993886.jpg",
+          "description": "Belts",
+          "subclass_id": "82",
+          "class_id": "19",
+          "age_group": "A",
+          "purchase_date": "2012-07-22",
+          "percent_color": 0.71
         },
         {
           "sku_key": "54767031",
@@ -1316,45 +1381,6 @@
           "percent_color": 0.39
         },
         {
-          "sku_key": "57145227",
-          "gender": "M",
-          "style_id": "3525103",
-          "product_url": "http://shop.nordstrom.com/s/lanvin-woven-silk-tie/3525103",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_8102764.jpg",
-          "description": "Tie",
-          "subclass_id": "306",
-          "class_id": "20",
-          "age_group": "A",
-          "purchase_date": "2013-09-11",
-          "percent_color": 0.17
-        },
-        {
-          "sku_key": "57145227",
-          "gender": "M",
-          "style_id": "3525103",
-          "product_url": "http://shop.nordstrom.com/s/lanvin-woven-silk-tie/3525103",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_8102764.jpg",
-          "description": "Tie",
-          "subclass_id": "306",
-          "class_id": "20",
-          "age_group": "A",
-          "purchase_date": "2013-09-11",
-          "percent_color": 0.62
-        },
-        {
-          "sku_key": "57955232",
-          "gender": "M",
-          "style_id": "3524302",
-          "product_url": "http://shop.nordstrom.com/s/lanvin-woven-silk-tie/3524302",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/10/_8204010.jpg",
-          "description": "Tie",
-          "subclass_id": "306",
-          "class_id": "20",
-          "age_group": "A",
-          "purchase_date": "2013-09-11",
-          "percent_color": 0.62
-        },
-        {
           "sku_key": "56669545",
           "gender": "M",
           "style_id": "3490073",
@@ -1368,6 +1394,45 @@
           "percent_color": 0.28
         },
         {
+          "sku_key": "55362962",
+          "gender": "M",
+          "style_id": "3390805",
+          "product_url": "http://shop.nordstrom.com/s/burberry-london-woven-tie/3390805",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_7556998.jpg",
+          "description": "Tie",
+          "subclass_id": "306",
+          "class_id": "20",
+          "age_group": "A",
+          "purchase_date": "2013-09-11",
+          "percent_color": 0.85
+        },
+        {
+          "sku_key": "57145227",
+          "gender": "M",
+          "style_id": "3525103",
+          "product_url": "http://shop.nordstrom.com/s/lanvin-woven-silk-tie/3525103",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_8102764.jpg",
+          "description": "Tie",
+          "subclass_id": "306",
+          "class_id": "20",
+          "age_group": "A",
+          "purchase_date": "2013-09-11",
+          "percent_color": 0.62
+        },
+        {
+          "sku_key": "57145227",
+          "gender": "M",
+          "style_id": "3525103",
+          "product_url": "http://shop.nordstrom.com/s/lanvin-woven-silk-tie/3525103",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_8102764.jpg",
+          "description": "Tie",
+          "subclass_id": "306",
+          "class_id": "20",
+          "age_group": "A",
+          "purchase_date": "2013-09-11",
+          "percent_color": 0.17
+        },
+        {
           "sku_key": "57955232",
           "gender": "M",
           "style_id": "3524302",
@@ -1381,17 +1446,17 @@
           "percent_color": 0.17
         },
         {
-          "sku_key": "55362962",
+          "sku_key": "57955232",
           "gender": "M",
-          "style_id": "3390805",
-          "product_url": "http://shop.nordstrom.com/s/burberry-london-woven-tie/3390805",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_7556998.jpg",
+          "style_id": "3524302",
+          "product_url": "http://shop.nordstrom.com/s/lanvin-woven-silk-tie/3524302",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/10/_8204010.jpg",
           "description": "Tie",
           "subclass_id": "306",
           "class_id": "20",
           "age_group": "A",
           "purchase_date": "2013-09-11",
-          "percent_color": 0.85
+          "percent_color": 0.62
         },
         {
           "sku_key": "51967972",
@@ -1433,10 +1498,10 @@
           "percent_color": 0.25
         }
       ],
-      "count": 109,
-      "color_per_purchaes": 0.2846,
-      "weighted_count": 64.17999999999998,
-      "percent": 28.4595
+      "count": 114,
+      "color_per_purchaes": 0.2879,
+      "weighted_count": 65.91,
+      "percent": 28.7879
     },
     {
       "name": "Dim Gray",
@@ -1455,7 +1520,7 @@
           "style_id": "3247784",
           "product_url": "http://shop.nordstrom.com/s/burberry-london-milbury-grey-wool-suit/3247784",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_6740738.jpg",
-          "description": "2 Piece Sets",
+          "description": "2PieceSets",
           "subclass_id": "266",
           "class_id": "265",
           "age_group": "A",
@@ -1476,19 +1541,6 @@
           "percent_color": 0.2
         },
         {
-          "sku_key": "51786448",
-          "gender": "M",
-          "style_id": "3183882",
-          "product_url": "http://shop.nordstrom.com/s/boss-orange-spaced-stripe-cotton-blend-socks/3183882",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6651816.jpg",
-          "description": "Socks",
-          "subclass_id": "254",
-          "class_id": "8",
-          "age_group": "A",
-          "purchase_date": "2011-10-12",
-          "percent_color": 0.27
-        },
-        {
           "sku_key": "51844982",
           "gender": "M",
           "style_id": "3185960",
@@ -1500,6 +1552,19 @@
           "age_group": "A",
           "purchase_date": "2011-10-12",
           "percent_color": 0.67
+        },
+        {
+          "sku_key": "51786448",
+          "gender": "M",
+          "style_id": "3183882",
+          "product_url": "http://shop.nordstrom.com/s/boss-orange-spaced-stripe-cotton-blend-socks/3183882",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6651816.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
+          "age_group": "A",
+          "purchase_date": "2011-10-12",
+          "percent_color": 0.27
         },
         {
           "sku_key": "52633310",
@@ -1533,7 +1598,7 @@
           "style_id": "3570941",
           "product_url": "http://shop.nordstrom.com/s/the-north-face-gilmore-triclimate-waterproof-3-in-1-ski-jacket/3570941",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_8444798.jpg",
-          "description": "Short Jacket/Coat",
+          "description": "ShortJacket/Coat",
           "subclass_id": "283",
           "class_id": "3",
           "age_group": "A",
@@ -1559,7 +1624,7 @@
           "style_id": "3484150",
           "product_url": "http://shop.nordstrom.com/s/diesel-j-moha-jacket/3484150",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_8063879.jpg",
-          "description": "Short Jacket/Coat",
+          "description": "ShortJacket/Coat",
           "subclass_id": "283",
           "class_id": "3",
           "age_group": "A",
@@ -1663,7 +1728,7 @@
           "style_id": "3295890",
           "product_url": "http://shop.nordstrom.com/s/z-zegna-trim-fit-wool-suit/3295890",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_6945958.jpg",
-          "description": "2 Piece Sets",
+          "description": "2PieceSets",
           "subclass_id": "266",
           "class_id": "265",
           "age_group": "A",
@@ -1958,9 +2023,9 @@
         }
       ],
       "count": 39,
-      "color_per_purchaes": 0.1018,
+      "color_per_purchaes": 0.0985,
       "weighted_count": 19.929999999999996,
-      "percent": 10.1828
+      "percent": 9.8485
     },
     {
       "name": "Gray",
@@ -2018,7 +2083,7 @@
           "style_id": "3484150",
           "product_url": "http://shop.nordstrom.com/s/diesel-j-moha-jacket/3484150",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_8063879.jpg",
-          "description": "Short Jacket/Coat",
+          "description": "ShortJacket/Coat",
           "subclass_id": "283",
           "class_id": "3",
           "age_group": "A",
@@ -2300,9 +2365,9 @@
         }
       ],
       "count": 25,
-      "color_per_purchaes": 0.0653,
+      "color_per_purchaes": 0.0631,
       "weighted_count": 8.44,
-      "percent": 6.5274
+      "percent": 6.3131
     },
     {
       "name": "Dark Gray",
@@ -2438,7 +2503,7 @@
           "style_id": "3527499",
           "product_url": "http://shop.nordstrom.com/s/john-w-nordstrom-pocket-square/3527499",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_8061514.jpg",
-          "description": "Pocket Squares",
+          "description": "PocketSquares",
           "subclass_id": "87",
           "class_id": "20",
           "age_group": "A",
@@ -2457,6 +2522,19 @@
           "age_group": "A",
           "purchase_date": "2011-05-06",
           "percent_color": 0.83
+        },
+        {
+          "sku_key": "49303119",
+          "gender": "M",
+          "style_id": "3149412",
+          "product_url": "http://shop.nordstrom.com/s/quiksilver-kaimana-21-diamond-dobby-board-shorts-men/3149412",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_6312804.jpg",
+          "description": "Swimbottom",
+          "subclass_id": "197",
+          "class_id": "38",
+          "age_group": "A",
+          "purchase_date": "2011-06-11",
+          "percent_color": 1.01
         },
         {
           "sku_key": "51233468",
@@ -2498,17 +2576,17 @@
           "percent_color": 0.19
         },
         {
-          "sku_key": "51474225",
+          "sku_key": "49303119",
           "gender": "M",
-          "style_id": "3171083",
-          "product_url": "http://shop.nordstrom.com/s/division-e-plaid-cargo-shorts/3171083",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_6441718.jpg",
-          "description": "Short",
-          "subclass_id": "74",
-          "class_id": "23",
+          "style_id": "3149412",
+          "product_url": "http://shop.nordstrom.com/s/quiksilver-kaimana-21-diamond-dobby-board-shorts-men/3149412",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_6312804.jpg",
+          "description": "Swimbottom",
+          "subclass_id": "197",
+          "class_id": "38",
           "age_group": "A",
           "purchase_date": "2011-06-22",
-          "percent_color": 0.19
+          "percent_color": 1.01
         },
         {
           "sku_key": "51244597",
@@ -2537,6 +2615,19 @@
           "percent_color": 0.83
         },
         {
+          "sku_key": "51474225",
+          "gender": "M",
+          "style_id": "3171083",
+          "product_url": "http://shop.nordstrom.com/s/division-e-plaid-cargo-shorts/3171083",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_6441718.jpg",
+          "description": "Short",
+          "subclass_id": "74",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2011-06-22",
+          "percent_color": 0.19
+        },
+        {
           "sku_key": "51233468",
           "gender": "M",
           "style_id": "3161218",
@@ -2563,10 +2654,10 @@
           "percent_color": 0.18
         }
       ],
-      "count": 19,
-      "color_per_purchaes": 0.0496,
-      "weighted_count": 9.21,
-      "percent": 4.9608
+      "count": 21,
+      "color_per_purchaes": 0.053,
+      "weighted_count": 11.23,
+      "percent": 5.303
     },
     {
       "name": "Dark Slate Blue",
@@ -2645,19 +2736,6 @@
           "percent_color": 0.19
         },
         {
-          "sku_key": "55171510",
-          "gender": "M",
-          "style_id": "3375504",
-          "product_url": "http://shop.nordstrom.com/s/boss-black-woven-silk-tie/3375504",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_7837346.jpg",
-          "description": "Tie",
-          "subclass_id": "306",
-          "class_id": "20",
-          "age_group": "A",
-          "purchase_date": "2013-04-10",
-          "percent_color": 0.7
-        },
-        {
           "sku_key": "55033395",
           "gender": "M",
           "style_id": "3365481",
@@ -2669,6 +2747,19 @@
           "age_group": "A",
           "purchase_date": "2013-04-10",
           "percent_color": 0.32
+        },
+        {
+          "sku_key": "55171510",
+          "gender": "M",
+          "style_id": "3375504",
+          "product_url": "http://shop.nordstrom.com/s/boss-black-woven-silk-tie/3375504",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_7837346.jpg",
+          "description": "Tie",
+          "subclass_id": "306",
+          "class_id": "20",
+          "age_group": "A",
+          "purchase_date": "2013-04-10",
+          "percent_color": 0.7
         },
         {
           "sku_key": "53815039",
@@ -2789,9 +2880,9 @@
         }
       ],
       "count": 16,
-      "color_per_purchaes": 0.0418,
+      "color_per_purchaes": 0.0404,
       "weighted_count": 8.549999999999999,
-      "percent": 4.1775
+      "percent": 4.0404
     },
     {
       "name": "Gainsboro",
@@ -2805,19 +2896,6 @@
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "51267191",
-          "gender": "M",
-          "style_id": "3170378",
-          "product_url": "http://shop.nordstrom.com/s/under-armour-beyond-now-socks/3170378",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/10/_6386670.jpg",
-          "description": "Socks",
-          "subclass_id": "254",
-          "class_id": "8",
-          "age_group": "A",
-          "purchase_date": "2011-10-12",
-          "percent_color": 0.46
-        },
-        {
           "sku_key": "50007309",
           "gender": "M",
           "style_id": "3121885",
@@ -2829,6 +2907,19 @@
           "age_group": "A",
           "purchase_date": "2011-10-12",
           "percent_color": 0.35
+        },
+        {
+          "sku_key": "51267191",
+          "gender": "M",
+          "style_id": "3170378",
+          "product_url": "http://shop.nordstrom.com/s/under-armour-beyond-now-socks/3170378",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/10/_6386670.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
+          "age_group": "A",
+          "purchase_date": "2011-10-12",
+          "percent_color": 0.46
         },
         {
           "sku_key": "54307565",
@@ -2927,7 +3018,7 @@
           "style_id": "3527499",
           "product_url": "http://shop.nordstrom.com/s/john-w-nordstrom-pocket-square/3527499",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_8061514.jpg",
-          "description": "Pocket Squares",
+          "description": "PocketSquares",
           "subclass_id": "87",
           "class_id": "20",
           "age_group": "A",
@@ -2975,9 +3066,9 @@
         }
       ],
       "count": 13,
-      "color_per_purchaes": 0.0339,
+      "color_per_purchaes": 0.0328,
       "weighted_count": 3.8299999999999996,
-      "percent": 3.3943
+      "percent": 3.2828
     },
     {
       "name": "NA",
@@ -3002,11 +3093,11 @@
           "percent_color": 0.0
         },
         {
-          "sku_key": "58004525",
+          "sku_key": "58266503",
           "gender": "M",
-          "style_id": "3611742",
-          "product_url": "http://shop.nordstrom.com/s/boss-hugo-boss-obert-regular-fit-gingham-sport-shirt/3611742",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_8608192.jpg",
+          "style_id": "3608005",
+          "product_url": "http://shop.nordstrom.com/s/zachary-prell-wise-plaid-regular-fit-sport-shirt/3608005",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_8508978.jpg",
           "description": "Sportshirt",
           "subclass_id": "41",
           "class_id": "12",
@@ -3015,11 +3106,11 @@
           "percent_color": 0.0
         },
         {
-          "sku_key": "58266503",
+          "sku_key": "58004525",
           "gender": "M",
-          "style_id": "3608005",
-          "product_url": "http://shop.nordstrom.com/s/zachary-prell-wise-plaid-regular-fit-sport-shirt/3608005",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_8508978.jpg",
+          "style_id": "3611742",
+          "product_url": "http://shop.nordstrom.com/s/boss-hugo-boss-obert-regular-fit-gingham-sport-shirt/3611742",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_8608192.jpg",
           "description": "Sportshirt",
           "subclass_id": "41",
           "class_id": "12",
@@ -3080,19 +3171,6 @@
           "percent_color": 0.0
         },
         {
-          "sku_key": "55171529",
-          "gender": "M",
-          "style_id": "3375507",
-          "product_url": "http://shop.nordstrom.com/s/boss-hugo-boss-woven-tie/3375507",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_7873702.jpg",
-          "description": "Tie",
-          "subclass_id": "306",
-          "class_id": "20",
-          "age_group": "A",
-          "purchase_date": "2013-04-10",
-          "percent_color": 0.0
-        },
-        {
           "sku_key": "55267727",
           "gender": "M",
           "style_id": "3382983",
@@ -3101,6 +3179,19 @@
           "description": "Socks",
           "subclass_id": "254",
           "class_id": "8",
+          "age_group": "A",
+          "purchase_date": "2013-04-10",
+          "percent_color": 0.0
+        },
+        {
+          "sku_key": "55171529",
+          "gender": "M",
+          "style_id": "3375507",
+          "product_url": "http://shop.nordstrom.com/s/boss-hugo-boss-woven-tie/3375507",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_7873702.jpg",
+          "description": "Tie",
+          "subclass_id": "306",
+          "class_id": "20",
           "age_group": "A",
           "purchase_date": "2013-04-10",
           "percent_color": 0.0
@@ -3159,9 +3250,182 @@
         }
       ],
       "count": 13,
-      "color_per_purchaes": 0.0339,
+      "color_per_purchaes": 0.0328,
       "weighted_count": 0.0,
-      "percent": 3.3943
+      "percent": 3.2828
+    },
+    {
+      "name": "White Smoke",
+      "color_id": "170",
+      "rgb": [
+        245,
+        245,
+        245
+      ],
+      "rgb_string": "rgb(245,245,245)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "22970842",
+          "gender": "M",
+          "style_id": "3225047",
+          "product_url": "http://shop.nordstrom.com/s/john-w-nordstrom-linen-pocket-square/3225047",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_7269745.jpg",
+          "description": "PocketSquares",
+          "subclass_id": "87",
+          "class_id": "20",
+          "age_group": "A",
+          "purchase_date": "2011-01-13",
+          "percent_color": 0.85
+        },
+        {
+          "sku_key": "52632306",
+          "gender": "M",
+          "style_id": "3223120",
+          "product_url": "http://shop.nordstrom.com/s/ecco-biom-hybrid-golf-shoe-men/3223120",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7758917.jpg",
+          "description": "Athletic",
+          "subclass_id": "224",
+          "class_id": "4",
+          "age_group": "A",
+          "purchase_date": "2013-12-05",
+          "percent_color": 0.45
+        },
+        {
+          "sku_key": "51513612",
+          "gender": "M",
+          "style_id": "3172412",
+          "product_url": "http://shop.nordstrom.com/s/nixon-the-51-30-chrono-all-raw-watch/3172412",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6386663.jpg",
+          "description": "Watch",
+          "subclass_id": "245",
+          "class_id": "6",
+          "age_group": "A",
+          "purchase_date": "2011-12-09",
+          "percent_color": 0.26
+        },
+        {
+          "sku_key": "51513612",
+          "gender": "M",
+          "style_id": "3172412",
+          "product_url": "http://shop.nordstrom.com/s/nixon-the-51-30-chrono-all-raw-watch/3172412",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6386663.jpg",
+          "description": "Watch",
+          "subclass_id": "245",
+          "class_id": "6",
+          "age_group": "A",
+          "purchase_date": "2011-12-09",
+          "percent_color": 0.26
+        },
+        {
+          "sku_key": "51180362",
+          "gender": "M",
+          "style_id": "3140341",
+          "product_url": "http://shop.nordstrom.com/s/marc-new-york-by-andrew-marc-accessories-leather-travel-bag/3140341",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_6267711.jpg",
+          "description": "Suitcase(carry-on)",
+          "subclass_id": "46",
+          "class_id": "9",
+          "age_group": "A",
+          "purchase_date": "2013-02-21",
+          "percent_color": 0.59
+        },
+        {
+          "sku_key": "54792945",
+          "gender": "M",
+          "style_id": "3348171",
+          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-non-iron-dress-shirt/3348171",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_7753658.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-04-10",
+          "percent_color": 0.25
+        },
+        {
+          "sku_key": "47085908",
+          "gender": "M",
+          "style_id": "3108657",
+          "product_url": "http://shop.nordstrom.com/s/tw-steel-leather-strap-watch/3108657",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6104973.jpg",
+          "description": "Watch",
+          "subclass_id": "245",
+          "class_id": "6",
+          "age_group": "A",
+          "purchase_date": "2012-04-26",
+          "percent_color": 0.25
+        },
+        {
+          "sku_key": "50445656",
+          "gender": "M",
+          "style_id": "3157838",
+          "product_url": "http://shop.nordstrom.com/s/bill-adler-leather-belt/3157838",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_6415425.jpg",
+          "description": "Belts",
+          "subclass_id": "82",
+          "class_id": "19",
+          "age_group": "A",
+          "purchase_date": "2011-06-17",
+          "percent_color": 0.94
+        },
+        {
+          "sku_key": "50445657",
+          "gender": "M",
+          "style_id": "3157838",
+          "product_url": "http://shop.nordstrom.com/s/bill-adler-leather-belt/3157838",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_6415425.jpg",
+          "description": "Belts",
+          "subclass_id": "82",
+          "class_id": "19",
+          "age_group": "A",
+          "purchase_date": "2011-06-18",
+          "percent_color": 0.94
+        },
+        {
+          "sku_key": "50445656",
+          "gender": "M",
+          "style_id": "3157838",
+          "product_url": "http://shop.nordstrom.com/s/bill-adler-leather-belt/3157838",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_6415425.jpg",
+          "description": "Belts",
+          "subclass_id": "82",
+          "class_id": "19",
+          "age_group": "A",
+          "purchase_date": "2011-06-18",
+          "percent_color": 0.94
+        },
+        {
+          "sku_key": "47312891",
+          "gender": "M",
+          "style_id": "3065207",
+          "product_url": "http://shop.nordstrom.com/s/under-armour-heatgear-fitted-shorts-online-exclusive/3065207",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6021621.jpg",
+          "description": "Short",
+          "subclass_id": "74",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2010-06-02",
+          "percent_color": 0.51
+        },
+        {
+          "sku_key": "48673351",
+          "gender": "M",
+          "style_id": "3093189",
+          "product_url": "http://shop.nordstrom.com/s/converse-by-john-varvatos-high-top-leather-sneaker/3093189",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6092516.jpg",
+          "description": "Sneaker",
+          "subclass_id": "353",
+          "class_id": "4",
+          "age_group": "A",
+          "purchase_date": "2010-09-09",
+          "percent_color": 0.62
+        }
+      ],
+      "count": 12,
+      "color_per_purchaes": 0.0303,
+      "weighted_count": 6.86,
+      "percent": 3.0303
     },
     {
       "name": "Light Steel Blue",
@@ -3319,169 +3583,9 @@
         }
       ],
       "count": 11,
-      "color_per_purchaes": 0.0287,
+      "color_per_purchaes": 0.0278,
       "weighted_count": 5.05,
-      "percent": 2.8721
-    },
-    {
-      "name": "White Smoke",
-      "color_id": "170",
-      "rgb": [
-        245,
-        245,
-        245
-      ],
-      "rgb_string": "rgb(245,245,245)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "22970842",
-          "gender": "M",
-          "style_id": "3225047",
-          "product_url": "http://shop.nordstrom.com/s/john-w-nordstrom-linen-pocket-square/3225047",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_7269745.jpg",
-          "description": "Pocket Squares",
-          "subclass_id": "87",
-          "class_id": "20",
-          "age_group": "A",
-          "purchase_date": "2011-01-13",
-          "percent_color": 0.85
-        },
-        {
-          "sku_key": "52632306",
-          "gender": "M",
-          "style_id": "3223120",
-          "product_url": "http://shop.nordstrom.com/s/ecco-biom-hybrid-golf-shoe-men/3223120",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7758917.jpg",
-          "description": "Athletic",
-          "subclass_id": "224",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2013-12-05",
-          "percent_color": 0.45
-        },
-        {
-          "sku_key": "51513612",
-          "gender": "M",
-          "style_id": "3172412",
-          "product_url": "http://shop.nordstrom.com/s/nixon-the-51-30-chrono-all-raw-watch/3172412",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6386663.jpg",
-          "description": "Watch",
-          "subclass_id": "245",
-          "class_id": "6",
-          "age_group": "A",
-          "purchase_date": "2011-12-09",
-          "percent_color": 0.26
-        },
-        {
-          "sku_key": "51513612",
-          "gender": "M",
-          "style_id": "3172412",
-          "product_url": "http://shop.nordstrom.com/s/nixon-the-51-30-chrono-all-raw-watch/3172412",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6386663.jpg",
-          "description": "Watch",
-          "subclass_id": "245",
-          "class_id": "6",
-          "age_group": "A",
-          "purchase_date": "2011-12-09",
-          "percent_color": 0.26
-        },
-        {
-          "sku_key": "54792945",
-          "gender": "M",
-          "style_id": "3348171",
-          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-non-iron-dress-shirt/3348171",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_7753658.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-04-10",
-          "percent_color": 0.25
-        },
-        {
-          "sku_key": "47085908",
-          "gender": "M",
-          "style_id": "3108657",
-          "product_url": "http://shop.nordstrom.com/s/tw-steel-leather-strap-watch/3108657",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6104973.jpg",
-          "description": "Watch",
-          "subclass_id": "245",
-          "class_id": "6",
-          "age_group": "A",
-          "purchase_date": "2012-04-26",
-          "percent_color": 0.25
-        },
-        {
-          "sku_key": "50445656",
-          "gender": "M",
-          "style_id": "3157838",
-          "product_url": "http://shop.nordstrom.com/s/bill-adler-leather-belt/3157838",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_6415425.jpg",
-          "description": "Belts",
-          "subclass_id": "82",
-          "class_id": "19",
-          "age_group": "A",
-          "purchase_date": "2011-06-17",
-          "percent_color": 0.94
-        },
-        {
-          "sku_key": "50445656",
-          "gender": "M",
-          "style_id": "3157838",
-          "product_url": "http://shop.nordstrom.com/s/bill-adler-leather-belt/3157838",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_6415425.jpg",
-          "description": "Belts",
-          "subclass_id": "82",
-          "class_id": "19",
-          "age_group": "A",
-          "purchase_date": "2011-06-18",
-          "percent_color": 0.94
-        },
-        {
-          "sku_key": "50445657",
-          "gender": "M",
-          "style_id": "3157838",
-          "product_url": "http://shop.nordstrom.com/s/bill-adler-leather-belt/3157838",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_6415425.jpg",
-          "description": "Belts",
-          "subclass_id": "82",
-          "class_id": "19",
-          "age_group": "A",
-          "purchase_date": "2011-06-18",
-          "percent_color": 0.94
-        },
-        {
-          "sku_key": "47312891",
-          "gender": "M",
-          "style_id": "3065207",
-          "product_url": "http://shop.nordstrom.com/s/under-armour-heatgear-fitted-shorts-online-exclusive/3065207",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6021621.jpg",
-          "description": "Short",
-          "subclass_id": "74",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2010-06-02",
-          "percent_color": 0.51
-        },
-        {
-          "sku_key": "48673351",
-          "gender": "M",
-          "style_id": "3093189",
-          "product_url": "http://shop.nordstrom.com/s/converse-by-john-varvatos-high-top-leather-sneaker/3093189",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6092516.jpg",
-          "description": "Sneaker",
-          "subclass_id": "353",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2010-09-09",
-          "percent_color": 0.62
-        }
-      ],
-      "count": 11,
-      "color_per_purchaes": 0.0287,
-      "weighted_count": 6.2700000000000005,
-      "percent": 2.8721
+      "percent": 2.7778
     },
     {
       "name": "Lavender",
@@ -3626,9 +3730,9 @@
         }
       ],
       "count": 10,
-      "color_per_purchaes": 0.0261,
+      "color_per_purchaes": 0.0253,
       "weighted_count": 3.7600000000000002,
-      "percent": 2.611
+      "percent": 2.5253
     },
     {
       "name": "Steel Blue",
@@ -3747,9 +3851,9 @@
         }
       ],
       "count": 8,
-      "color_per_purchaes": 0.0209,
+      "color_per_purchaes": 0.0202,
       "weighted_count": 2.44,
-      "percent": 2.0888
+      "percent": 2.0202
     },
     {
       "name": "Light Slate Gray",
@@ -3855,9 +3959,9 @@
         }
       ],
       "count": 7,
-      "color_per_purchaes": 0.0183,
+      "color_per_purchaes": 0.0177,
       "weighted_count": 2.7100000000000004,
-      "percent": 1.8277
+      "percent": 1.7677
     },
     {
       "name": "Light Gray",
@@ -3941,7 +4045,7 @@
           "style_id": "3527499",
           "product_url": "http://shop.nordstrom.com/s/john-w-nordstrom-pocket-square/3527499",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_8061514.jpg",
-          "description": "Pocket Squares",
+          "description": "PocketSquares",
           "subclass_id": "87",
           "class_id": "20",
           "age_group": "A",
@@ -3963,9 +4067,9 @@
         }
       ],
       "count": 7,
-      "color_per_purchaes": 0.0183,
+      "color_per_purchaes": 0.0177,
       "weighted_count": 1.78,
-      "percent": 1.8277
+      "percent": 1.7677
     },
     {
       "name": "Thistle",
@@ -4005,19 +4109,6 @@
           "percent_color": 0.4
         },
         {
-          "sku_key": "53253044",
-          "gender": "M",
-          "style_id": "3254726",
-          "product_url": "http://shop.nordstrom.com/s/boss-black-regular-fit-dress-shirt/3254726",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_6819795.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2012-02-09",
-          "percent_color": 0.62
-        },
-        {
           "sku_key": "52279513",
           "gender": "M",
           "style_id": "3228475",
@@ -4029,6 +4120,19 @@
           "age_group": "A",
           "purchase_date": "2012-02-09",
           "percent_color": 0.39
+        },
+        {
+          "sku_key": "53253044",
+          "gender": "M",
+          "style_id": "3254726",
+          "product_url": "http://shop.nordstrom.com/s/boss-black-regular-fit-dress-shirt/3254726",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_6819795.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2012-02-09",
+          "percent_color": 0.62
         },
         {
           "sku_key": "51589105",
@@ -4058,9 +4162,9 @@
         }
       ],
       "count": 6,
-      "color_per_purchaes": 0.0157,
+      "color_per_purchaes": 0.0152,
       "weighted_count": 2.0500000000000003,
-      "percent": 1.5666
+      "percent": 1.5152
     },
     {
       "name": "Ghost White",
@@ -4153,9 +4257,9 @@
         }
       ],
       "count": 6,
-      "color_per_purchaes": 0.0157,
+      "color_per_purchaes": 0.0152,
       "weighted_count": 3.68,
-      "percent": 1.5666
+      "percent": 1.5152
     },
     {
       "name": "Maroon",
@@ -4213,7 +4317,7 @@
           "style_id": "3527499",
           "product_url": "http://shop.nordstrom.com/s/john-w-nordstrom-pocket-square/3527499",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_8061514.jpg",
-          "description": "Pocket Squares",
+          "description": "PocketSquares",
           "subclass_id": "87",
           "class_id": "20",
           "age_group": "A",
@@ -4248,173 +4352,9 @@
         }
       ],
       "count": 6,
-      "color_per_purchaes": 0.0157,
+      "color_per_purchaes": 0.0152,
       "weighted_count": 2.61,
-      "percent": 1.5666
-    },
-    {
-      "name": "Brown",
-      "color_id": "40",
-      "rgb": [
-        165,
-        42,
-        42
-      ],
-      "rgb_string": "rgb(165,42,42)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "51066415",
-          "gender": "M",
-          "style_id": "3063616",
-          "product_url": "http://shop.nordstrom.com/s/original-penguin-trim-fit-heathered-v-neck-t-shirt/3063616",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6655843.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2011-04-29",
-          "percent_color": 0.41
-        },
-        {
-          "sku_key": "53351461",
-          "gender": "M",
-          "style_id": "3260392",
-          "product_url": "http://shop.nordstrom.com/s/union-new-duke-cargo-shorts/3260392",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_7038000.jpg",
-          "description": "Short",
-          "subclass_id": "74",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2012-05-09",
-          "percent_color": 1.01
-        },
-        {
-          "sku_key": "54018105",
-          "gender": "M",
-          "style_id": "3299090",
-          "product_url": "http://shop.nordstrom.com/s/ted-baker-london-polka-dot-socks/3299090",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6994837.jpg",
-          "description": "Socks",
-          "subclass_id": "254",
-          "class_id": "8",
-          "age_group": "A",
-          "purchase_date": "2012-07-21",
-          "percent_color": 0.29
-        },
-        {
-          "sku_key": "54406561",
-          "gender": "M",
-          "style_id": "3268407",
-          "product_url": "http://shop.nordstrom.com/s/threads-for-thought-burnout-crewneck-sweatshirt/3268407",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_7620232.jpg",
-          "description": "Sweatshirt",
-          "subclass_id": "249",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2012-07-21",
-          "percent_color": 0.57
-        },
-        {
-          "sku_key": "56832732",
-          "gender": "M",
-          "style_id": "3502597",
-          "product_url": "http://shop.nordstrom.com/s/volcom-pinnacle-hybrid-shorts/3502597",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_7881827.jpg",
-          "description": "Short",
-          "subclass_id": "74",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-07-03",
-          "percent_color": 0.41
-        }
-      ],
-      "count": 5,
-      "color_per_purchaes": 0.0131,
-      "weighted_count": 2.69,
-      "percent": 1.3055
-    },
-    {
-      "name": "Firebrick",
-      "color_id": "71",
-      "rgb": [
-        178,
-        34,
-        34
-      ],
-      "rgb_string": "rgb(178,34,34)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "55043646",
-          "gender": "M",
-          "style_id": "3366241",
-          "product_url": "http://shop.nordstrom.com/s/eton-woven-silk-tie/3366241",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_7297059.jpg",
-          "description": "Tie",
-          "subclass_id": "306",
-          "class_id": "20",
-          "age_group": "A",
-          "purchase_date": "2012-10-15",
-          "percent_color": 0.38
-        },
-        {
-          "sku_key": "55639678",
-          "gender": "M",
-          "style_id": "3414115",
-          "product_url": "http://shop.nordstrom.com/s/topless-define-naughty-t-shirt/3414115",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_7482052.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2012-12-22",
-          "percent_color": 0.21
-        },
-        {
-          "sku_key": "51066415",
-          "gender": "M",
-          "style_id": "3063616",
-          "product_url": "http://shop.nordstrom.com/s/original-penguin-trim-fit-heathered-v-neck-t-shirt/3063616",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6655843.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2011-04-29",
-          "percent_color": 0.4
-        },
-        {
-          "sku_key": "22245325",
-          "gender": "M",
-          "style_id": "3223655",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-silk-twill-pocket-square/3223655",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6789354.jpg",
-          "description": "Pocket Squares",
-          "subclass_id": "87",
-          "class_id": "20",
-          "age_group": "A",
-          "purchase_date": "2008-05-21",
-          "percent_color": 0.69
-        },
-        {
-          "sku_key": "54398380",
-          "gender": "M",
-          "style_id": "3252195",
-          "product_url": "http://shop.nordstrom.com/s/paige-denim-normandie-slim-straight-leg-pants/3252195",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6775774.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2012-07-24",
-          "percent_color": 0.95
-        }
-      ],
-      "count": 5,
-      "color_per_purchaes": 0.0131,
-      "weighted_count": 2.63,
-      "percent": 1.3055
+      "percent": 1.5152
     },
     {
       "name": "Slate Gray",
@@ -4494,78 +4434,173 @@
         }
       ],
       "count": 5,
-      "color_per_purchaes": 0.0131,
+      "color_per_purchaes": 0.0126,
       "weighted_count": 1.47,
-      "percent": 1.3055
+      "percent": 1.2626
     },
     {
-      "name": "Royal Blue",
-      "color_id": "148",
+      "name": "Brown",
+      "color_id": "40",
       "rgb": [
-        65,
-        105,
-        225
+        165,
+        42,
+        42
       ],
-      "rgb_string": "rgb(65,105,225)",
+      "rgb_string": "rgb(165,42,42)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "51784880",
+          "sku_key": "51066415",
           "gender": "M",
-          "style_id": "3183698",
-          "product_url": "http://shop.nordstrom.com/s/boss-orange-wide-stripe-cotton-blend-socks/3183698",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6614057.jpg",
+          "style_id": "3063616",
+          "product_url": "http://shop.nordstrom.com/s/original-penguin-trim-fit-heathered-v-neck-t-shirt/3063616",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6655843.jpg",
+          "description": "T-shirt/Tee",
+          "subclass_id": "205",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2011-04-29",
+          "percent_color": 0.41
+        },
+        {
+          "sku_key": "53351461",
+          "gender": "M",
+          "style_id": "3260392",
+          "product_url": "http://shop.nordstrom.com/s/union-new-duke-cargo-shorts/3260392",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_7038000.jpg",
+          "description": "Short",
+          "subclass_id": "74",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2012-05-09",
+          "percent_color": 1.01
+        },
+        {
+          "sku_key": "54018105",
+          "gender": "M",
+          "style_id": "3299090",
+          "product_url": "http://shop.nordstrom.com/s/ted-baker-london-polka-dot-socks/3299090",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6994837.jpg",
           "description": "Socks",
           "subclass_id": "254",
           "class_id": "8",
           "age_group": "A",
-          "purchase_date": "2011-10-12",
-          "percent_color": 0.26
+          "purchase_date": "2012-07-21",
+          "percent_color": 0.29
         },
         {
-          "sku_key": "55403832",
+          "sku_key": "54406561",
           "gender": "M",
-          "style_id": "3393861",
-          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-dress-shirt/3393861",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_7998545.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-05-25",
-          "percent_color": 0.16
-        },
-        {
-          "sku_key": "53239292",
-          "gender": "M",
-          "style_id": "3254428",
-          "product_url": "http://shop.nordstrom.com/s/the-rail-by-public-opinion-stripe-thermal-shirt-2-for-50/3254428",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7063997.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
+          "style_id": "3268407",
+          "product_url": "http://shop.nordstrom.com/s/threads-for-thought-burnout-crewneck-sweatshirt/3268407",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_7620232.jpg",
+          "description": "Sweatshirt",
+          "subclass_id": "249",
           "class_id": "12",
           "age_group": "A",
           "purchase_date": "2012-07-21",
-          "percent_color": 0.19
+          "percent_color": 0.57
         },
         {
-          "sku_key": "54208536",
+          "sku_key": "56832732",
           "gender": "M",
-          "style_id": "3309419",
-          "product_url": "http://shop.nordstrom.com/s/altru-the-end-crewneck-t-shirt/3309419",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_7004284.jpg",
+          "style_id": "3502597",
+          "product_url": "http://shop.nordstrom.com/s/volcom-pinnacle-hybrid-shorts/3502597",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_7881827.jpg",
+          "description": "Short",
+          "subclass_id": "74",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2013-07-03",
+          "percent_color": 0.41
+        }
+      ],
+      "count": 5,
+      "color_per_purchaes": 0.0126,
+      "weighted_count": 2.69,
+      "percent": 1.2626
+    },
+    {
+      "name": "Firebrick",
+      "color_id": "71",
+      "rgb": [
+        178,
+        34,
+        34
+      ],
+      "rgb_string": "rgb(178,34,34)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "55043646",
+          "gender": "M",
+          "style_id": "3366241",
+          "product_url": "http://shop.nordstrom.com/s/eton-woven-silk-tie/3366241",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_7297059.jpg",
+          "description": "Tie",
+          "subclass_id": "306",
+          "class_id": "20",
+          "age_group": "A",
+          "purchase_date": "2012-10-15",
+          "percent_color": 0.38
+        },
+        {
+          "sku_key": "55639678",
+          "gender": "M",
+          "style_id": "3414115",
+          "product_url": "http://shop.nordstrom.com/s/topless-define-naughty-t-shirt/3414115",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_7482052.jpg",
           "description": "T-shirt/Tee",
           "subclass_id": "205",
           "class_id": "12",
           "age_group": "A",
-          "purchase_date": "2012-07-22",
-          "percent_color": 0.35
+          "purchase_date": "2012-12-22",
+          "percent_color": 0.21
+        },
+        {
+          "sku_key": "51066415",
+          "gender": "M",
+          "style_id": "3063616",
+          "product_url": "http://shop.nordstrom.com/s/original-penguin-trim-fit-heathered-v-neck-t-shirt/3063616",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6655843.jpg",
+          "description": "T-shirt/Tee",
+          "subclass_id": "205",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2011-04-29",
+          "percent_color": 0.4
+        },
+        {
+          "sku_key": "22245325",
+          "gender": "M",
+          "style_id": "3223655",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-silk-twill-pocket-square/3223655",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6789354.jpg",
+          "description": "PocketSquares",
+          "subclass_id": "87",
+          "class_id": "20",
+          "age_group": "A",
+          "purchase_date": "2008-05-21",
+          "percent_color": 0.69
+        },
+        {
+          "sku_key": "54398380",
+          "gender": "M",
+          "style_id": "3252195",
+          "product_url": "http://shop.nordstrom.com/s/paige-denim-normandie-slim-straight-leg-pants/3252195",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6775774.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2012-07-24",
+          "percent_color": 0.95
         }
       ],
-      "count": 4,
-      "color_per_purchaes": 0.0104,
-      "weighted_count": 0.9600000000000001,
-      "percent": 1.0444
+      "count": 5,
+      "color_per_purchaes": 0.0126,
+      "weighted_count": 2.63,
+      "percent": 1.2626
     },
     {
       "name": "Crimson",
@@ -4623,7 +4658,7 @@
           "style_id": "3223655",
           "product_url": "http://shop.nordstrom.com/s/nordstrom-silk-twill-pocket-square/3223655",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6789354.jpg",
-          "description": "Pocket Squares",
+          "description": "PocketSquares",
           "subclass_id": "87",
           "class_id": "20",
           "age_group": "A",
@@ -4632,147 +4667,9 @@
         }
       ],
       "count": 4,
-      "color_per_purchaes": 0.0104,
+      "color_per_purchaes": 0.0101,
       "weighted_count": 2.23,
-      "percent": 1.0444
-    },
-    {
-      "name": "Alice Blue",
-      "color_id": "29",
-      "rgb": [
-        240,
-        248,
-        255
-      ],
-      "rgb_string": "rgb(240,248,255)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "51267191",
-          "gender": "M",
-          "style_id": "3170378",
-          "product_url": "http://shop.nordstrom.com/s/under-armour-beyond-now-socks/3170378",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/10/_6386670.jpg",
-          "description": "Socks",
-          "subclass_id": "254",
-          "class_id": "8",
-          "age_group": "A",
-          "purchase_date": "2011-10-12",
-          "percent_color": 0.16
-        },
-        {
-          "sku_key": "53369612",
-          "gender": "M",
-          "style_id": "3261666",
-          "product_url": "http://shop.nordstrom.com/s/billy-reid-popover-plaid-linen-shirt/3261666",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6895827.jpg",
-          "description": "Shirt",
-          "subclass_id": "227",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2012-02-24",
-          "percent_color": 0.19
-        },
-        {
-          "sku_key": "54792945",
-          "gender": "M",
-          "style_id": "3348171",
-          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-non-iron-dress-shirt/3348171",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_7753658.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-04-10",
-          "percent_color": 0.17
-        },
-        {
-          "sku_key": "51520000",
-          "gender": "M",
-          "style_id": "3172624",
-          "product_url": "http://shop.nordstrom.com/s/zanerobe-esporte-trim-fit-crewneck-t-shirt-men/3172624",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6462661.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2011-06-11",
-          "percent_color": 0.16
-        }
-      ],
-      "count": 4,
-      "color_per_purchaes": 0.0104,
-      "weighted_count": 0.68,
-      "percent": 1.0444
-    },
-    {
-      "name": "Purple",
-      "color_id": "145",
-      "rgb": [
-        127,
-        0,
-        127
-      ],
-      "rgb_string": "rgb(127,0,127)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "52280597",
-          "gender": "M",
-          "style_id": "3269562",
-          "product_url": "http://shop.nordstrom.com/s/boss-black-sharp-fit-dress-shirt/3269562",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_6788122.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2012-01-12",
-          "percent_color": 0.22
-        },
-        {
-          "sku_key": "50948529",
-          "gender": "M",
-          "style_id": "3152219",
-          "product_url": "http://shop.nordstrom.com/s/under-armour-calcutta-heatgear-uv-protection-golf-polo/3152219",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_6372325.jpg",
-          "description": "Polo",
-          "subclass_id": "332",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2011-05-11",
-          "percent_color": 0.43
-        },
-        {
-          "sku_key": "51251309",
-          "gender": "M",
-          "style_id": "3162108",
-          "product_url": "http://shop.nordstrom.com/s/psycho-bunny-pique-socks/3162108",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6388794.jpg",
-          "description": "Socks",
-          "subclass_id": "254",
-          "class_id": "8",
-          "age_group": "A",
-          "purchase_date": "2011-06-17",
-          "percent_color": 0.35
-        },
-        {
-          "sku_key": "50276280",
-          "gender": "M",
-          "style_id": "3133437",
-          "product_url": "http://shop.nordstrom.com/s/calibrate-woven-silk-tie/3133437",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6369521.jpg",
-          "description": "Tie",
-          "subclass_id": "306",
-          "class_id": "20",
-          "age_group": "A",
-          "purchase_date": "2011-06-17",
-          "percent_color": 0.23
-        }
-      ],
-      "count": 4,
-      "color_per_purchaes": 0.0104,
-      "weighted_count": 1.23,
-      "percent": 1.0444
+      "percent": 1.0101
     },
     {
       "name": "Antique White",
@@ -4839,9 +4736,216 @@
         }
       ],
       "count": 4,
-      "color_per_purchaes": 0.0104,
+      "color_per_purchaes": 0.0101,
       "weighted_count": 2.8200000000000003,
-      "percent": 1.0444
+      "percent": 1.0101
+    },
+    {
+      "name": "Royal Blue",
+      "color_id": "148",
+      "rgb": [
+        65,
+        105,
+        225
+      ],
+      "rgb_string": "rgb(65,105,225)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "51784880",
+          "gender": "M",
+          "style_id": "3183698",
+          "product_url": "http://shop.nordstrom.com/s/boss-orange-wide-stripe-cotton-blend-socks/3183698",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6614057.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
+          "age_group": "A",
+          "purchase_date": "2011-10-12",
+          "percent_color": 0.26
+        },
+        {
+          "sku_key": "55403832",
+          "gender": "M",
+          "style_id": "3393861",
+          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-dress-shirt/3393861",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_7998545.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-05-25",
+          "percent_color": 0.16
+        },
+        {
+          "sku_key": "53239292",
+          "gender": "M",
+          "style_id": "3254428",
+          "product_url": "http://shop.nordstrom.com/s/the-rail-by-public-opinion-stripe-thermal-shirt-2-for-50/3254428",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7063997.jpg",
+          "description": "T-shirt/Tee",
+          "subclass_id": "205",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2012-07-21",
+          "percent_color": 0.19
+        },
+        {
+          "sku_key": "54208536",
+          "gender": "M",
+          "style_id": "3309419",
+          "product_url": "http://shop.nordstrom.com/s/altru-the-end-crewneck-t-shirt/3309419",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_7004284.jpg",
+          "description": "T-shirt/Tee",
+          "subclass_id": "205",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2012-07-22",
+          "percent_color": 0.35
+        }
+      ],
+      "count": 4,
+      "color_per_purchaes": 0.0101,
+      "weighted_count": 0.9600000000000001,
+      "percent": 1.0101
+    },
+    {
+      "name": "Alice Blue",
+      "color_id": "29",
+      "rgb": [
+        240,
+        248,
+        255
+      ],
+      "rgb_string": "rgb(240,248,255)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "51267191",
+          "gender": "M",
+          "style_id": "3170378",
+          "product_url": "http://shop.nordstrom.com/s/under-armour-beyond-now-socks/3170378",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/10/_6386670.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
+          "age_group": "A",
+          "purchase_date": "2011-10-12",
+          "percent_color": 0.16
+        },
+        {
+          "sku_key": "53369612",
+          "gender": "M",
+          "style_id": "3261666",
+          "product_url": "http://shop.nordstrom.com/s/billy-reid-popover-plaid-linen-shirt/3261666",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6895827.jpg",
+          "description": "Shirt",
+          "subclass_id": "227",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2012-02-24",
+          "percent_color": 0.19
+        },
+        {
+          "sku_key": "54792945",
+          "gender": "M",
+          "style_id": "3348171",
+          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-non-iron-dress-shirt/3348171",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_7753658.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-04-10",
+          "percent_color": 0.17
+        },
+        {
+          "sku_key": "51520000",
+          "gender": "M",
+          "style_id": "3172624",
+          "product_url": "http://shop.nordstrom.com/s/zanerobe-esporte-trim-fit-crewneck-t-shirt-men/3172624",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6462661.jpg",
+          "description": "T-shirt/Tee",
+          "subclass_id": "205",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2011-06-11",
+          "percent_color": 0.16
+        }
+      ],
+      "count": 4,
+      "color_per_purchaes": 0.0101,
+      "weighted_count": 0.68,
+      "percent": 1.0101
+    },
+    {
+      "name": "Purple",
+      "color_id": "145",
+      "rgb": [
+        127,
+        0,
+        127
+      ],
+      "rgb_string": "rgb(127,0,127)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "52280597",
+          "gender": "M",
+          "style_id": "3269562",
+          "product_url": "http://shop.nordstrom.com/s/boss-black-sharp-fit-dress-shirt/3269562",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_6788122.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2012-01-12",
+          "percent_color": 0.22
+        },
+        {
+          "sku_key": "50948529",
+          "gender": "M",
+          "style_id": "3152219",
+          "product_url": "http://shop.nordstrom.com/s/under-armour-calcutta-heatgear-uv-protection-golf-polo/3152219",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_6372325.jpg",
+          "description": "Polo",
+          "subclass_id": "332",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2011-05-11",
+          "percent_color": 0.43
+        },
+        {
+          "sku_key": "50276280",
+          "gender": "M",
+          "style_id": "3133437",
+          "product_url": "http://shop.nordstrom.com/s/calibrate-woven-silk-tie/3133437",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6369521.jpg",
+          "description": "Tie",
+          "subclass_id": "306",
+          "class_id": "20",
+          "age_group": "A",
+          "purchase_date": "2011-06-17",
+          "percent_color": 0.23
+        },
+        {
+          "sku_key": "51251309",
+          "gender": "M",
+          "style_id": "3162108",
+          "product_url": "http://shop.nordstrom.com/s/psycho-bunny-pique-socks/3162108",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6388794.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
+          "age_group": "A",
+          "purchase_date": "2011-06-17",
+          "percent_color": 0.35
+        }
+      ],
+      "count": 4,
+      "color_per_purchaes": 0.0101,
+      "weighted_count": 1.23,
+      "percent": 1.0101
     },
     {
       "name": "Dodger Blue",
@@ -4895,65 +4999,65 @@
         }
       ],
       "count": 3,
-      "color_per_purchaes": 0.0078,
+      "color_per_purchaes": 0.0076,
       "weighted_count": 1.79,
-      "percent": 0.7833
+      "percent": 0.7576
     },
     {
-      "name": "Tomato",
-      "color_id": "165",
+      "name": "Peru",
+      "color_id": "140",
       "rgb": [
-        255,
-        99,
-        71
+        205,
+        133,
+        63
       ],
-      "rgb_string": "rgb(255,99,71)",
+      "rgb_string": "rgb(205,133,63)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "56626119",
+          "sku_key": "50660395",
           "gender": "M",
-          "style_id": "3486514",
-          "product_url": "http://shop.nordstrom.com/s/1901-cashmere-crewneck-sweater/3486514",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_8291603.jpg",
-          "description": "Sweater",
-          "subclass_id": "194",
+          "style_id": "3138448",
+          "product_url": "http://shop.nordstrom.com/s/case-mate-venture-ipad-1-case-stand/3138448",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6248961.jpg",
+          "description": "Cases&Covers",
+          "subclass_id": "71",
+          "class_id": "16",
+          "age_group": "A",
+          "purchase_date": "2010-12-05",
+          "percent_color": 0.18
+        },
+        {
+          "sku_key": "52740939",
+          "gender": "M",
+          "style_id": "3158097",
+          "product_url": "http://shop.nordstrom.com/s/billy-reid-pensacola-trim-fit-polo/3158097",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_7259579.jpg",
+          "description": "Polo",
+          "subclass_id": "332",
           "class_id": "12",
           "age_group": "A",
-          "purchase_date": "2013-12-27",
-          "percent_color": 0.6
+          "purchase_date": "2012-02-24",
+          "percent_color": 0.75
         },
         {
-          "sku_key": "55267736",
+          "sku_key": "50881228",
           "gender": "M",
-          "style_id": "3382960",
-          "product_url": "http://shop.nordstrom.com/s/boss-hugo-boss-combed-cotton-blend-socks/3382960",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_8304689.jpg",
-          "description": "Socks",
-          "subclass_id": "254",
-          "class_id": "8",
+          "style_id": "3158957",
+          "product_url": "http://shop.nordstrom.com/s/polo-ralph-lauren-vintage-officers-chino-shorts/3158957",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6379176.jpg",
+          "description": "Short",
+          "subclass_id": "74",
+          "class_id": "23",
           "age_group": "A",
-          "purchase_date": "2013-04-10",
-          "percent_color": 0.3
-        },
-        {
-          "sku_key": "50507920",
-          "gender": "M",
-          "style_id": "3159020",
-          "product_url": "http://shop.nordstrom.com/s/under-armour-heatgear-visor/3159020",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_6430748.jpg",
-          "description": "Cap",
-          "subclass_id": "53",
-          "class_id": "10",
-          "age_group": "A",
-          "purchase_date": "2011-07-17",
-          "percent_color": 0.27
+          "purchase_date": "2011-05-11",
+          "percent_color": 0.65
         }
       ],
       "count": 3,
-      "color_per_purchaes": 0.0078,
-      "weighted_count": 1.17,
-      "percent": 0.7833
+      "color_per_purchaes": 0.0076,
+      "weighted_count": 1.58,
+      "percent": 0.7576
     },
     {
       "name": "Indian Red",
@@ -5007,138 +5111,65 @@
         }
       ],
       "count": 3,
-      "color_per_purchaes": 0.0078,
+      "color_per_purchaes": 0.0076,
       "weighted_count": 1.8399999999999999,
-      "percent": 0.7833
+      "percent": 0.7576
     },
     {
-      "name": "Snow",
-      "color_id": "159",
+      "name": "Tomato",
+      "color_id": "165",
       "rgb": [
         255,
-        250,
-        250
+        99,
+        71
       ],
-      "rgb_string": "rgb(255,250,250)",
+      "rgb_string": "rgb(255,99,71)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "54092265",
+          "sku_key": "56626119",
           "gender": "M",
-          "style_id": "3302523",
-          "product_url": "http://shop.nordstrom.com/s/bonobos-straight-leg-washed-cotton-twill-chinos/3302523",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_6967925.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
+          "style_id": "3486514",
+          "product_url": "http://shop.nordstrom.com/s/1901-cashmere-crewneck-sweater/3486514",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_8291603.jpg",
+          "description": "Sweater",
+          "subclass_id": "194",
+          "class_id": "12",
           "age_group": "A",
-          "purchase_date": "2013-07-19",
-          "percent_color": 0.45
+          "purchase_date": "2013-12-27",
+          "percent_color": 0.6
         },
         {
-          "sku_key": "54092265",
+          "sku_key": "55267736",
           "gender": "M",
-          "style_id": "3302523",
-          "product_url": "http://shop.nordstrom.com/s/bonobos-straight-leg-washed-cotton-twill-chinos/3302523",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_6967925.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
+          "style_id": "3382960",
+          "product_url": "http://shop.nordstrom.com/s/boss-hugo-boss-combed-cotton-blend-socks/3382960",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_8304689.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
           "age_group": "A",
-          "purchase_date": "2013-07-19",
-          "percent_color": 0.45
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0052,
-      "weighted_count": 0.9,
-      "percent": 0.5222
-    },
-    {
-      "name": "Tan",
-      "color_id": "162",
-      "rgb": [
-        210,
-        180,
-        140
-      ],
-      "rgb_string": "rgb(210,180,140)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "48035588",
-          "gender": "M",
-          "style_id": "3104115",
-          "product_url": "http://shop.nordstrom.com/s/ag-protege-sud-straight-leg-pants/3104115",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_8199097.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2009-12-17",
-          "percent_color": 0.48
+          "purchase_date": "2013-04-10",
+          "percent_color": 0.3
         },
         {
-          "sku_key": "48035588",
+          "sku_key": "50507920",
           "gender": "M",
-          "style_id": "3104115",
-          "product_url": "http://shop.nordstrom.com/s/ag-protege-sud-straight-leg-pants/3104115",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_8199097.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
+          "style_id": "3159020",
+          "product_url": "http://shop.nordstrom.com/s/under-armour-heatgear-visor/3159020",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_6430748.jpg",
+          "description": "Cap",
+          "subclass_id": "53",
+          "class_id": "10",
           "age_group": "A",
-          "purchase_date": "2009-12-17",
-          "percent_color": 0.48
+          "purchase_date": "2011-07-17",
+          "percent_color": 0.27
         }
       ],
-      "count": 2,
-      "color_per_purchaes": 0.0052,
-      "weighted_count": 0.96,
-      "percent": 0.5222
-    },
-    {
-      "name": "Sienna",
-      "color_id": "154",
-      "rgb": [
-        160,
-        82,
-        45
-      ],
-      "rgb_string": "rgb(160,82,45)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "45555121",
-          "gender": "M",
-          "style_id": "3028926",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-woven-silk-tie/3028926",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_7248761.jpg",
-          "description": "Tie",
-          "subclass_id": "306",
-          "class_id": "20",
-          "age_group": "A",
-          "purchase_date": "2012-11-02",
-          "percent_color": 0.41
-        },
-        {
-          "sku_key": "50409607",
-          "gender": "M",
-          "style_id": "3133583",
-          "product_url": "http://shop.nordstrom.com/s/canterbury-of-new-zealand-ripstop-cargo-shorts/3133583",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_6483062.jpg",
-          "description": "Short",
-          "subclass_id": "74",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2011-07-26",
-          "percent_color": 0.5
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0052,
-      "weighted_count": 0.9099999999999999,
-      "percent": 0.5222
+      "count": 3,
+      "color_per_purchaes": 0.0076,
+      "weighted_count": 1.17,
+      "percent": 0.7576
     },
     {
       "name": "Light Coral",
@@ -5179,95 +5210,9 @@
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0052,
+      "color_per_purchaes": 0.0051,
       "weighted_count": 1.05,
-      "percent": 0.5222
-    },
-    {
-      "name": "Dark Slate Gray",
-      "color_id": "64",
-      "rgb": [
-        47,
-        79,
-        79
-      ],
-      "rgb_string": "rgb(47,79,79)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "53052468",
-          "gender": "M",
-          "style_id": "3244859",
-          "product_url": "http://shop.nordstrom.com/s/junk-food-blitzed-screenprint-t-shirt/3244859",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_6694282.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2011-12-24",
-          "percent_color": 0.15
-        },
-        {
-          "sku_key": "56625732",
-          "gender": "M",
-          "style_id": "3486512",
-          "product_url": "http://shop.nordstrom.com/s/1901-textured-shawl-collar-sweater/3486512",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_8320432.jpg",
-          "description": "Sweater",
-          "subclass_id": "194",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-12-31",
-          "percent_color": 0.25
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0052,
-      "weighted_count": 0.4,
-      "percent": 0.5222
-    },
-    {
-      "name": "Red",
-      "color_id": "146",
-      "rgb": [
-        255,
-        0,
-        0
-      ],
-      "rgb_string": "rgb(255,0,0)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "56626119",
-          "gender": "M",
-          "style_id": "3486514",
-          "product_url": "http://shop.nordstrom.com/s/1901-cashmere-crewneck-sweater/3486514",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_8291603.jpg",
-          "description": "Sweater",
-          "subclass_id": "194",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-12-27",
-          "percent_color": 0.24
-        },
-        {
-          "sku_key": "50507920",
-          "gender": "M",
-          "style_id": "3159020",
-          "product_url": "http://shop.nordstrom.com/s/under-armour-heatgear-visor/3159020",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_6430748.jpg",
-          "description": "Cap",
-          "subclass_id": "53",
-          "class_id": "10",
-          "age_group": "A",
-          "purchase_date": "2011-07-17",
-          "percent_color": 0.65
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0052,
-      "weighted_count": 0.89,
-      "percent": 0.5222
+      "percent": 0.5051
     },
     {
       "name": "Silver",
@@ -5308,9 +5253,267 @@
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0052,
+      "color_per_purchaes": 0.0051,
       "weighted_count": 0.66,
-      "percent": 0.5222
+      "percent": 0.5051
+    },
+    {
+      "name": "Sienna",
+      "color_id": "154",
+      "rgb": [
+        160,
+        82,
+        45
+      ],
+      "rgb_string": "rgb(160,82,45)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "45555121",
+          "gender": "M",
+          "style_id": "3028926",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-woven-silk-tie/3028926",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_7248761.jpg",
+          "description": "Tie",
+          "subclass_id": "306",
+          "class_id": "20",
+          "age_group": "A",
+          "purchase_date": "2012-11-02",
+          "percent_color": 0.41
+        },
+        {
+          "sku_key": "50409607",
+          "gender": "M",
+          "style_id": "3133583",
+          "product_url": "http://shop.nordstrom.com/s/canterbury-of-new-zealand-ripstop-cargo-shorts/3133583",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_6483062.jpg",
+          "description": "Short",
+          "subclass_id": "74",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2011-07-26",
+          "percent_color": 0.5
+        }
+      ],
+      "count": 2,
+      "color_per_purchaes": 0.0051,
+      "weighted_count": 0.9099999999999999,
+      "percent": 0.5051
+    },
+    {
+      "name": "Dark Slate Gray",
+      "color_id": "64",
+      "rgb": [
+        47,
+        79,
+        79
+      ],
+      "rgb_string": "rgb(47,79,79)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "53052468",
+          "gender": "M",
+          "style_id": "3244859",
+          "product_url": "http://shop.nordstrom.com/s/junk-food-blitzed-screenprint-t-shirt/3244859",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_6694282.jpg",
+          "description": "T-shirt/Tee",
+          "subclass_id": "205",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2011-12-24",
+          "percent_color": 0.15
+        },
+        {
+          "sku_key": "56625732",
+          "gender": "M",
+          "style_id": "3486512",
+          "product_url": "http://shop.nordstrom.com/s/1901-textured-shawl-collar-sweater/3486512",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_8320432.jpg",
+          "description": "Sweater",
+          "subclass_id": "194",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-12-31",
+          "percent_color": 0.25
+        }
+      ],
+      "count": 2,
+      "color_per_purchaes": 0.0051,
+      "weighted_count": 0.4,
+      "percent": 0.5051
+    },
+    {
+      "name": "Red",
+      "color_id": "146",
+      "rgb": [
+        255,
+        0,
+        0
+      ],
+      "rgb_string": "rgb(255,0,0)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "56626119",
+          "gender": "M",
+          "style_id": "3486514",
+          "product_url": "http://shop.nordstrom.com/s/1901-cashmere-crewneck-sweater/3486514",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_8291603.jpg",
+          "description": "Sweater",
+          "subclass_id": "194",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-12-27",
+          "percent_color": 0.24
+        },
+        {
+          "sku_key": "50507920",
+          "gender": "M",
+          "style_id": "3159020",
+          "product_url": "http://shop.nordstrom.com/s/under-armour-heatgear-visor/3159020",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_6430748.jpg",
+          "description": "Cap",
+          "subclass_id": "53",
+          "class_id": "10",
+          "age_group": "A",
+          "purchase_date": "2011-07-17",
+          "percent_color": 0.65
+        }
+      ],
+      "count": 2,
+      "color_per_purchaes": 0.0051,
+      "weighted_count": 0.89,
+      "percent": 0.5051
+    },
+    {
+      "name": "Tan",
+      "color_id": "162",
+      "rgb": [
+        210,
+        180,
+        140
+      ],
+      "rgb_string": "rgb(210,180,140)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "48035588",
+          "gender": "M",
+          "style_id": "3104115",
+          "product_url": "http://shop.nordstrom.com/s/ag-protege-sud-straight-leg-pants/3104115",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_8199097.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2009-12-17",
+          "percent_color": 0.48
+        },
+        {
+          "sku_key": "48035588",
+          "gender": "M",
+          "style_id": "3104115",
+          "product_url": "http://shop.nordstrom.com/s/ag-protege-sud-straight-leg-pants/3104115",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_8199097.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2009-12-17",
+          "percent_color": 0.48
+        }
+      ],
+      "count": 2,
+      "color_per_purchaes": 0.0051,
+      "weighted_count": 0.96,
+      "percent": 0.5051
+    },
+    {
+      "name": "Snow",
+      "color_id": "159",
+      "rgb": [
+        255,
+        250,
+        250
+      ],
+      "rgb_string": "rgb(255,250,250)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "54092265",
+          "gender": "M",
+          "style_id": "3302523",
+          "product_url": "http://shop.nordstrom.com/s/bonobos-straight-leg-washed-cotton-twill-chinos/3302523",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_6967925.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2013-07-19",
+          "percent_color": 0.45
+        },
+        {
+          "sku_key": "54092265",
+          "gender": "M",
+          "style_id": "3302523",
+          "product_url": "http://shop.nordstrom.com/s/bonobos-straight-leg-washed-cotton-twill-chinos/3302523",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_6967925.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2013-07-19",
+          "percent_color": 0.45
+        }
+      ],
+      "count": 2,
+      "color_per_purchaes": 0.0051,
+      "weighted_count": 0.9,
+      "percent": 0.5051
+    },
+    {
+      "name": "Sandy Brown",
+      "color_id": "151",
+      "rgb": [
+        244,
+        164,
+        96
+      ],
+      "rgb_string": "rgb(244,164,96)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "50660395",
+          "gender": "M",
+          "style_id": "3138448",
+          "product_url": "http://shop.nordstrom.com/s/case-mate-venture-ipad-1-case-stand/3138448",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6248961.jpg",
+          "description": "Cases&Covers",
+          "subclass_id": "71",
+          "class_id": "16",
+          "age_group": "A",
+          "purchase_date": "2010-12-05",
+          "percent_color": 0.2
+        },
+        {
+          "sku_key": "52740939",
+          "gender": "M",
+          "style_id": "3158097",
+          "product_url": "http://shop.nordstrom.com/s/billy-reid-pensacola-trim-fit-polo/3158097",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_7259579.jpg",
+          "description": "Polo",
+          "subclass_id": "332",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2012-02-24",
+          "percent_color": 0.26
+        }
+      ],
+      "count": 2,
+      "color_per_purchaes": 0.0051,
+      "weighted_count": 0.46,
+      "percent": 0.5051
     },
     {
       "name": "Seashell",
@@ -5351,52 +5554,95 @@
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0052,
+      "color_per_purchaes": 0.0051,
       "weighted_count": 0.84,
-      "percent": 0.5222
+      "percent": 0.5051
     },
     {
-      "name": "Peru",
-      "color_id": "140",
+      "name": "Saddle Brown",
+      "color_id": "149",
       "rgb": [
-        205,
-        133,
-        63
+        139,
+        69,
+        19
       ],
-      "rgb_string": "rgb(205,133,63)",
+      "rgb_string": "rgb(139,69,19)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "52740939",
+          "sku_key": "55340403",
           "gender": "M",
-          "style_id": "3158097",
-          "product_url": "http://shop.nordstrom.com/s/billy-reid-pensacola-trim-fit-polo/3158097",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_7259579.jpg",
-          "description": "Polo",
-          "subclass_id": "332",
-          "class_id": "12",
+          "style_id": "3389300",
+          "product_url": "http://shop.nordstrom.com/s/boconi-tyler-rolling-carry-on/3389300",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_7337165.jpg",
+          "description": "Suitcase(carry-on)",
+          "subclass_id": "46",
+          "class_id": "9",
           "age_group": "A",
-          "purchase_date": "2012-02-24",
-          "percent_color": 0.75
+          "purchase_date": "2013-02-25",
+          "percent_color": 0.64
         },
         {
-          "sku_key": "50881228",
+          "sku_key": "50409607",
           "gender": "M",
-          "style_id": "3158957",
-          "product_url": "http://shop.nordstrom.com/s/polo-ralph-lauren-vintage-officers-chino-shorts/3158957",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6379176.jpg",
+          "style_id": "3133583",
+          "product_url": "http://shop.nordstrom.com/s/canterbury-of-new-zealand-ripstop-cargo-shorts/3133583",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_6483062.jpg",
           "description": "Short",
           "subclass_id": "74",
           "class_id": "23",
           "age_group": "A",
-          "purchase_date": "2011-05-11",
-          "percent_color": 0.65
+          "purchase_date": "2011-07-26",
+          "percent_color": 0.51
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0052,
-      "weighted_count": 1.4,
-      "percent": 0.5222
+      "color_per_purchaes": 0.0051,
+      "weighted_count": 1.15,
+      "percent": 0.5051
+    },
+    {
+      "name": "Light Blue",
+      "color_id": "94",
+      "rgb": [
+        173,
+        216,
+        230
+      ],
+      "rgb_string": "rgb(173,216,230)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "54792945",
+          "gender": "M",
+          "style_id": "3348171",
+          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-non-iron-dress-shirt/3348171",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_7753658.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-04-10",
+          "percent_color": 0.22
+        },
+        {
+          "sku_key": "55171590",
+          "gender": "M",
+          "style_id": "3375516",
+          "product_url": "http://shop.nordstrom.com/s/boss-black-woven-silk-tie/3375516",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_7876347.jpg",
+          "description": "Tie",
+          "subclass_id": "306",
+          "class_id": "20",
+          "age_group": "A",
+          "purchase_date": "2013-04-10",
+          "percent_color": 0.19
+        }
+      ],
+      "count": 2,
+      "color_per_purchaes": 0.0051,
+      "weighted_count": 0.41000000000000003,
+      "percent": 0.5051
     },
     {
       "name": "Midnight Blue",
@@ -5437,52 +5683,9 @@
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0052,
+      "color_per_purchaes": 0.0051,
       "weighted_count": 0.43000000000000005,
-      "percent": 0.5222
-    },
-    {
-      "name": "Light Blue",
-      "color_id": "94",
-      "rgb": [
-        173,
-        216,
-        230
-      ],
-      "rgb_string": "rgb(173,216,230)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "55171590",
-          "gender": "M",
-          "style_id": "3375516",
-          "product_url": "http://shop.nordstrom.com/s/boss-black-woven-silk-tie/3375516",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_7876347.jpg",
-          "description": "Tie",
-          "subclass_id": "306",
-          "class_id": "20",
-          "age_group": "A",
-          "purchase_date": "2013-04-10",
-          "percent_color": 0.19
-        },
-        {
-          "sku_key": "54792945",
-          "gender": "M",
-          "style_id": "3348171",
-          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-non-iron-dress-shirt/3348171",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_7753658.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-04-10",
-          "percent_color": 0.22
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0052,
-      "weighted_count": 0.41000000000000003,
-      "percent": 0.5222
+      "percent": 0.5051
     },
     {
       "name": "Chocolate",
@@ -5507,102 +5710,25 @@
           "age_group": "A",
           "purchase_date": "2012-11-02",
           "percent_color": 0.26
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0026,
-      "weighted_count": 0.26,
-      "percent": 0.2611
-    },
-    {
-      "name": "Sandy Brown",
-      "color_id": "151",
-      "rgb": [
-        244,
-        164,
-        96
-      ],
-      "rgb_string": "rgb(244,164,96)",
-      "grayscale": false,
-      "purchases": [
+        },
         {
-          "sku_key": "52740939",
+          "sku_key": "50660395",
           "gender": "M",
-          "style_id": "3158097",
-          "product_url": "http://shop.nordstrom.com/s/billy-reid-pensacola-trim-fit-polo/3158097",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_7259579.jpg",
-          "description": "Polo",
-          "subclass_id": "332",
-          "class_id": "12",
+          "style_id": "3138448",
+          "product_url": "http://shop.nordstrom.com/s/case-mate-venture-ipad-1-case-stand/3138448",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6248961.jpg",
+          "description": "Cases&Covers",
+          "subclass_id": "71",
+          "class_id": "16",
           "age_group": "A",
-          "purchase_date": "2012-02-24",
-          "percent_color": 0.26
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0026,
-      "weighted_count": 0.26,
-      "percent": 0.2611
-    },
-    {
-      "name": "Dark Salmon",
-      "color_id": "61",
-      "rgb": [
-        233,
-        150,
-        122
-      ],
-      "rgb_string": "rgb(233,150,122)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "50881228",
-          "gender": "M",
-          "style_id": "3158957",
-          "product_url": "http://shop.nordstrom.com/s/polo-ralph-lauren-vintage-officers-chino-shorts/3158957",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6379176.jpg",
-          "description": "Short",
-          "subclass_id": "74",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2011-05-11",
+          "purchase_date": "2010-12-05",
           "percent_color": 0.35
         }
       ],
-      "count": 1,
-      "color_per_purchaes": 0.0026,
-      "weighted_count": 0.35,
-      "percent": 0.2611
-    },
-    {
-      "name": "Dark Olive Green",
-      "color_id": "57",
-      "rgb": [
-        85,
-        107,
-        47
-      ],
-      "rgb_string": "rgb(85,107,47)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "53052468",
-          "gender": "M",
-          "style_id": "3244859",
-          "product_url": "http://shop.nordstrom.com/s/junk-food-blitzed-screenprint-t-shirt/3244859",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_6694282.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2011-12-24",
-          "percent_color": 0.43
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0026,
-      "weighted_count": 0.43,
-      "percent": 0.2611
+      "count": 2,
+      "color_per_purchaes": 0.0051,
+      "weighted_count": 0.61,
+      "percent": 0.5051
     },
     {
       "name": "Olive Drab",
@@ -5630,9 +5756,99 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0026,
+      "color_per_purchaes": 0.0025,
       "weighted_count": 0.93,
-      "percent": 0.2611
+      "percent": 0.2525
+    },
+    {
+      "name": "Dark Salmon",
+      "color_id": "61",
+      "rgb": [
+        233,
+        150,
+        122
+      ],
+      "rgb_string": "rgb(233,150,122)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "50881228",
+          "gender": "M",
+          "style_id": "3158957",
+          "product_url": "http://shop.nordstrom.com/s/polo-ralph-lauren-vintage-officers-chino-shorts/3158957",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6379176.jpg",
+          "description": "Short",
+          "subclass_id": "74",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2011-05-11",
+          "percent_color": 0.35
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0025,
+      "weighted_count": 0.35,
+      "percent": 0.2525
+    },
+    {
+      "name": "Coral",
+      "color_id": "45",
+      "rgb": [
+        255,
+        127,
+        80
+      ],
+      "rgb_string": "rgb(255,127,80)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "50660395",
+          "gender": "M",
+          "style_id": "3138448",
+          "product_url": "http://shop.nordstrom.com/s/case-mate-venture-ipad-1-case-stand/3138448",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6248961.jpg",
+          "description": "Cases&Covers",
+          "subclass_id": "71",
+          "class_id": "16",
+          "age_group": "A",
+          "purchase_date": "2010-12-05",
+          "percent_color": 0.15
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0025,
+      "weighted_count": 0.15,
+      "percent": 0.2525
+    },
+    {
+      "name": "Dark Olive Green",
+      "color_id": "57",
+      "rgb": [
+        85,
+        107,
+        47
+      ],
+      "rgb_string": "rgb(85,107,47)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "53052468",
+          "gender": "M",
+          "style_id": "3244859",
+          "product_url": "http://shop.nordstrom.com/s/junk-food-blitzed-screenprint-t-shirt/3244859",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_6694282.jpg",
+          "description": "T-shirt/Tee",
+          "subclass_id": "205",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2011-12-24",
+          "percent_color": 0.43
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0025,
+      "weighted_count": 0.43,
+      "percent": 0.2525
     },
     {
       "name": "Medium Purple",
@@ -5660,9 +5876,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0026,
+      "color_per_purchaes": 0.0025,
       "weighted_count": 0.17,
-      "percent": 0.2611
+      "percent": 0.2525
     },
     {
       "name": "Orange Red",
@@ -5690,9 +5906,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0026,
+      "color_per_purchaes": 0.0025,
       "weighted_count": 0.27,
-      "percent": 0.2611
+      "percent": 0.2525
     },
     {
       "name": "Yellow",
@@ -5711,7 +5927,7 @@
           "style_id": "3225047",
           "product_url": "http://shop.nordstrom.com/s/john-w-nordstrom-linen-pocket-square/3225047",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_7269745.jpg",
-          "description": "Pocket Squares",
+          "description": "PocketSquares",
           "subclass_id": "87",
           "class_id": "20",
           "age_group": "A",
@@ -5720,9 +5936,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0026,
+      "color_per_purchaes": 0.0025,
       "weighted_count": 0.17,
-      "percent": 0.2611
+      "percent": 0.2525
     },
     {
       "name": "Deep Sky Blue",
@@ -5750,39 +5966,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0026,
+      "color_per_purchaes": 0.0025,
       "weighted_count": 0.54,
-      "percent": 0.2611
-    },
-    {
-      "name": "Saddle Brown",
-      "color_id": "149",
-      "rgb": [
-        139,
-        69,
-        19
-      ],
-      "rgb_string": "rgb(139,69,19)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "50409607",
-          "gender": "M",
-          "style_id": "3133583",
-          "product_url": "http://shop.nordstrom.com/s/canterbury-of-new-zealand-ripstop-cargo-shorts/3133583",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_6483062.jpg",
-          "description": "Short",
-          "subclass_id": "74",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2011-07-26",
-          "percent_color": 0.51
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0026,
-      "weighted_count": 0.51,
-      "percent": 0.2611
+      "percent": 0.2525
     },
     {
       "name": "Rosy Brown",
@@ -5810,13 +5996,13 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0026,
+      "color_per_purchaes": 0.0025,
       "weighted_count": 0.16,
-      "percent": 0.2611
+      "percent": 0.2525
     }
   ],
   "start_date": "2008-05-21",
   "end_date": "2014-01-02",
-  "total_purchases": 383,
-  "total_colors": 49
+  "total_purchases": 396,
+  "total_colors": 50
 }

@@ -39,7 +39,7 @@
           "class_id": "6",
           "age_group": "A",
           "purchase_date": "2011-12-22",
-          "percent_color": 0.24
+          "percent_color": 0.35
         },
         {
           "sku_key": "51562942",
@@ -52,7 +52,7 @@
           "class_id": "6",
           "age_group": "A",
           "purchase_date": "2011-12-22",
-          "percent_color": 0.35
+          "percent_color": 0.24
         },
         {
           "sku_key": "52466642",
@@ -107,7 +107,7 @@
           "percent_color": 0.27
         },
         {
-          "sku_key": "49610684",
+          "sku_key": "49610691",
           "gender": "M",
           "style_id": "3113192",
           "product_url": "http://shop.nordstrom.com/s/calibrate-pattern-dress-socks/3113192",
@@ -117,7 +117,7 @@
           "class_id": "8",
           "age_group": "A",
           "purchase_date": "2011-03-12",
-          "percent_color": 0.64
+          "percent_color": 0.65
         },
         {
           "sku_key": "49610684",
@@ -143,10 +143,10 @@
           "class_id": "8",
           "age_group": "A",
           "purchase_date": "2011-03-12",
-          "percent_color": 0.27
+          "percent_color": 0.68
         },
         {
-          "sku_key": "49610691",
+          "sku_key": "49610684",
           "gender": "M",
           "style_id": "3113192",
           "product_url": "http://shop.nordstrom.com/s/calibrate-pattern-dress-socks/3113192",
@@ -156,7 +156,7 @@
           "class_id": "8",
           "age_group": "A",
           "purchase_date": "2011-03-12",
-          "percent_color": 0.65
+          "percent_color": 0.64
         },
         {
           "sku_key": "49610675",
@@ -169,7 +169,7 @@
           "class_id": "8",
           "age_group": "A",
           "purchase_date": "2011-03-12",
-          "percent_color": 0.68
+          "percent_color": 0.27
         },
         {
           "sku_key": "49610691",
@@ -185,17 +185,30 @@
           "percent_color": 0.34
         },
         {
-          "sku_key": "53465236",
+          "sku_key": "51992096",
           "gender": "M",
-          "style_id": "3267780",
-          "product_url": "http://shop.nordstrom.com/s/calvin-klein-stripe-socks-3-pack/3267780",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6802863.jpg",
-          "description": "Socks",
-          "subclass_id": "254",
-          "class_id": "8",
+          "style_id": "3192246",
+          "product_url": "http://shop.nordstrom.com/s/calibrate-arm-pocket-front-zip-cardigan/3192246",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6605654.jpg",
+          "description": "Sweater",
+          "subclass_id": "194",
+          "class_id": "12",
           "age_group": "A",
           "purchase_date": "2012-03-23",
-          "percent_color": 0.26
+          "percent_color": 0.98
+        },
+        {
+          "sku_key": "52716191",
+          "gender": "M",
+          "style_id": "3228093",
+          "product_url": "http://shop.nordstrom.com/s/boss-black-maine-five-pocket-herringbone-pants/3228093",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6817787.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2012-03-23",
+          "percent_color": 0.38
         },
         {
           "sku_key": "53465216",
@@ -211,19 +224,6 @@
           "percent_color": 0.95
         },
         {
-          "sku_key": "51992096",
-          "gender": "M",
-          "style_id": "3192246",
-          "product_url": "http://shop.nordstrom.com/s/calibrate-arm-pocket-front-zip-cardigan/3192246",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6605654.jpg",
-          "description": "Sweater",
-          "subclass_id": "194",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2012-03-23",
-          "percent_color": 0.98
-        },
-        {
           "sku_key": "53465236",
           "gender": "M",
           "style_id": "3267780",
@@ -237,17 +237,17 @@
           "percent_color": 0.66
         },
         {
-          "sku_key": "52716191",
+          "sku_key": "53465236",
           "gender": "M",
-          "style_id": "3228093",
-          "product_url": "http://shop.nordstrom.com/s/boss-black-maine-five-pocket-herringbone-pants/3228093",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6817787.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
+          "style_id": "3267780",
+          "product_url": "http://shop.nordstrom.com/s/calvin-klein-stripe-socks-3-pack/3267780",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6802863.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
           "age_group": "A",
           "purchase_date": "2012-03-23",
-          "percent_color": 0.38
+          "percent_color": 0.26
         },
         {
           "sku_key": "51287292",
@@ -268,7 +268,7 @@
           "style_id": "3244239",
           "product_url": "http://shop.nordstrom.com/s/merrell-innsbruck-waterproof-slip-on-men/3244239",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_6683429.jpg",
-          "description": "Slip on",
+          "description": "Slipon",
           "subclass_id": "301",
           "class_id": "4",
           "age_group": "A",
@@ -299,7 +299,7 @@
           "class_id": "4",
           "age_group": "A",
           "purchase_date": "2012-05-15",
-          "percent_color": 0.2
+          "percent_color": 0.24
         },
         {
           "sku_key": "52680879",
@@ -312,7 +312,20 @@
           "class_id": "4",
           "age_group": "A",
           "purchase_date": "2012-05-15",
-          "percent_color": 0.24
+          "percent_color": 0.2
+        },
+        {
+          "sku_key": "50678134",
+          "gender": "M",
+          "style_id": "3138831",
+          "product_url": "http://shop.nordstrom.com/s/trafalgar-bentley-embossed-leather-belt/3138831",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_6378075.jpg",
+          "description": "Belts",
+          "subclass_id": "82",
+          "class_id": "19",
+          "age_group": "A",
+          "purchase_date": "2011-06-25",
+          "percent_color": 0.64
         },
         {
           "sku_key": "50678134",
@@ -339,19 +352,6 @@
           "age_group": "A",
           "purchase_date": "2011-06-25",
           "percent_color": 0.29
-        },
-        {
-          "sku_key": "50678134",
-          "gender": "M",
-          "style_id": "3138831",
-          "product_url": "http://shop.nordstrom.com/s/trafalgar-bentley-embossed-leather-belt/3138831",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_6378075.jpg",
-          "description": "Belts",
-          "subclass_id": "82",
-          "class_id": "19",
-          "age_group": "A",
-          "purchase_date": "2011-06-25",
-          "percent_color": 0.64
         },
         {
           "sku_key": "48381475",
@@ -385,7 +385,7 @@
           "style_id": "2996741",
           "product_url": "http://shop.nordstrom.com/s/merrell-shiver-moc-leather-slip-on/2996741",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_5668875.jpg",
-          "description": "Slip on",
+          "description": "Slipon",
           "subclass_id": "301",
           "class_id": "4",
           "age_group": "A",
@@ -511,49 +511,6 @@
       "percent": 3.9216
     },
     {
-      "name": "Gainsboro",
-      "color_id": "75",
-      "rgb": [
-        220,
-        220,
-        220
-      ],
-      "rgb_string": "rgb(220,220,220)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "52655813",
-          "gender": "M",
-          "style_id": "3224410",
-          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-combed-plaid-sport-shirt/3224410",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6885021.jpg",
-          "description": "Shirt",
-          "subclass_id": "227",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2012-03-23",
-          "percent_color": 0.18
-        },
-        {
-          "sku_key": "55843382",
-          "gender": "M",
-          "style_id": "3426877",
-          "product_url": "http://shop.nordstrom.com/s/bugatchi-shaped-fit-sport-shirt/3426877",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_7617279.jpg",
-          "description": "Sportshirt",
-          "subclass_id": "41",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-05-23",
-          "percent_color": 0.18
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0392,
-      "weighted_count": 0.36,
-      "percent": 3.9216
-    },
-    {
       "name": "White Smoke",
       "color_id": "170",
       "rgb": [
@@ -594,6 +551,49 @@
       "count": 2,
       "color_per_purchaes": 0.0392,
       "weighted_count": 0.9,
+      "percent": 3.9216
+    },
+    {
+      "name": "Gainsboro",
+      "color_id": "75",
+      "rgb": [
+        220,
+        220,
+        220
+      ],
+      "rgb_string": "rgb(220,220,220)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "52655813",
+          "gender": "M",
+          "style_id": "3224410",
+          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-combed-plaid-sport-shirt/3224410",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6885021.jpg",
+          "description": "Shirt",
+          "subclass_id": "227",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2012-03-23",
+          "percent_color": 0.18
+        },
+        {
+          "sku_key": "55843382",
+          "gender": "M",
+          "style_id": "3426877",
+          "product_url": "http://shop.nordstrom.com/s/bugatchi-shaped-fit-sport-shirt/3426877",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_7617279.jpg",
+          "description": "Sportshirt",
+          "subclass_id": "41",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-05-23",
+          "percent_color": 0.18
+        }
+      ],
+      "count": 2,
+      "color_per_purchaes": 0.0392,
+      "weighted_count": 0.36,
       "percent": 3.9216
     },
     {
@@ -700,14 +700,14 @@
       "percent": 1.9608
     },
     {
-      "name": "Cornflower",
-      "color_id": "46",
+      "name": "Dark Slate Blue",
+      "color_id": "63",
       "rgb": [
-        100,
-        149,
-        237
+        72,
+        61,
+        139
       ],
-      "rgb_string": "rgb(100,149,237)",
+      "rgb_string": "rgb(72,61,139)",
       "grayscale": false,
       "purchases": [
         {
@@ -721,12 +721,12 @@
           "class_id": "12",
           "age_group": "A",
           "purchase_date": "2013-01-16",
-          "percent_color": 0.21
+          "percent_color": 0.45
         }
       ],
       "count": 1,
       "color_per_purchaes": 0.0196,
-      "weighted_count": 0.21,
+      "weighted_count": 0.45,
       "percent": 1.9608
     },
     {
@@ -760,14 +760,14 @@
       "percent": 1.9608
     },
     {
-      "name": "Dark Slate Blue",
-      "color_id": "63",
+      "name": "Cornflower",
+      "color_id": "46",
       "rgb": [
-        72,
-        61,
-        139
+        100,
+        149,
+        237
       ],
-      "rgb_string": "rgb(72,61,139)",
+      "rgb_string": "rgb(100,149,237)",
       "grayscale": false,
       "purchases": [
         {
@@ -781,12 +781,12 @@
           "class_id": "12",
           "age_group": "A",
           "purchase_date": "2013-01-16",
-          "percent_color": 0.45
+          "percent_color": 0.21
         }
       ],
       "count": 1,
       "color_per_purchaes": 0.0196,
-      "weighted_count": 0.45,
+      "weighted_count": 0.21,
       "percent": 1.9608
     },
     {
@@ -880,36 +880,6 @@
       "percent": 1.9608
     },
     {
-      "name": "Khaki",
-      "color_id": "89",
-      "rgb": [
-        240,
-        230,
-        140
-      ],
-      "rgb_string": "rgb(240,230,140)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "53727774",
-          "gender": "M",
-          "style_id": "3284249",
-          "product_url": "http://shop.nordstrom.com/s/asics-gel-nimbus-14-running-shoe-men/3284249",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/10/_7140590.jpg",
-          "description": "Athletic",
-          "subclass_id": "224",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2012-08-24",
-          "percent_color": 0.34
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0196,
-      "weighted_count": 0.34,
-      "percent": 1.9608
-    },
-    {
       "name": "Green Yellow",
       "color_id": "83",
       "rgb": [
@@ -937,6 +907,36 @@
       "count": 1,
       "color_per_purchaes": 0.0196,
       "weighted_count": 0.22,
+      "percent": 1.9608
+    },
+    {
+      "name": "Khaki",
+      "color_id": "89",
+      "rgb": [
+        240,
+        230,
+        140
+      ],
+      "rgb_string": "rgb(240,230,140)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "53727774",
+          "gender": "M",
+          "style_id": "3284249",
+          "product_url": "http://shop.nordstrom.com/s/asics-gel-nimbus-14-running-shoe-men/3284249",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/10/_7140590.jpg",
+          "description": "Athletic",
+          "subclass_id": "224",
+          "class_id": "4",
+          "age_group": "A",
+          "purchase_date": "2012-08-24",
+          "percent_color": 0.34
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0196,
+      "weighted_count": 0.34,
       "percent": 1.9608
     }
   ],

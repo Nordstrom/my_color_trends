@@ -16,71 +16,6 @@
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "55299338",
-          "gender": "M",
-          "style_id": "3386009",
-          "product_url": "http://shop.nordstrom.com/s/boss-orange-rs-design-stripe-socks/3386009",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_7453363.jpg",
-          "description": "Socks",
-          "subclass_id": "254",
-          "class_id": "8",
-          "age_group": "A",
-          "purchase_date": "2013-01-19",
-          "percent_color": 0.4
-        },
-        {
-          "sku_key": "54757468",
-          "gender": "M",
-          "style_id": "3345607",
-          "product_url": "http://shop.nordstrom.com/s/converse-jack-purcell-lp-slip-on-sneaker-men/3345607",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_7498672.jpg",
-          "description": "Sneaker",
-          "subclass_id": "353",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2013-01-19",
-          "percent_color": 0.55
-        },
-        {
-          "sku_key": "48157476",
-          "gender": "M",
-          "style_id": "3130349",
-          "product_url": "http://shop.nordstrom.com/s/timberland-boot-company-wodehouse-lost-history-cap-toe-oxford/3130349",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_7790476.jpg",
-          "description": "Oxfords",
-          "subclass_id": "217",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2013-01-19",
-          "percent_color": 0.5
-        },
-        {
-          "sku_key": "55299333",
-          "gender": "M",
-          "style_id": "3386009",
-          "product_url": "http://shop.nordstrom.com/s/boss-orange-rs-design-stripe-socks/3386009",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_7453363.jpg",
-          "description": "Socks",
-          "subclass_id": "254",
-          "class_id": "8",
-          "age_group": "A",
-          "purchase_date": "2013-01-19",
-          "percent_color": 0.41
-        },
-        {
-          "sku_key": "54867628",
-          "gender": "M",
-          "style_id": "3352899",
-          "product_url": "http://shop.nordstrom.com/s/city-velvet-dinner-jacket/3352899",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_7437582.jpg",
-          "description": "Tuxedo",
-          "subclass_id": "305",
-          "class_id": "265",
-          "age_group": "A",
-          "purchase_date": "2013-01-19",
-          "percent_color": 0.78
-        },
-        {
           "sku_key": "54867628",
           "gender": "M",
           "style_id": "3352899",
@@ -107,6 +42,19 @@
           "percent_color": 1.01
         },
         {
+          "sku_key": "54867628",
+          "gender": "M",
+          "style_id": "3352899",
+          "product_url": "http://shop.nordstrom.com/s/city-velvet-dinner-jacket/3352899",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_7437582.jpg",
+          "description": "Tuxedo",
+          "subclass_id": "305",
+          "class_id": "265",
+          "age_group": "A",
+          "purchase_date": "2013-01-19",
+          "percent_color": 0.78
+        },
+        {
           "sku_key": "55299338",
           "gender": "M",
           "style_id": "3386009",
@@ -120,6 +68,19 @@
           "percent_color": 0.18
         },
         {
+          "sku_key": "55299338",
+          "gender": "M",
+          "style_id": "3386009",
+          "product_url": "http://shop.nordstrom.com/s/boss-orange-rs-design-stripe-socks/3386009",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_7453363.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
+          "age_group": "A",
+          "purchase_date": "2013-01-19",
+          "percent_color": 0.4
+        },
+        {
           "sku_key": "55286671",
           "gender": "M",
           "style_id": "3384890",
@@ -131,6 +92,45 @@
           "age_group": "A",
           "purchase_date": "2013-01-19",
           "percent_color": 0.26
+        },
+        {
+          "sku_key": "54757468",
+          "gender": "M",
+          "style_id": "3345607",
+          "product_url": "http://shop.nordstrom.com/s/converse-jack-purcell-lp-slip-on-sneaker-men/3345607",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_7498672.jpg",
+          "description": "Sneaker",
+          "subclass_id": "353",
+          "class_id": "4",
+          "age_group": "A",
+          "purchase_date": "2013-01-19",
+          "percent_color": 0.55
+        },
+        {
+          "sku_key": "55299333",
+          "gender": "M",
+          "style_id": "3386009",
+          "product_url": "http://shop.nordstrom.com/s/boss-orange-rs-design-stripe-socks/3386009",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_7453363.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
+          "age_group": "A",
+          "purchase_date": "2013-01-19",
+          "percent_color": 0.41
+        },
+        {
+          "sku_key": "48157476",
+          "gender": "M",
+          "style_id": "3130349",
+          "product_url": "http://shop.nordstrom.com/s/timberland-boot-company-wodehouse-lost-history-cap-toe-oxford/3130349",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_7790476.jpg",
+          "description": "Oxfords",
+          "subclass_id": "217",
+          "class_id": "4",
+          "age_group": "A",
+          "purchase_date": "2013-01-19",
+          "percent_color": 0.5
         },
         {
           "sku_key": "53446563",
@@ -169,7 +169,7 @@
           "class_id": "8",
           "age_group": "A",
           "purchase_date": "2013-01-20",
-          "percent_color": 0.62
+          "percent_color": 0.22
         },
         {
           "sku_key": "53445127",
@@ -182,7 +182,7 @@
           "class_id": "8",
           "age_group": "A",
           "purchase_date": "2013-01-20",
-          "percent_color": 0.22
+          "percent_color": 0.62
         },
         {
           "sku_key": "32168071",
@@ -260,7 +260,7 @@
           "class_id": "20",
           "age_group": "A",
           "purchase_date": "2011-12-26",
-          "percent_color": 0.49
+          "percent_color": 0.29
         },
         {
           "sku_key": "52123484",
@@ -273,7 +273,59 @@
           "class_id": "20",
           "age_group": "A",
           "purchase_date": "2011-12-26",
-          "percent_color": 0.29
+          "percent_color": 0.49
+        },
+        {
+          "sku_key": "50736097",
+          "gender": "M",
+          "style_id": "3161727",
+          "product_url": "http://shop.nordstrom.com/s/quiksilver-waterman-collection-blueroom-board-shorts-men/3161727",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_6384699.jpg",
+          "description": "Swimtrunk",
+          "subclass_id": "198",
+          "class_id": "38",
+          "age_group": "A",
+          "purchase_date": "2011-03-22",
+          "percent_color": 0.3
+        },
+        {
+          "sku_key": "50736092",
+          "gender": "M",
+          "style_id": "3161727",
+          "product_url": "http://shop.nordstrom.com/s/quiksilver-waterman-collection-blueroom-board-shorts-men/3161727",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_6384699.jpg",
+          "description": "Swimtrunk",
+          "subclass_id": "198",
+          "class_id": "38",
+          "age_group": "A",
+          "purchase_date": "2011-03-22",
+          "percent_color": 0.85
+        },
+        {
+          "sku_key": "50736092",
+          "gender": "M",
+          "style_id": "3161727",
+          "product_url": "http://shop.nordstrom.com/s/quiksilver-waterman-collection-blueroom-board-shorts-men/3161727",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_6384699.jpg",
+          "description": "Swimtrunk",
+          "subclass_id": "198",
+          "class_id": "38",
+          "age_group": "A",
+          "purchase_date": "2011-03-22",
+          "percent_color": 0.17
+        },
+        {
+          "sku_key": "50736097",
+          "gender": "M",
+          "style_id": "3161727",
+          "product_url": "http://shop.nordstrom.com/s/quiksilver-waterman-collection-blueroom-board-shorts-men/3161727",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_6384699.jpg",
+          "description": "Swimtrunk",
+          "subclass_id": "198",
+          "class_id": "38",
+          "age_group": "A",
+          "purchase_date": "2011-03-22",
+          "percent_color": 0.71
         },
         {
           "sku_key": "56471816",
@@ -367,19 +419,6 @@
           "percent_color": 0.22
         },
         {
-          "sku_key": "52433933",
-          "gender": "M",
-          "style_id": "3213555",
-          "product_url": "http://shop.nordstrom.com/s/under-armour-new-tech-heatgear-t-shirt/3213555",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_7063212.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-06-03",
-          "percent_color": 1.01
-        },
-        {
           "sku_key": "54866228",
           "gender": "M",
           "style_id": "3352796",
@@ -391,58 +430,6 @@
           "age_group": "A",
           "purchase_date": "2013-06-03",
           "percent_color": 1.0
-        },
-        {
-          "sku_key": "54866234",
-          "gender": "M",
-          "style_id": "3352796",
-          "product_url": "http://shop.nordstrom.com/s/under-armour-reflex-heatgear-knit-shorts/3352796",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_8627182.jpg",
-          "description": "Short",
-          "subclass_id": "74",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-06-03",
-          "percent_color": 0.35
-        },
-        {
-          "sku_key": "54866228",
-          "gender": "M",
-          "style_id": "3352796",
-          "product_url": "http://shop.nordstrom.com/s/under-armour-reflex-heatgear-knit-shorts/3352796",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_8627182.jpg",
-          "description": "Short",
-          "subclass_id": "74",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-06-03",
-          "percent_color": 1.0
-        },
-        {
-          "sku_key": "54866234",
-          "gender": "M",
-          "style_id": "3352796",
-          "product_url": "http://shop.nordstrom.com/s/under-armour-reflex-heatgear-knit-shorts/3352796",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_8627182.jpg",
-          "description": "Short",
-          "subclass_id": "74",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-06-03",
-          "percent_color": 0.35
-        },
-        {
-          "sku_key": "54865936",
-          "gender": "M",
-          "style_id": "3352788",
-          "product_url": "http://shop.nordstrom.com/s/under-armour-imminent-run-quarter-zip-pullover/3352788",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_7530504.jpg",
-          "description": "Sweatshirt/Hoody/Zipfront",
-          "subclass_id": "268",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-06-03",
-          "percent_color": 1.01
         },
         {
           "sku_key": "55550184",
@@ -458,17 +445,95 @@
           "percent_color": 0.66
         },
         {
-          "sku_key": "48841547",
+          "sku_key": "52433933",
           "gender": "M",
-          "style_id": "3180348",
-          "product_url": "http://shop.nordstrom.com/s/clarks-goya-way-slip-on-men/3180348",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_6518004.jpg",
-          "description": "Slip on",
-          "subclass_id": "301",
-          "class_id": "4",
+          "style_id": "3213555",
+          "product_url": "http://shop.nordstrom.com/s/under-armour-new-tech-heatgear-t-shirt/3213555",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_7063212.jpg",
+          "description": "T-shirt/Tee",
+          "subclass_id": "205",
+          "class_id": "12",
           "age_group": "A",
-          "purchase_date": "2011-07-22",
-          "percent_color": 0.18
+          "purchase_date": "2013-06-03",
+          "percent_color": 1.01
+        },
+        {
+          "sku_key": "54865936",
+          "gender": "M",
+          "style_id": "3352788",
+          "product_url": "http://shop.nordstrom.com/s/under-armour-imminent-run-quarter-zip-pullover/3352788",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_7530504.jpg",
+          "description": "Sweatshirt/Hoody/Zipfront",
+          "subclass_id": "268",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-06-03",
+          "percent_color": 1.01
+        },
+        {
+          "sku_key": "54866228",
+          "gender": "M",
+          "style_id": "3352796",
+          "product_url": "http://shop.nordstrom.com/s/under-armour-reflex-heatgear-knit-shorts/3352796",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_8627182.jpg",
+          "description": "Short",
+          "subclass_id": "74",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2013-06-03",
+          "percent_color": 1.0
+        },
+        {
+          "sku_key": "54866234",
+          "gender": "M",
+          "style_id": "3352796",
+          "product_url": "http://shop.nordstrom.com/s/under-armour-reflex-heatgear-knit-shorts/3352796",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_8627182.jpg",
+          "description": "Short",
+          "subclass_id": "74",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2013-06-03",
+          "percent_color": 0.35
+        },
+        {
+          "sku_key": "50725768",
+          "gender": "M",
+          "style_id": "3240135",
+          "product_url": "http://shop.nordstrom.com/s/tumi-monaco-gusseted-card-case/3240135",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6665057.jpg",
+          "description": "CardHolders",
+          "subclass_id": "75",
+          "class_id": "16",
+          "age_group": "A",
+          "purchase_date": "2013-06-03",
+          "percent_color": 0.23
+        },
+        {
+          "sku_key": "54866234",
+          "gender": "M",
+          "style_id": "3352796",
+          "product_url": "http://shop.nordstrom.com/s/under-armour-reflex-heatgear-knit-shorts/3352796",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_8627182.jpg",
+          "description": "Short",
+          "subclass_id": "74",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2013-06-03",
+          "percent_color": 0.35
+        },
+        {
+          "sku_key": "50725768",
+          "gender": "M",
+          "style_id": "3240135",
+          "product_url": "http://shop.nordstrom.com/s/tumi-monaco-gusseted-card-case/3240135",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6665057.jpg",
+          "description": "CardHolders",
+          "subclass_id": "75",
+          "class_id": "16",
+          "age_group": "A",
+          "purchase_date": "2013-06-03",
+          "percent_color": 0.41
         },
         {
           "sku_key": "48841547",
@@ -476,12 +541,25 @@
           "style_id": "3180348",
           "product_url": "http://shop.nordstrom.com/s/clarks-goya-way-slip-on-men/3180348",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_6518004.jpg",
-          "description": "Slip on",
+          "description": "Slipon",
           "subclass_id": "301",
           "class_id": "4",
           "age_group": "A",
           "purchase_date": "2011-07-22",
           "percent_color": 0.25
+        },
+        {
+          "sku_key": "48841547",
+          "gender": "M",
+          "style_id": "3180348",
+          "product_url": "http://shop.nordstrom.com/s/clarks-goya-way-slip-on-men/3180348",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_6518004.jpg",
+          "description": "Slipon",
+          "subclass_id": "301",
+          "class_id": "4",
+          "age_group": "A",
+          "purchase_date": "2011-07-22",
+          "percent_color": 0.18
         },
         {
           "sku_key": "56807862",
@@ -497,10 +575,10 @@
           "percent_color": 0.62
         }
       ],
-      "count": 37,
-      "color_per_purchaes": 0.3246,
-      "weighted_count": 18.76,
-      "percent": 32.4561
+      "count": 43,
+      "color_per_purchaes": 0.3468,
+      "weighted_count": 21.430000000000007,
+      "percent": 34.6774
     },
     {
       "name": "Dim Gray",
@@ -605,19 +683,6 @@
           "percent_color": 0.47
         },
         {
-          "sku_key": "55439943",
-          "gender": "M",
-          "style_id": "3395444",
-          "product_url": "http://shop.nordstrom.com/s/w-r-k-gibson-flat-front-shorts/3395444",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_7873005.jpg",
-          "description": "Short",
-          "subclass_id": "74",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-06-17",
-          "percent_color": 0.35
-        },
-        {
           "sku_key": "56471816",
           "gender": "M",
           "style_id": "3474485",
@@ -629,6 +694,19 @@
           "age_group": "A",
           "purchase_date": "2013-06-17",
           "percent_color": 0.54
+        },
+        {
+          "sku_key": "55439943",
+          "gender": "M",
+          "style_id": "3395444",
+          "product_url": "http://shop.nordstrom.com/s/w-r-k-gibson-flat-front-shorts/3395444",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_7873005.jpg",
+          "description": "Short",
+          "subclass_id": "74",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2013-06-17",
+          "percent_color": 0.35
         },
         {
           "sku_key": "54866234",
@@ -670,6 +748,19 @@
           "percent_color": 0.2
         },
         {
+          "sku_key": "50725768",
+          "gender": "M",
+          "style_id": "3240135",
+          "product_url": "http://shop.nordstrom.com/s/tumi-monaco-gusseted-card-case/3240135",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6665057.jpg",
+          "description": "CardHolders",
+          "subclass_id": "75",
+          "class_id": "16",
+          "age_group": "A",
+          "purchase_date": "2013-06-03",
+          "percent_color": 0.2
+        },
+        {
           "sku_key": "56101719",
           "gender": "M",
           "style_id": "3446599",
@@ -696,10 +787,10 @@
           "percent_color": 0.39
         }
       ],
-      "count": 14,
-      "color_per_purchaes": 0.1228,
-      "weighted_count": 5.909999999999999,
-      "percent": 12.2807
+      "count": 15,
+      "color_per_purchaes": 0.121,
+      "weighted_count": 6.109999999999999,
+      "percent": 12.0968
     },
     {
       "name": "Gray",
@@ -739,17 +830,17 @@
           "percent_color": 0.28
         },
         {
-          "sku_key": "55439943",
+          "sku_key": "56471816",
           "gender": "M",
-          "style_id": "3395444",
-          "product_url": "http://shop.nordstrom.com/s/w-r-k-gibson-flat-front-shorts/3395444",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_7873005.jpg",
+          "style_id": "3474485",
+          "product_url": "http://shop.nordstrom.com/s/oneill-delta-shorts/3474485",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7747297.jpg",
           "description": "Short",
           "subclass_id": "74",
           "class_id": "23",
           "age_group": "A",
           "purchase_date": "2013-06-17",
-          "percent_color": 0.17
+          "percent_color": 0.28
         },
         {
           "sku_key": "56471798",
@@ -765,17 +856,17 @@
           "percent_color": 0.22
         },
         {
-          "sku_key": "56471816",
+          "sku_key": "55439943",
           "gender": "M",
-          "style_id": "3474485",
-          "product_url": "http://shop.nordstrom.com/s/oneill-delta-shorts/3474485",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7747297.jpg",
+          "style_id": "3395444",
+          "product_url": "http://shop.nordstrom.com/s/w-r-k-gibson-flat-front-shorts/3395444",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_7873005.jpg",
           "description": "Short",
           "subclass_id": "74",
           "class_id": "23",
           "age_group": "A",
           "purchase_date": "2013-06-17",
-          "percent_color": 0.28
+          "percent_color": 0.17
         },
         {
           "sku_key": "52428073",
@@ -818,9 +909,9 @@
         }
       ],
       "count": 8,
-      "color_per_purchaes": 0.0702,
+      "color_per_purchaes": 0.0645,
       "weighted_count": 1.8699999999999999,
-      "percent": 7.0175
+      "percent": 6.4516
     },
     {
       "name": "Tan",
@@ -834,7 +925,7 @@
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "49745934",
+          "sku_key": "49745933",
           "gender": "M",
           "style_id": "3117056",
           "product_url": "http://shop.nordstrom.com/s/public-opinion-cargo-shorts/3117056",
@@ -847,7 +938,7 @@
           "percent_color": 1.01
         },
         {
-          "sku_key": "49745933",
+          "sku_key": "49745934",
           "gender": "M",
           "style_id": "3117056",
           "product_url": "http://shop.nordstrom.com/s/public-opinion-cargo-shorts/3117056",
@@ -913,9 +1004,9 @@
         }
       ],
       "count": 6,
-      "color_per_purchaes": 0.0526,
+      "color_per_purchaes": 0.0484,
       "weighted_count": 4.44,
-      "percent": 5.2632
+      "percent": 4.8387
     },
     {
       "name": "Lavender",
@@ -1008,9 +1099,9 @@
         }
       ],
       "count": 6,
-      "color_per_purchaes": 0.0526,
+      "color_per_purchaes": 0.0484,
       "weighted_count": 2.05,
-      "percent": 5.2632
+      "percent": 4.8387
     },
     {
       "name": "White Smoke",
@@ -1081,7 +1172,7 @@
           "style_id": "3180348",
           "product_url": "http://shop.nordstrom.com/s/clarks-goya-way-slip-on-men/3180348",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_6518004.jpg",
-          "description": "Slip on",
+          "description": "Slipon",
           "subclass_id": "301",
           "class_id": "4",
           "age_group": "A",
@@ -1090,9 +1181,9 @@
         }
       ],
       "count": 5,
-      "color_per_purchaes": 0.0439,
+      "color_per_purchaes": 0.0403,
       "weighted_count": 2.25,
-      "percent": 4.386
+      "percent": 4.0323
     },
     {
       "name": "NA",
@@ -1157,9 +1248,9 @@
         }
       ],
       "count": 4,
-      "color_per_purchaes": 0.0351,
+      "color_per_purchaes": 0.0323,
       "weighted_count": 0.0,
-      "percent": 3.5088
+      "percent": 3.2258
     },
     {
       "name": "Dark Gray",
@@ -1226,65 +1317,9 @@
         }
       ],
       "count": 4,
-      "color_per_purchaes": 0.0351,
+      "color_per_purchaes": 0.0323,
       "weighted_count": 2.44,
-      "percent": 3.5088
-    },
-    {
-      "name": "Gainsboro",
-      "color_id": "75",
-      "rgb": [
-        220,
-        220,
-        220
-      ],
-      "rgb_string": "rgb(220,220,220)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "53420710",
-          "gender": "M",
-          "style_id": "3265350",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-traditional-fit-dress-shirt/3265350",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_7251568.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2012-12-27",
-          "percent_color": 0.39
-        },
-        {
-          "sku_key": "53598470",
-          "gender": "M",
-          "style_id": "3276206",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-crew-socks-4-pack-men/3276206",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_7074442.jpg",
-          "description": "Socks",
-          "subclass_id": "254",
-          "class_id": "8",
-          "age_group": "A",
-          "purchase_date": "2013-02-08",
-          "percent_color": 0.56
-        },
-        {
-          "sku_key": "48549467",
-          "gender": "M",
-          "style_id": "3103896",
-          "product_url": "http://shop.nordstrom.com/s/david-donahue-regular-fit-dress-shirt/3103896",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6125121.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2011-07-11",
-          "percent_color": 0.73
-        }
-      ],
-      "count": 3,
-      "color_per_purchaes": 0.0263,
-      "weighted_count": 1.6800000000000002,
-      "percent": 2.6316
+      "percent": 3.2258
     },
     {
       "name": "Light Steel Blue",
@@ -1338,9 +1373,9 @@
         }
       ],
       "count": 3,
-      "color_per_purchaes": 0.0263,
+      "color_per_purchaes": 0.0242,
       "weighted_count": 1.48,
-      "percent": 2.6316
+      "percent": 2.4194
     },
     {
       "name": "Maroon",
@@ -1367,6 +1402,19 @@
           "percent_color": 0.19
         },
         {
+          "sku_key": "50638050",
+          "gender": "M",
+          "style_id": "3185531",
+          "product_url": "http://shop.nordstrom.com/s/bosca-leather-money-clip/3185531",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_7478831.jpg",
+          "description": "CardHolders",
+          "subclass_id": "75",
+          "class_id": "16",
+          "age_group": "A",
+          "purchase_date": "2010-12-07",
+          "percent_color": 0.3
+        },
+        {
           "sku_key": "56102599",
           "gender": "M",
           "style_id": "3446658",
@@ -1380,10 +1428,122 @@
           "percent_color": 0.35
         }
       ],
-      "count": 2,
-      "color_per_purchaes": 0.0175,
-      "weighted_count": 0.54,
-      "percent": 1.7544
+      "count": 3,
+      "color_per_purchaes": 0.0242,
+      "weighted_count": 0.84,
+      "percent": 2.4194
+    },
+    {
+      "name": "Gainsboro",
+      "color_id": "75",
+      "rgb": [
+        220,
+        220,
+        220
+      ],
+      "rgb_string": "rgb(220,220,220)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "53420710",
+          "gender": "M",
+          "style_id": "3265350",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-traditional-fit-dress-shirt/3265350",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_7251568.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2012-12-27",
+          "percent_color": 0.39
+        },
+        {
+          "sku_key": "53598470",
+          "gender": "M",
+          "style_id": "3276206",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-crew-socks-4-pack-men/3276206",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_7074442.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
+          "age_group": "A",
+          "purchase_date": "2013-02-08",
+          "percent_color": 0.56
+        },
+        {
+          "sku_key": "48549467",
+          "gender": "M",
+          "style_id": "3103896",
+          "product_url": "http://shop.nordstrom.com/s/david-donahue-regular-fit-dress-shirt/3103896",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6125121.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2011-07-11",
+          "percent_color": 0.73
+        }
+      ],
+      "count": 3,
+      "color_per_purchaes": 0.0242,
+      "weighted_count": 1.6800000000000002,
+      "percent": 2.4194
+    },
+    {
+      "name": "Saddle Brown",
+      "color_id": "149",
+      "rgb": [
+        139,
+        69,
+        19
+      ],
+      "rgb_string": "rgb(139,69,19)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "48157476",
+          "gender": "M",
+          "style_id": "3130349",
+          "product_url": "http://shop.nordstrom.com/s/timberland-boot-company-wodehouse-lost-history-cap-toe-oxford/3130349",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_7790476.jpg",
+          "description": "Oxfords",
+          "subclass_id": "217",
+          "class_id": "4",
+          "age_group": "A",
+          "purchase_date": "2013-01-19",
+          "percent_color": 0.28
+        },
+        {
+          "sku_key": "32168079",
+          "gender": "M",
+          "style_id": "2890243",
+          "product_url": "http://shop.nordstrom.com/s/ecco-new-york-bicycle-toe-oxford/2890243",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_5196155.jpg",
+          "description": "Oxfords",
+          "subclass_id": "217",
+          "class_id": "4",
+          "age_group": "A",
+          "purchase_date": "2010-01-23",
+          "percent_color": 0.15
+        },
+        {
+          "sku_key": "50638050",
+          "gender": "M",
+          "style_id": "3185531",
+          "product_url": "http://shop.nordstrom.com/s/bosca-leather-money-clip/3185531",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_7478831.jpg",
+          "description": "CardHolders",
+          "subclass_id": "75",
+          "class_id": "16",
+          "age_group": "A",
+          "purchase_date": "2010-12-07",
+          "percent_color": 0.65
+        }
+      ],
+      "count": 3,
+      "color_per_purchaes": 0.0242,
+      "weighted_count": 1.08,
+      "percent": 2.4194
     },
     {
       "name": "Dark Slate Blue",
@@ -1424,138 +1584,9 @@
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0175,
+      "color_per_purchaes": 0.0161,
       "weighted_count": 0.64,
-      "percent": 1.7544
-    },
-    {
-      "name": "Olive",
-      "color_id": "129",
-      "rgb": [
-        128,
-        128,
-        0
-      ],
-      "rgb_string": "rgb(128,128,0)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "56058105",
-          "gender": "M",
-          "style_id": "3447227",
-          "product_url": "http://shop.nordstrom.com/s/union-new-duke-cargo-shorts/3447227",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_7669301.jpg",
-          "description": "Short",
-          "subclass_id": "74",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-04-01",
-          "percent_color": 0.35
-        },
-        {
-          "sku_key": "56058105",
-          "gender": "M",
-          "style_id": "3447227",
-          "product_url": "http://shop.nordstrom.com/s/union-new-duke-cargo-shorts/3447227",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_7669301.jpg",
-          "description": "Short",
-          "subclass_id": "74",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-04-18",
-          "percent_color": 0.35
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0175,
-      "weighted_count": 0.7,
-      "percent": 1.7544
-    },
-    {
-      "name": "Saddle Brown",
-      "color_id": "149",
-      "rgb": [
-        139,
-        69,
-        19
-      ],
-      "rgb_string": "rgb(139,69,19)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "48157476",
-          "gender": "M",
-          "style_id": "3130349",
-          "product_url": "http://shop.nordstrom.com/s/timberland-boot-company-wodehouse-lost-history-cap-toe-oxford/3130349",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_7790476.jpg",
-          "description": "Oxfords",
-          "subclass_id": "217",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2013-01-19",
-          "percent_color": 0.28
-        },
-        {
-          "sku_key": "32168079",
-          "gender": "M",
-          "style_id": "2890243",
-          "product_url": "http://shop.nordstrom.com/s/ecco-new-york-bicycle-toe-oxford/2890243",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_5196155.jpg",
-          "description": "Oxfords",
-          "subclass_id": "217",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2010-01-23",
-          "percent_color": 0.15
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0175,
-      "weighted_count": 0.43000000000000005,
-      "percent": 1.7544
-    },
-    {
-      "name": "Dark Khaki",
-      "color_id": "55",
-      "rgb": [
-        189,
-        183,
-        107
-      ],
-      "rgb_string": "rgb(189,183,107)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "56058105",
-          "gender": "M",
-          "style_id": "3447227",
-          "product_url": "http://shop.nordstrom.com/s/union-new-duke-cargo-shorts/3447227",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_7669301.jpg",
-          "description": "Short",
-          "subclass_id": "74",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-04-01",
-          "percent_color": 0.57
-        },
-        {
-          "sku_key": "56058105",
-          "gender": "M",
-          "style_id": "3447227",
-          "product_url": "http://shop.nordstrom.com/s/union-new-duke-cargo-shorts/3447227",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_7669301.jpg",
-          "description": "Short",
-          "subclass_id": "74",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-04-18",
-          "percent_color": 0.57
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0175,
-      "weighted_count": 1.14,
-      "percent": 1.7544
+      "percent": 1.6129
     },
     {
       "name": "Peru",
@@ -1596,9 +1627,125 @@
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0175,
+      "color_per_purchaes": 0.0161,
       "weighted_count": 1.22,
-      "percent": 1.7544
+      "percent": 1.6129
+    },
+    {
+      "name": "Dark Khaki",
+      "color_id": "55",
+      "rgb": [
+        189,
+        183,
+        107
+      ],
+      "rgb_string": "rgb(189,183,107)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "56058105",
+          "gender": "M",
+          "style_id": "3447227",
+          "product_url": "http://shop.nordstrom.com/s/union-new-duke-cargo-shorts/3447227",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_7669301.jpg",
+          "description": "Short",
+          "subclass_id": "74",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2013-04-01",
+          "percent_color": 0.57
+        },
+        {
+          "sku_key": "56058105",
+          "gender": "M",
+          "style_id": "3447227",
+          "product_url": "http://shop.nordstrom.com/s/union-new-duke-cargo-shorts/3447227",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_7669301.jpg",
+          "description": "Short",
+          "subclass_id": "74",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2013-04-18",
+          "percent_color": 0.57
+        }
+      ],
+      "count": 2,
+      "color_per_purchaes": 0.0161,
+      "weighted_count": 1.14,
+      "percent": 1.6129
+    },
+    {
+      "name": "Olive",
+      "color_id": "129",
+      "rgb": [
+        128,
+        128,
+        0
+      ],
+      "rgb_string": "rgb(128,128,0)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "56058105",
+          "gender": "M",
+          "style_id": "3447227",
+          "product_url": "http://shop.nordstrom.com/s/union-new-duke-cargo-shorts/3447227",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_7669301.jpg",
+          "description": "Short",
+          "subclass_id": "74",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2013-04-01",
+          "percent_color": 0.35
+        },
+        {
+          "sku_key": "56058105",
+          "gender": "M",
+          "style_id": "3447227",
+          "product_url": "http://shop.nordstrom.com/s/union-new-duke-cargo-shorts/3447227",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_7669301.jpg",
+          "description": "Short",
+          "subclass_id": "74",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2013-04-18",
+          "percent_color": 0.35
+        }
+      ],
+      "count": 2,
+      "color_per_purchaes": 0.0161,
+      "weighted_count": 0.7,
+      "percent": 1.6129
+    },
+    {
+      "name": "Ghost White",
+      "color_id": "76",
+      "rgb": [
+        248,
+        248,
+        255
+      ],
+      "rgb_string": "rgb(248,248,255)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "52867903",
+          "gender": "M",
+          "style_id": "3236316",
+          "product_url": "http://shop.nordstrom.com/s/quiksilver-waterman-betta-boom-hybrid-swim-shorts/3236316",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_6979022.jpg",
+          "description": "Swimtrunk",
+          "subclass_id": "198",
+          "class_id": "38",
+          "age_group": "A",
+          "purchase_date": "2012-03-09",
+          "percent_color": 0.59
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0081,
+      "weighted_count": 0.59,
+      "percent": 0.8065
     },
     {
       "name": "Seashell",
@@ -1626,9 +1773,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0088,
+      "color_per_purchaes": 0.0081,
       "weighted_count": 0.16,
-      "percent": 0.8772
+      "percent": 0.8065
     },
     {
       "name": "Dark Slate Gray",
@@ -1656,9 +1803,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0088,
+      "color_per_purchaes": 0.0081,
       "weighted_count": 1.0,
-      "percent": 0.8772
+      "percent": 0.8065
     },
     {
       "name": "Lavender Blush",
@@ -1686,39 +1833,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0088,
+      "color_per_purchaes": 0.0081,
       "weighted_count": 0.19,
-      "percent": 0.8772
-    },
-    {
-      "name": "Chocolate",
-      "color_id": "44",
-      "rgb": [
-        210,
-        105,
-        30
-      ],
-      "rgb_string": "rgb(210,105,30)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "56058122",
-          "gender": "M",
-          "style_id": "3447227",
-          "product_url": "http://shop.nordstrom.com/s/union-new-duke-cargo-shorts/3447227",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_7669301.jpg",
-          "description": "Short",
-          "subclass_id": "74",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-06-11",
-          "percent_color": 0.46
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0088,
-      "weighted_count": 0.46,
-      "percent": 0.8772
+      "percent": 0.8065
     },
     {
       "name": "Sienna",
@@ -1746,9 +1863,39 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0088,
+      "color_per_purchaes": 0.0081,
       "weighted_count": 0.31,
-      "percent": 0.8772
+      "percent": 0.8065
+    },
+    {
+      "name": "Chocolate",
+      "color_id": "44",
+      "rgb": [
+        210,
+        105,
+        30
+      ],
+      "rgb_string": "rgb(210,105,30)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "56058122",
+          "gender": "M",
+          "style_id": "3447227",
+          "product_url": "http://shop.nordstrom.com/s/union-new-duke-cargo-shorts/3447227",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_7669301.jpg",
+          "description": "Short",
+          "subclass_id": "74",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2013-06-11",
+          "percent_color": 0.46
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0081,
+      "weighted_count": 0.46,
+      "percent": 0.8065
     },
     {
       "name": "Midnight Blue",
@@ -1776,9 +1923,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0088,
+      "color_per_purchaes": 0.0081,
       "weighted_count": 0.38,
-      "percent": 0.8772
+      "percent": 0.8065
     },
     {
       "name": "Light Gray",
@@ -1806,9 +1953,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0088,
+      "color_per_purchaes": 0.0081,
       "weighted_count": 0.36,
-      "percent": 0.8772
+      "percent": 0.8065
     },
     {
       "name": "Antique White",
@@ -1836,9 +1983,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0088,
+      "color_per_purchaes": 0.0081,
       "weighted_count": 0.84,
-      "percent": 0.8772
+      "percent": 0.8065
     },
     {
       "name": "Dodger Blue",
@@ -1866,39 +2013,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0088,
+      "color_per_purchaes": 0.0081,
       "weighted_count": 0.17,
-      "percent": 0.8772
-    },
-    {
-      "name": "Steel Blue",
-      "color_id": "161",
-      "rgb": [
-        70,
-        130,
-        180
-      ],
-      "rgb_string": "rgb(70,130,180)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "55341799",
-          "gender": "M",
-          "style_id": "3213555",
-          "product_url": "http://shop.nordstrom.com/s/under-armour-new-tech-heatgear-t-shirt/3213555",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_7063212.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-06-03",
-          "percent_color": 0.16
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0088,
-      "weighted_count": 0.16,
-      "percent": 0.8772
+      "percent": 0.8065
     },
     {
       "name": "Cornflower",
@@ -1926,9 +2043,39 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0088,
+      "color_per_purchaes": 0.0081,
       "weighted_count": 0.68,
-      "percent": 0.8772
+      "percent": 0.8065
+    },
+    {
+      "name": "Steel Blue",
+      "color_id": "161",
+      "rgb": [
+        70,
+        130,
+        180
+      ],
+      "rgb_string": "rgb(70,130,180)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "55341799",
+          "gender": "M",
+          "style_id": "3213555",
+          "product_url": "http://shop.nordstrom.com/s/under-armour-new-tech-heatgear-t-shirt/3213555",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_7063212.jpg",
+          "description": "T-shirt/Tee",
+          "subclass_id": "205",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-06-03",
+          "percent_color": 0.16
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0081,
+      "weighted_count": 0.16,
+      "percent": 0.8065
     },
     {
       "name": "Brown",
@@ -1956,13 +2103,13 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0088,
+      "color_per_purchaes": 0.0081,
       "weighted_count": 0.67,
-      "percent": 0.8772
+      "percent": 0.8065
     }
   ],
   "start_date": "2010-01-23",
   "end_date": "2013-09-05",
-  "total_purchases": 114,
-  "total_colors": 28
+  "total_purchases": 124,
+  "total_colors": 29
 }

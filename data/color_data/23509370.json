@@ -5,75 +5,6 @@
   "gender": "M",
   "colors": [
     {
-      "name": "White Smoke",
-      "color_id": "170",
-      "rgb": [
-        245,
-        245,
-        245
-      ],
-      "rgb_string": "rgb(245,245,245)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "51136867",
-          "gender": "M",
-          "style_id": "3160613",
-          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-non-iron-dress-shirt/3160613",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_8088706.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2012-10-10",
-          "percent_color": 1.01
-        },
-        {
-          "sku_key": "54854641",
-          "gender": "M",
-          "style_id": "3352012",
-          "product_url": "http://shop.nordstrom.com/s/english-laundry-trim-fit-dress-shirt/3352012",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_7332765.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2012-10-10",
-          "percent_color": 1.0
-        },
-        {
-          "sku_key": "51136861",
-          "gender": "M",
-          "style_id": "3160613",
-          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-non-iron-dress-shirt/3160613",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_8088706.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2012-10-10",
-          "percent_color": 1.01
-        },
-        {
-          "sku_key": "51136867",
-          "gender": "M",
-          "style_id": "3160613",
-          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-non-iron-dress-shirt/3160613",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_8088706.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-02-24",
-          "percent_color": 1.01
-        }
-      ],
-      "count": 4,
-      "color_per_purchaes": 0.3077,
-      "weighted_count": 4.029999999999999,
-      "percent": 30.7692
-    },
-    {
       "name": "Black",
       "color_id": "173",
       "rgb": [
@@ -143,34 +74,73 @@
       "percent": 30.7692
     },
     {
-      "name": "Gainsboro",
-      "color_id": "75",
+      "name": "White Smoke",
+      "color_id": "170",
       "rgb": [
-        220,
-        220,
-        220
+        245,
+        245,
+        245
       ],
-      "rgb_string": "rgb(220,220,220)",
+      "rgb_string": "rgb(245,245,245)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "51135158",
+          "sku_key": "51136867",
           "gender": "M",
-          "style_id": "3160737",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-herringbone-trim-fit-dress-shirt/3160737",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_6467978.jpg",
+          "style_id": "3160613",
+          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-non-iron-dress-shirt/3160613",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_8088706.jpg",
           "description": "Dress-shirt",
           "subclass_id": "52",
           "class_id": "12",
           "age_group": "A",
           "purchase_date": "2012-10-10",
-          "percent_color": 0.96
+          "percent_color": 1.01
+        },
+        {
+          "sku_key": "54854641",
+          "gender": "M",
+          "style_id": "3352012",
+          "product_url": "http://shop.nordstrom.com/s/english-laundry-trim-fit-dress-shirt/3352012",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_7332765.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2012-10-10",
+          "percent_color": 1.0
+        },
+        {
+          "sku_key": "51136861",
+          "gender": "M",
+          "style_id": "3160613",
+          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-non-iron-dress-shirt/3160613",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_8088706.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2012-10-10",
+          "percent_color": 1.01
+        },
+        {
+          "sku_key": "51136867",
+          "gender": "M",
+          "style_id": "3160613",
+          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-non-iron-dress-shirt/3160613",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_8088706.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-02-24",
+          "percent_color": 1.01
         }
       ],
-      "count": 1,
-      "color_per_purchaes": 0.0769,
-      "weighted_count": 0.96,
-      "percent": 7.6923
+      "count": 4,
+      "color_per_purchaes": 0.3077,
+      "weighted_count": 4.029999999999999,
+      "percent": 30.7692
     },
     {
       "name": "Ghost White",
@@ -203,33 +173,33 @@
       "percent": 7.6923
     },
     {
-      "name": "Lavender",
-      "color_id": "90",
+      "name": "Gainsboro",
+      "color_id": "75",
       "rgb": [
-        230,
-        230,
-        250
+        220,
+        220,
+        220
       ],
-      "rgb_string": "rgb(230,230,250)",
+      "rgb_string": "rgb(220,220,220)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "52280807",
+          "sku_key": "51135158",
           "gender": "M",
-          "style_id": "3235400",
-          "product_url": "http://shop.nordstrom.com/s/david-donahue-regular-fit-dress-shirt/3235400",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_6653249.jpg",
+          "style_id": "3160737",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-herringbone-trim-fit-dress-shirt/3160737",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_6467978.jpg",
           "description": "Dress-shirt",
           "subclass_id": "52",
           "class_id": "12",
           "age_group": "A",
-          "purchase_date": "2012-02-22",
-          "percent_color": 0.2
+          "purchase_date": "2012-10-10",
+          "percent_color": 0.96
         }
       ],
       "count": 1,
       "color_per_purchaes": 0.0769,
-      "weighted_count": 0.2,
+      "weighted_count": 0.96,
       "percent": 7.6923
     },
     {
@@ -260,6 +230,36 @@
       "count": 1,
       "color_per_purchaes": 0.0769,
       "weighted_count": 0.38,
+      "percent": 7.6923
+    },
+    {
+      "name": "Lavender",
+      "color_id": "90",
+      "rgb": [
+        230,
+        230,
+        250
+      ],
+      "rgb_string": "rgb(230,230,250)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "52280807",
+          "gender": "M",
+          "style_id": "3235400",
+          "product_url": "http://shop.nordstrom.com/s/david-donahue-regular-fit-dress-shirt/3235400",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_6653249.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2012-02-22",
+          "percent_color": 0.2
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0769,
+      "weighted_count": 0.2,
       "percent": 7.6923
     },
     {

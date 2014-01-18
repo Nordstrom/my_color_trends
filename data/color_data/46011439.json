@@ -34,25 +34,12 @@
           "style_id": "3534348",
           "product_url": "http://shop.nordstrom.com/s/boss-hugo-boss-james-sharp-trim-fit-wool-suit/3534348",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_8172031.jpg",
-          "description": "2 Piece Sets",
+          "description": "2PieceSets",
           "subclass_id": "266",
           "class_id": "265",
           "age_group": "A",
           "purchase_date": "2014-01-12",
           "percent_color": 0.54
-        },
-        {
-          "sku_key": "57264694",
-          "gender": "M",
-          "style_id": "3533241",
-          "product_url": "http://shop.nordstrom.com/s/boss-hugo-boss-sharp-flat-front-trousers/3533241",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_8106340.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2014-01-12",
-          "percent_color": 0.5
         },
         {
           "sku_key": "58329936",
@@ -66,6 +53,19 @@
           "age_group": "A",
           "purchase_date": "2014-01-12",
           "percent_color": 1.01
+        },
+        {
+          "sku_key": "57264694",
+          "gender": "M",
+          "style_id": "3533241",
+          "product_url": "http://shop.nordstrom.com/s/boss-hugo-boss-sharp-flat-front-trousers/3533241",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_8106340.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2014-01-12",
+          "percent_color": 0.5
         },
         {
           "sku_key": "58329985",
@@ -237,19 +237,6 @@
           "percent_color": 0.84
         },
         {
-          "sku_key": "52407009",
-          "gender": "M",
-          "style_id": "3176797",
-          "product_url": "http://shop.nordstrom.com/s/john-w-nordstrom-flat-front-wool-blend-pants/3176797",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6604277.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2012-01-23",
-          "percent_color": 1.01
-        },
-        {
           "sku_key": "27144374",
           "gender": "M",
           "style_id": "3146804",
@@ -274,6 +261,19 @@
           "age_group": "A",
           "purchase_date": "2012-01-23",
           "percent_color": 0.56
+        },
+        {
+          "sku_key": "52407009",
+          "gender": "M",
+          "style_id": "3176797",
+          "product_url": "http://shop.nordstrom.com/s/john-w-nordstrom-flat-front-wool-blend-pants/3176797",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6604277.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2012-01-23",
+          "percent_color": 1.01
         },
         {
           "sku_key": "52190944",
@@ -406,11 +406,11 @@
           "percent_color": 1.01
         },
         {
-          "sku_key": "50307043",
+          "sku_key": "50306919",
           "gender": "M",
-          "style_id": "3143491",
-          "product_url": "http://shop.nordstrom.com/s/louis-raphael-flat-front-merino-wool-trousers/3143491",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6298117.jpg",
+          "style_id": "3143496",
+          "product_url": "http://shop.nordstrom.com/s/louis-raphael-pleated-merino-wool-trousers/3143496",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_6298145.jpg",
           "description": "Pant",
           "subclass_id": "63",
           "class_id": "23",
@@ -419,11 +419,11 @@
           "percent_color": 1.01
         },
         {
-          "sku_key": "50306919",
+          "sku_key": "50307043",
           "gender": "M",
-          "style_id": "3143496",
-          "product_url": "http://shop.nordstrom.com/s/louis-raphael-pleated-merino-wool-trousers/3143496",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_6298145.jpg",
+          "style_id": "3143491",
+          "product_url": "http://shop.nordstrom.com/s/louis-raphael-flat-front-merino-wool-trousers/3143491",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6298117.jpg",
           "description": "Pant",
           "subclass_id": "63",
           "class_id": "23",
@@ -445,19 +445,6 @@
           "percent_color": 1.01
         },
         {
-          "sku_key": "50307043",
-          "gender": "M",
-          "style_id": "3143491",
-          "product_url": "http://shop.nordstrom.com/s/louis-raphael-flat-front-merino-wool-trousers/3143491",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6298117.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2010-12-23",
-          "percent_color": 1.01
-        },
-        {
           "sku_key": "50306919",
           "gender": "M",
           "style_id": "3143496",
@@ -471,43 +458,30 @@
           "percent_color": 1.01
         },
         {
+          "sku_key": "50307043",
+          "gender": "M",
+          "style_id": "3143491",
+          "product_url": "http://shop.nordstrom.com/s/louis-raphael-flat-front-merino-wool-trousers/3143491",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6298117.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2010-12-23",
+          "percent_color": 1.01
+        },
+        {
           "sku_key": "57274146",
           "gender": "M",
           "style_id": "3534348",
           "product_url": "http://shop.nordstrom.com/s/boss-hugo-boss-james-sharp-trim-fit-wool-suit/3534348",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_8172031.jpg",
-          "description": "2 Piece Sets",
+          "description": "2PieceSets",
           "subclass_id": "266",
           "class_id": "265",
           "age_group": "A",
           "purchase_date": "2013-12-24",
           "percent_color": 0.54
-        },
-        {
-          "sku_key": "58060383",
-          "gender": "M",
-          "style_id": "3593292",
-          "product_url": "http://shop.nordstrom.com/s/boss-hugo-boss-sharp-flat-front-trousers/3593292",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_8508071.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-12-24",
-          "percent_color": 0.94
-        },
-        {
-          "sku_key": "57264694",
-          "gender": "M",
-          "style_id": "3533241",
-          "product_url": "http://shop.nordstrom.com/s/boss-hugo-boss-sharp-flat-front-trousers/3533241",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_8106340.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-12-24",
-          "percent_color": 0.5
         },
         {
           "sku_key": "58329936",
@@ -523,6 +497,32 @@
           "percent_color": 1.01
         },
         {
+          "sku_key": "57264694",
+          "gender": "M",
+          "style_id": "3533241",
+          "product_url": "http://shop.nordstrom.com/s/boss-hugo-boss-sharp-flat-front-trousers/3533241",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_8106340.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2013-12-24",
+          "percent_color": 0.5
+        },
+        {
+          "sku_key": "58060383",
+          "gender": "M",
+          "style_id": "3593292",
+          "product_url": "http://shop.nordstrom.com/s/boss-hugo-boss-sharp-flat-front-trousers/3593292",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_8508071.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2013-12-24",
+          "percent_color": 0.94
+        },
+        {
           "sku_key": "49746105",
           "gender": "M",
           "style_id": "3064161",
@@ -534,19 +534,6 @@
           "age_group": "A",
           "purchase_date": "2011-12-26",
           "percent_color": 0.96
-        },
-        {
-          "sku_key": "42803001",
-          "gender": "M",
-          "style_id": "2938809",
-          "product_url": "http://shop.nordstrom.com/s/public-opinion-crewneck-cashmere-sweater/2938809",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_5739488.jpg",
-          "description": "Sweater",
-          "subclass_id": "194",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2008-12-27",
-          "percent_color": 0.8
         },
         {
           "sku_key": "39065341",
@@ -573,6 +560,19 @@
           "age_group": "A",
           "purchase_date": "2008-12-27",
           "percent_color": 0.82
+        },
+        {
+          "sku_key": "42803001",
+          "gender": "M",
+          "style_id": "2938809",
+          "product_url": "http://shop.nordstrom.com/s/public-opinion-crewneck-cashmere-sweater/2938809",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_5739488.jpg",
+          "description": "Sweater",
+          "subclass_id": "194",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2008-12-27",
+          "percent_color": 0.8
         },
         {
           "sku_key": "46686677",
@@ -627,19 +627,6 @@
           "percent_color": 0.96
         },
         {
-          "sku_key": "50307020",
-          "gender": "M",
-          "style_id": "3143491",
-          "product_url": "http://shop.nordstrom.com/s/louis-raphael-flat-front-merino-wool-trousers/3143491",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6298117.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2010-12-05",
-          "percent_color": 1.01
-        },
-        {
           "sku_key": "50306969",
           "gender": "M",
           "style_id": "3143496",
@@ -651,6 +638,19 @@
           "age_group": "A",
           "purchase_date": "2010-12-05",
           "percent_color": 0.96
+        },
+        {
+          "sku_key": "50307020",
+          "gender": "M",
+          "style_id": "3143491",
+          "product_url": "http://shop.nordstrom.com/s/louis-raphael-flat-front-merino-wool-trousers/3143491",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6298117.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2010-12-05",
+          "percent_color": 1.01
         },
         {
           "sku_key": "48343911",
@@ -718,19 +718,6 @@
           "percent_color": 1.01
         },
         {
-          "sku_key": "54780738",
-          "gender": "M",
-          "style_id": "3347000",
-          "product_url": "http://shop.nordstrom.com/s/john-varvatos-star-usa-kern-trim-fit-corduroy-blazer/3347000",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_7407965.jpg",
-          "description": "Sportcoat",
-          "subclass_id": "344",
-          "class_id": "272",
-          "age_group": "A",
-          "purchase_date": "2013-02-09",
-          "percent_color": 1.01
-        },
-        {
           "sku_key": "54867542",
           "gender": "M",
           "style_id": "3352877",
@@ -755,6 +742,19 @@
           "age_group": "A",
           "purchase_date": "2013-02-09",
           "percent_color": 0.59
+        },
+        {
+          "sku_key": "54780738",
+          "gender": "M",
+          "style_id": "3347000",
+          "product_url": "http://shop.nordstrom.com/s/john-varvatos-star-usa-kern-trim-fit-corduroy-blazer/3347000",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_7407965.jpg",
+          "description": "Sportcoat",
+          "subclass_id": "344",
+          "class_id": "272",
+          "age_group": "A",
+          "purchase_date": "2013-02-09",
+          "percent_color": 1.01
         },
         {
           "sku_key": "54024771",
@@ -814,7 +814,7 @@
           "style_id": "2994359",
           "product_url": "http://shop.nordstrom.com/s/boss-hugo-boss-pasolini-movie-wool-suit/2994359",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7992837.jpg",
-          "description": "Tailored Suit",
+          "description": "TailoredSuit",
           "subclass_id": "304",
           "class_id": "265",
           "age_group": "A",
@@ -905,7 +905,7 @@
           "style_id": "3127620",
           "product_url": "http://shop.nordstrom.com/s/cole-haan-zeno-slip-on/3127620",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6220013.jpg",
-          "description": "Slip on",
+          "description": "Slipon",
           "subclass_id": "301",
           "class_id": "4",
           "age_group": "A",
@@ -939,19 +939,6 @@
           "percent_color": 0.84
         },
         {
-          "sku_key": "52656213",
-          "gender": "M",
-          "style_id": "3224683",
-          "product_url": "http://shop.nordstrom.com/s/rag-bone-straight-leg-jeans-blue-resin-wash/3224683",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6607694.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-07-13",
-          "percent_color": 0.99
-        },
-        {
           "sku_key": "53588241",
           "gender": "M",
           "style_id": "3275263",
@@ -963,6 +950,19 @@
           "age_group": "A",
           "purchase_date": "2013-07-13",
           "percent_color": 0.97
+        },
+        {
+          "sku_key": "52656213",
+          "gender": "M",
+          "style_id": "3224683",
+          "product_url": "http://shop.nordstrom.com/s/rag-bone-straight-leg-jeans-blue-resin-wash/3224683",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6607694.jpg",
+          "description": "Pant",
+          "subclass_id": "63",
+          "class_id": "23",
+          "age_group": "A",
+          "purchase_date": "2013-07-13",
+          "percent_color": 0.99
         },
         {
           "sku_key": "52656214",
@@ -983,7 +983,7 @@
           "style_id": "2994359",
           "product_url": "http://shop.nordstrom.com/s/boss-hugo-boss-pasolini-movie-wool-suit/2994359",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7992837.jpg",
-          "description": "Tailored Suit",
+          "description": "TailoredSuit",
           "subclass_id": "304",
           "class_id": "265",
           "age_group": "A",
@@ -1009,7 +1009,7 @@
           "style_id": "3127620",
           "product_url": "http://shop.nordstrom.com/s/cole-haan-zeno-slip-on/3127620",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6220013.jpg",
-          "description": "Slip on",
+          "description": "Slipon",
           "subclass_id": "301",
           "class_id": "4",
           "age_group": "A",
@@ -1035,7 +1035,7 @@
           "style_id": "3494822",
           "product_url": "http://shop.nordstrom.com/s/boss-black-james-sharp-trim-fit-suit/3494822",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_8062497.jpg",
-          "description": "2 Piece Sets",
+          "description": "2PieceSets",
           "subclass_id": "266",
           "class_id": "265",
           "age_group": "A",
@@ -1074,7 +1074,7 @@
           "style_id": "3253780",
           "product_url": "http://shop.nordstrom.com/s/boss-black-james-sharp-trim-fit-mohair-suit/3253780",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6942174.jpg",
-          "description": "2 Piece Sets",
+          "description": "2PieceSets",
           "subclass_id": "266",
           "class_id": "265",
           "age_group": "A",
@@ -1113,7 +1113,7 @@
           "style_id": "3494822",
           "product_url": "http://shop.nordstrom.com/s/boss-black-james-sharp-trim-fit-suit/3494822",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_8062497.jpg",
-          "description": "2 Piece Sets",
+          "description": "2PieceSets",
           "subclass_id": "266",
           "class_id": "265",
           "age_group": "A",
@@ -1126,7 +1126,7 @@
           "style_id": "3494822",
           "product_url": "http://shop.nordstrom.com/s/boss-black-james-sharp-trim-fit-suit/3494822",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_8062497.jpg",
-          "description": "2 Piece Sets",
+          "description": "2PieceSets",
           "subclass_id": "266",
           "class_id": "265",
           "age_group": "A",
@@ -1175,7 +1175,7 @@
       ],
       "count": 89,
       "color_per_purchaes": 0.319,
-      "weighted_count": 71.34000000000003,
+      "weighted_count": 71.34000000000002,
       "percent": 31.8996
     },
     {
@@ -1216,19 +1216,6 @@
           "percent_color": 0.4
         },
         {
-          "sku_key": "53419983",
-          "gender": "M",
-          "style_id": "3265347",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-trim-fit-dress-shirt/3265347",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_7154240.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-01-07",
-          "percent_color": 0.4
-        },
-        {
           "sku_key": "53301101",
           "gender": "M",
           "style_id": "3257320",
@@ -1240,6 +1227,19 @@
           "age_group": "A",
           "purchase_date": "2013-01-07",
           "percent_color": 0.27
+        },
+        {
+          "sku_key": "53419983",
+          "gender": "M",
+          "style_id": "3265347",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-trim-fit-dress-shirt/3265347",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_7154240.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-01-07",
+          "percent_color": 0.4
         },
         {
           "sku_key": "47227541",
@@ -1307,17 +1307,17 @@
           "percent_color": 0.99
         },
         {
-          "sku_key": "55267072",
+          "sku_key": "52730249",
           "gender": "M",
-          "style_id": "3383528",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-solid-pinpoint-cotton-trim-fit-dress-shirt/3383528",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7832777.jpg",
+          "style_id": "3228719",
+          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-non-iron-dress-shirt/3228719",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_6908566.jpg",
           "description": "Dress-shirt",
           "subclass_id": "52",
           "class_id": "12",
           "age_group": "A",
           "purchase_date": "2013-05-07",
-          "percent_color": 0.99
+          "percent_color": 0.47
         },
         {
           "sku_key": "54669000",
@@ -1333,19 +1333,6 @@
           "percent_color": 0.45
         },
         {
-          "sku_key": "52730249",
-          "gender": "M",
-          "style_id": "3228719",
-          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-non-iron-dress-shirt/3228719",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_6908566.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-05-07",
-          "percent_color": 0.47
-        },
-        {
           "sku_key": "55365223",
           "gender": "M",
           "style_id": "3391725",
@@ -1357,6 +1344,19 @@
           "age_group": "A",
           "purchase_date": "2013-05-07",
           "percent_color": 0.18
+        },
+        {
+          "sku_key": "55267072",
+          "gender": "M",
+          "style_id": "3383528",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-solid-pinpoint-cotton-trim-fit-dress-shirt/3383528",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7832777.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-05-07",
+          "percent_color": 0.99
         },
         {
           "sku_key": "52730624",
@@ -1597,19 +1597,6 @@
           "percent_color": 0.23
         },
         {
-          "sku_key": "57274146",
-          "gender": "M",
-          "style_id": "3534348",
-          "product_url": "http://shop.nordstrom.com/s/boss-hugo-boss-james-sharp-trim-fit-wool-suit/3534348",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_8172031.jpg",
-          "description": "2 Piece Sets",
-          "subclass_id": "266",
-          "class_id": "265",
-          "age_group": "A",
-          "purchase_date": "2014-01-12",
-          "percent_color": 0.47
-        },
-        {
           "sku_key": "57264694",
           "gender": "M",
           "style_id": "3533241",
@@ -1621,6 +1608,19 @@
           "age_group": "A",
           "purchase_date": "2014-01-12",
           "percent_color": 0.39
+        },
+        {
+          "sku_key": "57274146",
+          "gender": "M",
+          "style_id": "3534348",
+          "product_url": "http://shop.nordstrom.com/s/boss-hugo-boss-james-sharp-trim-fit-wool-suit/3534348",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_8172031.jpg",
+          "description": "2PieceSets",
+          "subclass_id": "266",
+          "class_id": "265",
+          "age_group": "A",
+          "purchase_date": "2014-01-12",
+          "percent_color": 0.47
         },
         {
           "sku_key": "53963539",
@@ -1732,7 +1732,7 @@
           "style_id": "3534348",
           "product_url": "http://shop.nordstrom.com/s/boss-hugo-boss-james-sharp-trim-fit-wool-suit/3534348",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_8172031.jpg",
-          "description": "2 Piece Sets",
+          "description": "2PieceSets",
           "subclass_id": "266",
           "class_id": "265",
           "age_group": "A",
@@ -1875,7 +1875,7 @@
           "style_id": "3253780",
           "product_url": "http://shop.nordstrom.com/s/boss-black-james-sharp-trim-fit-mohair-suit/3253780",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6942174.jpg",
-          "description": "2 Piece Sets",
+          "description": "2PieceSets",
           "subclass_id": "266",
           "class_id": "265",
           "age_group": "A",
@@ -1939,19 +1939,6 @@
           "percent_color": 0.2
         },
         {
-          "sku_key": "53634231",
-          "gender": "M",
-          "style_id": "3278586",
-          "product_url": "http://shop.nordstrom.com/s/tommy-hilfiger-sport-multifunction-leather-strap-watch/3278586",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6827583.jpg",
-          "description": "Watch",
-          "subclass_id": "245",
-          "class_id": "6",
-          "age_group": "A",
-          "purchase_date": "2013-01-18",
-          "percent_color": 0.24
-        },
-        {
           "sku_key": "54714648",
           "gender": "M",
           "style_id": "3343664",
@@ -1963,6 +1950,19 @@
           "age_group": "A",
           "purchase_date": "2013-01-18",
           "percent_color": 0.39
+        },
+        {
+          "sku_key": "53634231",
+          "gender": "M",
+          "style_id": "3278586",
+          "product_url": "http://shop.nordstrom.com/s/tommy-hilfiger-sport-multifunction-leather-strap-watch/3278586",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6827583.jpg",
+          "description": "Watch",
+          "subclass_id": "245",
+          "class_id": "6",
+          "age_group": "A",
+          "purchase_date": "2013-01-18",
+          "percent_color": 0.24
         },
         {
           "sku_key": "53872316",
@@ -1978,19 +1978,6 @@
           "percent_color": 0.2
         },
         {
-          "sku_key": "54714648",
-          "gender": "M",
-          "style_id": "3343664",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-trim-fit-non-iron-dress-shirt-online-exclusive/3343664",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_7563365.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2012-12-27",
-          "percent_color": 0.39
-        },
-        {
           "sku_key": "53926291",
           "gender": "M",
           "style_id": "3293291",
@@ -2004,17 +1991,17 @@
           "percent_color": 0.43
         },
         {
-          "sku_key": "53634231",
+          "sku_key": "54714648",
           "gender": "M",
-          "style_id": "3278586",
-          "product_url": "http://shop.nordstrom.com/s/tommy-hilfiger-sport-multifunction-leather-strap-watch/3278586",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6827583.jpg",
-          "description": "Watch",
-          "subclass_id": "245",
-          "class_id": "6",
+          "style_id": "3343664",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-trim-fit-non-iron-dress-shirt-online-exclusive/3343664",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_7563365.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
           "age_group": "A",
           "purchase_date": "2012-12-27",
-          "percent_color": 0.24
+          "percent_color": 0.39
         },
         {
           "sku_key": "53495692",
@@ -2028,6 +2015,19 @@
           "age_group": "A",
           "purchase_date": "2012-12-27",
           "percent_color": 0.41
+        },
+        {
+          "sku_key": "53634231",
+          "gender": "M",
+          "style_id": "3278586",
+          "product_url": "http://shop.nordstrom.com/s/tommy-hilfiger-sport-multifunction-leather-strap-watch/3278586",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6827583.jpg",
+          "description": "Watch",
+          "subclass_id": "245",
+          "class_id": "6",
+          "age_group": "A",
+          "purchase_date": "2012-12-27",
+          "percent_color": 0.24
         },
         {
           "sku_key": "46270250",
@@ -2074,7 +2074,7 @@
           "style_id": "3127620",
           "product_url": "http://shop.nordstrom.com/s/cole-haan-zeno-slip-on/3127620",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6220013.jpg",
-          "description": "Slip on",
+          "description": "Slipon",
           "subclass_id": "301",
           "class_id": "4",
           "age_group": "A",
@@ -2087,7 +2087,7 @@
           "style_id": "3127620",
           "product_url": "http://shop.nordstrom.com/s/cole-haan-zeno-slip-on/3127620",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6220013.jpg",
-          "description": "Slip on",
+          "description": "Slipon",
           "subclass_id": "301",
           "class_id": "4",
           "age_group": "A",
@@ -2151,19 +2151,6 @@
           "percent_color": 0.2
         },
         {
-          "sku_key": "51738283",
-          "gender": "M",
-          "style_id": "3181968",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-trim-fit-dress-shirt/3181968",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_6567631.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2011-12-26",
-          "percent_color": 0.2
-        },
-        {
           "sku_key": "49670164",
           "gender": "M",
           "style_id": "3114734",
@@ -2175,6 +2162,19 @@
           "age_group": "A",
           "purchase_date": "2011-12-26",
           "percent_color": 0.27
+        },
+        {
+          "sku_key": "51738283",
+          "gender": "M",
+          "style_id": "3181968",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-trim-fit-dress-shirt/3181968",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_6567631.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2011-12-26",
+          "percent_color": 0.2
         },
         {
           "sku_key": "53926291",
@@ -2342,7 +2342,7 @@
           "style_id": "3414155",
           "product_url": "http://shop.nordstrom.com/s/michael-kors-trim-fit-wool-suit/3414155",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_7744579.jpg",
-          "description": "2 Piece Sets",
+          "description": "2PieceSets",
           "subclass_id": "266",
           "class_id": "265",
           "age_group": "A",
@@ -2355,7 +2355,7 @@
           "style_id": "3288326",
           "product_url": "http://shop.nordstrom.com/s/boss-hugo-boss-james-sharp-trim-fit-wool-suit/3288326",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_7613219.jpg",
-          "description": "2 Piece Sets",
+          "description": "2PieceSets",
           "subclass_id": "266",
           "class_id": "265",
           "age_group": "A",
@@ -2394,7 +2394,7 @@
           "style_id": "3414155",
           "product_url": "http://shop.nordstrom.com/s/michael-kors-trim-fit-wool-suit/3414155",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_7744579.jpg",
-          "description": "2 Piece Sets",
+          "description": "2PieceSets",
           "subclass_id": "266",
           "class_id": "265",
           "age_group": "A",
@@ -2497,19 +2497,6 @@
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "53872316",
-          "gender": "M",
-          "style_id": "3292395",
-          "product_url": "http://shop.nordstrom.com/s/john-w-nordstrom-trim-fit-dress-shirt/3292395",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_7384518.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-01-18",
-          "percent_color": 0.36
-        },
-        {
           "sku_key": "54714648",
           "gender": "M",
           "style_id": "3343664",
@@ -2521,6 +2508,19 @@
           "age_group": "A",
           "purchase_date": "2013-01-18",
           "percent_color": 0.28
+        },
+        {
+          "sku_key": "53872316",
+          "gender": "M",
+          "style_id": "3292395",
+          "product_url": "http://shop.nordstrom.com/s/john-w-nordstrom-trim-fit-dress-shirt/3292395",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_7384518.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-01-18",
+          "percent_color": 0.36
         },
         {
           "sku_key": "49670164",
@@ -2536,6 +2536,19 @@
           "percent_color": 0.17
         },
         {
+          "sku_key": "53879455",
+          "gender": "M",
+          "style_id": "3290467",
+          "product_url": "http://shop.nordstrom.com/s/john-w-nordstrom-trim-fit-dress-shirt/3290467",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_7558589.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2012-12-27",
+          "percent_color": 0.26
+        },
+        {
           "sku_key": "53872316",
           "gender": "M",
           "style_id": "3292395",
@@ -2560,19 +2573,6 @@
           "age_group": "A",
           "purchase_date": "2012-12-27",
           "percent_color": 0.28
-        },
-        {
-          "sku_key": "53879455",
-          "gender": "M",
-          "style_id": "3290467",
-          "product_url": "http://shop.nordstrom.com/s/john-w-nordstrom-trim-fit-dress-shirt/3290467",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_7558589.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2012-12-27",
-          "percent_color": 0.26
         },
         {
           "sku_key": "49670164",
@@ -2714,7 +2714,7 @@
           "style_id": "3288326",
           "product_url": "http://shop.nordstrom.com/s/boss-hugo-boss-james-sharp-trim-fit-wool-suit/3288326",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_7613219.jpg",
-          "description": "2 Piece Sets",
+          "description": "2PieceSets",
           "subclass_id": "266",
           "class_id": "265",
           "age_group": "A",
@@ -3117,88 +3117,6 @@
       "percent": 2.1505
     },
     {
-      "name": "Thistle",
-      "color_id": "164",
-      "rgb": [
-        216,
-        191,
-        216
-      ],
-      "rgb_string": "rgb(216,191,216)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "48102191",
-          "gender": "M",
-          "style_id": "3100238",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-trim-fit-dress-shirt/3100238",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6241101.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2011-01-11",
-          "percent_color": 0.51
-        },
-        {
-          "sku_key": "56003668",
-          "gender": "M",
-          "style_id": "3440140",
-          "product_url": "http://shop.nordstrom.com/s/1901-trim-fit-dress-shirt/3440140",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_8102461.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2014-01-12",
-          "percent_color": 0.24
-        },
-        {
-          "sku_key": "48102191",
-          "gender": "M",
-          "style_id": "3100238",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-trim-fit-dress-shirt/3100238",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6241101.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2011-01-19",
-          "percent_color": 0.51
-        },
-        {
-          "sku_key": "48102194",
-          "gender": "M",
-          "style_id": "3100238",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-trim-fit-dress-shirt/3100238",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6241101.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2011-01-07",
-          "percent_color": 0.51
-        },
-        {
-          "sku_key": "48102194",
-          "gender": "M",
-          "style_id": "3100238",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-trim-fit-dress-shirt/3100238",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6241101.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2011-03-07",
-          "percent_color": 0.51
-        }
-      ],
-      "count": 5,
-      "color_per_purchaes": 0.0179,
-      "weighted_count": 2.2800000000000002,
-      "percent": 1.7921
-    },
-    {
       "name": "Slate Gray",
       "color_id": "158",
       "rgb": [
@@ -3281,14 +3199,14 @@
       "percent": 1.7921
     },
     {
-      "name": "Medium Purple",
-      "color_id": "116",
+      "name": "Thistle",
+      "color_id": "164",
       "rgb": [
-        147,
-        112,
-        219
+        216,
+        191,
+        216
       ],
-      "rgb_string": "rgb(147,112,219)",
+      "rgb_string": "rgb(216,191,216)",
       "grayscale": false,
       "purchases": [
         {
@@ -3302,7 +3220,20 @@
           "class_id": "12",
           "age_group": "A",
           "purchase_date": "2011-01-11",
-          "percent_color": 0.15
+          "percent_color": 0.51
+        },
+        {
+          "sku_key": "56003668",
+          "gender": "M",
+          "style_id": "3440140",
+          "product_url": "http://shop.nordstrom.com/s/1901-trim-fit-dress-shirt/3440140",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_8102461.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2014-01-12",
+          "percent_color": 0.24
         },
         {
           "sku_key": "48102191",
@@ -3315,7 +3246,7 @@
           "class_id": "12",
           "age_group": "A",
           "purchase_date": "2011-01-19",
-          "percent_color": 0.15
+          "percent_color": 0.51
         },
         {
           "sku_key": "48102194",
@@ -3328,7 +3259,7 @@
           "class_id": "12",
           "age_group": "A",
           "purchase_date": "2011-01-07",
-          "percent_color": 0.15
+          "percent_color": 0.51
         },
         {
           "sku_key": "48102194",
@@ -3341,13 +3272,13 @@
           "class_id": "12",
           "age_group": "A",
           "purchase_date": "2011-03-07",
-          "percent_color": 0.15
+          "percent_color": 0.51
         }
       ],
-      "count": 4,
-      "color_per_purchaes": 0.0143,
-      "weighted_count": 0.6,
-      "percent": 1.4337
+      "count": 5,
+      "color_per_purchaes": 0.0179,
+      "weighted_count": 2.2800000000000002,
+      "percent": 1.7921
     },
     {
       "name": "Plum",
@@ -3416,6 +3347,75 @@
       "count": 4,
       "color_per_purchaes": 0.0143,
       "weighted_count": 0.92,
+      "percent": 1.4337
+    },
+    {
+      "name": "Light Gray",
+      "color_id": "98",
+      "rgb": [
+        211,
+        211,
+        211
+      ],
+      "rgb_string": "rgb(211,211,211)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "49670164",
+          "gender": "M",
+          "style_id": "3114734",
+          "product_url": "http://shop.nordstrom.com/s/calibrate-slim-fit-non-iron-dress-shirt/3114734",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_6276431.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2011-12-26",
+          "percent_color": 0.28
+        },
+        {
+          "sku_key": "51738283",
+          "gender": "M",
+          "style_id": "3181968",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-trim-fit-dress-shirt/3181968",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_6567631.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2011-12-26",
+          "percent_color": 0.8
+        },
+        {
+          "sku_key": "49670164",
+          "gender": "M",
+          "style_id": "3114734",
+          "product_url": "http://shop.nordstrom.com/s/calibrate-slim-fit-non-iron-dress-shirt/3114734",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_6276431.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2011-12-30",
+          "percent_color": 0.28
+        },
+        {
+          "sku_key": "52730249",
+          "gender": "M",
+          "style_id": "3228719",
+          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-non-iron-dress-shirt/3228719",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_6908566.jpg",
+          "description": "Dress-shirt",
+          "subclass_id": "52",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-05-07",
+          "percent_color": 0.22
+        }
+      ],
+      "count": 4,
+      "color_per_purchaes": 0.0143,
+      "weighted_count": 1.58,
       "percent": 1.4337
     },
     {
@@ -3488,72 +3488,72 @@
       "percent": 1.4337
     },
     {
-      "name": "Light Gray",
-      "color_id": "98",
+      "name": "Medium Purple",
+      "color_id": "116",
       "rgb": [
-        211,
-        211,
-        211
+        147,
+        112,
+        219
       ],
-      "rgb_string": "rgb(211,211,211)",
+      "rgb_string": "rgb(147,112,219)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "51738283",
+          "sku_key": "48102191",
           "gender": "M",
-          "style_id": "3181968",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-trim-fit-dress-shirt/3181968",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_6567631.jpg",
+          "style_id": "3100238",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-trim-fit-dress-shirt/3100238",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6241101.jpg",
           "description": "Dress-shirt",
           "subclass_id": "52",
           "class_id": "12",
           "age_group": "A",
-          "purchase_date": "2011-12-26",
-          "percent_color": 0.8
+          "purchase_date": "2011-01-11",
+          "percent_color": 0.15
         },
         {
-          "sku_key": "49670164",
+          "sku_key": "48102191",
           "gender": "M",
-          "style_id": "3114734",
-          "product_url": "http://shop.nordstrom.com/s/calibrate-slim-fit-non-iron-dress-shirt/3114734",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_6276431.jpg",
+          "style_id": "3100238",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-trim-fit-dress-shirt/3100238",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6241101.jpg",
           "description": "Dress-shirt",
           "subclass_id": "52",
           "class_id": "12",
           "age_group": "A",
-          "purchase_date": "2011-12-26",
-          "percent_color": 0.28
+          "purchase_date": "2011-01-19",
+          "percent_color": 0.15
         },
         {
-          "sku_key": "49670164",
+          "sku_key": "48102194",
           "gender": "M",
-          "style_id": "3114734",
-          "product_url": "http://shop.nordstrom.com/s/calibrate-slim-fit-non-iron-dress-shirt/3114734",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_6276431.jpg",
+          "style_id": "3100238",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-trim-fit-dress-shirt/3100238",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6241101.jpg",
           "description": "Dress-shirt",
           "subclass_id": "52",
           "class_id": "12",
           "age_group": "A",
-          "purchase_date": "2011-12-30",
-          "percent_color": 0.28
+          "purchase_date": "2011-01-07",
+          "percent_color": 0.15
         },
         {
-          "sku_key": "52730249",
+          "sku_key": "48102194",
           "gender": "M",
-          "style_id": "3228719",
-          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-non-iron-dress-shirt/3228719",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_6908566.jpg",
+          "style_id": "3100238",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-trim-fit-dress-shirt/3100238",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6241101.jpg",
           "description": "Dress-shirt",
           "subclass_id": "52",
           "class_id": "12",
           "age_group": "A",
-          "purchase_date": "2013-05-07",
-          "percent_color": 0.22
+          "purchase_date": "2011-03-07",
+          "percent_color": 0.15
         }
       ],
       "count": 4,
       "color_per_purchaes": 0.0143,
-      "weighted_count": 1.58,
+      "weighted_count": 0.6,
       "percent": 1.4337
     },
     {
@@ -3725,6 +3725,92 @@
       "percent": 1.0753
     },
     {
+      "name": "Silver",
+      "color_id": "155",
+      "rgb": [
+        192,
+        192,
+        192
+      ],
+      "rgb_string": "rgb(192,192,192)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "53431300",
+          "gender": "M",
+          "style_id": "3064161",
+          "product_url": "http://shop.nordstrom.com/s/the-rail-trim-fit-v-neck-t-shirt-2-for-30/3064161",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_6597984.jpg",
+          "description": "T-shirt/Tee",
+          "subclass_id": "205",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2012-10-21",
+          "percent_color": 0.62
+        },
+        {
+          "sku_key": "53431300",
+          "gender": "M",
+          "style_id": "3064161",
+          "product_url": "http://shop.nordstrom.com/s/the-rail-trim-fit-v-neck-t-shirt-2-for-30/3064161",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_6597984.jpg",
+          "description": "T-shirt/Tee",
+          "subclass_id": "205",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2012-09-06",
+          "percent_color": 0.62
+        }
+      ],
+      "count": 2,
+      "color_per_purchaes": 0.0072,
+      "weighted_count": 1.24,
+      "percent": 0.7168
+    },
+    {
+      "name": "Peru",
+      "color_id": "140",
+      "rgb": [
+        205,
+        133,
+        63
+      ],
+      "rgb_string": "rgb(205,133,63)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "50344168",
+          "gender": "M",
+          "style_id": "3005595",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
+          "description": "Polo",
+          "subclass_id": "332",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2011-09-14",
+          "percent_color": 0.88
+        },
+        {
+          "sku_key": "50344169",
+          "gender": "M",
+          "style_id": "3005595",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
+          "description": "Polo",
+          "subclass_id": "332",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2011-09-14",
+          "percent_color": 0.88
+        }
+      ],
+      "count": 2,
+      "color_per_purchaes": 0.0072,
+      "weighted_count": 1.76,
+      "percent": 0.7168
+    },
+    {
       "name": "Indian Red",
       "color_id": "86",
       "rgb": [
@@ -3811,92 +3897,6 @@
       "percent": 0.7168
     },
     {
-      "name": "Peru",
-      "color_id": "140",
-      "rgb": [
-        205,
-        133,
-        63
-      ],
-      "rgb_string": "rgb(205,133,63)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "50344168",
-          "gender": "M",
-          "style_id": "3005595",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
-          "description": "Polo",
-          "subclass_id": "332",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2011-09-14",
-          "percent_color": 0.88
-        },
-        {
-          "sku_key": "50344169",
-          "gender": "M",
-          "style_id": "3005595",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-traditional-fit-fine-pique-polo/3005595",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6896787.jpg",
-          "description": "Polo",
-          "subclass_id": "332",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2011-09-14",
-          "percent_color": 0.88
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0072,
-      "weighted_count": 1.76,
-      "percent": 0.7168
-    },
-    {
-      "name": "Crimson",
-      "color_id": "48",
-      "rgb": [
-        220,
-        20,
-        60
-      ],
-      "rgb_string": "rgb(220,20,60)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "52409150",
-          "gender": "M",
-          "style_id": "3064161",
-          "product_url": "http://shop.nordstrom.com/s/the-rail-trim-fit-v-neck-t-shirt-2-for-30/3064161",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_6597984.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2012-10-21",
-          "percent_color": 0.16
-        },
-        {
-          "sku_key": "52409150",
-          "gender": "M",
-          "style_id": "3064161",
-          "product_url": "http://shop.nordstrom.com/s/the-rail-trim-fit-v-neck-t-shirt-2-for-30/3064161",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_6597984.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2012-09-06",
-          "percent_color": 0.16
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0072,
-      "weighted_count": 0.32,
-      "percent": 0.7168
-    },
-    {
       "name": "Misty Rose",
       "color_id": "124",
       "rgb": [
@@ -3940,18 +3940,18 @@
       "percent": 0.7168
     },
     {
-      "name": "Silver",
-      "color_id": "155",
+      "name": "Crimson",
+      "color_id": "48",
       "rgb": [
-        192,
-        192,
-        192
+        220,
+        20,
+        60
       ],
-      "rgb_string": "rgb(192,192,192)",
+      "rgb_string": "rgb(220,20,60)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "53431300",
+          "sku_key": "52409150",
           "gender": "M",
           "style_id": "3064161",
           "product_url": "http://shop.nordstrom.com/s/the-rail-trim-fit-v-neck-t-shirt-2-for-30/3064161",
@@ -3961,10 +3961,10 @@
           "class_id": "12",
           "age_group": "A",
           "purchase_date": "2012-10-21",
-          "percent_color": 0.62
+          "percent_color": 0.16
         },
         {
-          "sku_key": "53431300",
+          "sku_key": "52409150",
           "gender": "M",
           "style_id": "3064161",
           "product_url": "http://shop.nordstrom.com/s/the-rail-trim-fit-v-neck-t-shirt-2-for-30/3064161",
@@ -3974,12 +3974,12 @@
           "class_id": "12",
           "age_group": "A",
           "purchase_date": "2012-09-06",
-          "percent_color": 0.62
+          "percent_color": 0.16
         }
       ],
       "count": 2,
       "color_per_purchaes": 0.0072,
-      "weighted_count": 1.24,
+      "weighted_count": 0.32,
       "percent": 0.7168
     },
     {
@@ -4116,36 +4116,6 @@
       "percent": 0.3584
     },
     {
-      "name": "Dark Sea Green",
-      "color_id": "62",
-      "rgb": [
-        143,
-        188,
-        143
-      ],
-      "rgb_string": "rgb(143,188,143)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "53887514",
-          "gender": "M",
-          "style_id": "3291338",
-          "product_url": "http://shop.nordstrom.com/s/columbia-watertight-jacket/3291338",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/10/_7113530.jpg",
-          "description": "Raincoat",
-          "subclass_id": "210",
-          "class_id": "3",
-          "age_group": "A",
-          "purchase_date": "2012-09-06",
-          "percent_color": 0.41
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0036,
-      "weighted_count": 0.41,
-      "percent": 0.3584
-    },
-    {
       "name": "Olive Drab",
       "color_id": "130",
       "rgb": [
@@ -4173,6 +4143,36 @@
       "count": 1,
       "color_per_purchaes": 0.0036,
       "weighted_count": 0.56,
+      "percent": 0.3584
+    },
+    {
+      "name": "Dark Sea Green",
+      "color_id": "62",
+      "rgb": [
+        143,
+        188,
+        143
+      ],
+      "rgb_string": "rgb(143,188,143)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "53887514",
+          "gender": "M",
+          "style_id": "3291338",
+          "product_url": "http://shop.nordstrom.com/s/columbia-watertight-jacket/3291338",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/10/_7113530.jpg",
+          "description": "Raincoat",
+          "subclass_id": "210",
+          "class_id": "3",
+          "age_group": "A",
+          "purchase_date": "2012-09-06",
+          "percent_color": 0.41
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0036,
+      "weighted_count": 0.41,
       "percent": 0.3584
     }
   ],

@@ -78,7 +78,7 @@
           "class_id": "6",
           "age_group": "A",
           "purchase_date": "2013-12-11",
-          "percent_color": 0.2
+          "percent_color": 0.26
         },
         {
           "sku_key": "52135893",
@@ -91,7 +91,7 @@
           "class_id": "6",
           "age_group": "A",
           "purchase_date": "2013-12-11",
-          "percent_color": 0.26
+          "percent_color": 0.2
         },
         {
           "sku_key": "53782270",
@@ -99,25 +99,25 @@
           "style_id": "3287283",
           "product_url": "http://shop.nordstrom.com/s/the-north-face-apex-elevation-jacket/3287283",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7227657.jpg",
-          "description": "Short Jacket/Coat",
-          "subclass_id": "283",
-          "class_id": "3",
-          "age_group": "A",
-          "purchase_date": "2012-12-02",
-          "percent_color": 0.42
-        },
-        {
-          "sku_key": "53782270",
-          "gender": "M",
-          "style_id": "3287283",
-          "product_url": "http://shop.nordstrom.com/s/the-north-face-apex-elevation-jacket/3287283",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7227657.jpg",
-          "description": "Short Jacket/Coat",
+          "description": "ShortJacket/Coat",
           "subclass_id": "283",
           "class_id": "3",
           "age_group": "A",
           "purchase_date": "2012-12-02",
           "percent_color": 0.6
+        },
+        {
+          "sku_key": "53782270",
+          "gender": "M",
+          "style_id": "3287283",
+          "product_url": "http://shop.nordstrom.com/s/the-north-face-apex-elevation-jacket/3287283",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7227657.jpg",
+          "description": "ShortJacket/Coat",
+          "subclass_id": "283",
+          "class_id": "3",
+          "age_group": "A",
+          "purchase_date": "2012-12-02",
+          "percent_color": 0.42
         },
         {
           "sku_key": "56502243",
@@ -177,7 +177,7 @@
           "style_id": "3482475",
           "product_url": "http://shop.nordstrom.com/s/the-north-face-chimborazo-fleece-hoodie/3482475",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_7907907.jpg",
-          "description": "Short Jacket/Coat",
+          "description": "ShortJacket/Coat",
           "subclass_id": "283",
           "class_id": "3",
           "age_group": "A",
@@ -220,7 +220,7 @@
           "style_id": "3482475",
           "product_url": "http://shop.nordstrom.com/s/the-north-face-chimborazo-fleece-hoodie/3482475",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_7907907.jpg",
-          "description": "Short Jacket/Coat",
+          "description": "ShortJacket/Coat",
           "subclass_id": "283",
           "class_id": "3",
           "age_group": "A",
@@ -307,6 +307,66 @@
       "percent": 3.5714
     },
     {
+      "name": "Dark Gray",
+      "color_id": "53",
+      "rgb": [
+        169,
+        169,
+        169
+      ],
+      "rgb_string": "rgb(169,169,169)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "57511917",
+          "gender": "M",
+          "style_id": "3554561",
+          "product_url": "http://shop.nordstrom.com/s/lacoste-pima-cotton-henley/3554561",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_8304586.jpg",
+          "description": "T-shirt/Tee",
+          "subclass_id": "205",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2014-01-14",
+          "percent_color": 0.19
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0357,
+      "weighted_count": 0.19,
+      "percent": 3.5714
+    },
+    {
+      "name": "Dark Slate Blue",
+      "color_id": "63",
+      "rgb": [
+        72,
+        61,
+        139
+      ],
+      "rgb_string": "rgb(72,61,139)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "57511930",
+          "gender": "M",
+          "style_id": "3554561",
+          "product_url": "http://shop.nordstrom.com/s/lacoste-pima-cotton-henley/3554561",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_8304586.jpg",
+          "description": "T-shirt/Tee",
+          "subclass_id": "205",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2014-01-14",
+          "percent_color": 0.8
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0357,
+      "weighted_count": 0.8,
+      "percent": 3.5714
+    },
+    {
       "name": "Silver",
       "color_id": "155",
       "rgb": [
@@ -367,66 +427,6 @@
       "percent": 3.5714
     },
     {
-      "name": "Dark Slate Blue",
-      "color_id": "63",
-      "rgb": [
-        72,
-        61,
-        139
-      ],
-      "rgb_string": "rgb(72,61,139)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "57511930",
-          "gender": "M",
-          "style_id": "3554561",
-          "product_url": "http://shop.nordstrom.com/s/lacoste-pima-cotton-henley/3554561",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_8304586.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2014-01-14",
-          "percent_color": 0.8
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0357,
-      "weighted_count": 0.8,
-      "percent": 3.5714
-    },
-    {
-      "name": "Dodger Blue",
-      "color_id": "70",
-      "rgb": [
-        30,
-        144,
-        255
-      ],
-      "rgb_string": "rgb(30,144,255)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "57293275",
-          "gender": "M",
-          "style_id": "3536348",
-          "product_url": "http://shop.nordstrom.com/s/lacoste-jersey-hoodie/3536348",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_8067417.jpg",
-          "description": "Sweatshirt/Hoody/Zipfront",
-          "subclass_id": "268",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2014-01-12",
-          "percent_color": 0.79
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0357,
-      "weighted_count": 0.79,
-      "percent": 3.5714
-    },
-    {
       "name": "NA",
       "color_id": "NA",
       "rgb": [
@@ -441,7 +441,7 @@
           "style_id": "3335405",
           "product_url": "http://shop.nordstrom.com/s/cartier-declaration-eau-de-toilette-sample/3335405",
           "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_7325574.jpg",
-          "description": "Beauty Sample",
+          "description": "BeautySample",
           "subclass_id": "357",
           "class_id": "261",
           "age_group": "A",
@@ -452,36 +452,6 @@
       "count": 1,
       "color_per_purchaes": 0.0357,
       "weighted_count": 0.0,
-      "percent": 3.5714
-    },
-    {
-      "name": "Dark Slate Gray",
-      "color_id": "64",
-      "rgb": [
-        47,
-        79,
-        79
-      ],
-      "rgb_string": "rgb(47,79,79)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "56704164",
-          "gender": "M",
-          "style_id": "3486513",
-          "product_url": "http://shop.nordstrom.com/s/1901-cashmere-v-neck-sweater/3486513",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_8331469.jpg",
-          "description": "Sweater",
-          "subclass_id": "194",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-12-08",
-          "percent_color": 0.36
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0357,
-      "weighted_count": 0.36,
       "percent": 3.5714
     },
     {
@@ -515,33 +485,63 @@
       "percent": 3.5714
     },
     {
-      "name": "Dark Gray",
-      "color_id": "53",
+      "name": "Dark Slate Gray",
+      "color_id": "64",
       "rgb": [
-        169,
-        169,
-        169
+        47,
+        79,
+        79
       ],
-      "rgb_string": "rgb(169,169,169)",
+      "rgb_string": "rgb(47,79,79)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "57511917",
+          "sku_key": "56704164",
           "gender": "M",
-          "style_id": "3554561",
-          "product_url": "http://shop.nordstrom.com/s/lacoste-pima-cotton-henley/3554561",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_8304586.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
+          "style_id": "3486513",
+          "product_url": "http://shop.nordstrom.com/s/1901-cashmere-v-neck-sweater/3486513",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_8331469.jpg",
+          "description": "Sweater",
+          "subclass_id": "194",
           "class_id": "12",
           "age_group": "A",
-          "purchase_date": "2014-01-14",
-          "percent_color": 0.19
+          "purchase_date": "2013-12-08",
+          "percent_color": 0.36
         }
       ],
       "count": 1,
       "color_per_purchaes": 0.0357,
-      "weighted_count": 0.19,
+      "weighted_count": 0.36,
+      "percent": 3.5714
+    },
+    {
+      "name": "Dodger Blue",
+      "color_id": "70",
+      "rgb": [
+        30,
+        144,
+        255
+      ],
+      "rgb_string": "rgb(30,144,255)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "57293275",
+          "gender": "M",
+          "style_id": "3536348",
+          "product_url": "http://shop.nordstrom.com/s/lacoste-jersey-hoodie/3536348",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_8067417.jpg",
+          "description": "Sweatshirt/Hoody/Zipfront",
+          "subclass_id": "268",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2014-01-12",
+          "percent_color": 0.79
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0357,
+      "weighted_count": 0.79,
       "percent": 3.5714
     },
     {
