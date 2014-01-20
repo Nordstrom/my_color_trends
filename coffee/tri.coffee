@@ -631,6 +631,8 @@ $ ->
     
   display = (error, data, recs, compRecs) ->
     # setupSearch(data)
+    if !data
+      console.log(error)
     plot.recs("match",recs)
     plot.recs("comp",compRecs)
     plotData("#vis", data, plot)
@@ -640,7 +642,7 @@ $ ->
     # .defer(d3.tsv, "data/color_palettes_rgb.txt")
     .defer(d3.json, "data/color_data/#{user_id}.json")
     .defer(d3.json, "data/recs_data/#{user_id}.json")
-    .defer(d3.json, "data/recs_comp_data/15178269.json")
+    .defer(d3.json, "data/recs_comp_data/#{user_id}.json")
     .await(display)
 
   updateActive = (new_id) ->
