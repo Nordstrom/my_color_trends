@@ -5,7 +5,9 @@ require 'csv'
 
 require 'time'
 
-input_filename = "test_male_recs.txt"
+# input_filename = "test_male_recs.txt"
+# input_filename = "male_recs.txt"
+input_filename = "female_recs.txt"
 # input_filename = "test.tsv"
 
 output_dir = "../data/recs_data"
@@ -16,13 +18,13 @@ def clean_name name
 end
 
 def pull_out_color csv
-  col = {"color_name" => clean_name(csv["color_name"]), "color_id" => csv["color_id"], 'recs' => []}
+  col = {"color_name" => clean_name(csv["recs.color_name"]), "color_id" => csv["recs.color_id"], 'recs' => []}
   col
 end
 
 def add_rec color, csv
-  pur = {"rms_sku" => csv["rms_sku_id"].strip, "style_id" => csv["web_style_id"].strip,
-         "product_url" => csv["product_url"], "image_url" => csv["sku_img_url"].gsub("thumbnail", "Medium"), "web_url" => csv["web_style_hostd_url"]
+  pur = {"style_id" => csv["recs.STYLE.ID"].strip,
+         "product_url" => csv["recs.HOSTED.URL"], "image_url" => csv["recs.SKU.IMAGE.URL"].gsub("thumbnail", "Medium"), "web_url" => csv["recs.HOSTED.URL"]
   }
 
   color['recs'] << pur

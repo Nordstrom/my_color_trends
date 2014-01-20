@@ -43,13 +43,13 @@ Timeline = () ->
         p.date = parseTime(p.purchase_date)
         p.color = d.rgb_string
     yScale.domain(data.map((d) -> d.color_id))
-    console.log(yScale.rangeBand())
+    # console.log(yScale.rangeBand())
     data
 
   mouseover = (d,i) ->
     content = "<img src='#{d.image_url}' height='365px' width='240px' />"
     tooltip.showTooltip(content,d3.event)
-    console.log(d)
+    # console.log(d)
 
   mouseout = (d,i) ->
     tooltip.hideTooltip()
@@ -120,7 +120,7 @@ Timeline = () ->
   chart.start = (_) ->
     if !arguments.length
       return startTime
-    console.log(_)
+    # console.log(_)
     startTime = parseTime(_)
     chart
 
@@ -165,7 +165,7 @@ Triangles = () ->
   currentRecs = "match"
 
   timeline = Timeline()
-  allRecs = []
+  allRecs = {}
   
 
   tier = (i) ->
@@ -307,9 +307,12 @@ Triangles = () ->
 
   updateRecs = (colorId, recType) ->
     recs = []
-    if allRecs.colors[colorId]
-      recs = allRecs.colors[colorId].recs
+    if allRecs[recType].colors[colorId]
+      recs = allRecs[recType].colors[colorId].recs
       console.log(recs)
+    else
+      console.log("ERROR")
+      recs = allRecs[recType].colors[colorId].recs
 
     jpegs = []
     links = []
@@ -331,7 +334,7 @@ Triangles = () ->
       .attr("src", (d) -> d)
 
   showRecs = (d,i) ->
-    console.log(allRecs)
+    # console.log(allRecs)
     d3.select("#rec_section").classed("hidden", false)
     colorId = d.color_id
     if !colorId
@@ -561,10 +564,10 @@ Triangles = () ->
     yValue = _
     chart
 
-  chart.recs = (_) ->
+  chart.recs = (type, _) ->
     if !arguments.length
       return allRecs
-    allRecs = _
+    allRecs[type] = _
     chart
 
   return chart
@@ -626,16 +629,18 @@ $ ->
     newRecs = id.split("-")[2]
     plot.toggleRecs(newRecs)
     
-  display = (error, data, recs) ->
+  display = (error, data, recs, compRecs) ->
     # setupSearch(data)
-    plot.recs(recs)
+    plot.recs("match",recs)
+    plot.recs("comp",compRecs)
     plotData("#vis", data, plot)
     plot.start()
 
   queue()
     # .defer(d3.tsv, "data/color_palettes_rgb.txt")
     .defer(d3.json, "data/color_data/#{user_id}.json")
-    .defer(d3.json, "data/recs_data/32758289.json")
+    .defer(d3.json, "data/recs_data/#{user_id}.json")
+    .defer(d3.json, "data/recs_comp_data/#{user_id}.json")
     .await(display)
 
   updateActive = (new_id) ->
