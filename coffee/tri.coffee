@@ -141,7 +141,7 @@ Triangles = () ->
   details = null
   comps = null
   images = null
-  width = 800
+  width = 700
   height = 520
   aspect = (width) / (height)
   user_id = -1
@@ -603,6 +603,11 @@ activateButton = (parent, id) ->
   d3.select(parent).selectAll(".g-menu-button").classed("g-menu-button-selected", false)
   d3.select("##{id}").classed("g-menu-button-selected", true)
 
+
+showName = (data) ->
+  name = "#{data.first_name} #{data.last_name}"
+  d3.select("#name").html(name)
+
 $ ->
   d3.select("#change_nav_link")
     .on("click", openSearch)
@@ -633,6 +638,7 @@ $ ->
     # setupSearch(data)
     if !data
       console.log(error)
+    showName(data)
     plot.recs("match",recs)
     plot.recs("comp",compRecs)
     plotData("#vis", data, plot)

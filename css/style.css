@@ -48,6 +48,12 @@
   cursor: pointer;
 }
 
+#name {
+  float: left;
+  padding-left: 20px;
+  font-size: 64px;
+}
+
 #vis_details line, #vis_details path {
   fill: none;
   stroke: #444;

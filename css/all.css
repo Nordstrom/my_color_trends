@@ -24,15 +24,18 @@
     -moz-transition: -moz-box-shadow .1s ease-in-out;
     -o-transition: -o-box-shadow .1s ease-in-out;
     transition: box-shadow .1s ease-in-out;
-    font-size: 40px;
+    font-size: 26px;
     color: #fff;
 }
 
 .button span {
+    text-align: center;
     display: inline-block;
     padding: 20px 30px;
     /* background-color: #ec528d; */
     background-color: #F18D60;
+    width: 350px;
+    height: 70px;
     /* background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(hsla(338, 90%, 80%, .8)), to(hsla(338, 90%, 70%, .2))); */
     /* background-image: -webkit-linear-gradient(hsla(338, 90%, 80%, .8), hsla(338, 90%, 70%, .2)); */
     /* background-image: -moz-linear-gradient(hsla(338, 90%, 80%, .8), hsla(338, 90%, 70%, .2)); */

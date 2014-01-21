@@ -8,7 +8,7 @@ require 'time'
 # input_filename = "test_male_recs.txt"
 # input_filename = "male_recs.txt"
 input_filename = "male_comp_recs.txt"
-input_filename = "female_comp_recs_partial.txt"
+input_filename = "female_comp_recs.txt"
 # input_filename = "test.tsv"
 
 output_dir = "../data/recs_comp_data"
