@@ -7,8 +7,10 @@ require 'time'
 
 # input_filename = "test_male_recs.txt"
 # input_filename = "male_recs.txt"
+# input_filename = "male_comp_recs_20_clusters.txt"
 input_filename = "male_comp_recs.txt"
-input_filename = "female_comp_recs.txt"
+input_filename = "female_comp_recs_missing.tsv"
+# input_filename = "female_comp_recs.txt"
 # input_filename = "test.tsv"
 
 output_dir = "../data/recs_comp_data"
