@@ -12,7 +12,7 @@ sin60 = sin30 * 2
 cos60 = cos30 * 2
 
 cleanName = (name) ->
-  name.replace(/\(.*\)/g,"")
+  name.replace(/\(.*\)/g,"").trim()
 
 Timeline = () ->
   svg = null
@@ -317,8 +317,9 @@ Triangles = () ->
     jpegs = []
     links = []
     [0..3].forEach (i) ->
-      jpegs.push(recs[i].image_url)
-      links.push(recs[i].web_url)
+      if recs[i]
+        jpegs.push(recs[i].image_url)
+        links.push(recs[i].web_url)
 
     d3.select("#rec_content").html("")
 
@@ -356,6 +357,7 @@ Triangles = () ->
     # console.log(rawData)
     # data = data.sort (a,b) -> +a.rank - +b.rank
     data = rawData.colors.sort (a,b) -> b.weighted_count - a.weighted_count
+    data = data.filter (d) -> cleanName(d.name) != "NA"
     data = data.filter (d,i) -> i < 13
     if data.length < 6
       data = data.filter (d,i) -> i < 1
