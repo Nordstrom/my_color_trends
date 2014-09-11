@@ -4,7 +4,7 @@ $ ->
   display = (error, data) ->
     data.sort  (a,b) -> a.last_name.localeCompare(b.last_name)
     data.forEach (d) ->
-      d.name = "#{d.first_name} #{d.last_name}"
+      d.name = "#{d.first_name.split("")[0]} #{d.last_name.split('')[0]}"
     all = d3.select("#all")
     users = all.selectAll(".user")
       .data(data).enter()
@@ -14,7 +14,7 @@ $ ->
       .attr("href", (d) -> "index.html##{d.id}")
       .attr("class", "button")
       .append("span")
-      .text (d) -> "#{d.first_name} #{d.last_name}"
+      .text (d) -> "#{d.first_name.split("")[0]} #{d.last_name.split("")[0]}"
 
     $('.typeahead').typeahead({name: 'names',local:data,valueKey:'name', limit: 5})
 

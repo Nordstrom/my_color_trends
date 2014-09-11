@@ -607,7 +607,7 @@ activateButton = (parent, id) ->
 
 
 showName = (data) ->
-  name = "#{data.first_name} #{data.last_name}"
+  name = "#{data.first_name.split("")[0]} #{data.last_name.split("")[0]}"
   d3.select("#name").html(name)
 
 $ ->
