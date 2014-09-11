@@ -26,13 +26,18 @@ trans = pd.read_csv('/Users/x1lh/projects/color/data/leadership_tran_data_no_quo
 historical_catalog = pd.read_csv('/Users/x1lh/projects/color/data/historical_product_catalog.txt', 
     header = 0, 
     sep = '\t')
+
+# remove empty white space from some elements
 historical_catalog['description'] = historical_catalog['description'].map(str.strip)
 historical_catalog['age_group'] = historical_catalog['age_group'].map(str.strip)
 historical_catalog['gender'] = historical_catalog['gender'].map(str.strip)
 
+
+# filter out categories in the 'bad_categories' list below.
 historical_catalog['bad_cat'] = historical_catalog['description'].isin(bad_categories)
 historical_catalog = historical_catalog[(historical_catalog.bad_cat == False)]
 
+# merge catalog with color. 
 historical_catalog = pd.merge(catalog, 
     x11[['rms_sku_id', 'color_name', 'color_id']], 
     left_on = 'rms_sku_id', 

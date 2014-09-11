@@ -5,205 +5,6 @@
   "gender": "M",
   "colors": [
     {
-      "name": "Black",
-      "color_id": "173",
-      "rgb": [
-        46,
-        45,
-        50
-      ],
-      "rgb_string": "rgb(46,45,50)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "56103450",
-          "gender": "M",
-          "style_id": "3449003",
-          "product_url": "http://shop.nordstrom.com/s/brooks-brothers-by-jeffrey-wool-trousers/3449003",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7593417.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-12-21",
-          "percent_color": 0.96
-        },
-        {
-          "sku_key": "28160402",
-          "gender": "M",
-          "style_id": "2985457",
-          "product_url": "http://shop.nordstrom.com/s/the-north-face-bones-fleece-lined-beanie/2985457",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_5671659.jpg",
-          "description": "Cap",
-          "subclass_id": "53",
-          "class_id": "10",
-          "age_group": "A",
-          "purchase_date": "2008-12-07",
-          "percent_color": 0.37
-        },
-        {
-          "sku_key": "28160402",
-          "gender": "M",
-          "style_id": "2985457",
-          "product_url": "http://shop.nordstrom.com/s/the-north-face-bones-fleece-lined-beanie/2985457",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_5671659.jpg",
-          "description": "Cap",
-          "subclass_id": "53",
-          "class_id": "10",
-          "age_group": "A",
-          "purchase_date": "2008-12-07",
-          "percent_color": 0.64
-        },
-        {
-          "sku_key": "55656529",
-          "gender": "M",
-          "style_id": "2820668",
-          "product_url": "http://shop.nordstrom.com/s/ugg-australia-ascot-suede-slipper-men/2820668",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_5901977.jpg",
-          "description": "Slippers",
-          "subclass_id": "220",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2012-12-07",
-          "percent_color": 0.8
-        },
-        {
-          "sku_key": "50460796",
-          "gender": "M",
-          "style_id": "3138166",
-          "product_url": "http://shop.nordstrom.com/s/toms-stonewashed-twill-slip-on-men/3138166",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_6371539.jpg",
-          "description": "Slipon",
-          "subclass_id": "301",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2011-02-15",
-          "percent_color": 0.3
-        },
-        {
-          "sku_key": "47342659",
-          "gender": "M",
-          "style_id": "3078999",
-          "product_url": "http://shop.nordstrom.com/s/47-brand-miami-heat-regular-fit-slubbed-t-shirt-men/3078999",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_6280512.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2010-02-16",
-          "percent_color": 0.84
-        },
-        {
-          "sku_key": "51700484",
-          "gender": "M",
-          "style_id": "3165250",
-          "product_url": "http://shop.nordstrom.com/s/sebago-spinnaker-boat-shoe-men/3165250",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6461337.jpg",
-          "description": "Loafers",
-          "subclass_id": "218",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2012-02-08",
-          "percent_color": 0.63
-        },
-        {
-          "sku_key": "48807740",
-          "gender": "M",
-          "style_id": "2979673",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-organic-cotton-sleep-shirt/2979673",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_6226464.jpg",
-          "description": "Top",
-          "subclass_id": "289",
-          "class_id": "39",
-          "age_group": "A",
-          "purchase_date": "2011-03-17",
-          "percent_color": 1.01
-        },
-        {
-          "sku_key": "52789532",
-          "gender": "M",
-          "style_id": "3232498",
-          "product_url": "http://shop.nordstrom.com/s/polo-ralph-lauren-quarter-zip-terry-pullover/3232498",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_6832485.jpg",
-          "description": "Top",
-          "subclass_id": "289",
-          "class_id": "39",
-          "age_group": "A",
-          "purchase_date": "2012-03-24",
-          "percent_color": 0.99
-        },
-        {
-          "sku_key": "42337844",
-          "gender": "M",
-          "style_id": "2975234",
-          "product_url": "http://shop.nordstrom.com/s/john-w-nordstrom-flat-front-trousers/2975234",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_5622632.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2009-04-02",
-          "percent_color": 0.95
-        },
-        {
-          "sku_key": "54923480",
-          "gender": "M",
-          "style_id": "3357000",
-          "product_url": "http://shop.nordstrom.com/s/john-varvatos-star-usa-straight-leg-trousers/3357000",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/10/_7279390.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-08-12",
-          "percent_color": 0.92
-        },
-        {
-          "sku_key": "53578433",
-          "gender": "M",
-          "style_id": "3274907",
-          "product_url": "http://shop.nordstrom.com/s/boss-black-woven-tie/3274907",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6882803.jpg",
-          "description": "Tie",
-          "subclass_id": "306",
-          "class_id": "20",
-          "age_group": "A",
-          "purchase_date": "2012-09-11",
-          "percent_color": 0.33
-        },
-        {
-          "sku_key": "53578433",
-          "gender": "M",
-          "style_id": "3274907",
-          "product_url": "http://shop.nordstrom.com/s/boss-black-woven-tie/3274907",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6882803.jpg",
-          "description": "Tie",
-          "subclass_id": "306",
-          "class_id": "20",
-          "age_group": "A",
-          "purchase_date": "2012-09-11",
-          "percent_color": 0.21
-        },
-        {
-          "sku_key": "53100294",
-          "gender": "M",
-          "style_id": "3307789",
-          "product_url": "http://shop.nordstrom.com/s/ben-sherman-kings-pinstripe-suit/3307789",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_6998284.jpg",
-          "description": "2PieceSets",
-          "subclass_id": "266",
-          "class_id": "265",
-          "age_group": "A",
-          "purchase_date": "2012-09-11",
-          "percent_color": 0.84
-        }
-      ],
-      "count": 14,
-      "color_per_purchaes": 0.2545,
-      "weighted_count": 9.790000000000001,
-      "percent": 25.4545
-    },
-    {
       "name": "Maroon",
       "color_id": "112",
       "rgb": [
@@ -281,9 +82,9 @@
         }
       ],
       "count": 5,
-      "color_per_purchaes": 0.0909,
+      "color_per_purchaes": 0.1852,
       "weighted_count": 1.5999999999999999,
-      "percent": 9.0909
+      "percent": 18.5185
     },
     {
       "name": "Sienna",
@@ -350,134 +151,9 @@
         }
       ],
       "count": 4,
-      "color_per_purchaes": 0.0727,
+      "color_per_purchaes": 0.1481,
       "weighted_count": 1.44,
-      "percent": 7.2727
-    },
-    {
-      "name": "Dim Gray",
-      "color_id": "69",
-      "rgb": [
-        105,
-        105,
-        105
-      ],
-      "rgb_string": "rgb(105,105,105)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "56112884",
-          "gender": "M",
-          "style_id": "3447498",
-          "product_url": "http://shop.nordstrom.com/s/kroon-stretch-cotton-pickstitch-sportcoat/3447498",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/10/_7794050.jpg",
-          "description": "Sportcoat",
-          "subclass_id": "344",
-          "class_id": "272",
-          "age_group": "A",
-          "purchase_date": "2013-12-18",
-          "percent_color": 0.66
-        },
-        {
-          "sku_key": "55656529",
-          "gender": "M",
-          "style_id": "2820668",
-          "product_url": "http://shop.nordstrom.com/s/ugg-australia-ascot-suede-slipper-men/2820668",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_5901977.jpg",
-          "description": "Slippers",
-          "subclass_id": "220",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2012-12-07",
-          "percent_color": 0.18
-        },
-        {
-          "sku_key": "51700484",
-          "gender": "M",
-          "style_id": "3165250",
-          "product_url": "http://shop.nordstrom.com/s/sebago-spinnaker-boat-shoe-men/3165250",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6461337.jpg",
-          "description": "Loafers",
-          "subclass_id": "218",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2012-02-08",
-          "percent_color": 0.38
-        },
-        {
-          "sku_key": "54231941",
-          "gender": "M",
-          "style_id": "3236094",
-          "product_url": "http://shop.nordstrom.com/s/nike-free-trainer-training-shoe-men/3236094",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7197137.jpg",
-          "description": "Athletic",
-          "subclass_id": "224",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2013-06-14",
-          "percent_color": 0.22
-        }
-      ],
-      "count": 4,
-      "color_per_purchaes": 0.0727,
-      "weighted_count": 1.4400000000000002,
-      "percent": 7.2727
-    },
-    {
-      "name": "Antique White",
-      "color_id": "30",
-      "rgb": [
-        250,
-        235,
-        215
-      ],
-      "rgb_string": "rgb(250,235,215)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "50696854",
-          "gender": "M",
-          "style_id": "3143972",
-          "product_url": "http://shop.nordstrom.com/s/converse-jack-purcell-lp-slip-on-sneaker-men/3143972",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_6408518.jpg",
-          "description": "Sneaker",
-          "subclass_id": "353",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2011-07-26",
-          "percent_color": 0.33
-        },
-        {
-          "sku_key": "49745033",
-          "gender": "M",
-          "style_id": "3117138",
-          "product_url": "http://shop.nordstrom.com/s/1901-chino-shorts/3117138",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_6298282.jpg",
-          "description": "Short",
-          "subclass_id": "74",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2011-07-07",
-          "percent_color": 1.01
-        },
-        {
-          "sku_key": "49745033",
-          "gender": "M",
-          "style_id": "3117138",
-          "product_url": "http://shop.nordstrom.com/s/1901-chino-shorts/3117138",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_6298282.jpg",
-          "description": "Short",
-          "subclass_id": "74",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2011-07-07",
-          "percent_color": 1.01
-        }
-      ],
-      "count": 3,
-      "color_per_purchaes": 0.0545,
-      "weighted_count": 2.35,
-      "percent": 5.4545
+      "percent": 14.8148
     },
     {
       "name": "Saddle Brown",
@@ -531,65 +207,9 @@
         }
       ],
       "count": 3,
-      "color_per_purchaes": 0.0545,
+      "color_per_purchaes": 0.1111,
       "weighted_count": 1.1099999999999999,
-      "percent": 5.4545
-    },
-    {
-      "name": "Gray",
-      "color_id": "80",
-      "rgb": [
-        128,
-        128,
-        128
-      ],
-      "rgb_string": "rgb(128,128,128)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "56112884",
-          "gender": "M",
-          "style_id": "3447498",
-          "product_url": "http://shop.nordstrom.com/s/kroon-stretch-cotton-pickstitch-sportcoat/3447498",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/10/_7794050.jpg",
-          "description": "Sportcoat",
-          "subclass_id": "344",
-          "class_id": "272",
-          "age_group": "A",
-          "purchase_date": "2013-12-18",
-          "percent_color": 0.34
-        },
-        {
-          "sku_key": "54231941",
-          "gender": "M",
-          "style_id": "3236094",
-          "product_url": "http://shop.nordstrom.com/s/nike-free-trainer-training-shoe-men/3236094",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7197137.jpg",
-          "description": "Athletic",
-          "subclass_id": "224",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2013-06-14",
-          "percent_color": 0.37
-        },
-        {
-          "sku_key": "47604651",
-          "gender": "M",
-          "style_id": "3072169",
-          "product_url": "http://shop.nordstrom.com/s/public-opinion-canvas-chino-shorts/3072169",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_6073551.jpg",
-          "description": "Short",
-          "subclass_id": "74",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2010-07-15",
-          "percent_color": 0.19
-        }
-      ],
-      "count": 3,
-      "color_per_purchaes": 0.0545,
-      "weighted_count": 0.8999999999999999,
-      "percent": 5.4545
+      "percent": 11.1111
     },
     {
       "name": "Dark Slate Blue",
@@ -643,138 +263,65 @@
         }
       ],
       "count": 3,
-      "color_per_purchaes": 0.0545,
+      "color_per_purchaes": 0.1111,
       "weighted_count": 0.81,
-      "percent": 5.4545
+      "percent": 11.1111
     },
     {
-      "name": "Lavender",
-      "color_id": "90",
+      "name": "Antique White",
+      "color_id": "30",
       "rgb": [
-        230,
-        230,
-        250
+        250,
+        235,
+        215
       ],
-      "rgb_string": "rgb(230,230,250)",
+      "rgb_string": "rgb(250,235,215)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "49634551",
+          "sku_key": "50696854",
           "gender": "M",
-          "style_id": "3115374",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-traditional-fit-dress-shirt/3115374",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6276403.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
+          "style_id": "3143972",
+          "product_url": "http://shop.nordstrom.com/s/converse-jack-purcell-lp-slip-on-sneaker-men/3143972",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_6408518.jpg",
+          "description": "Sneaker",
+          "subclass_id": "353",
+          "class_id": "4",
+          "age_group": "A",
+          "purchase_date": "2011-07-26",
+          "percent_color": 0.33
+        },
+        {
+          "sku_key": "49745033",
+          "gender": "M",
+          "style_id": "3117138",
+          "product_url": "http://shop.nordstrom.com/s/1901-chino-shorts/3117138",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_6298282.jpg",
+          "description": "Short",
+          "subclass_id": "74",
+          "class_id": "23",
           "age_group": "A",
           "purchase_date": "2011-07-07",
-          "percent_color": 0.34
+          "percent_color": 1.01
         },
         {
-          "sku_key": "49650911",
+          "sku_key": "49745033",
           "gender": "M",
-          "style_id": "3114728",
-          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-dress-shirt/3114728",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6276423.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2011-07-08",
-          "percent_color": 0.5
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0364,
-      "weighted_count": 0.8400000000000001,
-      "percent": 3.6364
-    },
-    {
-      "name": "Dark Red",
-      "color_id": "60",
-      "rgb": [
-        139,
-        0,
-        0
-      ],
-      "rgb_string": "rgb(139,0,0)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "54291844",
-          "gender": "M",
-          "style_id": "3291987",
-          "product_url": "http://shop.nordstrom.com/s/nike-elite-basketball-crew-socks/3291987",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_7187522.jpg",
-          "description": "Socks",
-          "subclass_id": "254",
-          "class_id": "8",
-          "age_group": "A",
-          "purchase_date": "2012-12-21",
-          "percent_color": 0.18
-        },
-        {
-          "sku_key": "54291844",
-          "gender": "M",
-          "style_id": "3291987",
-          "product_url": "http://shop.nordstrom.com/s/nike-elite-basketball-crew-socks/3291987",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_7187522.jpg",
-          "description": "Socks",
-          "subclass_id": "254",
-          "class_id": "8",
-          "age_group": "A",
-          "purchase_date": "2013-04-16",
-          "percent_color": 0.18
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0364,
-      "weighted_count": 0.36,
-      "percent": 3.6364
-    },
-    {
-      "name": "Ghost White",
-      "color_id": "76",
-      "rgb": [
-        248,
-        248,
-        255
-      ],
-      "rgb_string": "rgb(248,248,255)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "49634551",
-          "gender": "M",
-          "style_id": "3115374",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-traditional-fit-dress-shirt/3115374",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6276403.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
+          "style_id": "3117138",
+          "product_url": "http://shop.nordstrom.com/s/1901-chino-shorts/3117138",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_6298282.jpg",
+          "description": "Short",
+          "subclass_id": "74",
+          "class_id": "23",
           "age_group": "A",
           "purchase_date": "2011-07-07",
-          "percent_color": 0.43
-        },
-        {
-          "sku_key": "56471140",
-          "gender": "M",
-          "style_id": "3474464",
-          "product_url": "http://shop.nordstrom.com/s/john-varvatos-star-usa-seersucker-blazer/3474464",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_7783638.jpg",
-          "description": "Blazer",
-          "subclass_id": "274",
-          "class_id": "272",
-          "age_group": "A",
-          "purchase_date": "2013-08-12",
-          "percent_color": 0.26
+          "percent_color": 1.01
         }
       ],
-      "count": 2,
-      "color_per_purchaes": 0.0364,
-      "weighted_count": 0.69,
-      "percent": 3.6364
+      "count": 3,
+      "color_per_purchaes": 0.1111,
+      "weighted_count": 2.35,
+      "percent": 11.1111
     },
     {
       "name": "Tan",
@@ -815,52 +362,52 @@
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0364,
+      "color_per_purchaes": 0.0741,
       "weighted_count": 0.76,
-      "percent": 3.6364
+      "percent": 7.4074
     },
     {
-      "name": "Dark Gray",
-      "color_id": "53",
+      "name": "Dark Red",
+      "color_id": "60",
       "rgb": [
-        169,
-        169,
-        169
+        139,
+        0,
+        0
       ],
-      "rgb_string": "rgb(169,169,169)",
+      "rgb_string": "rgb(139,0,0)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "47604651",
+          "sku_key": "54291844",
           "gender": "M",
-          "style_id": "3072169",
-          "product_url": "http://shop.nordstrom.com/s/public-opinion-canvas-chino-shorts/3072169",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_6073551.jpg",
-          "description": "Short",
-          "subclass_id": "74",
-          "class_id": "23",
+          "style_id": "3291987",
+          "product_url": "http://shop.nordstrom.com/s/nike-elite-basketball-crew-socks/3291987",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_7187522.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
           "age_group": "A",
-          "purchase_date": "2010-07-15",
-          "percent_color": 0.27
+          "purchase_date": "2012-12-21",
+          "percent_color": 0.18
         },
         {
-          "sku_key": "50696854",
+          "sku_key": "54291844",
           "gender": "M",
-          "style_id": "3143972",
-          "product_url": "http://shop.nordstrom.com/s/converse-jack-purcell-lp-slip-on-sneaker-men/3143972",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_6408518.jpg",
-          "description": "Sneaker",
-          "subclass_id": "353",
-          "class_id": "4",
+          "style_id": "3291987",
+          "product_url": "http://shop.nordstrom.com/s/nike-elite-basketball-crew-socks/3291987",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_7187522.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
           "age_group": "A",
-          "purchase_date": "2011-07-26",
+          "purchase_date": "2013-04-16",
           "percent_color": 0.18
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0364,
-      "weighted_count": 0.45,
-      "percent": 3.6364
+      "color_per_purchaes": 0.0741,
+      "weighted_count": 0.36,
+      "percent": 7.4074
     },
     {
       "name": "Midnight Blue",
@@ -901,9 +448,9 @@
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0364,
+      "color_per_purchaes": 0.0741,
       "weighted_count": 0.61,
-      "percent": 3.6364
+      "percent": 7.4074
     },
     {
       "name": "Green Yellow",
@@ -931,39 +478,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0182,
+      "color_per_purchaes": 0.037,
       "weighted_count": 0.19,
-      "percent": 1.8182
-    },
-    {
-      "name": "White Smoke",
-      "color_id": "170",
-      "rgb": [
-        245,
-        245,
-        245
-      ],
-      "rgb_string": "rgb(245,245,245)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "50460796",
-          "gender": "M",
-          "style_id": "3138166",
-          "product_url": "http://shop.nordstrom.com/s/toms-stonewashed-twill-slip-on-men/3138166",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_6371539.jpg",
-          "description": "Slipon",
-          "subclass_id": "301",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2011-02-15",
-          "percent_color": 0.48
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0182,
-      "weighted_count": 0.48,
-      "percent": 1.8182
+      "percent": 3.7037
     },
     {
       "name": "Brown",
@@ -991,9 +508,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0182,
+      "color_per_purchaes": 0.037,
       "weighted_count": 1.0,
-      "percent": 1.8182
+      "percent": 3.7037
     },
     {
       "name": "Light Steel Blue",
@@ -1021,13 +538,13 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0182,
+      "color_per_purchaes": 0.037,
       "weighted_count": 0.26,
-      "percent": 1.8182
+      "percent": 3.7037
     }
   ],
-  "start_date": "2008-12-07",
-  "end_date": "2013-12-21",
-  "total_purchases": 55,
-  "total_colors": 18
+  "start_date": "2010-07-15",
+  "end_date": "2013-06-14",
+  "total_purchases": 27,
+  "total_colors": 11
 }

@@ -5,62 +5,6 @@
   "gender": "M",
   "colors": [
     {
-      "name": "Black",
-      "color_id": "36",
-      "rgb": [
-        0,
-        0,
-        0
-      ],
-      "rgb_string": "rgb(0,0,0)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "52802033",
-          "gender": "M",
-          "style_id": "3234096",
-          "product_url": "http://shop.nordstrom.com/s/diesel-nstarr-service-belt/3234096",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_6703789.jpg",
-          "description": "Belts",
-          "subclass_id": "82",
-          "class_id": "19",
-          "age_group": "A",
-          "purchase_date": "2012-07-27",
-          "percent_color": 0.18
-        },
-        {
-          "sku_key": "52802033",
-          "gender": "M",
-          "style_id": "3234096",
-          "product_url": "http://shop.nordstrom.com/s/diesel-nstarr-service-belt/3234096",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_6703789.jpg",
-          "description": "Belts",
-          "subclass_id": "82",
-          "class_id": "19",
-          "age_group": "A",
-          "purchase_date": "2012-07-27",
-          "percent_color": 0.83
-        },
-        {
-          "sku_key": "53239463",
-          "gender": "M",
-          "style_id": "3254429",
-          "product_url": "http://shop.nordstrom.com/s/public-opinion-trim-fit-herringbone-plaid-shirt/3254429",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6973861.jpg",
-          "description": "Shirt",
-          "subclass_id": "227",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2012-09-04",
-          "percent_color": 0.52
-        }
-      ],
-      "count": 3,
-      "color_per_purchaes": 0.75,
-      "weighted_count": 1.53,
-      "percent": 75.0
-    },
-    {
       "name": "Dark Slate Gray",
       "color_id": "64",
       "rgb": [
@@ -86,13 +30,13 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.25,
+      "color_per_purchaes": 1.0,
       "weighted_count": 0.22,
-      "percent": 25.0
+      "percent": 100.0
     }
   ],
-  "start_date": "2012-07-27",
+  "start_date": "2012-09-04",
   "end_date": "2012-09-04",
-  "total_purchases": 4,
-  "total_colors": 2
+  "total_purchases": 1,
+  "total_colors": 1
 }

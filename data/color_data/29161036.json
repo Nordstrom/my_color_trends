@@ -5,105 +5,6 @@
   "gender": "M",
   "colors": [
     {
-      "name": "Black",
-      "color_id": "36",
-      "rgb": [
-        0,
-        0,
-        0
-      ],
-      "rgb_string": "rgb(0,0,0)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "51527299",
-          "gender": "M",
-          "style_id": "3094981",
-          "product_url": "http://shop.nordstrom.com/s/the-north-face-tka-100-fleece-pants/3094981",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6178420.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-01-07",
-          "percent_color": 0.87
-        },
-        {
-          "sku_key": "51459148",
-          "gender": "M",
-          "style_id": "3170721",
-          "product_url": "http://shop.nordstrom.com/s/toms-classic-woolen-slip-on-men/3170721",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_6634698.jpg",
-          "description": "Slipon",
-          "subclass_id": "301",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2011-11-06",
-          "percent_color": 0.45
-        },
-        {
-          "sku_key": "51459148",
-          "gender": "M",
-          "style_id": "3170721",
-          "product_url": "http://shop.nordstrom.com/s/toms-classic-woolen-slip-on-men/3170721",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_6634698.jpg",
-          "description": "Slipon",
-          "subclass_id": "301",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2011-11-06",
-          "percent_color": 0.55
-        },
-        {
-          "sku_key": "52084719",
-          "gender": "M",
-          "style_id": "3071622",
-          "product_url": "http://shop.nordstrom.com/s/toms-stitchout-slip-on-men/3071622",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6147221.jpg",
-          "description": "Slipon",
-          "subclass_id": "301",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2012-08-30",
-          "percent_color": 0.77
-        }
-      ],
-      "count": 4,
-      "color_per_purchaes": 0.6667,
-      "weighted_count": 2.64,
-      "percent": 66.6667
-    },
-    {
-      "name": "White Smoke",
-      "color_id": "170",
-      "rgb": [
-        245,
-        245,
-        245
-      ],
-      "rgb_string": "rgb(245,245,245)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "51269730",
-          "gender": "M",
-          "style_id": "3085308",
-          "product_url": "http://shop.nordstrom.com/s/the-north-face-tka-100-microvelour-glacier-quarter-zip-fleece-pullover/3085308",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_8474797.jpg",
-          "description": "Sweatshirt/Hoody/Zipfront",
-          "subclass_id": "268",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2012-01-17",
-          "percent_color": 0.86
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.1667,
-      "weighted_count": 0.86,
-      "percent": 16.6667
-    },
-    {
       "name": "Maroon",
       "color_id": "112",
       "rgb": [
@@ -129,13 +30,13 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.1667,
+      "color_per_purchaes": 1.0,
       "weighted_count": 0.16,
-      "percent": 16.6667
+      "percent": 100.0
     }
   ],
-  "start_date": "2011-11-06",
-  "end_date": "2013-01-07",
-  "total_purchases": 6,
-  "total_colors": 3
+  "start_date": "2012-08-30",
+  "end_date": "2012-08-30",
+  "total_purchases": 1,
+  "total_colors": 1
 }

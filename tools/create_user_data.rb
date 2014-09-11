@@ -48,7 +48,7 @@ def add_purchase color, csv
 end
 
 def weight color
-  color["grayscale"] ? 0.2 : 1.0
+  color["grayscale"] == "t" ? 0.2 : 1.0
 end
 
 def process_color color, total_purchases, total_colors
@@ -87,6 +87,10 @@ end
 
 CSV.foreach(input_filename, { :col_sep => "\t", :headers => true }) do |csv|
   color_id = clean_name(csv["color_name"])
+  keep = csv["grayscale"] == "f"
+  if !keep
+    next
+  end
   if !users[csv["CUST_KEY"]]
     users[csv["CUST_KEY"]] = {"id" => csv["CUST_KEY"], "first_name" => csv["FIRST"], "last_name" =>csv["LAST"],"gender" => csv['sex'],"colors" => {}}
   end

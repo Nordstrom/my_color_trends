@@ -5,396 +5,34 @@
   "gender": "M",
   "colors": [
     {
-      "name": "Black",
-      "color_id": "36",
+      "name": "Dodger Blue",
+      "color_id": "70",
       "rgb": [
-        0,
-        0,
-        0
+        30,
+        144,
+        255
       ],
-      "rgb_string": "rgb(0,0,0)",
+      "rgb_string": "rgb(30,144,255)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "53571433",
+          "sku_key": "57293275",
           "gender": "M",
-          "style_id": "3174099",
-          "product_url": "http://shop.nordstrom.com/s/ecco-remote-lace-up-oxford/3174099",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_6610359.jpg",
-          "description": "Sneaker",
-          "subclass_id": "353",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2013-01-29",
-          "percent_color": 0.29
-        },
-        {
-          "sku_key": "53571433",
-          "gender": "M",
-          "style_id": "3174099",
-          "product_url": "http://shop.nordstrom.com/s/ecco-remote-lace-up-oxford/3174099",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_6610359.jpg",
-          "description": "Sneaker",
-          "subclass_id": "353",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2013-01-29",
-          "percent_color": 0.62
-        },
-        {
-          "sku_key": "47214640",
-          "gender": "M",
-          "style_id": "3084258",
-          "product_url": "http://shop.nordstrom.com/s/cole-haan-air-garrett-cap-toe-oxford/3084258",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_8245388.jpg",
-          "description": "Oxfords",
-          "subclass_id": "217",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2013-12-10",
-          "percent_color": 0.46
-        },
-        {
-          "sku_key": "47214640",
-          "gender": "M",
-          "style_id": "3084258",
-          "product_url": "http://shop.nordstrom.com/s/cole-haan-air-garrett-cap-toe-oxford/3084258",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_8245388.jpg",
-          "description": "Oxfords",
-          "subclass_id": "217",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2013-12-10",
-          "percent_color": 0.53
-        },
-        {
-          "sku_key": "52135893",
-          "gender": "M",
-          "style_id": "3198534",
-          "product_url": "http://shop.nordstrom.com/s/movado-museum-bracelet-watch/3198534",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6560640.jpg",
-          "description": "Watch",
-          "subclass_id": "245",
-          "class_id": "6",
-          "age_group": "A",
-          "purchase_date": "2013-12-11",
-          "percent_color": 0.26
-        },
-        {
-          "sku_key": "52135893",
-          "gender": "M",
-          "style_id": "3198534",
-          "product_url": "http://shop.nordstrom.com/s/movado-museum-bracelet-watch/3198534",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6560640.jpg",
-          "description": "Watch",
-          "subclass_id": "245",
-          "class_id": "6",
-          "age_group": "A",
-          "purchase_date": "2013-12-11",
-          "percent_color": 0.2
-        },
-        {
-          "sku_key": "53782270",
-          "gender": "M",
-          "style_id": "3287283",
-          "product_url": "http://shop.nordstrom.com/s/the-north-face-apex-elevation-jacket/3287283",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7227657.jpg",
-          "description": "ShortJacket/Coat",
-          "subclass_id": "283",
-          "class_id": "3",
-          "age_group": "A",
-          "purchase_date": "2012-12-02",
-          "percent_color": 0.6
-        },
-        {
-          "sku_key": "53782270",
-          "gender": "M",
-          "style_id": "3287283",
-          "product_url": "http://shop.nordstrom.com/s/the-north-face-apex-elevation-jacket/3287283",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7227657.jpg",
-          "description": "ShortJacket/Coat",
-          "subclass_id": "283",
-          "class_id": "3",
-          "age_group": "A",
-          "purchase_date": "2012-12-02",
-          "percent_color": 0.42
-        },
-        {
-          "sku_key": "56502243",
-          "gender": "M",
-          "style_id": "3255436",
-          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-non-iron-dress-shirt/3255436",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_7090178.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-12-08",
-          "percent_color": 1.01
-        },
-        {
-          "sku_key": "53462724",
-          "gender": "M",
-          "style_id": "3255436",
-          "product_url": "http://shop.nordstrom.com/s/calibrate-trim-fit-non-iron-dress-shirt/3255436",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_7090178.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-12-08",
-          "percent_color": 0.99
-        },
-        {
-          "sku_key": "53334285",
-          "gender": "M",
-          "style_id": "3085308",
-          "product_url": "http://shop.nordstrom.com/s/the-north-face-tka-100-microvelour-glacier-quarter-zip-fleece-pullover/3085308",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_8474797.jpg",
+          "style_id": "3536348",
+          "product_url": "http://shop.nordstrom.com/s/lacoste-jersey-hoodie/3536348",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_8067417.jpg",
           "description": "Sweatshirt/Hoody/Zipfront",
           "subclass_id": "268",
           "class_id": "12",
           "age_group": "A",
-          "purchase_date": "2013-12-08",
-          "percent_color": 1.01
-        },
-        {
-          "sku_key": "51527305",
-          "gender": "M",
-          "style_id": "3094981",
-          "product_url": "http://shop.nordstrom.com/s/the-north-face-tka-100-fleece-pants/3094981",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6178420.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-12-08",
-          "percent_color": 0.87
-        },
-        {
-          "sku_key": "56571242",
-          "gender": "M",
-          "style_id": "3482475",
-          "product_url": "http://shop.nordstrom.com/s/the-north-face-chimborazo-fleece-hoodie/3482475",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_7907907.jpg",
-          "description": "ShortJacket/Coat",
-          "subclass_id": "283",
-          "class_id": "3",
-          "age_group": "A",
-          "purchase_date": "2013-08-05",
-          "percent_color": 0.36
-        }
-      ],
-      "count": 13,
-      "color_per_purchaes": 0.4643,
-      "weighted_count": 7.620000000000001,
-      "percent": 46.4286
-    },
-    {
-      "name": "Dim Gray",
-      "color_id": "69",
-      "rgb": [
-        105,
-        105,
-        105
-      ],
-      "rgb_string": "rgb(105,105,105)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "55290233",
-          "gender": "M",
-          "style_id": "3385566",
-          "product_url": "http://shop.nordstrom.com/s/ecco-costa-slide-men/3385566",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_7759186.jpg",
-          "description": "Sandals/Slides",
-          "subclass_id": "299",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2013-07-25",
-          "percent_color": 0.83
-        },
-        {
-          "sku_key": "56571242",
-          "gender": "M",
-          "style_id": "3482475",
-          "product_url": "http://shop.nordstrom.com/s/the-north-face-chimborazo-fleece-hoodie/3482475",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_7907907.jpg",
-          "description": "ShortJacket/Coat",
-          "subclass_id": "283",
-          "class_id": "3",
-          "age_group": "A",
-          "purchase_date": "2013-08-05",
-          "percent_color": 0.53
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0714,
-      "weighted_count": 1.3599999999999999,
-      "percent": 7.1429
-    },
-    {
-      "name": "Lavender",
-      "color_id": "90",
-      "rgb": [
-        230,
-        230,
-        250
-      ],
-      "rgb_string": "rgb(230,230,250)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "57511917",
-          "gender": "M",
-          "style_id": "3554561",
-          "product_url": "http://shop.nordstrom.com/s/lacoste-pima-cotton-henley/3554561",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_8304586.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2014-01-14",
-          "percent_color": 0.41
-        },
-        {
-          "sku_key": "51586912",
-          "gender": "M",
-          "style_id": "3176078",
-          "product_url": "http://shop.nordstrom.com/s/boss-hugo-boss-regular-fit-dress-shirt/3176078",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_7116896.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-08-20",
-          "percent_color": 0.36
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0714,
-      "weighted_count": 0.77,
-      "percent": 7.1429
-    },
-    {
-      "name": "White Smoke",
-      "color_id": "170",
-      "rgb": [
-        245,
-        245,
-        245
-      ],
-      "rgb_string": "rgb(245,245,245)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "52135893",
-          "gender": "M",
-          "style_id": "3198534",
-          "product_url": "http://shop.nordstrom.com/s/movado-museum-bracelet-watch/3198534",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6560640.jpg",
-          "description": "Watch",
-          "subclass_id": "245",
-          "class_id": "6",
-          "age_group": "A",
-          "purchase_date": "2013-12-11",
-          "percent_color": 0.33
+          "purchase_date": "2014-01-12",
+          "percent_color": 0.79
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0357,
-      "weighted_count": 0.33,
-      "percent": 3.5714
-    },
-    {
-      "name": "Dark Gray",
-      "color_id": "53",
-      "rgb": [
-        169,
-        169,
-        169
-      ],
-      "rgb_string": "rgb(169,169,169)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "57511917",
-          "gender": "M",
-          "style_id": "3554561",
-          "product_url": "http://shop.nordstrom.com/s/lacoste-pima-cotton-henley/3554561",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_8304586.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2014-01-14",
-          "percent_color": 0.19
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0357,
-      "weighted_count": 0.19,
-      "percent": 3.5714
-    },
-    {
-      "name": "Dark Slate Blue",
-      "color_id": "63",
-      "rgb": [
-        72,
-        61,
-        139
-      ],
-      "rgb_string": "rgb(72,61,139)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "57511930",
-          "gender": "M",
-          "style_id": "3554561",
-          "product_url": "http://shop.nordstrom.com/s/lacoste-pima-cotton-henley/3554561",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_8304586.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2014-01-14",
-          "percent_color": 0.8
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0357,
-      "weighted_count": 0.8,
-      "percent": 3.5714
-    },
-    {
-      "name": "Silver",
-      "color_id": "155",
-      "rgb": [
-        192,
-        192,
-        192
-      ],
-      "rgb_string": "rgb(192,192,192)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "57511917",
-          "gender": "M",
-          "style_id": "3554561",
-          "product_url": "http://shop.nordstrom.com/s/lacoste-pima-cotton-henley/3554561",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_8304586.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2014-01-14",
-          "percent_color": 0.18
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0357,
-      "weighted_count": 0.18,
-      "percent": 3.5714
+      "color_per_purchaes": 0.1667,
+      "weighted_count": 0.79,
+      "percent": 16.6667
     },
     {
       "name": "Royal Blue",
@@ -422,37 +60,39 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0357,
+      "color_per_purchaes": 0.1667,
       "weighted_count": 0.21,
-      "percent": 3.5714
+      "percent": 16.6667
     },
     {
-      "name": "NA",
-      "color_id": "NA",
+      "name": "Dark Slate Blue",
+      "color_id": "63",
       "rgb": [
-        0
+        72,
+        61,
+        139
       ],
-      "rgb_string": "rgb(0)",
+      "rgb_string": "rgb(72,61,139)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "54616321",
+          "sku_key": "57511930",
           "gender": "M",
-          "style_id": "3335405",
-          "product_url": "http://shop.nordstrom.com/s/cartier-declaration-eau-de-toilette-sample/3335405",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_7325574.jpg",
-          "description": "BeautySample",
-          "subclass_id": "357",
-          "class_id": "261",
+          "style_id": "3554561",
+          "product_url": "http://shop.nordstrom.com/s/lacoste-pima-cotton-henley/3554561",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_8304586.jpg",
+          "description": "T-shirt/Tee",
+          "subclass_id": "205",
+          "class_id": "12",
           "age_group": "A",
-          "purchase_date": "2012-12-02",
-          "percent_color": 0.0
+          "purchase_date": "2014-01-14",
+          "percent_color": 0.8
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0357,
-      "weighted_count": 0.0,
-      "percent": 3.5714
+      "color_per_purchaes": 0.1667,
+      "weighted_count": 0.8,
+      "percent": 16.6667
     },
     {
       "name": "Midnight Blue",
@@ -480,9 +120,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0357,
+      "color_per_purchaes": 0.1667,
       "weighted_count": 0.58,
-      "percent": 3.5714
+      "percent": 16.6667
     },
     {
       "name": "Dark Slate Gray",
@@ -510,69 +150,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0357,
+      "color_per_purchaes": 0.1667,
       "weighted_count": 0.36,
-      "percent": 3.5714
-    },
-    {
-      "name": "Dodger Blue",
-      "color_id": "70",
-      "rgb": [
-        30,
-        144,
-        255
-      ],
-      "rgb_string": "rgb(30,144,255)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "57293275",
-          "gender": "M",
-          "style_id": "3536348",
-          "product_url": "http://shop.nordstrom.com/s/lacoste-jersey-hoodie/3536348",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_8067417.jpg",
-          "description": "Sweatshirt/Hoody/Zipfront",
-          "subclass_id": "268",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2014-01-12",
-          "percent_color": 0.79
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0357,
-      "weighted_count": 0.79,
-      "percent": 3.5714
-    },
-    {
-      "name": "Gray",
-      "color_id": "80",
-      "rgb": [
-        128,
-        128,
-        128
-      ],
-      "rgb_string": "rgb(128,128,128)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "55290233",
-          "gender": "M",
-          "style_id": "3385566",
-          "product_url": "http://shop.nordstrom.com/s/ecco-costa-slide-men/3385566",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_7759186.jpg",
-          "description": "Sandals/Slides",
-          "subclass_id": "299",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2013-07-25",
-          "percent_color": 0.18
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0357,
-      "weighted_count": 0.18,
-      "percent": 3.5714
+      "percent": 16.6667
     },
     {
       "name": "Light Steel Blue",
@@ -600,13 +180,13 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0357,
+      "color_per_purchaes": 0.1667,
       "weighted_count": 0.48,
-      "percent": 3.5714
+      "percent": 16.6667
     }
   ],
-  "start_date": "2012-12-02",
+  "start_date": "2013-08-20",
   "end_date": "2014-01-14",
-  "total_purchases": 28,
-  "total_colors": 14
+  "total_purchases": 6,
+  "total_colors": 6
 }

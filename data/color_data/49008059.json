@@ -5,313 +5,6 @@
   "gender": "M",
   "colors": [
     {
-      "name": "Black",
-      "color_id": "36",
-      "rgb": [
-        0,
-        0,
-        0
-      ],
-      "rgb_string": "rgb(0,0,0)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "52289308",
-          "gender": "M",
-          "style_id": "3171640",
-          "product_url": "http://shop.nordstrom.com/s/reebok-realflex-running-shoe-men/3171640",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6444381.jpg",
-          "description": "Athletic",
-          "subclass_id": "224",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2011-10-05",
-          "percent_color": 0.23
-        },
-        {
-          "sku_key": "54940398",
-          "gender": "M",
-          "style_id": "3357879",
-          "product_url": "http://shop.nordstrom.com/s/robert-graham-crown-long-sleeve-t-shirt/3357879",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_7251699.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2012-10-05",
-          "percent_color": 0.37
-        },
-        {
-          "sku_key": "48656920",
-          "gender": "M",
-          "style_id": "3104109",
-          "product_url": "http://shop.nordstrom.com/s/boss-black-chester-regular-fit-wool-blend-coat/3104109",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6657754.jpg",
-          "description": "ShortJacket/Coat",
-          "subclass_id": "283",
-          "class_id": "3",
-          "age_group": "A",
-          "purchase_date": "2011-12-29",
-          "percent_color": 0.96
-        },
-        {
-          "sku_key": "48656923",
-          "gender": "M",
-          "style_id": "3104109",
-          "product_url": "http://shop.nordstrom.com/s/boss-black-chester-regular-fit-wool-blend-coat/3104109",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6657754.jpg",
-          "description": "ShortJacket/Coat",
-          "subclass_id": "283",
-          "class_id": "3",
-          "age_group": "A",
-          "purchase_date": "2011-12-30",
-          "percent_color": 0.96
-        },
-        {
-          "sku_key": "52037748",
-          "gender": "M",
-          "style_id": "3194361",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-double-overcheck-socks/3194361",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6571317.jpg",
-          "description": "Socks",
-          "subclass_id": "254",
-          "class_id": "8",
-          "age_group": "A",
-          "purchase_date": "2012-03-13",
-          "percent_color": 0.27
-        },
-        {
-          "sku_key": "52037748",
-          "gender": "M",
-          "style_id": "3194361",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-double-overcheck-socks/3194361",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6571317.jpg",
-          "description": "Socks",
-          "subclass_id": "254",
-          "class_id": "8",
-          "age_group": "A",
-          "purchase_date": "2012-03-13",
-          "percent_color": 0.72
-        },
-        {
-          "sku_key": "50994198",
-          "gender": "M",
-          "style_id": "3181560",
-          "product_url": "http://shop.nordstrom.com/s/remo-tulliani-lido-glazed-leather-belt/3181560",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6506014.jpg",
-          "description": "Belts",
-          "subclass_id": "82",
-          "class_id": "19",
-          "age_group": "A",
-          "purchase_date": "2012-03-13",
-          "percent_color": 0.79
-        },
-        {
-          "sku_key": "52411959",
-          "gender": "M",
-          "style_id": "3212512",
-          "product_url": "http://shop.nordstrom.com/s/calibrate-european-diagonal-stripe-socks/3212512",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6792296.jpg",
-          "description": "Socks",
-          "subclass_id": "254",
-          "class_id": "8",
-          "age_group": "A",
-          "purchase_date": "2012-03-13",
-          "percent_color": 0.42
-        },
-        {
-          "sku_key": "52411959",
-          "gender": "M",
-          "style_id": "3212512",
-          "product_url": "http://shop.nordstrom.com/s/calibrate-european-diagonal-stripe-socks/3212512",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6792296.jpg",
-          "description": "Socks",
-          "subclass_id": "254",
-          "class_id": "8",
-          "age_group": "A",
-          "purchase_date": "2012-03-13",
-          "percent_color": 0.57
-        },
-        {
-          "sku_key": "50994198",
-          "gender": "M",
-          "style_id": "3181560",
-          "product_url": "http://shop.nordstrom.com/s/remo-tulliani-lido-glazed-leather-belt/3181560",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6506014.jpg",
-          "description": "Belts",
-          "subclass_id": "82",
-          "class_id": "19",
-          "age_group": "A",
-          "purchase_date": "2012-03-13",
-          "percent_color": 0.22
-        },
-        {
-          "sku_key": "52410918",
-          "gender": "M",
-          "style_id": "3212465",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-cushion-foot-socks/3212465",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_6734139.jpg",
-          "description": "Socks",
-          "subclass_id": "254",
-          "class_id": "8",
-          "age_group": "A",
-          "purchase_date": "2012-03-13",
-          "percent_color": 0.53
-        },
-        {
-          "sku_key": "55837561",
-          "gender": "M",
-          "style_id": "3387372",
-          "product_url": "http://shop.nordstrom.com/s/the-rail-football-t-shirt/3387372",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_8033714.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-07-28",
-          "percent_color": 0.27
-        },
-        {
-          "sku_key": "35050270",
-          "gender": "M",
-          "style_id": "2885305",
-          "product_url": "http://shop.nordstrom.com/s/boss-hugo-boss-jeffrey-us-flat-front-wool-trousers/2885305",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_7856489.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2010-07-31",
-          "percent_color": 1.01
-        },
-        {
-          "sku_key": "35050270",
-          "gender": "M",
-          "style_id": "2885305",
-          "product_url": "http://shop.nordstrom.com/s/boss-hugo-boss-jeffrey-us-flat-front-wool-trousers/2885305",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_7856489.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2010-07-31",
-          "percent_color": 1.01
-        },
-        {
-          "sku_key": "48343923",
-          "gender": "M",
-          "style_id": "3143491",
-          "product_url": "http://shop.nordstrom.com/s/louis-raphael-flat-front-merino-wool-trousers/3143491",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6298117.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-07-07",
-          "percent_color": 0.49
-        }
-      ],
-      "count": 15,
-      "color_per_purchaes": 0.3061,
-      "weighted_count": 8.82,
-      "percent": 30.6122
-    },
-    {
-      "name": "Gray",
-      "color_id": "80",
-      "rgb": [
-        128,
-        128,
-        128
-      ],
-      "rgb_string": "rgb(128,128,128)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "57716171",
-          "gender": "M",
-          "style_id": "3569410",
-          "product_url": "http://shop.nordstrom.com/s/john-varvatos-star-usa-grey-tweed-sportcoat/3569410",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_8411738.jpg",
-          "description": "Blazer",
-          "subclass_id": "274",
-          "class_id": "272",
-          "age_group": "A",
-          "purchase_date": "2013-12-27",
-          "percent_color": 0.28
-        },
-        {
-          "sku_key": "45537430",
-          "gender": "M",
-          "style_id": "3073729",
-          "product_url": "http://shop.nordstrom.com/s/wicked-quick-oil-wash-trim-fit-crewneck-t-shirt/3073729",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_5977948.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2010-03-18",
-          "percent_color": 0.38
-        },
-        {
-          "sku_key": "52573368",
-          "gender": "M",
-          "style_id": "3117091",
-          "product_url": "http://shop.nordstrom.com/s/the-rail-trim-fit-crewneck-t-shirt-2-for-30/3117091",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_8248220.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2012-06-11",
-          "percent_color": 0.52
-        },
-        {
-          "sku_key": "53431310",
-          "gender": "M",
-          "style_id": "3064161",
-          "product_url": "http://shop.nordstrom.com/s/the-rail-trim-fit-v-neck-t-shirt-2-for-30/3064161",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_6597984.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2012-07-24",
-          "percent_color": 0.3
-        },
-        {
-          "sku_key": "55837561",
-          "gender": "M",
-          "style_id": "3387372",
-          "product_url": "http://shop.nordstrom.com/s/the-rail-football-t-shirt/3387372",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_8033714.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-07-28",
-          "percent_color": 0.27
-        },
-        {
-          "sku_key": "55825223",
-          "gender": "M",
-          "style_id": "3117091",
-          "product_url": "http://shop.nordstrom.com/s/the-rail-trim-fit-crewneck-t-shirt-2-for-30/3117091",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_8248220.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-07-28",
-          "percent_color": 0.43
-        }
-      ],
-      "count": 6,
-      "color_per_purchaes": 0.1224,
-      "weighted_count": 2.18,
-      "percent": 12.2449
-    },
-    {
       "name": "Light Steel Blue",
       "color_id": "105",
       "rgb": [
@@ -389,147 +82,9 @@
         }
       ],
       "count": 5,
-      "color_per_purchaes": 0.102,
+      "color_per_purchaes": 0.2941,
       "weighted_count": 4.13,
-      "percent": 10.2041
-    },
-    {
-      "name": "Dark Gray",
-      "color_id": "53",
-      "rgb": [
-        169,
-        169,
-        169
-      ],
-      "rgb_string": "rgb(169,169,169)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "45537430",
-          "gender": "M",
-          "style_id": "3073729",
-          "product_url": "http://shop.nordstrom.com/s/wicked-quick-oil-wash-trim-fit-crewneck-t-shirt/3073729",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_5977948.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2010-03-18",
-          "percent_color": 0.44
-        },
-        {
-          "sku_key": "52573368",
-          "gender": "M",
-          "style_id": "3117091",
-          "product_url": "http://shop.nordstrom.com/s/the-rail-trim-fit-crewneck-t-shirt-2-for-30/3117091",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_8248220.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2012-06-11",
-          "percent_color": 0.45
-        },
-        {
-          "sku_key": "53431310",
-          "gender": "M",
-          "style_id": "3064161",
-          "product_url": "http://shop.nordstrom.com/s/the-rail-trim-fit-v-neck-t-shirt-2-for-30/3064161",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_6597984.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2012-07-24",
-          "percent_color": 0.68
-        },
-        {
-          "sku_key": "55837561",
-          "gender": "M",
-          "style_id": "3387372",
-          "product_url": "http://shop.nordstrom.com/s/the-rail-football-t-shirt/3387372",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_8033714.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-07-28",
-          "percent_color": 0.26
-        }
-      ],
-      "count": 4,
-      "color_per_purchaes": 0.0816,
-      "weighted_count": 1.83,
-      "percent": 8.1633
-    },
-    {
-      "name": "Dim Gray",
-      "color_id": "69",
-      "rgb": [
-        105,
-        105,
-        105
-      ],
-      "rgb_string": "rgb(105,105,105)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "54940398",
-          "gender": "M",
-          "style_id": "3357879",
-          "product_url": "http://shop.nordstrom.com/s/robert-graham-crown-long-sleeve-t-shirt/3357879",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_7251699.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2012-10-05",
-          "percent_color": 0.6
-        },
-        {
-          "sku_key": "57716171",
-          "gender": "M",
-          "style_id": "3569410",
-          "product_url": "http://shop.nordstrom.com/s/john-varvatos-star-usa-grey-tweed-sportcoat/3569410",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_8411738.jpg",
-          "description": "Blazer",
-          "subclass_id": "274",
-          "class_id": "272",
-          "age_group": "A",
-          "purchase_date": "2013-12-27",
-          "percent_color": 0.58
-        },
-        {
-          "sku_key": "55837561",
-          "gender": "M",
-          "style_id": "3387372",
-          "product_url": "http://shop.nordstrom.com/s/the-rail-football-t-shirt/3387372",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_8033714.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-07-28",
-          "percent_color": 0.18
-        },
-        {
-          "sku_key": "48343923",
-          "gender": "M",
-          "style_id": "3143491",
-          "product_url": "http://shop.nordstrom.com/s/louis-raphael-flat-front-merino-wool-trousers/3143491",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6298117.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-07-07",
-          "percent_color": 0.53
-        }
-      ],
-      "count": 4,
-      "color_per_purchaes": 0.0816,
-      "weighted_count": 1.89,
-      "percent": 8.1633
+      "percent": 29.4118
     },
     {
       "name": "Dark Slate Blue",
@@ -583,52 +138,9 @@
         }
       ],
       "count": 3,
-      "color_per_purchaes": 0.0612,
+      "color_per_purchaes": 0.1765,
       "weighted_count": 2.13,
-      "percent": 6.1224
-    },
-    {
-      "name": "Light Slate Gray",
-      "color_id": "104",
-      "rgb": [
-        119,
-        136,
-        153
-      ],
-      "rgb_string": "rgb(119,136,153)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "56906299",
-          "gender": "M",
-          "style_id": "3514331",
-          "product_url": "http://shop.nordstrom.com/s/robert-graham-bali-t-shirt/3514331",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_8180799.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2014-01-10",
-          "percent_color": 0.23
-        },
-        {
-          "sku_key": "52410918",
-          "gender": "M",
-          "style_id": "3212465",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-cushion-foot-socks/3212465",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_6734139.jpg",
-          "description": "Socks",
-          "subclass_id": "254",
-          "class_id": "8",
-          "age_group": "A",
-          "purchase_date": "2012-03-13",
-          "percent_color": 0.16
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0408,
-      "weighted_count": 0.39,
-      "percent": 4.0816
+      "percent": 17.6471
     },
     {
       "name": "Cornflower",
@@ -669,9 +181,52 @@
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0408,
+      "color_per_purchaes": 0.1176,
       "weighted_count": 1.09,
-      "percent": 4.0816
+      "percent": 11.7647
+    },
+    {
+      "name": "Light Slate Gray",
+      "color_id": "104",
+      "rgb": [
+        119,
+        136,
+        153
+      ],
+      "rgb_string": "rgb(119,136,153)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "56906299",
+          "gender": "M",
+          "style_id": "3514331",
+          "product_url": "http://shop.nordstrom.com/s/robert-graham-bali-t-shirt/3514331",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_8180799.jpg",
+          "description": "T-shirt/Tee",
+          "subclass_id": "205",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2014-01-10",
+          "percent_color": 0.23
+        },
+        {
+          "sku_key": "52410918",
+          "gender": "M",
+          "style_id": "3212465",
+          "product_url": "http://shop.nordstrom.com/s/nordstrom-cushion-foot-socks/3212465",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_6734139.jpg",
+          "description": "Socks",
+          "subclass_id": "254",
+          "class_id": "8",
+          "age_group": "A",
+          "purchase_date": "2012-03-13",
+          "percent_color": 0.16
+        }
+      ],
+      "count": 2,
+      "color_per_purchaes": 0.1176,
+      "weighted_count": 0.39,
+      "percent": 11.7647
     },
     {
       "name": "Sky Blue",
@@ -699,97 +254,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0204,
+      "color_per_purchaes": 0.0588,
       "weighted_count": 0.81,
-      "percent": 2.0408
-    },
-    {
-      "name": "NA",
-      "color_id": "NA",
-      "rgb": [
-        0
-      ],
-      "rgb_string": "rgb(0)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "57181651",
-          "gender": "M",
-          "style_id": "3526638",
-          "product_url": "http://shop.nordstrom.com/s/1901-trim-fit-dress-shirt/3526638",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_8626649.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2014-01-10",
-          "percent_color": 0.0
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0204,
-      "weighted_count": 0.0,
-      "percent": 2.0408
-    },
-    {
-      "name": "Gainsboro",
-      "color_id": "75",
-      "rgb": [
-        220,
-        220,
-        220
-      ],
-      "rgb_string": "rgb(220,220,220)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "54740475",
-          "gender": "M",
-          "style_id": "3344559",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-smartcare-trim-fit-dress-shirt/3344559",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_8003156.jpg",
-          "description": "Dress-shirt",
-          "subclass_id": "52",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2014-01-10",
-          "percent_color": 0.91
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0204,
-      "weighted_count": 0.91,
-      "percent": 2.0408
-    },
-    {
-      "name": "White Smoke",
-      "color_id": "170",
-      "rgb": [
-        245,
-        245,
-        245
-      ],
-      "rgb_string": "rgb(245,245,245)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "52289308",
-          "gender": "M",
-          "style_id": "3171640",
-          "product_url": "http://shop.nordstrom.com/s/reebok-realflex-running-shoe-men/3171640",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6444381.jpg",
-          "description": "Athletic",
-          "subclass_id": "224",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2011-10-05",
-          "percent_color": 0.44
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0204,
-      "weighted_count": 0.44,
-      "percent": 2.0408
+      "percent": 5.8824
     },
     {
       "name": "Cadet Blue",
@@ -817,9 +284,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0204,
+      "color_per_purchaes": 0.0588,
       "weighted_count": 0.19,
-      "percent": 2.0408
+      "percent": 5.8824
     },
     {
       "name": "Steel Blue",
@@ -847,9 +314,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0204,
+      "color_per_purchaes": 0.0588,
       "weighted_count": 0.93,
-      "percent": 2.0408
+      "percent": 5.8824
     },
     {
       "name": "Dark Olive Green",
@@ -877,9 +344,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0204,
+      "color_per_purchaes": 0.0588,
       "weighted_count": 0.15,
-      "percent": 2.0408
+      "percent": 5.8824
     },
     {
       "name": "Dark Sea Green",
@@ -907,13 +374,13 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0204,
+      "color_per_purchaes": 0.0588,
       "weighted_count": 0.42,
-      "percent": 2.0408
+      "percent": 5.8824
     }
   ],
-  "start_date": "2010-03-18",
+  "start_date": "2012-03-13",
   "end_date": "2014-01-10",
-  "total_purchases": 49,
-  "total_colors": 16
+  "total_purchases": 17,
+  "total_colors": 9
 }

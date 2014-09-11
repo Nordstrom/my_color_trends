@@ -5,442 +5,6 @@
   "gender": "F",
   "colors": [
     {
-      "name": "Black",
-      "color_id": "173",
-      "rgb": [
-        46,
-        45,
-        50
-      ],
-      "rgb_string": "rgb(46,45,50)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "54425404",
-          "gender": "F",
-          "style_id": "3323940",
-          "product_url": "http://shop.nordstrom.com/s/marni-crop-straight-leg-brocade-pants/3323940",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_7013321.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-01-13",
-          "percent_color": 0.17
-        },
-        {
-          "sku_key": "54425404",
-          "gender": "F",
-          "style_id": "3323940",
-          "product_url": "http://shop.nordstrom.com/s/marni-crop-straight-leg-brocade-pants/3323940",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_7013321.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-01-13",
-          "percent_color": 0.18
-        },
-        {
-          "sku_key": "51533009",
-          "gender": "F",
-          "style_id": "3173268",
-          "product_url": "http://shop.nordstrom.com/s/lanvin-lovely-leopold-deerskin-bi-colored-satchel/3173268",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6444027.jpg",
-          "description": "Handbag",
-          "subclass_id": "257",
-          "class_id": "9",
-          "age_group": "A",
-          "purchase_date": "2012-02-25",
-          "percent_color": 0.16
-        },
-        {
-          "sku_key": "34213046",
-          "gender": "F",
-          "style_id": "3147303",
-          "product_url": "http://shop.nordstrom.com/s/foot-petals-tip-toes-3-for-18/3147303",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6289233.jpg",
-          "description": "Socks",
-          "subclass_id": "254",
-          "class_id": "8",
-          "age_group": "A",
-          "purchase_date": "2010-03-07",
-          "percent_color": 1.0
-        },
-        {
-          "sku_key": "55996661",
-          "gender": "F",
-          "style_id": "3438182",
-          "product_url": "http://shop.nordstrom.com/s/marni-double-band-wedge-sandal/3438182",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_7570715.jpg",
-          "description": "Sandals/Slides",
-          "subclass_id": "299",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2013-04-01",
-          "percent_color": 0.19
-        },
-        {
-          "sku_key": "50906754",
-          "gender": "F",
-          "style_id": "3147762",
-          "product_url": "http://shop.nordstrom.com/s/leith-slouchy-silk-twill-pants/3147762",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6418193.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2011-05-06",
-          "percent_color": 1.01
-        },
-        {
-          "sku_key": "51345253",
-          "gender": "F",
-          "style_id": "3166133",
-          "product_url": "http://shop.nordstrom.com/s/myne-silk-dress/3166133",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6508894.jpg",
-          "description": "Dress",
-          "subclass_id": "40",
-          "class_id": "1",
-          "age_group": "A",
-          "purchase_date": "2011-06-13",
-          "percent_color": 0.85
-        },
-        {
-          "sku_key": "51345253",
-          "gender": "F",
-          "style_id": "3166133",
-          "product_url": "http://shop.nordstrom.com/s/myne-silk-dress/3166133",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6508894.jpg",
-          "description": "Dress",
-          "subclass_id": "40",
-          "class_id": "1",
-          "age_group": "A",
-          "purchase_date": "2011-06-13",
-          "percent_color": 0.16
-        },
-        {
-          "sku_key": "56507377",
-          "gender": "F",
-          "style_id": "3477149",
-          "product_url": "http://shop.nordstrom.com/s/valentino-rockstud-t-strap-pump/3477149",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_7917465.jpg",
-          "description": "Pumps",
-          "subclass_id": "223",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2013-06-28",
-          "percent_color": 0.96
-        },
-        {
-          "sku_key": "51533009",
-          "gender": "F",
-          "style_id": "3173268",
-          "product_url": "http://shop.nordstrom.com/s/lanvin-lovely-leopold-deerskin-bi-colored-satchel/3173268",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6444027.jpg",
-          "description": "Handbag",
-          "subclass_id": "257",
-          "class_id": "9",
-          "age_group": "A",
-          "purchase_date": "2011-08-11",
-          "percent_color": 0.16
-        }
-      ],
-      "count": 10,
-      "color_per_purchaes": 0.2703,
-      "weighted_count": 4.84,
-      "percent": 27.027
-    },
-    {
-      "name": "Gainsboro",
-      "color_id": "75",
-      "rgb": [
-        220,
-        220,
-        220
-      ],
-      "rgb_string": "rgb(220,220,220)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "51533009",
-          "gender": "F",
-          "style_id": "3173268",
-          "product_url": "http://shop.nordstrom.com/s/lanvin-lovely-leopold-deerskin-bi-colored-satchel/3173268",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6444027.jpg",
-          "description": "Handbag",
-          "subclass_id": "257",
-          "class_id": "9",
-          "age_group": "A",
-          "purchase_date": "2012-02-25",
-          "percent_color": 0.52
-        },
-        {
-          "sku_key": "51105854",
-          "gender": "F",
-          "style_id": "3155565",
-          "product_url": "http://shop.nordstrom.com/s/diane-von-furstenberg-new-syrah-blouse/3155565",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6379367.jpg",
-          "description": "Blouse/Top",
-          "subclass_id": "216",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2011-06-02",
-          "percent_color": 1.0
-        },
-        {
-          "sku_key": "51533009",
-          "gender": "F",
-          "style_id": "3173268",
-          "product_url": "http://shop.nordstrom.com/s/lanvin-lovely-leopold-deerskin-bi-colored-satchel/3173268",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6444027.jpg",
-          "description": "Handbag",
-          "subclass_id": "257",
-          "class_id": "9",
-          "age_group": "A",
-          "purchase_date": "2011-08-11",
-          "percent_color": 0.52
-        },
-        {
-          "sku_key": "49490308",
-          "gender": "F",
-          "style_id": "3112890",
-          "product_url": "http://shop.nordstrom.com/s/chloe-buckle-strap-leather-boot/3112890",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_6124558.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2010-08-13",
-          "percent_color": 0.16
-        },
-        {
-          "sku_key": "49666847",
-          "gender": "F",
-          "style_id": "3113009",
-          "product_url": "http://shop.nordstrom.com/s/chloe-buckle-strap-leather-boot/3113009",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6142473.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2010-08-02",
-          "percent_color": 0.16
-        },
-        {
-          "sku_key": "49314344",
-          "gender": "F",
-          "style_id": "3105568",
-          "product_url": "http://shop.nordstrom.com/s/haute-hippie-convertible-pleated-silk-blouse/3105568",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_6173595.jpg",
-          "description": "Blouse/Top",
-          "subclass_id": "216",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2010-09-28",
-          "percent_color": 0.87
-        }
-      ],
-      "count": 6,
-      "color_per_purchaes": 0.1622,
-      "weighted_count": 3.2300000000000004,
-      "percent": 16.2162
-    },
-    {
-      "name": "White Smoke",
-      "color_id": "170",
-      "rgb": [
-        245,
-        245,
-        245
-      ],
-      "rgb_string": "rgb(245,245,245)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "49706456",
-          "gender": "F",
-          "style_id": "3113780",
-          "product_url": "http://shop.nordstrom.com/s/3-1-phillip-lim-baroque-multi-t-strap-pump/3113780",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_6173222.jpg",
-          "description": "Pumps",
-          "subclass_id": "223",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2010-10-23",
-          "percent_color": 0.34
-        },
-        {
-          "sku_key": "51533009",
-          "gender": "F",
-          "style_id": "3173268",
-          "product_url": "http://shop.nordstrom.com/s/lanvin-lovely-leopold-deerskin-bi-colored-satchel/3173268",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6444027.jpg",
-          "description": "Handbag",
-          "subclass_id": "257",
-          "class_id": "9",
-          "age_group": "A",
-          "purchase_date": "2012-02-25",
-          "percent_color": 0.21
-        },
-        {
-          "sku_key": "51533009",
-          "gender": "F",
-          "style_id": "3173268",
-          "product_url": "http://shop.nordstrom.com/s/lanvin-lovely-leopold-deerskin-bi-colored-satchel/3173268",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6444027.jpg",
-          "description": "Handbag",
-          "subclass_id": "257",
-          "class_id": "9",
-          "age_group": "A",
-          "purchase_date": "2011-08-11",
-          "percent_color": 0.21
-        },
-        {
-          "sku_key": "49490308",
-          "gender": "F",
-          "style_id": "3112890",
-          "product_url": "http://shop.nordstrom.com/s/chloe-buckle-strap-leather-boot/3112890",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_6124558.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2010-08-13",
-          "percent_color": 0.42
-        },
-        {
-          "sku_key": "49666847",
-          "gender": "F",
-          "style_id": "3113009",
-          "product_url": "http://shop.nordstrom.com/s/chloe-buckle-strap-leather-boot/3113009",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6142473.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2010-08-02",
-          "percent_color": 0.41
-        }
-      ],
-      "count": 5,
-      "color_per_purchaes": 0.1351,
-      "weighted_count": 1.5899999999999999,
-      "percent": 13.5135
-    },
-    {
-      "name": "Light Gray",
-      "color_id": "98",
-      "rgb": [
-        211,
-        211,
-        211
-      ],
-      "rgb_string": "rgb(211,211,211)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "49706456",
-          "gender": "F",
-          "style_id": "3113780",
-          "product_url": "http://shop.nordstrom.com/s/3-1-phillip-lim-baroque-multi-t-strap-pump/3113780",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_6173222.jpg",
-          "description": "Pumps",
-          "subclass_id": "223",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2010-10-23",
-          "percent_color": 0.18
-        },
-        {
-          "sku_key": "43086412",
-          "gender": "F",
-          "style_id": "3108504",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-small-pyramid-stud-earrings/3108504",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_6105865.jpg",
-          "description": "Earring",
-          "subclass_id": "239",
-          "class_id": "6",
-          "age_group": "A",
-          "purchase_date": "2011-05-18",
-          "percent_color": 0.18
-        },
-        {
-          "sku_key": "49490308",
-          "gender": "F",
-          "style_id": "3112890",
-          "product_url": "http://shop.nordstrom.com/s/chloe-buckle-strap-leather-boot/3112890",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_6124558.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2010-08-13",
-          "percent_color": 0.16
-        },
-        {
-          "sku_key": "49666847",
-          "gender": "F",
-          "style_id": "3113009",
-          "product_url": "http://shop.nordstrom.com/s/chloe-buckle-strap-leather-boot/3113009",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6142473.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2010-08-02",
-          "percent_color": 0.17
-        }
-      ],
-      "count": 4,
-      "color_per_purchaes": 0.1081,
-      "weighted_count": 0.6900000000000001,
-      "percent": 10.8108
-    },
-    {
-      "name": "Linen",
-      "color_id": "109",
-      "rgb": [
-        250,
-        240,
-        230
-      ],
-      "rgb_string": "rgb(250,240,230)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "51325303",
-          "gender": "F",
-          "style_id": "3165062",
-          "product_url": "http://shop.nordstrom.com/s/james-perse-linen-shirtdress/3165062",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6437493.jpg",
-          "description": "Dress",
-          "subclass_id": "40",
-          "class_id": "1",
-          "age_group": "A",
-          "purchase_date": "2011-06-02",
-          "percent_color": 0.93
-        },
-        {
-          "sku_key": "51325303",
-          "gender": "F",
-          "style_id": "3165062",
-          "product_url": "http://shop.nordstrom.com/s/james-perse-linen-shirtdress/3165062",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6437493.jpg",
-          "description": "Dress",
-          "subclass_id": "40",
-          "class_id": "1",
-          "age_group": "A",
-          "purchase_date": "2011-06-02",
-          "percent_color": 0.93
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0541,
-      "weighted_count": 1.86,
-      "percent": 5.4054
-    },
-    {
       "name": "Tan",
       "color_id": "162",
       "rgb": [
@@ -479,52 +43,9 @@
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0541,
+      "color_per_purchaes": 0.3333,
       "weighted_count": 1.13,
-      "percent": 5.4054
-    },
-    {
-      "name": "Silver",
-      "color_id": "155",
-      "rgb": [
-        192,
-        192,
-        192
-      ],
-      "rgb_string": "rgb(192,192,192)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "43086412",
-          "gender": "F",
-          "style_id": "3108504",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-small-pyramid-stud-earrings/3108504",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_6105865.jpg",
-          "description": "Earring",
-          "subclass_id": "239",
-          "class_id": "6",
-          "age_group": "A",
-          "purchase_date": "2011-05-18",
-          "percent_color": 0.48
-        },
-        {
-          "sku_key": "49490308",
-          "gender": "F",
-          "style_id": "3112890",
-          "product_url": "http://shop.nordstrom.com/s/chloe-buckle-strap-leather-boot/3112890",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_6124558.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2010-08-13",
-          "percent_color": 0.15
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0541,
-      "weighted_count": 0.63,
-      "percent": 5.4054
+      "percent": 33.3333
     },
     {
       "name": "Dark Slate Blue",
@@ -565,69 +86,9 @@
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0541,
+      "color_per_purchaes": 0.3333,
       "weighted_count": 1.96,
-      "percent": 5.4054
-    },
-    {
-      "name": "Gray",
-      "color_id": "79",
-      "rgb": [
-        190,
-        190,
-        190
-      ],
-      "rgb_string": "rgb(190,190,190)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "43086412",
-          "gender": "F",
-          "style_id": "3108504",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-small-pyramid-stud-earrings/3108504",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_6105865.jpg",
-          "description": "Earring",
-          "subclass_id": "239",
-          "class_id": "6",
-          "age_group": "A",
-          "purchase_date": "2011-05-18",
-          "percent_color": 0.15
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.027,
-      "weighted_count": 0.15,
-      "percent": 2.7027
-    },
-    {
-      "name": "Tomato",
-      "color_id": "165",
-      "rgb": [
-        255,
-        99,
-        71
-      ],
-      "rgb_string": "rgb(255,99,71)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "54425914",
-          "gender": "F",
-          "style_id": "3323943",
-          "product_url": "http://shop.nordstrom.com/s/marni-crop-straight-leg-organza-pants/3323943",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_7016171.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-01-15",
-          "percent_color": 0.53
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.027,
-      "weighted_count": 0.53,
-      "percent": 2.7027
+      "percent": 33.3333
     },
     {
       "name": "Red",
@@ -655,41 +116,43 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.027,
+      "color_per_purchaes": 0.1667,
       "weighted_count": 0.48,
-      "percent": 2.7027
+      "percent": 16.6667
     },
     {
-      "name": "NA",
-      "color_id": "NA",
+      "name": "Tomato",
+      "color_id": "165",
       "rgb": [
-        0
+        255,
+        99,
+        71
       ],
-      "rgb_string": "rgb(0)",
+      "rgb_string": "rgb(255,99,71)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "57430059",
+          "sku_key": "54425914",
           "gender": "F",
-          "style_id": "3546896",
-          "product_url": "http://shop.nordstrom.com/s/marni-forest-print-radzimir-crop-pants/3546896",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/19/_8078859.jpg",
+          "style_id": "3323943",
+          "product_url": "http://shop.nordstrom.com/s/marni-crop-straight-leg-organza-pants/3323943",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_7016171.jpg",
           "description": "Pant",
           "subclass_id": "63",
           "class_id": "23",
           "age_group": "A",
-          "purchase_date": "2013-12-08",
-          "percent_color": 0.0
+          "purchase_date": "2013-01-15",
+          "percent_color": 0.53
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.027,
-      "weighted_count": 0.0,
-      "percent": 2.7027
+      "color_per_purchaes": 0.1667,
+      "weighted_count": 0.53,
+      "percent": 16.6667
     }
   ],
-  "start_date": "2010-03-07",
-  "end_date": "2013-12-08",
-  "total_purchases": 37,
-  "total_colors": 12
+  "start_date": "2011-05-18",
+  "end_date": "2013-01-15",
+  "total_purchases": 6,
+  "total_colors": 4
 }

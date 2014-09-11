@@ -5,1099 +5,6 @@
   "gender": "F",
   "colors": [
     {
-      "name": "Black",
-      "color_id": "173",
-      "rgb": [
-        46,
-        45,
-        50
-      ],
-      "rgb_string": "rgb(46,45,50)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "56687084",
-          "gender": "F",
-          "style_id": "3491447",
-          "product_url": "http://shop.nordstrom.com/s/zella-prism-jacket/3491447",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_8389653.jpg",
-          "description": "Jacket",
-          "subclass_id": "293",
-          "class_id": "272",
-          "age_group": "A",
-          "purchase_date": "2014-01-02",
-          "percent_color": 1.01
-        },
-        {
-          "sku_key": "54855393",
-          "gender": "F",
-          "style_id": "3353129",
-          "product_url": "http://shop.nordstrom.com/s/vince-wool-leather-jacket/3353129",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_7138620.jpg",
-          "description": "Jacket",
-          "subclass_id": "293",
-          "class_id": "272",
-          "age_group": "A",
-          "purchase_date": "2013-01-26",
-          "percent_color": 0.23
-        },
-        {
-          "sku_key": "54855393",
-          "gender": "F",
-          "style_id": "3353129",
-          "product_url": "http://shop.nordstrom.com/s/vince-wool-leather-jacket/3353129",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_7138620.jpg",
-          "description": "Jacket",
-          "subclass_id": "293",
-          "class_id": "272",
-          "age_group": "A",
-          "purchase_date": "2013-01-26",
-          "percent_color": 0.73
-        },
-        {
-          "sku_key": "52405573",
-          "gender": "F",
-          "style_id": "3213403",
-          "product_url": "http://shop.nordstrom.com/s/zella-live-in-knee-shorts/3213403",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_8054697.jpg",
-          "description": "Short",
-          "subclass_id": "74",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2012-01-30",
-          "percent_color": 0.99
-        },
-        {
-          "sku_key": "49833684",
-          "gender": "F",
-          "style_id": "3117098",
-          "product_url": "http://shop.nordstrom.com/s/robert-rodriguez-ponte-knit-skirt/3117098",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6143580.jpg",
-          "description": "Skirt",
-          "subclass_id": "85",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2010-11-17",
-          "percent_color": 0.26
-        },
-        {
-          "sku_key": "49833684",
-          "gender": "F",
-          "style_id": "3117098",
-          "product_url": "http://shop.nordstrom.com/s/robert-rodriguez-ponte-knit-skirt/3117098",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6143580.jpg",
-          "description": "Skirt",
-          "subclass_id": "85",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2010-11-17",
-          "percent_color": 0.75
-        },
-        {
-          "sku_key": "55981016",
-          "gender": "F",
-          "style_id": "3437382",
-          "product_url": "http://shop.nordstrom.com/s/trouve-high-low-silk-top/3437382",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_8061003.jpg",
-          "description": "T-shirt/Tee",
-          "subclass_id": "205",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-12-14",
-          "percent_color": 1.01
-        },
-        {
-          "sku_key": "56079812",
-          "gender": "F",
-          "style_id": "3445297",
-          "product_url": "http://shop.nordstrom.com/s/zella-double-dare-leggings/3445297",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_8095132.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-12-28",
-          "percent_color": 0.31
-        },
-        {
-          "sku_key": "56079812",
-          "gender": "F",
-          "style_id": "3445297",
-          "product_url": "http://shop.nordstrom.com/s/zella-double-dare-leggings/3445297",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_8095132.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-12-29",
-          "percent_color": 0.31
-        },
-        {
-          "sku_key": "47669200",
-          "gender": "F",
-          "style_id": "3059164",
-          "product_url": "http://shop.nordstrom.com/s/zella-live-in-capri-leggings/3059164",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6111660.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2011-02-18",
-          "percent_color": 0.95
-        },
-        {
-          "sku_key": "45551609",
-          "gender": "F",
-          "style_id": "3027325",
-          "product_url": "http://shop.nordstrom.com/s/stuart-weitzman-oporto-bootie/3027325",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_5843522.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2010-02-20",
-          "percent_color": 0.24
-        },
-        {
-          "sku_key": "45551609",
-          "gender": "F",
-          "style_id": "3027325",
-          "product_url": "http://shop.nordstrom.com/s/stuart-weitzman-oporto-bootie/3027325",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_5843522.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2010-02-20",
-          "percent_color": 0.24
-        },
-        {
-          "sku_key": "55216364",
-          "gender": "F",
-          "style_id": "3379437",
-          "product_url": "http://shop.nordstrom.com/s/theyskens-theory-bilke-franky-woven-shirt/3379437",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_7242452.jpg",
-          "description": "Blouse/Top",
-          "subclass_id": "216",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-02-05",
-          "percent_color": 1.01
-        },
-        {
-          "sku_key": "55108418",
-          "gender": "F",
-          "style_id": "3371143",
-          "product_url": "http://shop.nordstrom.com/s/elie-tahari-exclusive-for-nordstrom-yarden-sweater/3371143",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_7250711.jpg",
-          "description": "Sweater",
-          "subclass_id": "194",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-02-05",
-          "percent_color": 0.79
-        },
-        {
-          "sku_key": "50628162",
-          "gender": "F",
-          "style_id": "3138017",
-          "product_url": "http://shop.nordstrom.com/s/alexander-wang-silk-twill-handkerchief-skirt/3138017",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_6262497.jpg",
-          "description": "Skirt",
-          "subclass_id": "85",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2011-04-28",
-          "percent_color": 1.01
-        },
-        {
-          "sku_key": "46253584",
-          "gender": "F",
-          "style_id": "3036690",
-          "product_url": "http://shop.nordstrom.com/s/milly-pebbled-boucle-jacket/3036690",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_5847521.jpg",
-          "description": "Jacket",
-          "subclass_id": "293",
-          "class_id": "272",
-          "age_group": "A",
-          "purchase_date": "2010-04-09",
-          "percent_color": 0.72
-        },
-        {
-          "sku_key": "46253584",
-          "gender": "F",
-          "style_id": "3036690",
-          "product_url": "http://shop.nordstrom.com/s/milly-pebbled-boucle-jacket/3036690",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_5847521.jpg",
-          "description": "Jacket",
-          "subclass_id": "293",
-          "class_id": "272",
-          "age_group": "A",
-          "purchase_date": "2010-04-09",
-          "percent_color": 0.3
-        },
-        {
-          "sku_key": "50115891",
-          "gender": "F",
-          "style_id": "3124738",
-          "product_url": "http://shop.nordstrom.com/s/zella-super-soft-hoodie/3124738",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_6328969.jpg",
-          "description": "Sweatshirt/Hoody/Zipfront",
-          "subclass_id": "268",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2011-05-25",
-          "percent_color": 1.01
-        },
-        {
-          "sku_key": "53006285",
-          "gender": "F",
-          "style_id": "3244665",
-          "product_url": "http://shop.nordstrom.com/s/zella-ruched-jacket/3244665",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6936554.jpg",
-          "description": "Jacket",
-          "subclass_id": "293",
-          "class_id": "272",
-          "age_group": "A",
-          "purchase_date": "2012-05-05",
-          "percent_color": 1.01
-        },
-        {
-          "sku_key": "55586757",
-          "gender": "F",
-          "style_id": "3406946",
-          "product_url": "http://shop.nordstrom.com/s/hinge-battenburg-lace-top/3406946",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_7871321.jpg",
-          "description": "Blouse/Top",
-          "subclass_id": "216",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-05-09",
-          "percent_color": 0.6
-        },
-        {
-          "sku_key": "55767855",
-          "gender": "F",
-          "style_id": "3420791",
-          "product_url": "http://shop.nordstrom.com/s/trouve-tuxedo-jacket/3420791",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_7932995.jpg",
-          "description": "Blazer",
-          "subclass_id": "274",
-          "class_id": "272",
-          "age_group": "A",
-          "purchase_date": "2013-05-09",
-          "percent_color": 1.01
-        },
-        {
-          "sku_key": "55586757",
-          "gender": "F",
-          "style_id": "3406946",
-          "product_url": "http://shop.nordstrom.com/s/hinge-battenburg-lace-top/3406946",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_7871321.jpg",
-          "description": "Blouse/Top",
-          "subclass_id": "216",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-05-09",
-          "percent_color": 0.41
-        },
-        {
-          "sku_key": "55259419",
-          "gender": "F",
-          "style_id": "3382340",
-          "product_url": "http://shop.nordstrom.com/s/trouve-mixed-media-blouse/3382340",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_7992074.jpg",
-          "description": "Blouse/Top",
-          "subclass_id": "216",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-05-09",
-          "percent_color": 0.75
-        },
-        {
-          "sku_key": "55259419",
-          "gender": "F",
-          "style_id": "3382340",
-          "product_url": "http://shop.nordstrom.com/s/trouve-mixed-media-blouse/3382340",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_7992074.jpg",
-          "description": "Blouse/Top",
-          "subclass_id": "216",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-05-09",
-          "percent_color": 0.26
-        },
-        {
-          "sku_key": "56112989",
-          "gender": "F",
-          "style_id": "3447530",
-          "product_url": "http://shop.nordstrom.com/s/remain-studded-miniskirt/3447530",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_7810384.jpg",
-          "description": "Skirt",
-          "subclass_id": "85",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-05-09",
-          "percent_color": 1.01
-        },
-        {
-          "sku_key": "51245004",
-          "gender": "F",
-          "style_id": "3161579",
-          "product_url": "http://shop.nordstrom.com/s/amanda-uprichard-crystal-dress/3161579",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6907673.jpg",
-          "description": "Dress",
-          "subclass_id": "40",
-          "class_id": "1",
-          "age_group": "A",
-          "purchase_date": "2011-06-14",
-          "percent_color": 0.88
-        },
-        {
-          "sku_key": "51245004",
-          "gender": "F",
-          "style_id": "3161579",
-          "product_url": "http://shop.nordstrom.com/s/amanda-uprichard-crystal-dress/3161579",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6907673.jpg",
-          "description": "Dress",
-          "subclass_id": "40",
-          "class_id": "1",
-          "age_group": "A",
-          "purchase_date": "2011-06-21",
-          "percent_color": 0.88
-        },
-        {
-          "sku_key": "51072865",
-          "gender": "F",
-          "style_id": "3157121",
-          "product_url": "http://shop.nordstrom.com/s/elizabeth-and-james-gemma-blazer/3157121",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_6316368.jpg",
-          "description": "Blazer",
-          "subclass_id": "274",
-          "class_id": "272",
-          "age_group": "A",
-          "purchase_date": "2011-06-30",
-          "percent_color": 1.01
-        },
-        {
-          "sku_key": "48660221",
-          "gender": "F",
-          "style_id": "3093700",
-          "product_url": "http://shop.nordstrom.com/s/cole-haan-air-talia-bootie/3093700",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6161161.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2010-07-21",
-          "percent_color": 0.22
-        },
-        {
-          "sku_key": "51409244",
-          "gender": "F",
-          "style_id": "3170564",
-          "product_url": "http://shop.nordstrom.com/s/halogen-pleat-neck-silk-top/3170564",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_6500235.jpg",
-          "description": "Tank/Cami/Shell",
-          "subclass_id": "269",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2011-07-21",
-          "percent_color": 0.32
-        },
-        {
-          "sku_key": "51409259",
-          "gender": "F",
-          "style_id": "3170564",
-          "product_url": "http://shop.nordstrom.com/s/halogen-pleat-neck-silk-top/3170564",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_6500235.jpg",
-          "description": "Tank/Cami/Shell",
-          "subclass_id": "269",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2011-07-21",
-          "percent_color": 0.45
-        },
-        {
-          "sku_key": "51409259",
-          "gender": "F",
-          "style_id": "3170564",
-          "product_url": "http://shop.nordstrom.com/s/halogen-pleat-neck-silk-top/3170564",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_6500235.jpg",
-          "description": "Tank/Cami/Shell",
-          "subclass_id": "269",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2011-07-21",
-          "percent_color": 0.56
-        },
-        {
-          "sku_key": "53476646",
-          "gender": "F",
-          "style_id": "3268433",
-          "product_url": "http://shop.nordstrom.com/s/indigo-by-clarks-heath-harrier-bootie/3268433",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_6910528.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2012-07-21",
-          "percent_color": 0.2
-        },
-        {
-          "sku_key": "53864475",
-          "gender": "F",
-          "style_id": "3289545",
-          "product_url": "http://shop.nordstrom.com/s/naya-virtue-boot/3289545",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_7038025.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2012-07-21",
-          "percent_color": 0.25
-        },
-        {
-          "sku_key": "53864475",
-          "gender": "F",
-          "style_id": "3289545",
-          "product_url": "http://shop.nordstrom.com/s/naya-virtue-boot/3289545",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_7038025.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2012-07-21",
-          "percent_color": 0.66
-        },
-        {
-          "sku_key": "53476646",
-          "gender": "F",
-          "style_id": "3268433",
-          "product_url": "http://shop.nordstrom.com/s/indigo-by-clarks-heath-harrier-bootie/3268433",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_6910528.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2012-07-21",
-          "percent_color": 0.81
-        },
-        {
-          "sku_key": "51186170",
-          "gender": "F",
-          "style_id": "3170224",
-          "product_url": "http://shop.nordstrom.com/s/stuart-weitzman-wrapitup-bootie/3170224",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6511327.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2011-07-28",
-          "percent_color": 0.45
-        },
-        {
-          "sku_key": "51186170",
-          "gender": "F",
-          "style_id": "3170224",
-          "product_url": "http://shop.nordstrom.com/s/stuart-weitzman-wrapitup-bootie/3170224",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6511327.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2011-07-28",
-          "percent_color": 0.56
-        },
-        {
-          "sku_key": "48660221",
-          "gender": "F",
-          "style_id": "3093700",
-          "product_url": "http://shop.nordstrom.com/s/cole-haan-air-talia-bootie/3093700",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6161161.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2010-07-29",
-          "percent_color": 0.22
-        },
-        {
-          "sku_key": "57118149",
-          "gender": "F",
-          "style_id": "3522264",
-          "product_url": "http://shop.nordstrom.com/s/rag-bone-lillian-lace-up-back-blazer/3522264",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_7974924.jpg",
-          "description": "Blazer",
-          "subclass_id": "274",
-          "class_id": "272",
-          "age_group": "A",
-          "purchase_date": "2013-07-08",
-          "percent_color": 1.01
-        },
-        {
-          "sku_key": "51072865",
-          "gender": "F",
-          "style_id": "3157121",
-          "product_url": "http://shop.nordstrom.com/s/elizabeth-and-james-gemma-blazer/3157121",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/8/_6316368.jpg",
-          "description": "Blazer",
-          "subclass_id": "274",
-          "class_id": "272",
-          "age_group": "A",
-          "purchase_date": "2011-07-09",
-          "percent_color": 1.01
-        },
-        {
-          "sku_key": "50204758",
-          "gender": "F",
-          "style_id": "3128530",
-          "product_url": "http://shop.nordstrom.com/s/mizuno-wave-creation-12-running-shoe-women/3128530",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6503947.jpg",
-          "description": "Athletic",
-          "subclass_id": "224",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2011-08-17",
-          "percent_color": 0.17
-        },
-        {
-          "sku_key": "51114718",
-          "gender": "F",
-          "style_id": "3155846",
-          "product_url": "http://shop.nordstrom.com/s/robert-rodriguez-banded-knit-dress/3155846",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_6405555.jpg",
-          "description": "Dress",
-          "subclass_id": "40",
-          "class_id": "1",
-          "age_group": "A",
-          "purchase_date": "2011-08-03",
-          "percent_color": 1.0
-        },
-        {
-          "sku_key": "49091727",
-          "gender": "F",
-          "style_id": "3101323",
-          "product_url": "http://shop.nordstrom.com/s/tory-burch-rina-bootie/3101323",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6152476.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2010-08-06",
-          "percent_color": 0.18
-        },
-        {
-          "sku_key": "49091727",
-          "gender": "F",
-          "style_id": "3101323",
-          "product_url": "http://shop.nordstrom.com/s/tory-burch-rina-bootie/3101323",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6152476.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2010-08-06",
-          "percent_color": 0.18
-        },
-        {
-          "sku_key": "51438702",
-          "gender": "F",
-          "style_id": "3196618",
-          "product_url": "http://shop.nordstrom.com/s/zella-water-bottle/3196618",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/5/_6519145.jpg",
-          "description": "SportsEquipment",
-          "subclass_id": "329",
-          "class_id": "22",
-          "age_group": "A",
-          "purchase_date": "2013-09-14",
-          "percent_color": 0.4
-        },
-        {
-          "sku_key": "51679521",
-          "gender": "F",
-          "style_id": "3179499",
-          "product_url": "http://shop.nordstrom.com/s/badgley-mischka-croc-embossed-leather-flap-satchel/3179499",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_6489206.jpg",
-          "description": "Handbag",
-          "subclass_id": "257",
-          "class_id": "9",
-          "age_group": "A",
-          "purchase_date": "2011-09-30",
-          "percent_color": 0.16
-        },
-        {
-          "sku_key": "54430758",
-          "gender": "F",
-          "style_id": "3324072",
-          "product_url": "http://shop.nordstrom.com/s/diane-von-furstenberg-stretch-wool-jersey-shift-dress/3324072",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_7212335.jpg",
-          "description": "Dress",
-          "subclass_id": "40",
-          "class_id": "1",
-          "age_group": "A",
-          "purchase_date": "2012-09-04",
-          "percent_color": 1.0
-        }
-      ],
-      "count": 48,
-      "color_per_purchaes": 0.3529,
-      "weighted_count": 29.499999999999993,
-      "percent": 35.2941
-    },
-    {
-      "name": "White Smoke",
-      "color_id": "170",
-      "rgb": [
-        245,
-        245,
-        245
-      ],
-      "rgb_string": "rgb(245,245,245)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "52489229",
-          "gender": "F",
-          "style_id": "3215753",
-          "product_url": "http://shop.nordstrom.com/s/coach-madison-patent-maggie/3215753",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6615620.jpg",
-          "description": "Handbag",
-          "subclass_id": "257",
-          "class_id": "9",
-          "age_group": "A",
-          "purchase_date": "2011-12-11",
-          "percent_color": 0.26
-        },
-        {
-          "sku_key": "45551609",
-          "gender": "F",
-          "style_id": "3027325",
-          "product_url": "http://shop.nordstrom.com/s/stuart-weitzman-oporto-bootie/3027325",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_5843522.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2010-02-20",
-          "percent_color": 0.68
-        },
-        {
-          "sku_key": "45551609",
-          "gender": "F",
-          "style_id": "3027325",
-          "product_url": "http://shop.nordstrom.com/s/stuart-weitzman-oporto-bootie/3027325",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_5843522.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2010-02-20",
-          "percent_color": 0.68
-        },
-        {
-          "sku_key": "53423152",
-          "gender": "F",
-          "style_id": "3026763",
-          "product_url": "http://shop.nordstrom.com/s/kate-spade-new-york-colored-stone-stud-earrings/3026763",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_5997229.jpg",
-          "description": "Earring",
-          "subclass_id": "239",
-          "class_id": "6",
-          "age_group": "A",
-          "purchase_date": "2012-02-04",
-          "percent_color": 0.24
-        },
-        {
-          "sku_key": "53423152",
-          "gender": "F",
-          "style_id": "3026763",
-          "product_url": "http://shop.nordstrom.com/s/kate-spade-new-york-colored-stone-stud-earrings/3026763",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_5997229.jpg",
-          "description": "Earring",
-          "subclass_id": "239",
-          "class_id": "6",
-          "age_group": "A",
-          "purchase_date": "2012-02-04",
-          "percent_color": 0.24
-        },
-        {
-          "sku_key": "51827036",
-          "gender": "F",
-          "style_id": "3185232",
-          "product_url": "http://shop.nordstrom.com/s/lanvin-lizard-embossed-leather-pump/3185232",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6436334.jpg",
-          "description": "Pumps",
-          "subclass_id": "223",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2012-03-24",
-          "percent_color": 0.64
-        },
-        {
-          "sku_key": "35866000",
-          "gender": "F",
-          "style_id": "2826973",
-          "product_url": "http://shop.nordstrom.com/s/chanel-le-vernis-nail-colour/2826973",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_8644954.jpg",
-          "description": "NailColor",
-          "subclass_id": "337",
-          "class_id": "24",
-          "age_group": "A",
-          "purchase_date": "2009-04-23",
-          "percent_color": 0.47
-        },
-        {
-          "sku_key": "35866000",
-          "gender": "F",
-          "style_id": "2826973",
-          "product_url": "http://shop.nordstrom.com/s/chanel-le-vernis-nail-colour/2826973",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_8644954.jpg",
-          "description": "NailColor",
-          "subclass_id": "337",
-          "class_id": "24",
-          "age_group": "A",
-          "purchase_date": "2009-04-23",
-          "percent_color": 0.47
-        },
-        {
-          "sku_key": "48742481",
-          "gender": "F",
-          "style_id": "3093700",
-          "product_url": "http://shop.nordstrom.com/s/cole-haan-air-talia-bootie/3093700",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6161161.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2010-07-21",
-          "percent_color": 0.74
-        },
-        {
-          "sku_key": "48660221",
-          "gender": "F",
-          "style_id": "3093700",
-          "product_url": "http://shop.nordstrom.com/s/cole-haan-air-talia-bootie/3093700",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6161161.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2010-07-21",
-          "percent_color": 0.72
-        },
-        {
-          "sku_key": "48660221",
-          "gender": "F",
-          "style_id": "3093700",
-          "product_url": "http://shop.nordstrom.com/s/cole-haan-air-talia-bootie/3093700",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/1/_6161161.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2010-07-29",
-          "percent_color": 0.72
-        },
-        {
-          "sku_key": "34183279",
-          "gender": "F",
-          "style_id": "2949263",
-          "product_url": "http://shop.nordstrom.com/s/foot-petals-heavenly-heelz/2949263",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_5449592.jpg",
-          "description": "Socks",
-          "subclass_id": "254",
-          "class_id": "8",
-          "age_group": "A",
-          "purchase_date": "2008-07-31",
-          "percent_color": 0.58
-        },
-        {
-          "sku_key": "49091727",
-          "gender": "F",
-          "style_id": "3101323",
-          "product_url": "http://shop.nordstrom.com/s/tory-burch-rina-bootie/3101323",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6152476.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2010-08-06",
-          "percent_color": 0.31
-        },
-        {
-          "sku_key": "49091727",
-          "gender": "F",
-          "style_id": "3101323",
-          "product_url": "http://shop.nordstrom.com/s/tory-burch-rina-bootie/3101323",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6152476.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2010-08-06",
-          "percent_color": 0.31
-        },
-        {
-          "sku_key": "51679521",
-          "gender": "F",
-          "style_id": "3179499",
-          "product_url": "http://shop.nordstrom.com/s/badgley-mischka-croc-embossed-leather-flap-satchel/3179499",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_6489206.jpg",
-          "description": "Handbag",
-          "subclass_id": "257",
-          "class_id": "9",
-          "age_group": "A",
-          "purchase_date": "2011-09-30",
-          "percent_color": 0.71
-        }
-      ],
-      "count": 15,
-      "color_per_purchaes": 0.1103,
-      "weighted_count": 7.769999999999999,
-      "percent": 11.0294
-    },
-    {
-      "name": "NA",
-      "color_id": "NA",
-      "rgb": [
-        0
-      ],
-      "rgb_string": "rgb(0)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "49055565",
-          "gender": "F",
-          "style_id": "3100611",
-          "product_url": "http://shop.nordstrom.com/s/philosophy-celebrate-dreams-lemon-grass-body-lotion-nordstrom-exclusive-15-value/3100611",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_6071606.jpg",
-          "description": "Hand&Body",
-          "subclass_id": "114",
-          "class_id": "26",
-          "age_group": "A",
-          "purchase_date": "2010-11-19",
-          "percent_color": 0.0
-        },
-        {
-          "sku_key": "49055565",
-          "gender": "F",
-          "style_id": "3100611",
-          "product_url": "http://shop.nordstrom.com/s/philosophy-celebrate-dreams-lemon-grass-body-lotion-nordstrom-exclusive-15-value/3100611",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_6071606.jpg",
-          "description": "Hand&Body",
-          "subclass_id": "114",
-          "class_id": "26",
-          "age_group": "A",
-          "purchase_date": "2010-11-19",
-          "percent_color": 0.0
-        },
-        {
-          "sku_key": "49055565",
-          "gender": "F",
-          "style_id": "3100611",
-          "product_url": "http://shop.nordstrom.com/s/philosophy-celebrate-dreams-lemon-grass-body-lotion-nordstrom-exclusive-15-value/3100611",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_6071606.jpg",
-          "description": "Hand&Body",
-          "subclass_id": "114",
-          "class_id": "26",
-          "age_group": "A",
-          "purchase_date": "2010-11-20",
-          "percent_color": 0.0
-        },
-        {
-          "sku_key": "49055565",
-          "gender": "F",
-          "style_id": "3100611",
-          "product_url": "http://shop.nordstrom.com/s/philosophy-celebrate-dreams-lemon-grass-body-lotion-nordstrom-exclusive-15-value/3100611",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_6071606.jpg",
-          "description": "Hand&Body",
-          "subclass_id": "114",
-          "class_id": "26",
-          "age_group": "A",
-          "purchase_date": "2010-11-20",
-          "percent_color": 0.0
-        },
-        {
-          "sku_key": "52823066",
-          "gender": "F",
-          "style_id": "3233719",
-          "product_url": "http://shop.nordstrom.com/s/clinique-gift-with-purchase/3233719",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_6605406.jpg",
-          "description": "Giftw/Purchase",
-          "subclass_id": "296",
-          "class_id": "261",
-          "age_group": "A",
-          "purchase_date": "2011-11-05",
-          "percent_color": 0.0
-        },
-        {
-          "sku_key": "52823066",
-          "gender": "F",
-          "style_id": "3233719",
-          "product_url": "http://shop.nordstrom.com/s/clinique-gift-with-purchase/3233719",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/6/_6605406.jpg",
-          "description": "Giftw/Purchase",
-          "subclass_id": "296",
-          "class_id": "261",
-          "age_group": "A",
-          "purchase_date": "2011-11-05",
-          "percent_color": 0.0
-        },
-        {
-          "sku_key": "50544626",
-          "gender": "F",
-          "style_id": "3134864",
-          "product_url": "http://shop.nordstrom.com/s/estee-lauder-glamour-is-golden-purchase-with-purchase-340-value/3134864",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/10/_6227390.jpg",
-          "description": "GiftSet(BEAUTYONLY)",
-          "subclass_id": "307",
-          "class_id": "261",
-          "age_group": "A",
-          "purchase_date": "2010-12-10",
-          "percent_color": 0.0
-        },
-        {
-          "sku_key": "50544626",
-          "gender": "F",
-          "style_id": "3134864",
-          "product_url": "http://shop.nordstrom.com/s/estee-lauder-glamour-is-golden-purchase-with-purchase-340-value/3134864",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/10/_6227390.jpg",
-          "description": "GiftSet(BEAUTYONLY)",
-          "subclass_id": "307",
-          "class_id": "261",
-          "age_group": "A",
-          "purchase_date": "2010-12-10",
-          "percent_color": 0.0
-        },
-        {
-          "sku_key": "12357018",
-          "gender": "F",
-          "style_id": "2805233",
-          "product_url": "http://shop.nordstrom.com/s/stila-2-under-eye-concealer-brush-short-handle/2805233",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_38011.jpg",
-          "description": "Makeupapplication",
-          "subclass_id": "122",
-          "class_id": "28",
-          "age_group": "A",
-          "purchase_date": "2008-09-25",
-          "percent_color": 0.0
-        },
-        {
-          "sku_key": "12357049",
-          "gender": "F",
-          "style_id": "2805238",
-          "product_url": "http://shop.nordstrom.com/s/stila-4-precision-eyeliner-brush-short-handle/2805238",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_38016.jpg",
-          "description": "Makeupapplication",
-          "subclass_id": "122",
-          "class_id": "28",
-          "age_group": "A",
-          "purchase_date": "2008-09-25",
-          "percent_color": 0.0
-        },
-        {
-          "sku_key": "53760508",
-          "gender": "F",
-          "style_id": "3285012",
-          "product_url": "http://shop.nordstrom.com/s/alexis-bittar-miss-havisham-crystal-encrusted-spear-earrings/3285012",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6905154.jpg",
-          "description": "Earring",
-          "subclass_id": "239",
-          "class_id": "6",
-          "age_group": "A",
-          "purchase_date": "2012-09-08",
-          "percent_color": 0.0
-        }
-      ],
-      "count": 11,
-      "color_per_purchaes": 0.0809,
-      "weighted_count": 0.0,
-      "percent": 8.0882
-    },
-    {
-      "name": "Gainsboro",
-      "color_id": "75",
-      "rgb": [
-        220,
-        220,
-        220
-      ],
-      "rgb_string": "rgb(220,220,220)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "57440786",
-          "gender": "F",
-          "style_id": "3547950",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-chunky-link-collar-necklace/3547950",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_8082369.jpg",
-          "description": "Necklace",
-          "subclass_id": "240",
-          "class_id": "6",
-          "age_group": "A",
-          "purchase_date": "2014-01-11",
-          "percent_color": 0.15
-        },
-        {
-          "sku_key": "55775750",
-          "gender": "F",
-          "style_id": "3421336",
-          "product_url": "http://shop.nordstrom.com/s/nordstrom-sand-dollar-linear-earrings/3421336",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_7508215.jpg",
-          "description": "Earring",
-          "subclass_id": "239",
-          "class_id": "6",
-          "age_group": "A",
-          "purchase_date": "2012-12-22",
-          "percent_color": 0.15
-        },
-        {
-          "sku_key": "53423152",
-          "gender": "F",
-          "style_id": "3026763",
-          "product_url": "http://shop.nordstrom.com/s/kate-spade-new-york-colored-stone-stud-earrings/3026763",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_5997229.jpg",
-          "description": "Earring",
-          "subclass_id": "239",
-          "class_id": "6",
-          "age_group": "A",
-          "purchase_date": "2012-02-04",
-          "percent_color": 0.23
-        },
-        {
-          "sku_key": "53423152",
-          "gender": "F",
-          "style_id": "3026763",
-          "product_url": "http://shop.nordstrom.com/s/kate-spade-new-york-colored-stone-stud-earrings/3026763",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/9/_5997229.jpg",
-          "description": "Earring",
-          "subclass_id": "239",
-          "class_id": "6",
-          "age_group": "A",
-          "purchase_date": "2012-02-04",
-          "percent_color": 0.23
-        },
-        {
-          "sku_key": "51084217",
-          "gender": "F",
-          "style_id": "3155401",
-          "product_url": "http://shop.nordstrom.com/s/alexis-bittar-lucite-dewdrop-earrings/3155401",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_7886383.jpg",
-          "description": "Earring",
-          "subclass_id": "239",
-          "class_id": "6",
-          "age_group": "A",
-          "purchase_date": "2011-06-29",
-          "percent_color": 0.17
-        }
-      ],
-      "count": 5,
-      "color_per_purchaes": 0.0368,
-      "weighted_count": 0.93,
-      "percent": 3.6765
-    },
-    {
       "name": "Maroon",
       "color_id": "112",
       "rgb": [
@@ -1162,78 +69,9 @@
         }
       ],
       "count": 4,
-      "color_per_purchaes": 0.0294,
+      "color_per_purchaes": 0.0952,
       "weighted_count": 1.9,
-      "percent": 2.9412
-    },
-    {
-      "name": "Light Gray",
-      "color_id": "98",
-      "rgb": [
-        211,
-        211,
-        211
-      ],
-      "rgb_string": "rgb(211,211,211)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "49091727",
-          "gender": "F",
-          "style_id": "3101323",
-          "product_url": "http://shop.nordstrom.com/s/tory-burch-rina-bootie/3101323",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6152476.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2010-08-06",
-          "percent_color": 0.16
-        },
-        {
-          "sku_key": "49091727",
-          "gender": "F",
-          "style_id": "3101323",
-          "product_url": "http://shop.nordstrom.com/s/tory-burch-rina-bootie/3101323",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_6152476.jpg",
-          "description": "Boots",
-          "subclass_id": "219",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2010-08-06",
-          "percent_color": 0.16
-        },
-        {
-          "sku_key": "51262109",
-          "gender": "F",
-          "style_id": "3162339",
-          "product_url": "http://shop.nordstrom.com/s/edun-twisted-silk-miniskirt/3162339",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_6412044.jpg",
-          "description": "Skirt",
-          "subclass_id": "85",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2011-09-10",
-          "percent_color": 0.16
-        },
-        {
-          "sku_key": "51262109",
-          "gender": "F",
-          "style_id": "3162339",
-          "product_url": "http://shop.nordstrom.com/s/edun-twisted-silk-miniskirt/3162339",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_6412044.jpg",
-          "description": "Skirt",
-          "subclass_id": "85",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2011-09-17",
-          "percent_color": 0.16
-        }
-      ],
-      "count": 4,
-      "color_per_purchaes": 0.0294,
-      "weighted_count": 0.64,
-      "percent": 2.9412
+      "percent": 9.5238
     },
     {
       "name": "Brown",
@@ -1287,65 +125,9 @@
         }
       ],
       "count": 3,
-      "color_per_purchaes": 0.0221,
+      "color_per_purchaes": 0.0714,
       "weighted_count": 2.5300000000000002,
-      "percent": 2.2059
-    },
-    {
-      "name": "Tomato",
-      "color_id": "165",
-      "rgb": [
-        255,
-        99,
-        71
-      ],
-      "rgb_string": "rgb(255,99,71)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "53260074",
-          "gender": "F",
-          "style_id": "3262369",
-          "product_url": "http://shop.nordstrom.com/s/gibson-linen-blazer/3262369",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6791093.jpg",
-          "description": "Blazer",
-          "subclass_id": "274",
-          "class_id": "272",
-          "age_group": "A",
-          "purchase_date": "2012-03-24",
-          "percent_color": 1.01
-        },
-        {
-          "sku_key": "51092865",
-          "gender": "F",
-          "style_id": "3155232",
-          "product_url": "http://shop.nordstrom.com/s/kate-spade-new-york-aubrey-wrap-dress/3155232",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6338143.jpg",
-          "description": "Dress",
-          "subclass_id": "40",
-          "class_id": "1",
-          "age_group": "A",
-          "purchase_date": "2011-06-14",
-          "percent_color": 0.31
-        },
-        {
-          "sku_key": "51092865",
-          "gender": "F",
-          "style_id": "3155232",
-          "product_url": "http://shop.nordstrom.com/s/kate-spade-new-york-aubrey-wrap-dress/3155232",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6338143.jpg",
-          "description": "Dress",
-          "subclass_id": "40",
-          "class_id": "1",
-          "age_group": "A",
-          "purchase_date": "2011-06-21",
-          "percent_color": 0.31
-        }
-      ],
-      "count": 3,
-      "color_per_purchaes": 0.0221,
-      "weighted_count": 1.6300000000000001,
-      "percent": 2.2059
+      "percent": 7.1429
     },
     {
       "name": "Khaki",
@@ -1399,280 +181,65 @@
         }
       ],
       "count": 3,
-      "color_per_purchaes": 0.0221,
+      "color_per_purchaes": 0.0714,
       "weighted_count": 1.8599999999999999,
-      "percent": 2.2059
+      "percent": 7.1429
     },
     {
-      "name": "Dim Gray",
-      "color_id": "69",
+      "name": "Tomato",
+      "color_id": "165",
       "rgb": [
-        105,
-        105,
-        105
+        255,
+        99,
+        71
       ],
-      "rgb_string": "rgb(105,105,105)",
+      "rgb_string": "rgb(255,99,71)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "56079812",
+          "sku_key": "53260074",
           "gender": "F",
-          "style_id": "3445297",
-          "product_url": "http://shop.nordstrom.com/s/zella-double-dare-leggings/3445297",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_8095132.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
+          "style_id": "3262369",
+          "product_url": "http://shop.nordstrom.com/s/gibson-linen-blazer/3262369",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6791093.jpg",
+          "description": "Blazer",
+          "subclass_id": "274",
+          "class_id": "272",
           "age_group": "A",
-          "purchase_date": "2013-12-28",
-          "percent_color": 0.3
-        },
-        {
-          "sku_key": "56079812",
-          "gender": "F",
-          "style_id": "3445297",
-          "product_url": "http://shop.nordstrom.com/s/zella-double-dare-leggings/3445297",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/12/_8095132.jpg",
-          "description": "Pant",
-          "subclass_id": "63",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2013-12-29",
-          "percent_color": 0.3
-        },
-        {
-          "sku_key": "50204758",
-          "gender": "F",
-          "style_id": "3128530",
-          "product_url": "http://shop.nordstrom.com/s/mizuno-wave-creation-12-running-shoe-women/3128530",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/7/_6503947.jpg",
-          "description": "Athletic",
-          "subclass_id": "224",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2011-08-17",
-          "percent_color": 0.16
-        }
-      ],
-      "count": 3,
-      "color_per_purchaes": 0.0221,
-      "weighted_count": 0.76,
-      "percent": 2.2059
-    },
-    {
-      "name": "Dark Gray",
-      "color_id": "53",
-      "rgb": [
-        169,
-        169,
-        169
-      ],
-      "rgb_string": "rgb(169,169,169)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "51262109",
-          "gender": "F",
-          "style_id": "3162339",
-          "product_url": "http://shop.nordstrom.com/s/edun-twisted-silk-miniskirt/3162339",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_6412044.jpg",
-          "description": "Skirt",
-          "subclass_id": "85",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2011-09-10",
-          "percent_color": 0.23
-        },
-        {
-          "sku_key": "51262109",
-          "gender": "F",
-          "style_id": "3162339",
-          "product_url": "http://shop.nordstrom.com/s/edun-twisted-silk-miniskirt/3162339",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_6412044.jpg",
-          "description": "Skirt",
-          "subclass_id": "85",
-          "class_id": "23",
-          "age_group": "A",
-          "purchase_date": "2011-09-17",
-          "percent_color": 0.23
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0147,
-      "weighted_count": 0.46,
-      "percent": 1.4706
-    },
-    {
-      "name": "Royal Blue",
-      "color_id": "148",
-      "rgb": [
-        65,
-        105,
-        225
-      ],
-      "rgb_string": "rgb(65,105,225)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "57086294",
-          "gender": "F",
-          "style_id": "3520322",
-          "product_url": "http://shop.nordstrom.com/s/zella-zip-up-nylon-tote/3520322",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_8351923.jpg",
-          "description": "Gymbag",
-          "subclass_id": "44",
-          "class_id": "9",
-          "age_group": "A",
-          "purchase_date": "2014-01-08",
-          "percent_color": 0.9
-        },
-        {
-          "sku_key": "56227534",
-          "gender": "F",
-          "style_id": "3382340",
-          "product_url": "http://shop.nordstrom.com/s/trouve-mixed-media-blouse/3382340",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_7992074.jpg",
-          "description": "Blouse/Top",
-          "subclass_id": "216",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-08-17",
+          "purchase_date": "2012-03-24",
           "percent_color": 1.01
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0147,
-      "weighted_count": 1.9100000000000001,
-      "percent": 1.4706
-    },
-    {
-      "name": "Yellow",
-      "color_id": "171",
-      "rgb": [
-        255,
-        255,
-        0
-      ],
-      "rgb_string": "rgb(255,255,0)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "55975221",
-          "gender": "F",
-          "style_id": "3437624",
-          "product_url": "http://shop.nordstrom.com/s/halogen-sheer-stripe-sweater/3437624",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7706997.jpg",
-          "description": "Sweater",
-          "subclass_id": "194",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-08-31",
-          "percent_color": 0.18
         },
         {
-          "sku_key": "55287706",
+          "sku_key": "51092865",
           "gender": "F",
-          "style_id": "3384908",
-          "product_url": "http://shop.nordstrom.com/s/zella-per-fection-running-jacket/3384908",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_7885491.jpg",
-          "description": "ShortJacket/Coat",
-          "subclass_id": "283",
-          "class_id": "3",
+          "style_id": "3155232",
+          "product_url": "http://shop.nordstrom.com/s/kate-spade-new-york-aubrey-wrap-dress/3155232",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6338143.jpg",
+          "description": "Dress",
+          "subclass_id": "40",
+          "class_id": "1",
           "age_group": "A",
-          "purchase_date": "2013-09-14",
+          "purchase_date": "2011-06-14",
+          "percent_color": 0.31
+        },
+        {
+          "sku_key": "51092865",
+          "gender": "F",
+          "style_id": "3155232",
+          "product_url": "http://shop.nordstrom.com/s/kate-spade-new-york-aubrey-wrap-dress/3155232",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_6338143.jpg",
+          "description": "Dress",
+          "subclass_id": "40",
+          "class_id": "1",
+          "age_group": "A",
+          "purchase_date": "2011-06-21",
           "percent_color": 0.31
         }
       ],
-      "count": 2,
-      "color_per_purchaes": 0.0147,
-      "weighted_count": 0.49,
-      "percent": 1.4706
-    },
-    {
-      "name": "Tan",
-      "color_id": "162",
-      "rgb": [
-        210,
-        180,
-        140
-      ],
-      "rgb_string": "rgb(210,180,140)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "51166929",
-          "gender": "F",
-          "style_id": "3155660",
-          "product_url": "http://shop.nordstrom.com/s/maggie-ward-cowl-neck-dress/3155660",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6359413.jpg",
-          "description": "Dress",
-          "subclass_id": "40",
-          "class_id": "1",
-          "age_group": "A",
-          "purchase_date": "2011-07-01",
-          "percent_color": 0.91
-        },
-        {
-          "sku_key": "51166929",
-          "gender": "F",
-          "style_id": "3155660",
-          "product_url": "http://shop.nordstrom.com/s/maggie-ward-cowl-neck-dress/3155660",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6359413.jpg",
-          "description": "Dress",
-          "subclass_id": "40",
-          "class_id": "1",
-          "age_group": "A",
-          "purchase_date": "2011-07-09",
-          "percent_color": 0.91
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0147,
-      "weighted_count": 1.82,
-      "percent": 1.4706
-    },
-    {
-      "name": "Burlywood",
-      "color_id": "41",
-      "rgb": [
-        222,
-        184,
-        135
-      ],
-      "rgb_string": "rgb(222,184,135)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "48503410",
-          "gender": "F",
-          "style_id": "3121923",
-          "product_url": "http://shop.nordstrom.com/s/dogeared-karma-boxed-charm-necklace/3121923",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_6356271.jpg",
-          "description": "Necklace",
-          "subclass_id": "240",
-          "class_id": "6",
-          "age_group": "A",
-          "purchase_date": "2012-12-23",
-          "percent_color": 0.19
-        },
-        {
-          "sku_key": "48503410",
-          "gender": "F",
-          "style_id": "3121923",
-          "product_url": "http://shop.nordstrom.com/s/dogeared-karma-boxed-charm-necklace/3121923",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_6356271.jpg",
-          "description": "Necklace",
-          "subclass_id": "240",
-          "class_id": "6",
-          "age_group": "A",
-          "purchase_date": "2012-12-23",
-          "percent_color": 0.19
-        }
-      ],
-      "count": 2,
-      "color_per_purchaes": 0.0147,
-      "weighted_count": 0.38,
-      "percent": 1.4706
+      "count": 3,
+      "color_per_purchaes": 0.0714,
+      "weighted_count": 1.6300000000000001,
+      "percent": 7.1429
     },
     {
       "name": "Salmon",
@@ -1713,52 +280,95 @@
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0147,
+      "color_per_purchaes": 0.0476,
       "weighted_count": 0.4,
-      "percent": 1.4706
+      "percent": 4.7619
     },
     {
-      "name": "Ghost White",
-      "color_id": "76",
+      "name": "Royal Blue",
+      "color_id": "148",
       "rgb": [
-        248,
-        248,
-        255
+        65,
+        105,
+        225
       ],
-      "rgb_string": "rgb(248,248,255)",
+      "rgb_string": "rgb(65,105,225)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "55910675",
+          "sku_key": "57086294",
           "gender": "F",
-          "style_id": "3431890",
-          "product_url": "http://shop.nordstrom.com/s/olivia-moon-linen-jacket/3431890",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_7695642.jpg",
-          "description": "Blazer",
-          "subclass_id": "274",
-          "class_id": "272",
+          "style_id": "3520322",
+          "product_url": "http://shop.nordstrom.com/s/zella-zip-up-nylon-tote/3520322",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_8351923.jpg",
+          "description": "Gymbag",
+          "subclass_id": "44",
+          "class_id": "9",
           "age_group": "A",
-          "purchase_date": "2013-05-09",
-          "percent_color": 0.61
+          "purchase_date": "2014-01-08",
+          "percent_color": 0.9
         },
         {
-          "sku_key": "51084217",
+          "sku_key": "56227534",
           "gender": "F",
-          "style_id": "3155401",
-          "product_url": "http://shop.nordstrom.com/s/alexis-bittar-lucite-dewdrop-earrings/3155401",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/3/_7886383.jpg",
-          "description": "Earring",
-          "subclass_id": "239",
-          "class_id": "6",
+          "style_id": "3382340",
+          "product_url": "http://shop.nordstrom.com/s/trouve-mixed-media-blouse/3382340",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_7992074.jpg",
+          "description": "Blouse/Top",
+          "subclass_id": "216",
+          "class_id": "12",
           "age_group": "A",
-          "purchase_date": "2011-06-29",
-          "percent_color": 0.31
+          "purchase_date": "2013-08-17",
+          "percent_color": 1.01
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0147,
-      "weighted_count": 0.9199999999999999,
-      "percent": 1.4706
+      "color_per_purchaes": 0.0476,
+      "weighted_count": 1.9100000000000001,
+      "percent": 4.7619
+    },
+    {
+      "name": "Tan",
+      "color_id": "162",
+      "rgb": [
+        210,
+        180,
+        140
+      ],
+      "rgb_string": "rgb(210,180,140)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "51166929",
+          "gender": "F",
+          "style_id": "3155660",
+          "product_url": "http://shop.nordstrom.com/s/maggie-ward-cowl-neck-dress/3155660",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6359413.jpg",
+          "description": "Dress",
+          "subclass_id": "40",
+          "class_id": "1",
+          "age_group": "A",
+          "purchase_date": "2011-07-01",
+          "percent_color": 0.91
+        },
+        {
+          "sku_key": "51166929",
+          "gender": "F",
+          "style_id": "3155660",
+          "product_url": "http://shop.nordstrom.com/s/maggie-ward-cowl-neck-dress/3155660",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/13/_6359413.jpg",
+          "description": "Dress",
+          "subclass_id": "40",
+          "class_id": "1",
+          "age_group": "A",
+          "purchase_date": "2011-07-09",
+          "percent_color": 0.91
+        }
+      ],
+      "count": 2,
+      "color_per_purchaes": 0.0476,
+      "weighted_count": 1.82,
+      "percent": 4.7619
     },
     {
       "name": "Slate Gray",
@@ -1799,69 +409,95 @@
         }
       ],
       "count": 2,
-      "color_per_purchaes": 0.0147,
+      "color_per_purchaes": 0.0476,
       "weighted_count": 0.32,
-      "percent": 1.4706
+      "percent": 4.7619
     },
     {
-      "name": "Dark Goldenrod",
-      "color_id": "52",
+      "name": "Burlywood",
+      "color_id": "41",
       "rgb": [
+        222,
         184,
-        134,
-        11
+        135
       ],
-      "rgb_string": "rgb(184,134,11)",
+      "rgb_string": "rgb(222,184,135)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "54617272",
+          "sku_key": "48503410",
           "gender": "F",
-          "style_id": "3335484",
-          "product_url": "http://shop.nordstrom.com/s/marc-by-marc-jacobs-flower-frontal-necklace/3335484",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_7066024.jpg",
+          "style_id": "3121923",
+          "product_url": "http://shop.nordstrom.com/s/dogeared-karma-boxed-charm-necklace/3121923",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_6356271.jpg",
           "description": "Necklace",
           "subclass_id": "240",
           "class_id": "6",
           "age_group": "A",
-          "purchase_date": "2013-01-05",
-          "percent_color": 0.2
+          "purchase_date": "2012-12-23",
+          "percent_color": 0.19
+        },
+        {
+          "sku_key": "48503410",
+          "gender": "F",
+          "style_id": "3121923",
+          "product_url": "http://shop.nordstrom.com/s/dogeared-karma-boxed-charm-necklace/3121923",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_6356271.jpg",
+          "description": "Necklace",
+          "subclass_id": "240",
+          "class_id": "6",
+          "age_group": "A",
+          "purchase_date": "2012-12-23",
+          "percent_color": 0.19
         }
       ],
-      "count": 1,
-      "color_per_purchaes": 0.0074,
-      "weighted_count": 0.2,
-      "percent": 0.7353
+      "count": 2,
+      "color_per_purchaes": 0.0476,
+      "weighted_count": 0.38,
+      "percent": 4.7619
     },
     {
-      "name": "Medium Sea Green",
-      "color_id": "117",
+      "name": "Yellow",
+      "color_id": "171",
       "rgb": [
-        60,
-        179,
-        113
+        255,
+        255,
+        0
       ],
-      "rgb_string": "rgb(60,179,113)",
+      "rgb_string": "rgb(255,255,0)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "54684038",
+          "sku_key": "55975221",
           "gender": "F",
-          "style_id": "3340760",
-          "product_url": "http://shop.nordstrom.com/s/alexis-bittar-elements-siyabona-stone-stud-earrings/3340760",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_7117184.jpg",
-          "description": "Earring",
-          "subclass_id": "239",
-          "class_id": "6",
+          "style_id": "3437624",
+          "product_url": "http://shop.nordstrom.com/s/halogen-sheer-stripe-sweater/3437624",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7706997.jpg",
+          "description": "Sweater",
+          "subclass_id": "194",
+          "class_id": "12",
           "age_group": "A",
-          "purchase_date": "2013-01-05",
-          "percent_color": 0.22
+          "purchase_date": "2013-08-31",
+          "percent_color": 0.18
+        },
+        {
+          "sku_key": "55287706",
+          "gender": "F",
+          "style_id": "3384908",
+          "product_url": "http://shop.nordstrom.com/s/zella-per-fection-running-jacket/3384908",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_7885491.jpg",
+          "description": "ShortJacket/Coat",
+          "subclass_id": "283",
+          "class_id": "3",
+          "age_group": "A",
+          "purchase_date": "2013-09-14",
+          "percent_color": 0.31
         }
       ],
-      "count": 1,
-      "color_per_purchaes": 0.0074,
-      "weighted_count": 0.22,
-      "percent": 0.7353
+      "count": 2,
+      "color_per_purchaes": 0.0476,
+      "weighted_count": 0.49,
+      "percent": 4.7619
     },
     {
       "name": "Indian Red",
@@ -1889,99 +525,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0074,
+      "color_per_purchaes": 0.0238,
       "weighted_count": 0.78,
-      "percent": 0.7353
-    },
-    {
-      "name": "Medium Violet Red",
-      "color_id": "121",
-      "rgb": [
-        199,
-        21,
-        133
-      ],
-      "rgb_string": "rgb(199,21,133)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "54309736",
-          "gender": "F",
-          "style_id": "3315952",
-          "product_url": "http://shop.nordstrom.com/s/trina-turk-cider-jacket/3315952",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_7256196.jpg",
-          "description": "Jacket",
-          "subclass_id": "293",
-          "class_id": "272",
-          "age_group": "A",
-          "purchase_date": "2012-12-07",
-          "percent_color": 0.82
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0074,
-      "weighted_count": 0.82,
-      "percent": 0.7353
-    },
-    {
-      "name": "Deep Pink",
-      "color_id": "67",
-      "rgb": [
-        255,
-        20,
-        147
-      ],
-      "rgb_string": "rgb(255,20,147)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "54309736",
-          "gender": "F",
-          "style_id": "3315952",
-          "product_url": "http://shop.nordstrom.com/s/trina-turk-cider-jacket/3315952",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_7256196.jpg",
-          "description": "Jacket",
-          "subclass_id": "293",
-          "class_id": "272",
-          "age_group": "A",
-          "purchase_date": "2012-12-07",
-          "percent_color": 0.19
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0074,
-      "weighted_count": 0.19,
-      "percent": 0.7353
-    },
-    {
-      "name": "Midnight Blue",
-      "color_id": "122",
-      "rgb": [
-        25,
-        25,
-        112
-      ],
-      "rgb_string": "rgb(25,25,112)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "55108418",
-          "gender": "F",
-          "style_id": "3371143",
-          "product_url": "http://shop.nordstrom.com/s/elie-tahari-exclusive-for-nordstrom-yarden-sweater/3371143",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_7250711.jpg",
-          "description": "Sweater",
-          "subclass_id": "194",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-02-05",
-          "percent_color": 0.17
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0074,
-      "weighted_count": 0.17,
-      "percent": 0.7353
+      "percent": 2.381
     },
     {
       "name": "Crimson",
@@ -2009,159 +555,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0074,
+      "color_per_purchaes": 0.0238,
       "weighted_count": 0.23,
-      "percent": 0.7353
-    },
-    {
-      "name": "Red",
-      "color_id": "146",
-      "rgb": [
-        255,
-        0,
-        0
-      ],
-      "rgb_string": "rgb(255,0,0)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "50983084",
-          "gender": "F",
-          "style_id": "3150135",
-          "product_url": "http://shop.nordstrom.com/s/ted-baker-london-jersey-knit-dress/3150135",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/10/_6323950.jpg",
-          "description": "Dress",
-          "subclass_id": "40",
-          "class_id": "1",
-          "age_group": "A",
-          "purchase_date": "2011-04-22",
-          "percent_color": 1.0
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0074,
-      "weighted_count": 1.0,
-      "percent": 0.7353
-    },
-    {
-      "name": "Teal",
-      "color_id": "163",
-      "rgb": [
-        0,
-        128,
-        128
-      ],
-      "rgb_string": "rgb(0,128,128)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "55241830",
-          "gender": "F",
-          "style_id": "3196523",
-          "product_url": "http://shop.nordstrom.com/s/tods-gommini-driving-moccasin/3196523",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_8182296.jpg",
-          "description": "Flats",
-          "subclass_id": "221",
-          "class_id": "4",
-          "age_group": "A",
-          "purchase_date": "2013-05-28",
-          "percent_color": 0.85
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0074,
-      "weighted_count": 0.85,
-      "percent": 0.7353
-    },
-    {
-      "name": "Dark Magenta",
-      "color_id": "56",
-      "rgb": [
-        139,
-        0,
-        139
-      ],
-      "rgb_string": "rgb(139,0,139)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "53006300",
-          "gender": "F",
-          "style_id": "3244665",
-          "product_url": "http://shop.nordstrom.com/s/zella-ruched-jacket/3244665",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6936554.jpg",
-          "description": "Jacket",
-          "subclass_id": "293",
-          "class_id": "272",
-          "age_group": "A",
-          "purchase_date": "2012-05-07",
-          "percent_color": 0.97
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0074,
-      "weighted_count": 0.97,
-      "percent": 0.7353
-    },
-    {
-      "name": "Azure",
-      "color_id": "33",
-      "rgb": [
-        240,
-        255,
-        255
-      ],
-      "rgb_string": "rgb(240,255,255)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "51132856",
-          "gender": "F",
-          "style_id": "3169630",
-          "product_url": "http://shop.nordstrom.com/s/nunu-designs-square-semiprecious-stud-earrings/3169630",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/18/_6874478.jpg",
-          "description": "Earring",
-          "subclass_id": "239",
-          "class_id": "6",
-          "age_group": "A",
-          "purchase_date": "2012-12-23",
-          "percent_color": 0.29
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0074,
-      "weighted_count": 0.29,
-      "percent": 0.7353
-    },
-    {
-      "name": "Lavender",
-      "color_id": "90",
-      "rgb": [
-        230,
-        230,
-        250
-      ],
-      "rgb_string": "rgb(230,230,250)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "55910675",
-          "gender": "F",
-          "style_id": "3431890",
-          "product_url": "http://shop.nordstrom.com/s/olivia-moon-linen-jacket/3431890",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/2/_7695642.jpg",
-          "description": "Blazer",
-          "subclass_id": "274",
-          "class_id": "272",
-          "age_group": "A",
-          "purchase_date": "2013-05-09",
-          "percent_color": 0.32
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0074,
-      "weighted_count": 0.32,
-      "percent": 0.7353
+      "percent": 2.381
     },
     {
       "name": "Light Blue",
@@ -2189,9 +585,9 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0074,
+      "color_per_purchaes": 0.0238,
       "weighted_count": 0.59,
-      "percent": 0.7353
+      "percent": 2.381
     },
     {
       "name": "Antique White",
@@ -2219,159 +615,219 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0074,
+      "color_per_purchaes": 0.0238,
       "weighted_count": 0.18,
-      "percent": 0.7353
+      "percent": 2.381
     },
     {
-      "name": "Purple",
-      "color_id": "145",
-      "rgb": [
-        127,
-        0,
-        127
-      ],
-      "rgb_string": "rgb(127,0,127)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "51409254",
-          "gender": "F",
-          "style_id": "3170564",
-          "product_url": "http://shop.nordstrom.com/s/halogen-pleat-neck-silk-top/3170564",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_6500235.jpg",
-          "description": "Tank/Cami/Shell",
-          "subclass_id": "269",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2011-07-21",
-          "percent_color": 1.01
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0074,
-      "weighted_count": 1.01,
-      "percent": 0.7353
-    },
-    {
-      "name": "Turquoise",
-      "color_id": "166",
-      "rgb": [
-        64,
-        224,
-        208
-      ],
-      "rgb_string": "rgb(64,224,208)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "55585460",
-          "gender": "F",
-          "style_id": "3382340",
-          "product_url": "http://shop.nordstrom.com/s/trouve-mixed-media-blouse/3382340",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_7992074.jpg",
-          "description": "Blouse/Top",
-          "subclass_id": "216",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-08-17",
-          "percent_color": 0.65
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0074,
-      "weighted_count": 0.65,
-      "percent": 0.7353
-    },
-    {
-      "name": "Medium Aquamarine",
-      "color_id": "113",
-      "rgb": [
-        102,
-        205,
-        170
-      ],
-      "rgb_string": "rgb(102,205,170)",
-      "grayscale": false,
-      "purchases": [
-        {
-          "sku_key": "55585460",
-          "gender": "F",
-          "style_id": "3382340",
-          "product_url": "http://shop.nordstrom.com/s/trouve-mixed-media-blouse/3382340",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_7992074.jpg",
-          "description": "Blouse/Top",
-          "subclass_id": "216",
-          "class_id": "12",
-          "age_group": "A",
-          "purchase_date": "2013-08-17",
-          "percent_color": 0.33
-        }
-      ],
-      "count": 1,
-      "color_per_purchaes": 0.0074,
-      "weighted_count": 0.33,
-      "percent": 0.7353
-    },
-    {
-      "name": "Gold",
-      "color_id": "77",
+      "name": "Deep Pink",
+      "color_id": "67",
       "rgb": [
         255,
-        215,
-        0
+        20,
+        147
       ],
-      "rgb_string": "rgb(255,215,0)",
+      "rgb_string": "rgb(255,20,147)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "55975221",
+          "sku_key": "54309736",
           "gender": "F",
-          "style_id": "3437624",
-          "product_url": "http://shop.nordstrom.com/s/halogen-sheer-stripe-sweater/3437624",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7706997.jpg",
+          "style_id": "3315952",
+          "product_url": "http://shop.nordstrom.com/s/trina-turk-cider-jacket/3315952",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_7256196.jpg",
+          "description": "Jacket",
+          "subclass_id": "293",
+          "class_id": "272",
+          "age_group": "A",
+          "purchase_date": "2012-12-07",
+          "percent_color": 0.19
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0238,
+      "weighted_count": 0.19,
+      "percent": 2.381
+    },
+    {
+      "name": "Midnight Blue",
+      "color_id": "122",
+      "rgb": [
+        25,
+        25,
+        112
+      ],
+      "rgb_string": "rgb(25,25,112)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "55108418",
+          "gender": "F",
+          "style_id": "3371143",
+          "product_url": "http://shop.nordstrom.com/s/elie-tahari-exclusive-for-nordstrom-yarden-sweater/3371143",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/11/_7250711.jpg",
           "description": "Sweater",
           "subclass_id": "194",
           "class_id": "12",
           "age_group": "A",
-          "purchase_date": "2013-08-31",
-          "percent_color": 0.67
+          "purchase_date": "2013-02-05",
+          "percent_color": 0.17
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0074,
-      "weighted_count": 0.67,
-      "percent": 0.7353
+      "color_per_purchaes": 0.0238,
+      "weighted_count": 0.17,
+      "percent": 2.381
     },
     {
-      "name": "Snow",
-      "color_id": "159",
+      "name": "Medium Sea Green",
+      "color_id": "117",
       "rgb": [
-        255,
-        250,
-        250
+        60,
+        179,
+        113
       ],
-      "rgb_string": "rgb(255,250,250)",
+      "rgb_string": "rgb(60,179,113)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "52489229",
+          "sku_key": "54684038",
           "gender": "F",
-          "style_id": "3215753",
-          "product_url": "http://shop.nordstrom.com/s/coach-madison-patent-maggie/3215753",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6615620.jpg",
-          "description": "Handbag",
-          "subclass_id": "257",
-          "class_id": "9",
+          "style_id": "3340760",
+          "product_url": "http://shop.nordstrom.com/s/alexis-bittar-elements-siyabona-stone-stud-earrings/3340760",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_7117184.jpg",
+          "description": "Earring",
+          "subclass_id": "239",
+          "class_id": "6",
           "age_group": "A",
-          "purchase_date": "2011-12-11",
-          "percent_color": 0.26
+          "purchase_date": "2013-01-05",
+          "percent_color": 0.22
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0074,
-      "weighted_count": 0.26,
-      "percent": 0.7353
+      "color_per_purchaes": 0.0238,
+      "weighted_count": 0.22,
+      "percent": 2.381
+    },
+    {
+      "name": "Red",
+      "color_id": "146",
+      "rgb": [
+        255,
+        0,
+        0
+      ],
+      "rgb_string": "rgb(255,0,0)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "50983084",
+          "gender": "F",
+          "style_id": "3150135",
+          "product_url": "http://shop.nordstrom.com/s/ted-baker-london-jersey-knit-dress/3150135",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/10/_6323950.jpg",
+          "description": "Dress",
+          "subclass_id": "40",
+          "class_id": "1",
+          "age_group": "A",
+          "purchase_date": "2011-04-22",
+          "percent_color": 1.0
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0238,
+      "weighted_count": 1.0,
+      "percent": 2.381
+    },
+    {
+      "name": "Teal",
+      "color_id": "163",
+      "rgb": [
+        0,
+        128,
+        128
+      ],
+      "rgb_string": "rgb(0,128,128)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "55241830",
+          "gender": "F",
+          "style_id": "3196523",
+          "product_url": "http://shop.nordstrom.com/s/tods-gommini-driving-moccasin/3196523",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_8182296.jpg",
+          "description": "Flats",
+          "subclass_id": "221",
+          "class_id": "4",
+          "age_group": "A",
+          "purchase_date": "2013-05-28",
+          "percent_color": 0.85
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0238,
+      "weighted_count": 0.85,
+      "percent": 2.381
+    },
+    {
+      "name": "Dark Magenta",
+      "color_id": "56",
+      "rgb": [
+        139,
+        0,
+        139
+      ],
+      "rgb_string": "rgb(139,0,139)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "53006300",
+          "gender": "F",
+          "style_id": "3244665",
+          "product_url": "http://shop.nordstrom.com/s/zella-ruched-jacket/3244665",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_6936554.jpg",
+          "description": "Jacket",
+          "subclass_id": "293",
+          "class_id": "272",
+          "age_group": "A",
+          "purchase_date": "2012-05-07",
+          "percent_color": 0.97
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0238,
+      "weighted_count": 0.97,
+      "percent": 2.381
+    },
+    {
+      "name": "Dark Goldenrod",
+      "color_id": "52",
+      "rgb": [
+        184,
+        134,
+        11
+      ],
+      "rgb_string": "rgb(184,134,11)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "54617272",
+          "gender": "F",
+          "style_id": "3335484",
+          "product_url": "http://shop.nordstrom.com/s/marc-by-marc-jacobs-flower-frontal-necklace/3335484",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/4/_7066024.jpg",
+          "description": "Necklace",
+          "subclass_id": "240",
+          "class_id": "6",
+          "age_group": "A",
+          "purchase_date": "2013-01-05",
+          "percent_color": 0.2
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0238,
+      "weighted_count": 0.2,
+      "percent": 2.381
     },
     {
       "name": "Dark Red",
@@ -2399,43 +855,163 @@
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0074,
+      "color_per_purchaes": 0.0238,
       "weighted_count": 0.67,
-      "percent": 0.7353
+      "percent": 2.381
     },
     {
-      "name": "White",
-      "color_id": "169",
+      "name": "Purple",
+      "color_id": "145",
       "rgb": [
-        255,
-        255,
-        255
+        127,
+        0,
+        127
       ],
-      "rgb_string": "rgb(255,255,255)",
+      "rgb_string": "rgb(127,0,127)",
       "grayscale": false,
       "purchases": [
         {
-          "sku_key": "52489229",
+          "sku_key": "51409254",
           "gender": "F",
-          "style_id": "3215753",
-          "product_url": "http://shop.nordstrom.com/s/coach-madison-patent-maggie/3215753",
-          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/0/_6615620.jpg",
-          "description": "Handbag",
-          "subclass_id": "257",
-          "class_id": "9",
+          "style_id": "3170564",
+          "product_url": "http://shop.nordstrom.com/s/halogen-pleat-neck-silk-top/3170564",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/15/_6500235.jpg",
+          "description": "Tank/Cami/Shell",
+          "subclass_id": "269",
+          "class_id": "12",
           "age_group": "A",
-          "purchase_date": "2011-12-11",
-          "percent_color": 0.26
+          "purchase_date": "2011-07-21",
+          "percent_color": 1.01
         }
       ],
       "count": 1,
-      "color_per_purchaes": 0.0074,
-      "weighted_count": 0.26,
-      "percent": 0.7353
+      "color_per_purchaes": 0.0238,
+      "weighted_count": 1.01,
+      "percent": 2.381
+    },
+    {
+      "name": "Turquoise",
+      "color_id": "166",
+      "rgb": [
+        64,
+        224,
+        208
+      ],
+      "rgb_string": "rgb(64,224,208)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "55585460",
+          "gender": "F",
+          "style_id": "3382340",
+          "product_url": "http://shop.nordstrom.com/s/trouve-mixed-media-blouse/3382340",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_7992074.jpg",
+          "description": "Blouse/Top",
+          "subclass_id": "216",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-08-17",
+          "percent_color": 0.65
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0238,
+      "weighted_count": 0.65,
+      "percent": 2.381
+    },
+    {
+      "name": "Medium Aquamarine",
+      "color_id": "113",
+      "rgb": [
+        102,
+        205,
+        170
+      ],
+      "rgb_string": "rgb(102,205,170)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "55585460",
+          "gender": "F",
+          "style_id": "3382340",
+          "product_url": "http://shop.nordstrom.com/s/trouve-mixed-media-blouse/3382340",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/14/_7992074.jpg",
+          "description": "Blouse/Top",
+          "subclass_id": "216",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-08-17",
+          "percent_color": 0.33
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0238,
+      "weighted_count": 0.33,
+      "percent": 2.381
+    },
+    {
+      "name": "Gold",
+      "color_id": "77",
+      "rgb": [
+        255,
+        215,
+        0
+      ],
+      "rgb_string": "rgb(255,215,0)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "55975221",
+          "gender": "F",
+          "style_id": "3437624",
+          "product_url": "http://shop.nordstrom.com/s/halogen-sheer-stripe-sweater/3437624",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/17/_7706997.jpg",
+          "description": "Sweater",
+          "subclass_id": "194",
+          "class_id": "12",
+          "age_group": "A",
+          "purchase_date": "2013-08-31",
+          "percent_color": 0.67
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0238,
+      "weighted_count": 0.67,
+      "percent": 2.381
+    },
+    {
+      "name": "Medium Violet Red",
+      "color_id": "121",
+      "rgb": [
+        199,
+        21,
+        133
+      ],
+      "rgb_string": "rgb(199,21,133)",
+      "grayscale": false,
+      "purchases": [
+        {
+          "sku_key": "54309736",
+          "gender": "F",
+          "style_id": "3315952",
+          "product_url": "http://shop.nordstrom.com/s/trina-turk-cider-jacket/3315952",
+          "image_url": "http://g.nordstromimage.com/imagegallery/store/product/Large/16/_7256196.jpg",
+          "description": "Jacket",
+          "subclass_id": "293",
+          "class_id": "272",
+          "age_group": "A",
+          "purchase_date": "2012-12-07",
+          "percent_color": 0.82
+        }
+      ],
+      "count": 1,
+      "color_per_purchaes": 0.0238,
+      "weighted_count": 0.82,
+      "percent": 2.381
     }
   ],
-  "start_date": "2008-07-31",
-  "end_date": "2014-01-11",
-  "total_purchases": 136,
-  "total_colors": 39
+  "start_date": "2009-01-05",
+  "end_date": "2014-01-08",
+  "total_purchases": 42,
+  "total_colors": 27
 }
